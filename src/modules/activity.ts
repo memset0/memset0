@@ -29,8 +29,8 @@ async function crawlStarredRepos() {
 			return `
 				* 
 				[${owner} / **${repo}**](https://github.com/${owner}/${repo}) 
-				![](${star_svg_link}) ${stars} 
-				![](${fork_svg_link}) ${forks} 
+				<img src="${star_svg_link}" height="20"/> ${stars} 
+				<img src="${fork_svg_link}" height="20"/> ${forks} 
 			`.replace(/[\t\n]/g, '');
 		})
 		.slice(0, maxLength)

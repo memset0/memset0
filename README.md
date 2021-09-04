@@ -1,4 +1,4 @@
-<!-- auto generated at Sat Sep 04 2021 22:56:14 GMT+0800 (GMT+08:00) -->
+<!-- auto generated at Sat Sep 04 2021 22:58:20 GMT+0800 (China Standard Time) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -6,7 +6,7 @@
 <a href="https://www.zhihu.com/people/memset0"><img src="https://custom-icon-badges.herokuapp.com/badge/-zhihu-06f?logo=zhihu-favicon&style=flat" alt="zhihu"></a>
 <a href="https://space.bilibili.com/76334046"><img src="https://custom-icon-badges.herokuapp.com/badge/-bilibili-fb7299?logo=bilibili-favicon&style=flat" alt="bilibili"></a>
 <a href="https://uoj.ac/user/profile/memset0"><img src="https://custom-icon-badges.herokuapp.com/badge/-UOJ-e7e7e7?logo=uoj&style=flat" alt="uoj"></a>
-<a href="https://codeforces.com/profile/memset0c"><img src="https://custom-icon-badges.herokuapp.com/badge/-Codeforces-0?logo=codeforces&style=flat" alt="codeforces"></a>
+<a href="https://codeforces.com/profile/memset0c"><img src="https://custom-icon-badges.herokuapp.com/badge/-Codeforces-white?logo=codeforces&style=flat" alt="codeforces"></a>
 <a href="https://vjudge.net/user/memset0"><img src="https://custom-icon-badges.herokuapp.com/badge/-VJudge-373a3c?logo=vjudge&style=flat" alt="vjudge"></a>
 
 </p>

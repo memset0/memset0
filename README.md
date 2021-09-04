@@ -1,4 +1,4 @@
-<!-- auto generated at Sat Sep 04 2021 19:29:34 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat Sep 04 2021 19:40:27 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -25,9 +25,9 @@
 * [EtaoinWu / **SuperliminalASL**](https://github.com/EtaoinWu/SuperliminalASL) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)2 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 
 * [DenverCoder1 / **custom-icon-badges**](https://github.com/DenverCoder1/custom-icon-badges) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)17 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)2 
 * [ad-m / **github-push-action**](https://github.com/ad-m/github-push-action) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)675 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)143 
-* [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)8473 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)1410 
+* [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)8473 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)1411 
 * [44670 / **SourceHanSans-Pixel**](https://github.com/44670/SourceHanSans-Pixel) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)154 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)2 
-* [VickScarlet / **lifeRestart**](https://github.com/VickScarlet/lifeRestart) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)3596 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)754 
+* [VickScarlet / **lifeRestart**](https://github.com/VickScarlet/lifeRestart) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)3597 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)755 
 
 </td>
 <td valign="top" width="50%">
@@ -43,17 +43,17 @@
 
 </td>
 </tr>
-<!-- <tr>
+<tr>
 <td valign="top" width="50%">
 
-#### 🌟
+#### 👨‍💻 Followed Users
 
-* [EtaoinWu / **SuperliminalASL**](https://github.com/EtaoinWu/SuperliminalASL) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)2 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 
-* [DenverCoder1 / **custom-icon-badges**](https://github.com/DenverCoder1/custom-icon-badges) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)17 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)2 
-* [ad-m / **github-push-action**](https://github.com/ad-m/github-push-action) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)675 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)143 
-* [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)8473 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)1410 
-* [44670 / **SourceHanSans-Pixel**](https://github.com/44670/SourceHanSans-Pixel) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)154 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)2 
-* [VickScarlet / **lifeRestart**](https://github.com/VickScarlet/lifeRestart) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)3596 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)754 
+* **** <small></small>
+* **** <small></small>
+* **** <small></small>
+* **** <small></small>
+* **** <small></small>
+* **** <small></small>
 
 </td>
 <td valign="top" width="50%">
@@ -68,6 +68,6 @@
 *[**LiSA-紅蓮華（ROCK_2027 remix）**](https://music.163.com/#/song?id=1460137406) - ROCK_2027
 
 </td>
-</tr> -->
+</tr>
 
 </table>

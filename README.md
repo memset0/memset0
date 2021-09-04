@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 00:50:41 GMT+0800 (GMT+08:00) -->
+<!-- auto generated at Sun Sep 05 2021 01:18:18 GMT+0800 (GMT+08:00) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -22,12 +22,12 @@
 
 #### 🌟 Starred Repos
 
-* [DenverCoder1 / **custom-icon-badges**](https://github.com/DenverCoder1/custom-icon-badges) 17 Stars 2 Forks
-* [ad-m / **github-push-action**](https://github.com/ad-m/github-push-action) 675 Stars 143 Forks
-* [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) 8471 Stars 1410 Forks
-* [44670 / **SourceHanSans-Pixel**](https://github.com/44670/SourceHanSans-Pixel) 152 Stars 2 Forks
-* [VickScarlet / **lifeRestart**](https://github.com/VickScarlet/lifeRestart) 3540 Stars 739 Forks
-* [peterpei1186861238 / **A-Soul-Database**](https://github.com/peterpei1186861238/A-Soul-Database) 92 Stars 12 Forks
+* [DenverCoder1 / **custom-icon-badges**](https://github.com/DenverCoder1/custom-icon-badges) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 17 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 2 
+* [ad-m / **github-push-action**](https://github.com/ad-m/github-push-action) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 675 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 143 
+* [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 8472 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 1410 
+* [44670 / **SourceHanSans-Pixel**](https://github.com/44670/SourceHanSans-Pixel) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 153 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 2 
+* [VickScarlet / **lifeRestart**](https://github.com/VickScarlet/lifeRestart) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 3552 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 744 
+* [peterpei1186861238 / **A-Soul-Database**](https://github.com/peterpei1186861238/A-Soul-Database) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 92 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 12 
 
 </td>
 <td valign="top" width="50%">

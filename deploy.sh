@@ -1,1 +1,1 @@
-NODE_TLS_REJECT_UNAUTHORIZED=0 && git pull && npm start && git add . && git commit -m "upd" && git push
+git pull && NODE_TLS_REJECT_UNAUTHORIZED=0 npm start && git add . && git commit -m "upd" && git push

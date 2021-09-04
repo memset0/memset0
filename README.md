@@ -1,4 +1,4 @@
-<!-- auto generated at Sat Sep 04 2021 18:03:13 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat Sep 04 2021 18:08:45 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -22,24 +22,24 @@
 
 #### 🌟 Starred Repos
 
-* [DenverCoder1 / **custom-icon-badges**](https://github.com/DenverCoder1/custom-icon-badges) <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.png" height="20"/> 17 <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.png" height="20"/> 2 
-* [ad-m / **github-push-action**](https://github.com/ad-m/github-push-action) <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.png" height="20"/> 675 <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.png" height="20"/> 143 
-* [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.png" height="20"/> 8473 <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.png" height="20"/> 1410 
-* [44670 / **SourceHanSans-Pixel**](https://github.com/44670/SourceHanSans-Pixel) <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.png" height="20"/> 153 <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.png" height="20"/> 2 
-* [VickScarlet / **lifeRestart**](https://github.com/VickScarlet/lifeRestart) <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.png" height="20"/> 3571 <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.png" height="20"/> 749 
-* [peterpei1186861238 / **A-Soul-Database**](https://github.com/peterpei1186861238/A-Soul-Database) <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.png" height="20"/> 92 <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.png" height="20"/> 12 
+* [DenverCoder1 / **custom-icon-badges**](https://github.com/DenverCoder1/custom-icon-badges) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 17 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 2 
+* [ad-m / **github-push-action**](https://github.com/ad-m/github-push-action) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 675 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 143 
+* [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 8473 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 1410 
+* [44670 / **SourceHanSans-Pixel**](https://github.com/44670/SourceHanSans-Pixel) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 153 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 2 
+* [VickScarlet / **lifeRestart**](https://github.com/VickScarlet/lifeRestart) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 3571 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 749 
+* [peterpei1186861238 / **A-Soul-Database**](https://github.com/peterpei1186861238/A-Soul-Database) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 92 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 12 
 
 </td>
 <td valign="top" width="50%">
 
 #### ✍️ Recent Blogs
 
-* [「Petrozavodsk Summer 2020」Parity Sort](https://memset0.cn/petrozavodsk2020-summer-day5-c/) -2021-01-21
-* [「集训队作业2020」Old Problem](https://memset0.cn/loj3401/) -2020-12-17
-* [「集训队作业2020」春天，在积雪下结一成形，抽枝发芽](https://memset0.cn/loj3397/) -2020-12-16
-* [「校内模拟20200810B」分身](https://memset0.cn/contest-20200810-b/) -2020-11-24
-* [「校内模拟20201118C」张士超你到底把我家钥匙放在哪了？](https://memset0.cn/contest-20201118-c/) -2020-11-18
-* [博客更新志](https://memset0.cn/about-new-blog/) -2020-11-01
+* [「Petrozavodsk Summer 2020」Parity Sort](https://memset0.cn/petrozavodsk2020-summer-day5-c/) - 2021-01-21
+* [「集训队作业2020」Old Problem](https://memset0.cn/loj3401/) - 2020-12-17
+* [「集训队作业2020」春天，在积雪下结一成形，抽枝发芽](https://memset0.cn/loj3397/) - 2020-12-16
+* [「校内模拟20200810B」分身](https://memset0.cn/contest-20200810-b/) - 2020-11-24
+* [「校内模拟20201118C」张士超你到底把我家钥匙放在哪了？](https://memset0.cn/contest-20201118-c/) - 2020-11-18
+* [博客更新志](https://memset0.cn/about-new-blog/) - 2020-11-01
 
 </td>
 </tr>

@@ -18,3 +18,13 @@ bilibili:
   color: fb7299
   icon: bilibili-favicon
   link: https://space.bilibili.com/76334046
+uoj:
+  text: Universal OJ
+  color: e7e7e7
+  icon: uoj
+  link: https://uoj.ac/user/profile/memset0
+vjudge:
+  text: Virtual Judge
+  color: 373a3c
+  icon: vjudge
+  link: https://vjudge.net/user/memset0

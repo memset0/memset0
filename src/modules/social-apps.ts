@@ -15,7 +15,7 @@ export default function () {
 			.replace('{icon}', args.icon)
 			.replace('{color}', args.color);
 
-		dist += `<a href="${args.link}" target="_blank"><img src="${img_link}" alt="${name}"></a>\n`;
+		dist += `<a href="${args.link}"><img src="${img_link}" alt="${name}"></a>\n`;
 	}
 
 	return dist;

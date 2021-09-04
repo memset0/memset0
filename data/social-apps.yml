@@ -28,11 +28,11 @@ codeforces:
   color: white
   icon: codeforces-32x
   link: https://codeforces.com/profile/memset0c
-uoj:
-  text: UOJ
-  color: white
-  icon: uoj
-  link: https://uoj.ac/user/profile/memset0
+# uoj:
+#   text: UOJ
+#   color: white
+#   icon: uoj
+#   link: https://uoj.ac/user/profile/memset0
 vjudge:
   text: VJudge
   color: 373a3c

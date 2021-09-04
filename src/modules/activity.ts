@@ -48,18 +48,18 @@ async function crawlFollowedUsers() {
 			const $e = $(element).children('div').eq(1);
 
 			let name = $e.children('a').children('span').eq(0).text();
-			let subname = $e.children('a').children('span').eq(1).text();
-			if (!name) { name = subname, subname = ''; }
+			let uid = $e.children('a').children('span').eq(1).text();
+			if (!name) { name = uid, uid = ''; }
 
 			let description = $e.children('div.color-text-secondary').text().trim();
 			if (description.length >= description_max_length) {
 				description = description.slice(0, description_max_length) + '...';
 			}
 
-			console.log('[crawl-followed-users]', name, subname, description);
+			console.log('[crawl-followed-users]', name, uid, description);
 			return `* 
-				**${name}** <small>${subname}</small>
-				${description}
+				[**${name}** <small>${uid}</small>](https://github.com/${uid}/)
+				${description ? ' - ' : ''}${description}
 			`.replace(/[\t\n]/g, '');
 		})
 		.join('\n');

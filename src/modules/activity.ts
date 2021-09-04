@@ -7,10 +7,10 @@ const chineseNumbers = [
 	'一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二'
 ];
 
-// const star_svg_link = 'https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg';
-// const fork_svg_link = 'https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg';
-const star_png_link = 'https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.png';
-const fork_png_link = 'https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.png';
+const star_svg_link = 'https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg';
+const fork_svg_link = 'https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg';
+// const star_png_link = 'https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.png';
+// const fork_png_link = 'https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.png';
 
 async function crawlStarredRepos() {
 	const $ = load((await get('https://github.com/memset0?tab=stars')).text);
@@ -31,8 +31,8 @@ async function crawlStarredRepos() {
 			return `
 				* 
 				[${owner} / **${repo}**](https://github.com/${owner}/${repo}) 
-				<img src="${star_png_link}" height="20"/> ${stars} 
-				<img src="${fork_png_link}" height="20"/> ${forks} 
+				![](${star_svg_link}) ${stars} 
+				![](${fork_svg_link}) ${forks} 
 			`.replace(/[\t\n]/g, '');
 		})
 		.slice(0, maxLength)
@@ -61,7 +61,7 @@ async function crawlRecentBlogs() {
 
 			return `
 				* 
-				[${title}](https://memset0.cn${link}) -
+				[${title}](https://memset0.cn${link}) - 
 				${year}-${month<10?'0':''}${month}-${day<10?'0':''}${day}
 			`.replace(/[\t\n]/g, '');
 		})

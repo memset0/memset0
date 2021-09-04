@@ -1,4 +1,4 @@
-<!-- auto generated at Sat Sep 04 2021 19:49:11 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat Sep 04 2021 19:51:45 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -62,8 +62,8 @@
 
 * [**小年兽**](https://music.163.com/#/song?id=1346758452) - 程嘉敏
 * [**Sweet Stero World**](https://music.163.com/#/song?id=1443947934) - HJLL
-* [**惑星ラビット**](https://music.163.com/#/song?id=419596679) - Yunomi,TORIENA
-* [**玛德琳娜电塔**](https://music.163.com/#/song?id=1412991631) - 純白P,warma
+* [**惑星ラビット**](https://music.163.com/#/song?id=419596679) - Yunomi, TORIENA
+* [**玛德琳娜电塔**](https://music.163.com/#/song?id=1412991631) - 純白P, warma
 * [**Counterattack**](https://music.163.com/#/song?id=565841116) - 平松建治
 * [**LiSA-紅蓮華（ROCK_2027 remix）**](https://music.163.com/#/song?id=1460137406) - ROCK_2027
 

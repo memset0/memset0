@@ -45,14 +45,13 @@ async function crawlFollowedUsers() {
 	return Array.from($('.d-table.table-fixed.col-12.width-full.py-4.border-bottom.color-border-secondary'))
 		.slice(0, max_length)
 		.map((element) => {
-			const $e = $(element);
-			console.log($e);
+			const $e = $(element).children('div').eq(1);
 
 			let name = $e.children('a').children('span').eq(0).text();
 			let subname = $e.children('a').children('span').eq(1).text();
 			if (!name) { name = subname, subname = ''; }
 
-			let description = $e.children('div.color-text-secondary').text();
+			let description = $e.children('div.color-text-secondary').text().trim();
 			if (description.length >= description_max_length) {
 				description = description.slice(0, description_max_length) + '...';
 			}

@@ -26,15 +26,15 @@ async function crawlStarredRepos() {
 			const owner = link.split('/')[1];
 			const repo = link.split('/')[2];
 
-			const stars = $e.find('a.Link--muted').eq(0).text().trim();
-			const forks = $e.find('a.Link--muted').eq(1).text().trim();
+			const stars = $e.find('a.Link--muted').eq(0).text().trim().replace(/\,/g,'');
+			const forks = $e.find('a.Link--muted').eq(1).text().trim().replace(/\,/g,'');
 
 			console.log('[crawl-starred-repos]', owner, repo, stars, forks);
 			return `
 				* 
 				[${owner} / **${repo}**](https://github.com/${owner}/${repo}) 
-				${stars}Star${stars == '1' ? '' : 's'} 
-				${forks}Fork${forks == '1' ? '' : 's'}
+				${stars} Star${stars == '1' ? '' : 's'} 
+				${forks} Fork${forks == '1' ? '' : 's'}
 			`.replace(/[\t\n]/g, '');
 		})
 		.slice(0, maxLength)
@@ -55,16 +55,16 @@ async function crawlRecentBlogs() {
 			const date = $e.children('.else').children('p:first-child').text().trim();
 			const title = $e.children('.else').children('h3').text().trim();
 
-			const year = date.split(' ')[2];
+			const year = parseInt(date.split(' ')[2]);
 			const month = chineseNumbers.findIndex((x) => x == date.split(' ')[0].slice(0, -1)) + 1;
-			const day = date.split(' ')[1].slice(0, -1);
+			const day = parseInt(date.split(' ')[1].slice(0, -1));
 
-			console.log('[crawl-recent-blogs]', index, link, year, month, day);
+			console.log('[crawl-recent-blogs]', title, link, year, month, day);
 
 			return `
 				* 
 				[${title}](https://memset0.cn${link}) -
-				${year}-${month}-${day}
+				${year}-${month<10?'0':''}${month}-${day<10?'0':''}${day}
 			`.replace(/[\t\n]/g, '');
 		})
 		.slice(0, maxLength)
@@ -94,14 +94,14 @@ export default async function () {
 		<tr>
 		<td valign="top" width="50%">
 		
-			**Starred Repos**
+			#### 🌟 Starred Repos
 
 			${data.starredRepos}
 
 		</td>
 		<td valign="top" width="50%">
 		
-			**Recent Blogs**
+			#### ✍️ Recent Blogs
 
 			${data.recentBlogs}
 

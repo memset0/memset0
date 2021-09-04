@@ -6,7 +6,7 @@ import { Render } from './render';
 
 const modules = [
 	'social-app',
-	'recents'
+	'activity'
 ];
 
 const template_file_path = path.join(__dirname, '../README.template.md');

@@ -5,7 +5,7 @@ import { Render } from './render';
 
 
 const modules = [
-	'social-apps',
+	'social-app',
 	'recents'
 ];
 

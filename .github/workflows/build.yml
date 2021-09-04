@@ -21,7 +21,7 @@ jobs:
         run: |
           npm install
       - name: Build
-        run: NODE_TLS_REJECT_UNAUTHORIZED=0 npm start
+        run: NODE_TLS_REJECT_UNAUTHORIZED=0 NETEASE_PHONE=${{ secrets.NETEASE_PHONE }} NETEASE_PASSWORD=${{ secrets.NETEASE_PASSWORD }} npm start
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"

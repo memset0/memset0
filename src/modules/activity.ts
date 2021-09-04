@@ -1,5 +1,5 @@
-import { get } from 'superagent';
 import { load } from 'cheerio';
+import { get, agent } from 'superagent';
 
 const maxLength = 6;
 
@@ -16,26 +16,24 @@ async function crawlStarredRepos() {
 	const $ = load((await get('https://github.com/memset0?tab=stars')).text);
 
 	return Array.from($('.col-12.d-block.width-full.py-4.border-bottom.color-border-secondary'))
-		.map((element, index) => {
-			if (index >= maxLength) return '';
+		.slice(0, maxLength)
+		.map((element) => {
 			const $e = $(element);
 
 			const link = $e.children('.d-inline-block.mb-1').children('h3').children('a').attr('href');
 			const owner = link.split('/')[1];
 			const repo = link.split('/')[2];
 
-			const stars = $e.find('a.Link--muted').eq(0).text().trim().replace(/\,/g,'');
-			const forks = $e.find('a.Link--muted').eq(1).text().trim().replace(/\,/g,'');
+			const stars = $e.find('a.Link--muted').eq(0).text().trim().replace(/\,/g, '');
+			const forks = $e.find('a.Link--muted').eq(1).text().trim().replace(/\,/g, '');
 
 			console.log('[crawl-starred-repos]', owner, repo, stars, forks);
-			return `
-				* 
+			return `* 
 				[${owner} / **${repo}**](https://github.com/${owner}/${repo}) 
-				![](${star_svg_link}) ${stars} 
-				![](${fork_svg_link}) ${forks} 
+				![](${star_svg_link})${stars} 
+				![](${fork_svg_link})${forks} 
 			`.replace(/[\t\n]/g, '');
 		})
-		.slice(0, maxLength)
 		.join('\n');
 }
 
@@ -45,8 +43,8 @@ async function crawlRecentBlogs() {
 	// need set NODE_TLS_REJECT_UNAUTHORIZED=0 sometimes
 
 	return Array.from($('#primary .post'))
-		.map((element, index) => {
-			if (index >= maxLength) return '';
+		.slice(0, maxLength)
+		.map((element) => {
 			const $e = $(element);
 
 			const link = $e.children('a').attr('href');
@@ -59,14 +57,41 @@ async function crawlRecentBlogs() {
 
 			console.log('[crawl-recent-blogs]', title, link, year, month, day);
 
-			return `
-				* 
+			return `* 
 				[${title}](https://memset0.cn${link}) - 
-				${year}-${month<10?'0':''}${month}-${day<10?'0':''}${day}
+				${year}-${month < 10 ? '0' : ''}${month}-${day < 10 ? '0' : ''}${day}
 			`.replace(/[\t\n]/g, '');
 		})
-		.slice(0, maxLength)
 		.join('\n');
+}
+
+
+async function crawlFavoriteMusic() {
+	const api_root = 'https://netease-cloud-music-api-eta-drab.vercel.app/';
+	const id = 6954849908;
+	const phone = process.env.NETEASE_PHONE;
+	const password = process.env.NETEASE_PASSWORD.toLowerCase();
+	// console.log('[crawl-favorite-music]', 'login with', phone, password);
+
+	const session = agent();
+	const tmp = await session.get(api_root + '/login/cellphone').query({ phone, md5_password: password });
+	console.log('[crawl-favorite-music]', 'login status', tmp.body.code);
+	const res = await session.get(api_root + '/playlist/detail').query({ id });
+
+	return res.body.playlist.tracks
+		.slice(0, maxLength)
+		.map((music) => {
+			const id = music.id;
+			const name = music.name;
+			const artist = music.ar.slice(0, 3).map(o => o.name).join(',');
+
+			console.log('[crawl-favorite-music]', id, name, artist);
+
+			return `*
+				[**${name}**](https://music.163.com/#/song?id=${id}) 
+				- ${artist}
+			`.replace(/[\t\n]/g, '');
+		}).join('\n');
 }
 
 
@@ -83,6 +108,7 @@ export default async function () {
 	const data = {
 		starredRepos: crawlStarredRepos,
 		recentBlogs: crawlRecentBlogs,
+		favoriteMusic: crawlFavoriteMusic,
 	};
 
 	const res = await Promise.all(Object.values(data).map(func => new Promise((resolve) => { resolve(safeCall(func)); })));
@@ -105,7 +131,23 @@ export default async function () {
 
 		</td>
 		</tr>
+		<!-- <tr>
+		<td valign="top" width="50%">
+		
+			#### 🌟
+
+			${data.starredRepos}
+
+		</td>
+		<td valign="top" width="50%">
+		
+			#### 🎼 Favorite Music ([163music](https://music.163.com/#/user/home?id=407233351))
+
+			${data.favoriteMusic}
+
+		</td>
+		</tr> -->
 	`.replace(/\t/g, '');
 }
 
-// (async () => { console.log(await crawlRecentBlogs()); })();
+// (async () => { console.log(await crawlFavoriteMusic()); })();

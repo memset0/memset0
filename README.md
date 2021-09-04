@@ -1,8 +1,9 @@
-<!-- auto generated at Sat Sep 04 2021 22:33:22 GMT+0800 (GMT+08:00) -->
+<!-- auto generated at Sat Sep 04 2021 22:38:04 GMT+0800 (GMT+08:00) -->
 
 <p align="center">
   <a href="https://github.com/memset0/memset0/tree/master/static/qq.md"><img src="https://custom-icon-badges.herokuapp.com/badge/-QQ-f00?logo=qq-favicon&style=flat" alt="qq"></a>
 <a href="https://www.zhihu.com/people/memset0"><img src="https://custom-icon-badges.herokuapp.com/badge/-zhihu-06f?logo=zhihu-favicon&style=flat" alt="zhihu"></a>
+<a href="https://space.bilibili.com/76334046"><img src="https://custom-icon-badges.herokuapp.com/badge/-bilibili-fb7299?logo=bilibili-favicon&style=flat" alt="bilibili"></a>
 
 </p>
 

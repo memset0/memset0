@@ -1,7 +1,7 @@
 import { load } from 'cheerio';
 import { get, agent } from 'superagent';
 
-const maxLength = 6;
+const max_length = 6;
 
 const chineseNumbers = [
 	'一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二'
@@ -16,7 +16,7 @@ async function crawlStarredRepos() {
 	const $ = load((await get('https://github.com/memset0?tab=stars')).text);
 
 	return Array.from($('.col-12.d-block.width-full.py-4.border-bottom.color-border-secondary'))
-		.slice(0, maxLength)
+		.slice(0, max_length)
 		.map((element) => {
 			const $e = $(element);
 
@@ -38,12 +38,40 @@ async function crawlStarredRepos() {
 }
 
 
+async function crawlFollowedUsers() {
+	const $ = load((await get('https://github.com/memset0?tab=following')).text);
+	const description_max_length = 30;
+
+	return Array.from($('.d-table.table-fixed.col-12.width-full.py-4.border-bottom.color-border-secondary'))
+		.slice(0, max_length)
+		.map((element) => {
+			const $e = $(element).eq(1);
+
+			let name = $e.children('a').children('span').eq(0).text();
+			let subname = $e.children('a').children('span').eq(1).text();
+			if (!name) { name = subname, subname = ''; }
+
+			let description = $e.children('div.color-text-secondary').text();
+			if (description.length >= description_max_length) {
+				description = description.slice(0, description_max_length) + '...';
+			}
+
+			console.log('[crawl-starred-repos]', name, subname, description);
+			return `* 
+				**${name}** <small>${subname}</small>
+				${description}
+			`.replace(/[\t\n]/g, '');
+		})
+		.join('\n');
+}
+
+
 async function crawlRecentBlogs() {
 	const $ = load((await get('https://memset0.cn/')).text);
 	// need set NODE_TLS_REJECT_UNAUTHORIZED=0 sometimes
 
 	return Array.from($('#primary .post'))
-		.slice(0, maxLength)
+		.slice(0, max_length)
 		.map((element) => {
 			const $e = $(element);
 
@@ -79,7 +107,7 @@ async function crawlFavoriteMusic() {
 	const res = await session.get(api_root + '/playlist/detail').query({ id });
 
 	return res.body.playlist.tracks
-		.slice(0, maxLength)
+		.slice(0, max_length)
 		.map((music) => {
 			const id = music.id;
 			const name = music.name;
@@ -108,6 +136,7 @@ export default async function () {
 	const data = {
 		starredRepos: crawlStarredRepos,
 		recentBlogs: crawlRecentBlogs,
+		followedUsers: crawlFollowedUsers,
 		favoriteMusic: crawlFavoriteMusic,
 	};
 
@@ -131,12 +160,12 @@ export default async function () {
 
 		</td>
 		</tr>
-		<!-- <tr>
+		<tr>
 		<td valign="top" width="50%">
 		
-			#### 🌟
+			#### 👨‍💻 Followed Users
 
-			${data.starredRepos}
+			${data.followedUsers}
 
 		</td>
 		<td valign="top" width="50%">
@@ -146,7 +175,7 @@ export default async function () {
 			${data.favoriteMusic}
 
 		</td>
-		</tr> -->
+		</tr>
 	`.replace(/\t/g, '');
 }
 

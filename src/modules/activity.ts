@@ -45,8 +45,8 @@ async function crawlFollowedUsers() {
 	return Array.from($('.d-table.table-fixed.col-12.width-full.py-4.border-bottom.color-border-secondary'))
 		.slice(0, max_length)
 		.map((element) => {
-			const $e = $(element).eq(1);
-			console.log($e.text());
+			const $e = $(element);
+			console.log($e);
 
 			let name = $e.children('a').children('span').eq(0).text();
 			let subname = $e.children('a').children('span').eq(1).text();

@@ -18,16 +18,16 @@ bilibili:
   color: fb7299
   icon: bilibili-favicon
   link: https://space.bilibili.com/76334046
-uoj:
-  text: UOJ
-  color: e7e7e7
-  icon: uoj
-  link: https://uoj.ac/user/profile/memset0
 codeforces:
   text: Codeforces
   color: white
   icon: codeforces-32x
   link: https://codeforces.com/profile/memset0c
+uoj:
+  text: UOJ
+  color: white
+  icon: uoj
+  link: https://uoj.ac/user/profile/memset0
 vjudge:
   text: VJudge
   color: 373a3c

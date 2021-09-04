@@ -1,0 +1,22 @@
+{
+  "name": "memset0-my-profile",
+  "version": "1.0.0",
+  "description": "Hello, I'm memset0, aka whisperain, a student who prefer to do sth cool.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memset0/memset0.git"
+  },
+  "author": "",
+  "license": "GNU GPLv3",
+  "bugs": {
+    "url": "https://github.com/memset0/memset0/issues"
+  },
+  "homepage": "https://github.com/memset0/memset0#readme",
+  "dependencies": {
+    "@types/node": "^16.7.10"
+  }
+}

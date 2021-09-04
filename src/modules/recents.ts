@@ -1,6 +1,8 @@
 import { get } from 'superagent';
 import { load } from 'cheerio';
 
+const maxLength = 6;
+
 const chineseNumbers = [
 	'一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二'
 ];
@@ -17,6 +19,7 @@ async function crawlStarredRepos() {
 
 	return Array.from($('.col-12.d-block.width-full.py-4.border-bottom.color-border-secondary'))
 		.map((element, index) => {
+			if (index >= maxLength) return '';
 			const $e = $(element);
 
 			const link = $e.children('.d-inline-block.mb-1').children('h3').children('a').attr('href');
@@ -28,9 +31,13 @@ async function crawlStarredRepos() {
 
 			console.log('[crawl-starred-repos]', owner, repo, stars, forks);
 			return `
-				* [${owner} / **${repo}**](https://github.com/${owner}/${repo}) ${starSVG} ${stars} ${forkSVG} ${forks}
+				* 
+				[${owner} / **${repo}**](https://github.com/${owner}/${repo}) 
+				${stars}Star${stars == '1' ? '' : 's'} 
+				${forks}Fork${forks == '1' ? '' : 's'}
 			`.replace(/[\t\n]/g, '');
 		})
+		.slice(0, maxLength)
 		.join('\n');
 }
 
@@ -41,6 +48,7 @@ async function crawlRecentBlogs() {
 
 	return Array.from($('#primary .post'))
 		.map((element, index) => {
+			if (index >= maxLength) return '';
 			const $e = $(element);
 
 			const link = $e.children('a').attr('href');
@@ -54,10 +62,12 @@ async function crawlRecentBlogs() {
 			console.log('[crawl-recent-blogs]', index, link, year, month, day);
 
 			return `
-				* [${title}](https://memset0.cn${link}) - ${year}-${month}-${day}
+				* 
+				[${title}](https://memset0.cn${link}) -
+				${year}-${month}-${day}
 			`.replace(/[\t\n]/g, '');
 		})
-		.slice(0, 6)
+		.slice(0, maxLength)
 		.join('\n');
 }
 
@@ -80,20 +90,18 @@ export default async function () {
 	const res = await Promise.all(Object.values(data).map(func => new Promise((resolve) => { resolve(safeCall(func)); })));
 	res.forEach((res, index) => { data[Object.keys(data)[index]] = res; });
 
-	console.log(data);
-
 	return `
 		<tr>
 		<td valign="top" width="50%">
 		
-			#### Starred Repos
+			**Starred Repos**
 
 			${data.starredRepos}
 
 		</td>
 		<td valign="top" width="50%">
 		
-			#### Recent Blogs
+			**Recent Blogs**
 
 			${data.recentBlogs}
 

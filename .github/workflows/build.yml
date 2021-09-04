@@ -11,6 +11,12 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '14'
+      - name: Cache Dependence
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: npm-${{ hashFiles('package-lock.json') }}
+          restore-keys: npm-
       - name: Install Dependence
         run: |
           npm install

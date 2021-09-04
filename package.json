@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/memset0/memset0#readme",
   "dependencies": {
+    "@types/cheerio": "^0.22.30",
     "@types/node": "^16.7.10",
+    "cheerio": "^1.0.0-rc.10",
+    "superagent": "^6.1.0",
     "yaml": "^1.10.2"
   }
 }

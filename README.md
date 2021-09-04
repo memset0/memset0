@@ -9,6 +9,7 @@ TODO:
 [ ] Tags Cloud: 每个用户可以通过 Github Issue 为标签投票计次，使用 wordcloud 生成词云并自动更新 https://github.com/DoubleGremlin181/DoubleGremlin181。
 [ ] Tags Cloud History: using html5 tag <details>
 [ ] Recent Blog / Commits / Stars: https://github.com/tw93/tw93
+[ ] My Favorite Music Playlists: https://music.163.com/#/user/home?id=407233351
 [ ] Tools' Tag: https://github.com/thmsgbrt / https://github.com/DenverCoder1 / https://custom-icon-badges.herokuapp.com/
 [ ] My Follwers: https://github.com/ouuan
 [ ] Favorite Girls(?): 头像 / 鹿目圆 / 神户小鸟 / 高木同学 / ...

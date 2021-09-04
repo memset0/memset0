@@ -1,5 +1,5 @@
 <p align="center">
-  {{ social-apps }}
+  {{ social-app }}
 </p>
 
 <p align="center">

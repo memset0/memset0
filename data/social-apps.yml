@@ -1,0 +1,15 @@
+qq:
+  text: QQ
+  color: f00
+  icon: qq-favicon
+  link: https://github.com/memset0/memset0/tree/master/static/qq.md
+zhihu:
+  text: zhihu
+  color: 06f
+  icon: zhihu-favicon
+  link: https://www.zhihu.com/people/memset0
+# bilibili:
+#   text: bilibili
+#   color: 000
+#   icon: bilibili-favicon
+#   link: https://space.bilibili.com/76334046

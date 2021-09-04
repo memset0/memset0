@@ -18,6 +18,11 @@ bilibili:
   color: fb7299
   icon: bilibili-favicon
   link: https://space.bilibili.com/76334046
+netease-music:
+  text: Netease Music
+  color: dd001b
+  icon: netease-music
+  link: https://music.163.com/#/user/home?id=407233351
 codeforces:
   text: Codeforces
   color: white

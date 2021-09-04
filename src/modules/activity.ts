@@ -112,7 +112,7 @@ async function crawlFavoriteMusic() {
 		.map((music) => {
 			const id = music.id;
 			const name = music.name;
-			const artist = music.ar.slice(0, 3).map(o => o.name).join(',');
+			const artist = music.ar.slice(0, 3).map(o => o.name).join(', ');
 
 			console.log('[crawl-favorite-music]', id, name, artist);
 

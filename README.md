@@ -1,4 +1,4 @@
-### Hello, my friend! 👋
+ ### Hello, my friend! 👋
 
 I'm [memset0](https://memset0.cn/), aka whisperain, a student who prefer to do sth cool.
 
@@ -14,5 +14,6 @@ TODO:
 [ ] Favorite Girls(?): 头像 / 鹿目圆 / 神户小鸟 / 高木同学 / ...
 [ ] Favorite Tech: https://github.com/MacroPower
 [ ] Favorite Repo: https://github.com/DenverCoder1
+[ ] CodeForces / Atcoder / UOJ / Vjudge Rating
 
 -->

@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 01:18:18 GMT+0800 (GMT+08:00) -->
+<!-- auto generated at Sat Sep 04 2021 18:00:38 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -22,12 +22,12 @@
 
 #### 🌟 Starred Repos
 
-* [DenverCoder1 / **custom-icon-badges**](https://github.com/DenverCoder1/custom-icon-badges) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 17 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 2 
-* [ad-m / **github-push-action**](https://github.com/ad-m/github-push-action) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 675 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 143 
-* [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 8472 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 1410 
-* [44670 / **SourceHanSans-Pixel**](https://github.com/44670/SourceHanSans-Pixel) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 153 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 2 
-* [VickScarlet / **lifeRestart**](https://github.com/VickScarlet/lifeRestart) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 3552 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 744 
-* [peterpei1186861238 / **A-Soul-Database**](https://github.com/peterpei1186861238/A-Soul-Database) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 92 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 12 
+* [DenverCoder1 / **custom-icon-badges**](https://github.com/DenverCoder1/custom-icon-badges) <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg" height="20"/> 17 <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg" height="20"/> 2 
+* [ad-m / **github-push-action**](https://github.com/ad-m/github-push-action) <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg" height="20"/> 675 <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg" height="20"/> 143 
+* [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg" height="20"/> 8473 <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg" height="20"/> 1410 
+* [44670 / **SourceHanSans-Pixel**](https://github.com/44670/SourceHanSans-Pixel) <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg" height="20"/> 153 <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg" height="20"/> 2 
+* [VickScarlet / **lifeRestart**](https://github.com/VickScarlet/lifeRestart) <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg" height="20"/> 3570 <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg" height="20"/> 749 
+* [peterpei1186861238 / **A-Soul-Database**](https://github.com/peterpei1186861238/A-Soul-Database) <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg" height="20"/> 92 <img src="https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg" height="20"/> 12 
 
 </td>
 <td valign="top" width="50%">

@@ -1,3 +1,8 @@
+outlook:
+  text: Outlook
+  color: 0066cc
+  icon: outlook-favicon
+  link: mailto:memset0@outlook.com
 qq:
   text: QQ
   color: f00

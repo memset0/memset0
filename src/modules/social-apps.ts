@@ -1,7 +1,7 @@
 import * as YAML from 'yaml';
 import { loadData } from '../static';
 
-const img_link_template = 'https://custom-icon-badges.herokuapp.com/badge/-{text}-{color}?logo={icon}&style=flat'
+const img_link_template = 'https://custom-icon-badges.herokuapp.com/badge/-{text}-fff?logo={icon}'
 
 export default function () {
 	const data = YAML.parse(loadData('social-apps.yml'));

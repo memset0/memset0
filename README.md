@@ -1,4 +1,4 @@
-<!-- auto generated at Sat Sep 04 2021 19:56:34 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat Sep 04 2021 19:58:58 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -27,7 +27,7 @@
 * [ad-m / **github-push-action**](https://github.com/ad-m/github-push-action) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)675 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)143 
 * [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)8474 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)1411 
 * [44670 / **SourceHanSans-Pixel**](https://github.com/44670/SourceHanSans-Pixel) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)154 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)2 
-* [VickScarlet / **lifeRestart**](https://github.com/VickScarlet/lifeRestart) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)3599 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)755 
+* [VickScarlet / **lifeRestart**](https://github.com/VickScarlet/lifeRestart) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)3599 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)756 
 
 </td>
 <td valign="top" width="50%">
@@ -48,12 +48,12 @@
 
 #### 👨‍💻 Followed Users
 
-* **Coelacanthus** <small>CoelacanthusHex</small>OIer, MtF, Rust, C++, Linux
-* **Heran Yang** <small>HeRaNO</small>Getting along with desperate.
-* **Tian Yunhao** <small>t123yh</small>一条来自成都的咸鱼。
-* **黄巍** <small>RimoChan</small>字节跳动首席吃点心员
-* **xzz** <small>xzz-233</small>
-* **waaadreamer** <small></small>
+* [**Coelacanthus** <small>CoelacanthusHex</small>](https://github.com/CoelacanthusHex/) - OIer, MtF, Rust, C++, Linux
+* [**Heran Yang** <small>HeRaNO</small>](https://github.com/HeRaNO/) - Getting along with desperate.
+* [**Tian Yunhao** <small>t123yh</small>](https://github.com/t123yh/) - 一条来自成都的咸鱼。
+* [**黄巍** <small>RimoChan</small>](https://github.com/RimoChan/) - 字节跳动首席吃点心员
+* [**xzz** <small>xzz-233</small>](https://github.com/xzz-233/)
+* [**waaadreamer** <small></small>](https://github.com//)
 
 </td>
 <td valign="top" width="50%">

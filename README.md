@@ -1,4 +1,4 @@
-<!-- auto generated at Sat Sep 04 2021 23:30:02 GMT+0800 (GMT+08:00) -->
+<!-- auto generated at Sat Sep 04 2021 23:38:11 GMT+0800 (GMT+08:00) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -11,6 +11,7 @@
 
 </p>
 
-### Hello, my friend! 👋
+<p align="center">
+👋 Hello, my friend! I'm [memset0](https://memset0.cn/), aka whisperain, a student who would like to do sth cool.
+</p>
 
-I'm [memset0](https://memset0.cn/), aka whisperain, a student who would like to do sth cool.

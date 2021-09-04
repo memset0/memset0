@@ -2,6 +2,8 @@
   {{ social-apps }}
 </p>
 
-### Hello, my friend! 👋
+<p align="center">
+👋 Hello, my friend! I'm [memset0](https://memset0.cn/), aka whisperain, a student who would like to do sth cool.
+</p>
 
-I'm [memset0](https://memset0.cn/), aka whisperain, a student who would like to do sth cool.
+{{ recents }}

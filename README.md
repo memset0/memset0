@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, my friend! 👋
+
+I'm [memset0](https://memset0.cn/), aka whisperain, a student who prefer to do sth cool.
 
 <!--
-**memset0/memset0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+TODO:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[ ] Tags Cloud: 每个用户可以通过 Github Issue 为标签投票计次，使用 wordcloud 生成词云并自动更新。
+[ ] Tags Cloud History: using html5 tag <details>
+[ ] My Follwers: https://github.com/ouuan.
+[ ] Recent Blog / Commits / Stars: https://github.com/tw93/tw93.
+[ ] Tools' Tag: https://github.com/thmsgbrt.
+
 -->

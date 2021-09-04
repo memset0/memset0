@@ -1,0 +1,18 @@
+import { readFileSync } from 'fs';
+
+export class Render {
+	template: string;
+	target_path: string;
+
+	apply(name: string, text: string) {
+		this.template = this.template.replace('{{ ' + name + ' }}', text);
+	}
+
+	render() {
+		return `<!-- auto generated at ${Date()} -->\n\n` + this.template;
+	}
+
+	constructor(template: string) {
+		this.template = template;
+	}
+}

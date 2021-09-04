@@ -46,6 +46,7 @@ async function crawlFollowedUsers() {
 		.slice(0, max_length)
 		.map((element) => {
 			const $e = $(element).eq(1);
+			console.log($e.text());
 
 			let name = $e.children('a').children('span').eq(0).text();
 			let subname = $e.children('a').children('span').eq(1).text();
@@ -56,7 +57,7 @@ async function crawlFollowedUsers() {
 				description = description.slice(0, description_max_length) + '...';
 			}
 
-			console.log('[crawl-starred-repos]', name, subname, description);
+			console.log('[crawl-followed-users]', name, subname, description);
 			return `* 
 				**${name}** <small>${subname}</small>
 				${description}
@@ -115,7 +116,7 @@ async function crawlFavoriteMusic() {
 
 			console.log('[crawl-favorite-music]', id, name, artist);
 
-			return `*
+			return `* 
 				[**${name}**](https://music.163.com/#/song?id=${id}) 
 				- ${artist}
 			`.replace(/[\t\n]/g, '');
@@ -170,7 +171,7 @@ export default async function () {
 		</td>
 		<td valign="top" width="50%">
 		
-			#### 🎼 Favorite Music ([163music](https://music.163.com/#/user/home?id=407233351))
+			#### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
 			${data.favoriteMusic}
 

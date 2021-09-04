@@ -1,4 +1,4 @@
-<!-- auto generated at Sat Sep 04 2021 19:42:45 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat Sep 04 2021 19:49:11 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -25,7 +25,7 @@
 * [EtaoinWu / **SuperliminalASL**](https://github.com/EtaoinWu/SuperliminalASL) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)2 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 
 * [DenverCoder1 / **custom-icon-badges**](https://github.com/DenverCoder1/custom-icon-badges) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)17 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)2 
 * [ad-m / **github-push-action**](https://github.com/ad-m/github-push-action) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)675 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)143 
-* [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)8473 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)1411 
+* [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)8474 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)1411 
 * [44670 / **SourceHanSans-Pixel**](https://github.com/44670/SourceHanSans-Pixel) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)154 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)2 
 * [VickScarlet / **lifeRestart**](https://github.com/VickScarlet/lifeRestart) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg)3598 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg)755 
 

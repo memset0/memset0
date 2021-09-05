@@ -46,6 +46,7 @@ export async function exec(command_string: string, args: ExecArgs): Promise<void
 	if (command.length == 0) {
 		throw new Error('Illegal input!');
 	}
+	console.log('[exec]', command_string, args);
 
 	if (command[0] == 'vote') {
 		// vote

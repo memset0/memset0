@@ -19,7 +19,7 @@ const render = new Render(template);
 
 Promise.all(modules.map(module => new Promise(async (resolve) => {
 	const func = require(`./modules/${module}.ts`).default;
-	return await func();
+	resolve(await func());
 
 }))).then((res: string[]) => {
 	for (const i in modules) {
@@ -27,6 +27,6 @@ Promise.all(modules.map(module => new Promise(async (resolve) => {
 		const content = res[i];
 		render.apply(module, content);
 	}
-	
-	writeFileSync(target_file_path, render.render())
+
+	writeFileSync(target_file_path, render.render());
 });

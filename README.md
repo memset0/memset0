@@ -1,13 +1,15 @@
-<!-- auto generated at Sun Sep 05 2021 14:50:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 15:22:48 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
-  <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
+
+<a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
 <a href="https://github.com/memset0/memset0/tree/master/assets/qq.md"><img src="https://custom-icon-badges.herokuapp.com/badge/-QQ-f00?logo=qq-favicon&style=flat" alt="qq"></a>
 <a href="https://www.zhihu.com/people/memset0"><img src="https://custom-icon-badges.herokuapp.com/badge/-zhihu-06f?logo=zhihu-favicon&style=flat" alt="zhihu"></a>
 <a href="https://space.bilibili.com/76334046"><img src="https://custom-icon-badges.herokuapp.com/badge/-bilibili-fb7299?logo=bilibili-favicon&style=flat" alt="bilibili"></a>
 <a href="https://music.163.com/#/user/home?id=407233351"><img src="https://custom-icon-badges.herokuapp.com/badge/-163Music-ea2000?logo=netease-music-v3&style=flat" alt="netease-music"></a>
 <a href="https://codeforces.com/profile/memset0c"><img src="https://custom-icon-badges.herokuapp.com/badge/-Codeforces-white?logo=codeforces-32x&style=flat" alt="codeforces"></a>
 <a href="https://vjudge.net/user/memset0"><img src="https://custom-icon-badges.herokuapp.com/badge/-VJudge-373a3c?logo=vjudge&style=flat" alt="vjudge"></a>
+
 
 </p>
 
@@ -16,6 +18,7 @@
 </p>
 
 <table width="800px">
+
 <tr><td valign="top" width="50%" >
 <!-- table line=0 raw=0 start -->
 
@@ -60,15 +63,16 @@
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* [**低空飞行（翻自 沈以诚） **](https://music.163.com/#/song?id=1429805487) - 小头菜
 * [**我的果汁分你一半**](https://music.163.com/#/song?id=1422212205) - 小头菜
 * [**One Last You (Piano Arrange)**](https://music.163.com/#/song?id=1294910078) - 林奕汎
 * [**回到夏天（欢快版）**](https://music.163.com/#/song?id=1465046860) - 原来是萝卜丫
 * [**小年兽**](https://music.163.com/#/song?id=1346758452) - 程嘉敏
 * [**Sweet Stero World**](https://music.163.com/#/song?id=1443947934) - HJLL
-* [**惑星ラビット**](https://music.163.com/#/song?id=419596679) - Yunomi, TORIENA
 
 <!-- table line=1 raw=1 end -->
 </td></tr>
+
 
 <tr>
 <td valign="top" width="50%">
@@ -87,4 +91,11 @@
 </td>
 </tr>
 
+
 </table>
+
+<small>Notification: 
+
+none
+
+</small>

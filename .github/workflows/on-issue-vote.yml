@@ -34,6 +34,12 @@ jobs:
           netease-password: ${{ secrets.NETEASE_PASSWORD }}
       - name: Check README.md
         run: cat README.md
+      - name: Close issue
+        uses: peter-evans/close-issue@v1
+        with:
+          comment: |
+            Thank you for voting.
+            Your vote has been calculated successfully, and new profile page will be published soon.
       - name: Deploy
         uses: ./.github/actions/deploy
         with:

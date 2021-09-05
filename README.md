@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 17:48:05 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 17:52:58 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -12,13 +12,16 @@
 </p>
 
 <p align="center">
+<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20OIer&body=%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/OIer-x1-brightgreen?style=flat"></a>
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E5%8F%AF%E7%88%B1&body=%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/可爱-x0-blueviolet?style=flat"></a>
-<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E8%90%8C%E8%90%8C%E5%93%92&body=%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/萌萌哒-x1-ff69b4?style=flat"></a>
-<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20OIer&body=%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/OIer-x1-important?style=flat"></a>
-<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20C%2B%2B&body=%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/C++-x1-informational?style=flat"></a>
+<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E5%A5%B3%E5%AD%A9%E7%BA%B8&body=%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/女孩纸-x0-E16B8C?style=flat"></a>
+<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E8%90%8C%E8%90%8C%E5%93%92&body=%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/萌萌哒-x1-FF69B4?style=flat"></a>
+<br>
+<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20C%2B%2B&body=%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/C++-x1-7B90D2?style=flat"></a>
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20JavaScript&body=%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/JavaScript-x1-red?style=flat"></a>
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20TypeScript&body=%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/TypeScript-x1-blue?style=flat"></a>
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20Python&body=%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/Python-x0-yellow?style=flat"></a>
+<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20Vue&body=%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/Vue-x0-42B983?style=flat"></a>
 
 </p>
 
@@ -101,6 +104,6 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
  -->
 </table>
 
-<sub>Notification: <a href=https://github.com/memset0>memset0</a> committed <a href=https://github.com/memset0/memset0/commit/c4d0f8a1eed9d727ab79451c6c6c1482cfc3c0c6><code>c4d0f8a</code></a> of this repo
-at 2021-09-05 17:48:01
+<sub>Notification: <a href=https://github.com/memset0>memset0</a> committed <a href=https://github.com/memset0/memset0/commit/a1901a1a1e7626e1037c99961d26110433887ebe><code>a1901a1</code></a> of this repo
+at 2021-09-05 17:52:53
 </sub>

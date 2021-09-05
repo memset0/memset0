@@ -62,8 +62,10 @@ export function createBadge(head: string, body: string, color: string, params = 
 	params = Object.assign({
 		style: 'flat'
 	}, params);
-	
-	const base_uri = `https://shields.io/badge/${head}-${body}-${color}`;
+
+	const parser = str => str.replace(/\-/g, '--');
+
+	const base_uri = `https://shields.io/badge/${parser(head)}-${parser(body)}-${color}`;
 	const uri = base_uri + '?' + Object.keys(params).map(key => key + '=' + encodeURIComponent(params[key])).join('&');
 	return uri;
 }

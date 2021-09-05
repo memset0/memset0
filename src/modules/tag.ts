@@ -20,8 +20,6 @@ export default async function () {
 		const issue_link = createIssueLink(
 			`> vote ${tag}`,
 			`
-				**NOT WORKS YET**	
-
 				You DON'T need to anything else, just click \`Submit new issue\` or you can ...
 				* vote multiple tags at the same time, usage: change issue title to \`> vote <tag1>,<tag2>,<tag3>,...\`
 			`.replace(/\t/g, ''),

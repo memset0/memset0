@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 16:54:41 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 16:57:21 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,7 +44,7 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
 </td><td valign="top" width="50%" >
 <!-- table line=0 raw=1 start -->
 
-#### ✍️ Recent Blogs
+#### ✍️ My Blogs
 
 * [「Petrozavodsk Summer 2020」Parity Sort](https://memset0.cn/petrozavodsk2020-summer-day5-c/) - 2021-01-21
 * [「集训队作业2020」Old Problem](https://memset0.cn/loj3401/) - 2020-12-17
@@ -101,6 +101,6 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
  -->
 </table>
 
-<sub>Notification: <a href=https://github.com/memset0>memset0</a> committed <a href=https://github.com/memset0/memset0/commit/a66dab879faa223e43cfbb67abd804e789fa7f42><code>a66dab8</code></a> of this repo
-at 2021-09-05 16:54:34
+<sub>Notification: <a href=https://github.com/memset0>memset0</a> committed <a href=https://github.com/memset0/memset0/commit/02d8981858970220b82137a43f7fdd6922a2f086><code>02d8981</code></a> of this repo
+at 2021-09-05 16:57:15
 </sub>

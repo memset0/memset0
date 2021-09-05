@@ -6,6 +6,7 @@ import { Render } from './render';
 
 const modules = [
 	'social-app',
+	'tag',
 	'github-stat',
 	'activity',
 	'notification',

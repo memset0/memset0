@@ -1,12 +1,17 @@
+import fs from 'fs';
 import * as path from 'path';
-import { readFileSync } from 'fs';
 
 const root_path = path.join(__dirname, '../data');
-const assets_root_uri = 'https://raw.githubusercontent.com/memset0/memset0/master/assets/'
+const repo_root_uri = 'https://github.com/memset0/memset0';
+const assets_root_uri = 'https://raw.githubusercontent.com/memset0/memset0/master/assets/';
 
 
 export function loadData(dir: string): string {
-	return readFileSync(path.join(root_path, dir)).toString();
+	return fs.readFileSync(path.join(root_path, dir)).toString();
+}
+
+export async function asyncLoadData(dir: string): Promise<string> {
+	return (await fs.promises.readFile(path.join(root_path, dir))).toString();
 }
 
 
@@ -27,13 +32,13 @@ export function generateTable(data: TableCell[][]): string {
 	for (const i in data) {
 		const line = data[i];
 		res += '<tr>';
-		
+
 		for (const j in line) {
 			const cell = line[j];
 			const params = Object.assign({
 				valign: 'top'
 			}, cell.params);
-		
+
 			res += '<td ' + Object.keys(params).map(x => x + '="' + params[x] + '"').join(' ') + ' >';
 			res += `\n<!-- table line=${i} raw=${j} start -->\n\n`;
 			res += cell.content;
@@ -44,4 +49,10 @@ export function generateTable(data: TableCell[][]): string {
 		res += '</tr>';
 	}
 	return res;
+}
+
+
+
+export function createIssueLink(title: string, body: string): string {
+	return repo_root_uri + '/issues/new?title=' + encodeURIComponent(title) + '&body=' + encodeURIComponent(body);
 }

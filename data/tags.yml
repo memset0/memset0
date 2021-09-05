@@ -1,0 +1,17 @@
+可爱:
+  color: blueviolet
+  multiply: 3
+萌萌哒:
+  color: ff69b4
+  multiply: 3
+OIer:
+  color: important
+  multiply: 2
+C++:
+  color: informational
+JavaScript:
+  color: red
+TypeScript:
+  color: blue
+Python:
+  color: yellow

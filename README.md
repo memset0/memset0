@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 15:54:46 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 15:58:21 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -60,12 +60,12 @@
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* [**低空飞行（翻自 沈以诚） **](https://music.163.com/#/song?id=1429805487) - 小头菜
-* [**我的果汁分你一半**](https://music.163.com/#/song?id=1422212205) - 小头菜
-* [**One Last You (Piano Arrange)**](https://music.163.com/#/song?id=1294910078) - 林奕汎
-* [**回到夏天（欢快版）**](https://music.163.com/#/song?id=1465046860) - 原来是萝卜丫
-* [**小年兽**](https://music.163.com/#/song?id=1346758452) - 程嘉敏
-* [**Sweet Stero World**](https://music.163.com/#/song?id=1443947934) - HJLL
+* <a href="https://music.163.com/#/song?id=1429805487"><strong>低空飞行（翻自 沈以诚） </strong></a>- 小头菜
+* <a href="https://music.163.com/#/song?id=1422212205"><strong>我的果汁分你一半</strong></a>- 小头菜
+* <a href="https://music.163.com/#/song?id=1294910078"><strong>One Last You (Piano Arrange)</strong></a>- 林奕汎
+* <a href="https://music.163.com/#/song?id=1465046860"><strong>回到夏天（欢快版）</strong></a>- 原来是萝卜丫
+* <a href="https://music.163.com/#/song?id=1346758452"><strong>小年兽</strong></a>- 程嘉敏
+* <a href="https://music.163.com/#/song?id=1443947934"><strong>Sweet Stero World</strong></a>- HJLL
 
 <!-- table line=1 raw=1 end -->
 </td></tr>
@@ -89,6 +89,6 @@
 
 </table>
 
-<sub>Notification: <a href=https://github.com/Menci>Menci</a> started this repo
-at 2021-09-05 15:54:40
+<sub>Notification: <a href=https://github.com/memset0>memset0</a> committed <a href=https://github.com/memset0/memset0/commit/62d2544dcd193c69c3496eda0343c1c3fba8f66f><code>62d2544</code></a> of this repo
+at 2021-09-05 15:58:15
 </sub>

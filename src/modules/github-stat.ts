@@ -33,7 +33,7 @@ export default function () {
 		
 			#### ✨ Github Stats
 
-			<img src="${link.github_stats}" height="150" />
+			<img src="${link.github_stats}" height="135" />
 
 		</td>
 		<td valign="top" width="50%">

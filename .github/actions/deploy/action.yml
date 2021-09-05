@@ -4,6 +4,9 @@ inputs:
     description: message of git commit
     required: true
     default: Publish with NO commit message
+  github-token:
+    description: serects.GITHUB_TOKEN
+    required: true
 runs:
   using: "composite"
   steps:
@@ -16,5 +19,5 @@ runs:
     - name: Git push
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ inputs.github-token }}
         branch: ${{ github.ref }}

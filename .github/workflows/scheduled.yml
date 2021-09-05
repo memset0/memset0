@@ -20,5 +20,5 @@ jobs:
       - name: Deploy
         uses: ./.github/actions/deploy
         with:
-          message: Scheduled/Dispatched Build
+          message: Scheduled/Dispatched Build (by CI)
           github-token: ${{ secrets.GITHUB_TOKEN }}

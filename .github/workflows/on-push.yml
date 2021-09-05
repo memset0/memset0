@@ -35,5 +35,5 @@ jobs:
       - name: Deploy
         uses: ./.github/actions/deploy
         with:
-          message: Build
+          message: Build (By CI)
           github-token: ${{ secrets.GITHUB_TOKEN }}

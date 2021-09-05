@@ -16,4 +16,4 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
 <!-- {{ github-stat }} -->
 </table>
 
-<sub>Notification: {{ notification }}</sub>
+<p align="right"><sub>Last updated: {{ notification }}</sub></p>

@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 14:00:24 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 14:14:12 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -60,12 +60,12 @@
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* [**我的果汁分你一半**](https://music.163.com/#/song?id=1422212205) - 小头菜
 * [**One Last You (Piano Arrange)**](https://music.163.com/#/song?id=1294910078) - 林奕汎
 * [**回到夏天（欢快版）**](https://music.163.com/#/song?id=1465046860) - 原来是萝卜丫
 * [**小年兽**](https://music.163.com/#/song?id=1346758452) - 程嘉敏
 * [**Sweet Stero World**](https://music.163.com/#/song?id=1443947934) - HJLL
 * [**惑星ラビット**](https://music.163.com/#/song?id=419596679) - Yunomi, TORIENA
-* [**玛德琳娜电塔**](https://music.163.com/#/song?id=1412991631) - 純白P, warma
 
 </td>
 </tr>

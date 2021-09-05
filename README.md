@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 02:44:13 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 02:52:29 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -40,12 +40,12 @@
 
 #### 🌟 Starred Repos
 
-* [anuraghazra / **github-readme-stats**](https://github.com/anuraghazra/github-readme-stats) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 29973 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 6580 
+* [anuraghazra / **github-readme-stats**](https://github.com/anuraghazra/github-readme-stats) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 29k ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 6k 
 * [Menci / **acme**](https://github.com/Menci/acme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 5 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 0 
 * [EtaoinWu / **SuperliminalASL**](https://github.com/EtaoinWu/SuperliminalASL) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 2 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 0 
 * [DenverCoder1 / **custom-icon-badges**](https://github.com/DenverCoder1/custom-icon-badges) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 17 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 2 
 * [ad-m / **github-push-action**](https://github.com/ad-m/github-push-action) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 675 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 143 
-* [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 8475 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 1411 
+* [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 8k ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 1k 
 
 </td>
 <td valign="top" width="50%">

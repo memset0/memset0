@@ -3,6 +3,9 @@ hide_border: true
 hide_title: true
 github-stats:
   include_all_commits: true
-  count_private: true
+  # count_private: true
+  disable_animations: true
+  show_icons: true
+  hide_rank: true
 top-langs:
   layout: compact

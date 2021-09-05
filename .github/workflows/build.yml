@@ -8,29 +8,17 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-      - name: Cache Dependence
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: npm-${{ hashFiles('package-lock.json') }}
-          restore-keys: npm-
-      - name: Install Dependence
-        run: |
-          npm install
+      - uses: ./.github/actions/checkout
       - name: Build
         run: NODE_TLS_REJECT_UNAUTHORIZED=0 NETEASE_PHONE=${{ secrets.NETEASE_PHONE }} NETEASE_PASSWORD=${{ secrets.NETEASE_PASSWORD }} npm run build
-      - name: Commit files
+      - name: Check README.md
+        run: cat README.md
+      - name: Commit changes
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git commit -m "Auto Build By CI" -a
-      - name: Check README.md
-        run: cat README.md
-      - name: Git Push
+      - name: Git push
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

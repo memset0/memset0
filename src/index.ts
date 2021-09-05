@@ -85,7 +85,7 @@ export async function exec(command_string: string, args: ExecArgs): Promise<void
 
 		comments += '|Tag|Status|\n|:-:|:-:|\n';
 		for (const key in result) {
-			comments += `|![](${createBadge('', key, tag_data[key].color)})|${result[key]}|`;
+			comments += `|![](${createBadge('', key, tag_data[key]?.color || 'white')})|${result[key]}|`;
 		}
 		comments += '\n\n';
 

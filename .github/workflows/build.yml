@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Setup
-        uses: .github/actions/setup
+        uses: ./.github/actions/setup
       - name: Build
         run: NODE_TLS_REJECT_UNAUTHORIZED=0 NETEASE_PHONE=${{ secrets.NETEASE_PHONE }} NETEASE_PASSWORD=${{ secrets.NETEASE_PASSWORD }} npm run build
       - name: Check README.md

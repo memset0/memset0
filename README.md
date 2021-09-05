@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 02:19:41 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 02:33:38 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -20,9 +20,27 @@
 <tr>
 <td valign="top" width="50%">
 
+#### ✨ Github Stats
+
+https://github-readme-stats.vercel.app/api?username=memset0,hide_border=true,hide_title=true,include_all_commits=true,count_private=true,layout=compact
+
+</td>
+<td valign="top" width="50%">
+
+#### 🌐 Top Languages
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=memset0,hide_border=true,hide_title=true,include_all_commits=true,count_private=true,layout=compact
+
+</td>
+</tr>
+
+
+<tr>
+<td valign="top" width="50%">
+
 #### 🌟 Starred Repos
 
-* [anuraghazra / **github-readme-stats**](https://github.com/anuraghazra/github-readme-stats) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 29972 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 6579 
+* [anuraghazra / **github-readme-stats**](https://github.com/anuraghazra/github-readme-stats) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 29973 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 6580 
 * [Menci / **acme**](https://github.com/Menci/acme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 5 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 0 
 * [EtaoinWu / **SuperliminalASL**](https://github.com/EtaoinWu/SuperliminalASL) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 2 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 0 
 * [DenverCoder1 / **custom-icon-badges**](https://github.com/DenverCoder1/custom-icon-badges) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 17 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 2 

@@ -127,7 +127,7 @@ async function crawlFavoriteMusic() {
 			console.log('[crawl-favorite-music]', id, name, artist);
 
 			return `* 
-				[**${name}**](https://music.163.com/#/song?id=${id}) 
+				<a href="https://music.163.com/#/song?id=${id}"><strong>${name}</strong></a>
 				- ${artist}
 			`.replace(/[\t\n]/g, '');
 		}).join('\n');

@@ -1,2 +1,2 @@
 #!/usr/bin/env ts-node
-require('../src/index.ts')
+require('../src/index.ts').build()

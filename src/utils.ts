@@ -10,8 +10,16 @@ export function loadData(dir: string): string {
 	return fs.readFileSync(path.join(root_path, dir)).toString();
 }
 
+export function saveData(dir: string, content: string): void {
+	return fs.writeFileSync(path.join(root_path, dir), content);
+}
+
 export async function asyncLoadData(dir: string): Promise<string> {
 	return (await fs.promises.readFile(path.join(root_path, dir))).toString();
+}
+
+export async function asyncSaveData(dir: string, content: string): Promise<void> {
+	return fs.promises.writeFile(path.join(root_path, dir), content);
 }
 
 
@@ -20,12 +28,10 @@ export function assetLink(dir: string): string {
 }
 
 
-
 export interface TableCell {
 	content: string,
 	params?: object,
 };
-
 
 export function generateTable(data: TableCell[][]): string {
 	let res = '';
@@ -50,7 +56,6 @@ export function generateTable(data: TableCell[][]): string {
 	}
 	return res;
 }
-
 
 
 export function createIssueLink(title: string, body: string): string {

@@ -4,8 +4,8 @@
   "description": "Hello, I'm memset0, aka whisperain, a student who prefer to do sth cool.",
   "main": "src/index.ts",
   "scripts": {
-    "start": "ts-node ./src/index.ts",
-    "build": "ts-node ./bin/build"
+    "build": "ts-node ./bin/build",
+    "issue": "ts-node ./bin/issue"
   },
   "repository": {
     "type": "git",

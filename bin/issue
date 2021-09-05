@@ -1,0 +1,6 @@
+#!/usr/bin/env ts-node
+const repository = process.env.REPOSITORY;
+const issue_id = parseInt(process.env.ISSUE_ID);
+const issue_user = process.env.ISSUE_USER;
+const issue_title = process.env.ISSUE_TITLE;
+require('../src/issue.ts').exec(issue_title.slice(2), { repository, issue_id, issue_user, issue_title });

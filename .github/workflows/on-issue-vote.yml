@@ -1,0 +1,41 @@
+name: "Vote"
+on:
+  issues:
+    types: [opened]
+jobs:
+  vote:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, '> vote ')
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup
+        uses: ./.github/actions/setup
+      - name: Set env
+        run: |
+          echo "REPOSITORY=${{ github.repository }}" >> $GITHUB_ENV
+          echo "ISSUE_ID=${{ github.event.issue.number }}" >> $GITHUB_ENV
+          echo "ISSUE_USER=${{ github.event.issue.user.login }}" >> $GITHUB_ENV
+          echo "ISSUE_TITLE=${{ github.event.issue.title }}" >> $GITHUB_ENV
+      - name: Notification
+        uses: ./.github/actions/notification
+        with:
+          content: >-
+            <a href="https://github.com/${{ github.event.issue.user.login }}">${{ github.event.issue.user.login }}</a>
+            voted tag(s) of me.
+      - name: Check notification.html
+        run: cat data/notification.html
+      - name: Vote
+        run: |
+          npm run issue
+      - name: Build
+        uses: ./.github/actions/build
+        with:
+          netease-phone: ${{ secrets.NETEASE_PHONE }}
+          netease-password: ${{ secrets.NETEASE_PASSWORD }}
+      - name: Check README.md
+        run: cat README.md
+      - name: Deploy
+        uses: ./.github/actions/deploy
+        with:
+          message: Be voted by @${{ github.event.issue.user.login }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}

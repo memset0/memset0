@@ -9,7 +9,7 @@ export default async function () {
 	for (const tag in tag_data) tag_data[tag].votes = 0;
 
 	for (const vote of vote_data) {
-		for (const tag of vote.tags) {
+		for (const tag of vote.tag) {
 			tag_data[tag].votes += 1;
 		}
 	}

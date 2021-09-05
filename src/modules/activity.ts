@@ -14,6 +14,16 @@ const fork_svg_link = 'https://raw.githubusercontent.com/memset0/memset0/master/
 
 async function crawlStarredRepos() {
 	const $ = load((await get('https://github.com/memset0?tab=stars')).text);
+	const parseNumber = (str: string): string => {
+		const num = parseInt(str.replace(/\,/g, '')) || 0;
+		if (num >= 1000000) {
+			return String(num).slice(0, -6) + 'm';
+		} else if (num >= 1000) {
+			return String(num).slice(0, -3) + 'k';
+		} else {
+			return String(num);
+		}
+	}
 
 	return Array.from($('.col-12.d-block.width-full.py-4.border-bottom.color-border-secondary'))
 		.slice(0, max_length)
@@ -24,14 +34,14 @@ async function crawlStarredRepos() {
 			const owner = link.split('/')[1];
 			const repo = link.split('/')[2];
 
-			const stars = $e.find('a.Link--muted').eq(0).text().trim().replace(/\,/g, '');
-			const forks = $e.find('a.Link--muted').eq(1).text().trim().replace(/\,/g, '');
+			const stars = parseNumber($e.find('a.Link--muted').eq(0).text().trim());
+			const forks = parseNumber($e.find('a.Link--muted').eq(1).text().trim());
 
 			console.log('[crawl-starred-repos]', owner, repo, stars, forks);
 			return `* 
 				[${owner} / **${repo}**](https://github.com/${owner}/${repo}) 
-				![](${star_svg_link}) ${stars ? stars : 0} 
-				![](${fork_svg_link}) ${forks ? forks : 0} 
+				![](${star_svg_link}) ${stars} 
+				![](${fork_svg_link}) ${forks} 
 			`.replace(/[\t\n]/g, '');
 		})
 		.join('\n');

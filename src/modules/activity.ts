@@ -159,7 +159,7 @@ export default async function () {
 		content: '#### 🌟 Starred Repos\n\n' + data.starred_repos,
 	}, {
 		params: { width: '50%' },
-		content: '#### ✍️ Recent Blogs\n\n' + data.recent_blogs,
+		content: '#### ✍️ My Blogs\n\n' + data.recent_blogs,
 	}],[{
 		params: { width: '50%' },
 		content: '#### 👨‍💻 Followed Users\n\n' + data.followed_users,

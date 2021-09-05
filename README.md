@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 18:53:50 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 19:01:11 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -79,12 +79,12 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=393858"><strong>夜降り萃梦郷 ~ A Reverie of Dolls and Stellula</strong></a>- 流月, 瑶山百霊
+* <a href="https://music.163.com/#/song?id=28219120"><strong>輝く針の小人族　～ Little Princess</strong></a>- 上海アリス幻樂団
 * <a href="https://music.163.com/#/song?id=1429805487"><strong>低空飞行（翻自 沈以诚） </strong></a>- 小头菜
 * <a href="https://music.163.com/#/song?id=1422212205"><strong>我的果汁分你一半</strong></a>- 小头菜
 * <a href="https://music.163.com/#/song?id=1294910078"><strong>One Last You (Piano Arrange)</strong></a>- 林奕汎
 * <a href="https://music.163.com/#/song?id=1465046860"><strong>回到夏天（欢快版）</strong></a>- 原来是萝卜丫
-* <a href="https://music.163.com/#/song?id=1346758452"><strong>小年兽</strong></a>- 程嘉敏
-* <a href="https://music.163.com/#/song?id=1443947934"><strong>Sweet Stero World</strong></a>- HJLL
 
 <!-- table line=1 raw=1 end -->
 </td></tr>

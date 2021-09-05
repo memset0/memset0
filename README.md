@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 02:52:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 02:57:22 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -16,24 +16,6 @@
 </p>
 
 <table width="800px">
-
-<tr>
-<td valign="top" width="50%">
-
-#### ✨ Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=memset0&hide_border=true&hide_title=true&include_all_commits=true&disable_animations=true&show_icons=true&hide_rank=true&layout=compact)
-
-</td>
-<td valign="top" width="50%">
-
-#### 🌐 Top Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=memset0&hide_border=true&hide_title=true&include_all_commits=true&disable_animations=true&show_icons=true&hide_rank=true&layout=compact)
-
-</td>
-</tr>
-
 
 <tr>
 <td valign="top" width="50%">
@@ -84,6 +66,24 @@
 * [**惑星ラビット**](https://music.163.com/#/song?id=419596679) - Yunomi, TORIENA
 * [**玛德琳娜电塔**](https://music.163.com/#/song?id=1412991631) - 純白P, warma
 * [**Counterattack**](https://music.163.com/#/song?id=565841116) - 平松建治
+
+</td>
+</tr>
+
+
+<tr>
+<td valign="top" width="50%">
+
+#### ✨ Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=memset0&hide_border=true&hide_title=true&include_all_commits=true&disable_animations=true&show_icons=true&hide_rank=true&line_height=24&layout=compact" height="150" />
+
+</td>
+<td valign="top" width="50%">
+
+#### 🌐 Top Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=memset0&hide_border=true&hide_title=true&include_all_commits=true&disable_animations=true&show_icons=true&hide_rank=true&line_height=24&layout=compact)
 
 </td>
 </tr>

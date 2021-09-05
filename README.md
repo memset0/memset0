@@ -1,11 +1,11 @@
-<!-- auto generated at Sun Sep 05 2021 03:15:12 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 03:20:53 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
 <a href="https://github.com/memset0/memset0/tree/master/static/qq.md"><img src="https://custom-icon-badges.herokuapp.com/badge/-QQ-f00?logo=qq-favicon&style=flat" alt="qq"></a>
 <a href="https://www.zhihu.com/people/memset0"><img src="https://custom-icon-badges.herokuapp.com/badge/-zhihu-06f?logo=zhihu-favicon&style=flat" alt="zhihu"></a>
 <a href="https://space.bilibili.com/76334046"><img src="https://custom-icon-badges.herokuapp.com/badge/-bilibili-fb7299?logo=bilibili-favicon&style=flat" alt="bilibili"></a>
-<a href="https://music.163.com/#/user/home?id=407233351"><img src="https://custom-icon-badges.herokuapp.com/badge/-163Music-dd001b?logo=netease-music&style=flat" alt="netease-music"></a>
+<a href="https://music.163.com/#/user/home?id=407233351"><img src="https://custom-icon-badges.herokuapp.com/badge/-163Music-ea2000?logo=netease-music-v3&style=flat" alt="netease-music"></a>
 <a href="https://codeforces.com/profile/memset0c"><img src="https://custom-icon-badges.herokuapp.com/badge/-Codeforces-white?logo=codeforces-32x&style=flat" alt="codeforces"></a>
 <a href="https://vjudge.net/user/memset0"><img src="https://custom-icon-badges.herokuapp.com/badge/-VJudge-373a3c?logo=vjudge&style=flat" alt="vjudge"></a>
 

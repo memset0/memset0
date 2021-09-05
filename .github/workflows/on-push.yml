@@ -24,7 +24,7 @@ jobs:
       - name: Notification
         uses: ./.github/actions/notification
         with:
-          time: enable
+          # time: enable
           content: >-
             [${{ steps.vars.outputs.ACTOR }}](https://github.com/${{ steps.vars.outputs.ACTOR }}) 
             committed 

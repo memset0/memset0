@@ -19,7 +19,7 @@ jobs:
         with:
           # time: enable
           content: >-
-            <a href="https://github.com/${{ steps.vars.outputs.ACTOR }}">${{ steps.vars.outputs.ACTOR }}</a>
+            <a href="https://github.com/${{ steps.vars.outputs.ACTOR }}"><strong>@${{ steps.vars.outputs.ACTOR }}</strong></a>
             committed
             <a href="https://github.com/memset0/memset0/commit/${{ steps.vars.outputs.SHA }}"><code>${{ steps.vars.outputs.SHA_SHORT }}</code></a>
             of this repo

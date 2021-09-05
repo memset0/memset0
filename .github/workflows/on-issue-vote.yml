@@ -20,7 +20,7 @@ jobs:
         uses: ./.github/actions/notification
         with:
           content: >-
-            <a href="https://github.com/${{ github.event.issue.user.login }}">${{ github.event.issue.user.login }}</a>
+            <a href="https://github.com/${{ github.event.issue.user.login }}"><strong>@${{ github.event.issue.user.login }}</strong></a>
             voted tag(s) of me.
       - name: Check notification.html
         run: cat data/notification.html

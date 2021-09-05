@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 02:57:22 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 02:58:42 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -76,14 +76,14 @@
 
 #### ✨ Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=memset0&hide_border=true&hide_title=true&include_all_commits=true&disable_animations=true&show_icons=true&hide_rank=true&line_height=24&layout=compact" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=memset0&hide_border=true&hide_title=true&include_all_commits=true&disable_animations=true&show_icons=true&hide_rank=true&line_height=30&layout=compact" height="135" />
 
 </td>
 <td valign="top" width="50%">
 
 #### 🌐 Top Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=memset0&hide_border=true&hide_title=true&include_all_commits=true&disable_animations=true&show_icons=true&hide_rank=true&line_height=24&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=memset0&hide_border=true&hide_title=true&include_all_commits=true&disable_animations=true&show_icons=true&hide_rank=true&line_height=30&layout=compact)
 
 </td>
 </tr>

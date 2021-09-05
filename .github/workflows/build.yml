@@ -14,7 +14,8 @@ jobs:
       - name: Build
         uses: ./.github/actions/build
         with:
-          secrets: ${{ secrets }}
+          netease-phone: ${{ secrets.NETEASE_PHONE }}
+          netease-password: ${{ secrets.NETEASE_PASSWORD }}
       - name: Check README.md
         run: cat README.md
       - name: Deploy

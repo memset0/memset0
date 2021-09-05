@@ -1,6 +1,8 @@
 name: Build
 inputs:
-  secrets:
+  netease-phone:
+    required: true
+  netease-password:
     required: true
 runs:
   using: "composite"
@@ -9,6 +11,6 @@ runs:
       shell: bash
       run: >-
         NODE_TLS_REJECT_UNAUTHORIZED=0 
-        NETEASE_PHONE=${{ inputs.secrets.NETEASE_PHONE }} 
-        NETEASE_PASSWORD=${{ inputs.secrets.NETEASE_PASSWORD }} 
+        NETEASE_PHONE=${{ inputs.netease-phone }} 
+        NETEASE_PASSWORD=${{ inputs.netease-password }} 
         npm run build

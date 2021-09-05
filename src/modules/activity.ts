@@ -134,10 +134,10 @@ export default async function () {
 	};
 
 	const data = {
-		starredRepos: crawlStarredRepos,
-		recentBlogs: crawlRecentBlogs,
-		followedUsers: crawlFollowedUsers,
-		favoriteMusic: crawlFavoriteMusic,
+		starred_repos: crawlStarredRepos,
+		recent_blogs: crawlRecentBlogs,
+		followed_users: crawlFollowedUsers,
+		favorite_music: crawlFavoriteMusic,
 	};
 
 	const res = await Promise.all(Object.values(data).map(func => new Promise((resolve) => { resolve(safeCall(func)); })));
@@ -149,14 +149,14 @@ export default async function () {
 		
 			#### 🌟 Starred Repos
 
-			${data.starredRepos}
+			${data.starred_repos}
 
 		</td>
 		<td valign="top" width="50%">
 		
 			#### ✍️ Recent Blogs
 
-			${data.recentBlogs}
+			${data.recent_blogs}
 
 		</td>
 		</tr>
@@ -165,14 +165,14 @@ export default async function () {
 		
 			#### 👨‍💻 Followed Users
 
-			${data.followedUsers}
+			${data.followed_users}
 
 		</td>
 		<td valign="top" width="50%">
 		
 			#### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-			${data.favoriteMusic}
+			${data.favorite_music}
 
 		</td>
 		</tr>

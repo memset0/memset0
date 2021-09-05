@@ -8,7 +8,8 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: ./.github/actions/checkout
+      - uses: actions/checkout@v2
+      - uses: ./.github/actions/setup
       - name: Build
         run: NODE_TLS_REJECT_UNAUTHORIZED=0 NETEASE_PHONE=${{ secrets.NETEASE_PHONE }} NETEASE_PASSWORD=${{ secrets.NETEASE_PASSWORD }} npm run build
       - name: Check README.md

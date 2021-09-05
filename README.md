@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 16:51:17 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 16:54:41 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -24,7 +24,7 @@
 
 <p align="center">
 👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, aka whisperain, a student who would like to do sth cool.<br>
-What do you think of me? Just <i><strong>click</strong> any of the badges above</i> to vote.
+What do you think of me? Just <i><strong>click any of the badges above</strong></i> to vote.
 </p>
 
 <table width="800px">
@@ -81,7 +81,7 @@ What do you think of me? Just <i><strong>click</strong> any of the badges above<
 
 <!-- table line=1 raw=1 end -->
 </td></tr>
-
+<!-- 
 <tr>
 <td valign="top" width="50%">
 
@@ -98,9 +98,9 @@ What do you think of me? Just <i><strong>click</strong> any of the badges above<
 
 </td>
 </tr>
-
+ -->
 </table>
 
-<sub>Notification: <a href=https://github.com/memset0>memset0</a> committed <a href=https://github.com/memset0/memset0/commit/102c9f765e8d100f5c69e4a1c8f42a5864901f31><code>102c9f7</code></a> of this repo
-at 2021-09-05 16:51:12
+<sub>Notification: <a href=https://github.com/memset0>memset0</a> committed <a href=https://github.com/memset0/memset0/commit/a66dab879faa223e43cfbb67abd804e789fa7f42><code>a66dab8</code></a> of this repo
+at 2021-09-05 16:54:34
 </sub>

@@ -7,7 +7,7 @@ qq:
   text: QQ
   color: f00
   icon: qq-favicon
-  link: https://github.com/memset0/memset0/tree/master/static/qq.md
+  link: https://github.com/memset0/memset0/tree/master/assets/qq.md
 zhihu:
   text: zhihu
   color: 06f

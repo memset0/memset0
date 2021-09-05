@@ -1,5 +1,5 @@
 import * as YAML from 'yaml';
-import { loadData } from '../static';
+import { loadData } from '../utils';
 
 function deepCopy(target: object): object {
 	return JSON.parse(JSON.stringify(target));

@@ -1,5 +1,6 @@
 import { load } from 'cheerio';
 import { get, agent } from 'superagent';
+import { assetLink, generateTable,TableCell } from '../utils';
 
 const max_length = 6;
 
@@ -7,10 +8,10 @@ const chineseNumbers = [
 	'一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二'
 ];
 
-const star_svg_link = 'https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg';
-const fork_svg_link = 'https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg';
-// const star_png_link = 'https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.png';
-// const fork_png_link = 'https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.png';
+const star_svg_link = assetLink('img/github/star.svg');
+const fork_svg_link = assetLink('img/github/fork.svg');
+// const star_png_link = assetLink('img/github/star.png');
+// const fork_png_link = assetLink('img/github/fork.png');
 
 async function crawlStarredRepos() {
 	const $ = load((await get('https://github.com/memset0?tab=stars')).text);
@@ -153,40 +154,19 @@ export default async function () {
 	const res = await Promise.all(Object.values(data).map(func => new Promise((resolve) => { resolve(safeCall(func)); })));
 	res.forEach((res, index) => { data[Object.keys(data)[index]] = res; });
 
-	return `
-		<tr>
-		<td valign="top" width="50%">
-		
-			#### 🌟 Starred Repos
-
-			${data.starred_repos}
-
-		</td>
-		<td valign="top" width="50%">
-		
-			#### ✍️ Recent Blogs
-
-			${data.recent_blogs}
-
-		</td>
-		</tr>
-		<tr>
-		<td valign="top" width="50%">
-		
-			#### 👨‍💻 Followed Users
-
-			${data.followed_users}
-
-		</td>
-		<td valign="top" width="50%">
-		
-			#### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
-
-			${data.favorite_music}
-
-		</td>
-		</tr>
-	`.replace(/\t/g, '');
+	return generateTable([[{
+		params: { width: '50%' },
+		content: '#### 🌟 Starred Repos\n\n' + data.starred_repos,
+	}, {
+		params: { width: '50%' },
+		content: '#### ✍️ Recent Blogs\n\n' + data.recent_blogs,
+	}],[{
+		params: { width: '50%' },
+		content: '#### 👨‍💻 Followed Users\n\n' + data.followed_users,
+	}, {
+		params: { width: '50%' },
+		content: '#### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))\n\n' + data.favorite_music,
+	}]]);
 }
 
 // (async () => { console.log(await crawlFavoriteMusic()); })();

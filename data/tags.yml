@@ -1,17 +1,23 @@
+OIer:
+  color: brightgreen
+  multiply: 2
 可爱:
   color: blueviolet
   multiply: 3
-萌萌哒:
-  color: ff69b4
+女孩纸:
+  color: E16B8C
   multiply: 3
-OIer:
-  color: important
-  multiply: 2
+萌萌哒:
+  color: FF69B4
+  multiply: 3
+  new_line_after: true
 C++:
-  color: informational
+  color: 7B90D2
 JavaScript:
   color: red
 TypeScript:
   color: blue
 Python:
   color: yellow
+Vue:
+  color: 42B983

@@ -1,15 +1,21 @@
 OIer:
   color: brightgreen
   multiply: 2
+聪明:
+  color: 86C166
+  multiply: 3
+温柔:
+  color: EB7A77
+  multiply: 3
 可爱:
   color: blueviolet
-  multiply: 3
+  multiply: 4
 女孩纸:
   color: E16B8C
-  multiply: 3
+  multiply: 2
 萌萌哒:
   color: FF69B4
-  multiply: 3
+  multiply: 2
   new_line_after: true
 C++:
   color: 7B90D2
@@ -21,3 +27,7 @@ Python:
   color: yellow
 Vue:
   color: 42B983
+Docker:
+  color: 2496ED
+Github:
+  color: 24292F

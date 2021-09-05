@@ -1,0 +1,20 @@
+name: Build
+inputs:
+  message:
+    description: message of git commit
+    required: true
+    default: Publish with NO commit message
+runs:
+  using: "composite"
+  steps:
+    - name: Commit changes
+      shell: bash
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git commit -m "${{ inputs.message }} (By CI)" -a
+    - name: Git push
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}

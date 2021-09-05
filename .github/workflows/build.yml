@@ -12,16 +12,10 @@ jobs:
       - name: Setup
         uses: ./.github/actions/setup
       - name: Build
-        run: NODE_TLS_REJECT_UNAUTHORIZED=0 NETEASE_PHONE=${{ secrets.NETEASE_PHONE }} NETEASE_PASSWORD=${{ secrets.NETEASE_PASSWORD }} npm run build
+        uses: ./.github/actions/build
       - name: Check README.md
         run: cat README.md
-      - name: Commit changes
-        run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git commit -m "Auto Build By CI" -a
-      - name: Git push
-        uses: ad-m/github-push-action@master
+      - name: Deploy
+        uses: ./.github/actions/deploy
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          message: Build

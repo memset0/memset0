@@ -24,7 +24,7 @@ export default function () {
 	};
 
 	for (const key in link) {
-		link[key] = link[key] + '?' + Object.keys(params[key]).map(x => encodeURIComponent(x) + '=' + encodeURIComponent(params[key][x]));
+		link[key] = link[key] + '?' + Object.keys(params[key]).map(x => encodeURIComponent(x) + '=' + encodeURIComponent(params[key][x])).join('&');
 	}
 
 	return `
@@ -33,14 +33,14 @@ export default function () {
 		
 			#### ✨ Github Stats
 
-			${link.github_stats}
+			![](${link.github_stats})
 
 		</td>
 		<td valign="top" width="50%">
 		
 			#### 🌐 Top Languages
 
-			${link.top_langs}
+			![](${link.top_langs})
 
 		</td>
 		</tr>

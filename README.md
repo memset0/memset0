@@ -1,7 +1,6 @@
-<!-- auto generated at Sun Sep 05 2021 15:29:58 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 15:35:20 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
-
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
 <a href="https://github.com/memset0/memset0/tree/master/assets/qq.md"><img src="https://custom-icon-badges.herokuapp.com/badge/-QQ-f00?logo=qq-favicon&style=flat" alt="qq"></a>
 <a href="https://www.zhihu.com/people/memset0"><img src="https://custom-icon-badges.herokuapp.com/badge/-zhihu-06f?logo=zhihu-favicon&style=flat" alt="zhihu"></a>
@@ -10,7 +9,6 @@
 <a href="https://codeforces.com/profile/memset0c"><img src="https://custom-icon-badges.herokuapp.com/badge/-Codeforces-white?logo=codeforces-32x&style=flat" alt="codeforces"></a>
 <a href="https://vjudge.net/user/memset0"><img src="https://custom-icon-badges.herokuapp.com/badge/-VJudge-373a3c?logo=vjudge&style=flat" alt="vjudge"></a>
 
-
 </p>
 
 <p align="center">
@@ -18,7 +16,6 @@
 </p>
 
 <table width="800px">
-
 <tr><td valign="top" width="50%" >
 <!-- table line=0 raw=0 start -->
 
@@ -73,7 +70,6 @@
 <!-- table line=1 raw=1 end -->
 </td></tr>
 
-
 <tr>
 <td valign="top" width="50%">
 
@@ -91,7 +87,8 @@
 </td>
 </tr>
 
-
 </table>
 
-<small>Notification: none</small>
+<sub>Notification: <a href=https://github.com/memset0>memset0</a> committed <a href=https://github.com/memset0/memset0/commit/fc7ea3baec662e9027ee3f9acae4a2f3cd5c86bd><code>fc7ea3b</code></a>
+at 2021-09-05 15:29:58
+</sub>

@@ -27,5 +27,5 @@ jobs:
       - name: Deploy
         uses: ./.github/actions/deploy
         with:
-          message: Build
+          message: Repo be started by @${{ github.event.sender.id }}
           github-token: ${{ secrets.GITHUB_TOKEN }}

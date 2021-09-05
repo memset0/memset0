@@ -1,5 +1,5 @@
 import * as YAML from 'yaml';
-import { asyncLoadData, createIssueLink } from '../utils';
+import { asyncLoadData, createBadge, createIssueLink } from '../utils';
 
 export default async function () {
 	const tag_data = YAML.parse(await asyncLoadData('tags.yml')) || {};
@@ -16,7 +16,11 @@ export default async function () {
 
 	for (const tag in tag_data) {
 		const data = tag_data[tag];
-		const badge_link = `https://shields.io/badge/${tag}-x${data.votes}-${data.color}?style=flat`;
+		const badge_link = createBadge(
+			tag,
+			'x' + data.votes,
+			data.color,
+		);
 		const issue_link = createIssueLink(
 			`> vote ${tag}`,
 			`

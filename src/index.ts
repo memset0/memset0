@@ -2,7 +2,7 @@ import * as path from 'path';
 import * as YAML from 'yaml';
 import { readFileSync, writeFileSync } from 'fs';
 import { Render } from './render';
-import { asyncLoadData, asyncSaveData } from './utils';
+import { asyncLoadData, asyncSaveData, createBadge } from './utils';
 
 const modules = [
 	'social-app',
@@ -56,6 +56,8 @@ export async function exec(command_string: string, args: ExecArgs): Promise<void
 		const data = YAML.parse(await asyncLoadData('votes.yml')) || [];
 		const tag_data = YAML.parse(await asyncLoadData('tags.yml')) || {};
 		const tag = command[1].split(',');
+
+		let comments = '';
 		const result = {};
 		const available_tag = [];
 
@@ -81,15 +83,31 @@ export async function exec(command_string: string, args: ExecArgs): Promise<void
 		}
 		for (const key in result) if (result[key] == success) available_tag.push(key);
 
+		comments += '|Tag|Status|\n|:-:|:-:|\n';
+		for (const key in result) {
+			comments += `|![](${createBadge('', key, tag_data[key].color)})|${result[key]}|`;
+		}
+		comments += '\n\n';
+
 		if (available_tag.length) {
 			data.push({
 				user: issue_user,
 				tag: available_tag,
 				time: now,
 			});
+
+			if (available_tag.length == 1) {
+				comments += 'Your vote for `' + available_tag[0] + '` tag is ';
+			} else {
+				comments += 'Your votes for ' + available_tag.slice(0, -1).map(x => '`' + x + '`').join(', ') + 'and `' + available_tag[available_tag.length - 1] + '` tags are'
+			}
+			comments += 'calculated successfully, and will be published soon.\n\n';
+		} else {
+			comments += 'No votes are calculated, check status above for more information.\n\n';
 		}
 		console.log('[exec-vote]', available_tag, result);
 
 		await asyncSaveData('votes.yml', YAML.stringify(data));
+		writeFileSync(path.join(__dirname, '../.comments.md'), comments);
 	}
 }

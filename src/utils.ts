@@ -58,6 +58,16 @@ export function generateTable(data: TableCell[][]): string {
 }
 
 
+export function createBadge(head: string, body: string, color: string, params = {}): string {
+	params = Object.assign({
+		style: 'flat'
+	}, params);
+	
+	const base_uri = `https://shields.io/badge/${head}-${body}-${color}`;
+	const uri = base_uri + '?' + Object.keys(params).map(key => key + '=' + encodeURIComponent(params[key])).join('&');
+	return uri;
+}
+
 export function createIssueLink(title: string, body: string): string {
 	return repo_root_uri + '/issues/new?title=' + encodeURIComponent(title) + '&body=' + encodeURIComponent(body);
 }

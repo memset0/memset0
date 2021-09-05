@@ -16,6 +16,11 @@ jobs:
           echo "ISSUE_ID=${{ github.event.issue.number }}" >> $GITHUB_ENV
           echo "ISSUE_USER=${{ github.event.issue.user.login }}" >> $GITHUB_ENV
           echo "ISSUE_TITLE=${{ github.event.issue.title }}" >> $GITHUB_ENV
+      - name: Vote
+        run: |
+          npm run issue
+      - name: Check comments.md
+        run: cat .comments.md
       - name: Notification
         uses: ./.github/actions/notification
         with:
@@ -24,9 +29,6 @@ jobs:
             voted tag(s) of me.
       - name: Check notification.html
         run: cat data/notification.html
-      - name: Vote
-        run: |
-          npm run issue
       - name: Build
         uses: ./.github/actions/build
         with:
@@ -34,12 +36,15 @@ jobs:
           netease-password: ${{ secrets.NETEASE_PASSWORD }}
       - name: Check README.md
         run: cat README.md
+      - name: "Read file contents"
+        id: comments
+        uses: andstor/file-reader-action@v1
+        with:
+          path: ".comments.md"
       - name: Close issue
         uses: peter-evans/close-issue@v1
         with:
-          comment: |
-            Thank you for voting.
-            Your vote has been calculated successfully, and new profile page will be published soon.
+          comment: ${{ steps.comments.outputs.contents }}
       - name: Deploy
         uses: ./.github/actions/deploy
         with:

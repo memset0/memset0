@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 15:22:48 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 15:29:58 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
 
@@ -94,8 +94,4 @@
 
 </table>
 
-<small>Notification: 
-
-none
-
-</small>
+<small>Notification: none</small>

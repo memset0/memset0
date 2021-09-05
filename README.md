@@ -1,4 +1,4 @@
-<!-- auto generated at Sat Sep 04 2021 20:04:09 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 01:11:44 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
   <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -22,12 +22,12 @@
 
 #### 🌟 Starred Repos
 
+* [Menci / **acme**](https://github.com/Menci/acme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 5 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 0 
 * [EtaoinWu / **SuperliminalASL**](https://github.com/EtaoinWu/SuperliminalASL) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 2 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 0 
 * [DenverCoder1 / **custom-icon-badges**](https://github.com/DenverCoder1/custom-icon-badges) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 17 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 2 
 * [ad-m / **github-push-action**](https://github.com/ad-m/github-push-action) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 675 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 143 
 * [abhisheknaiidu / **awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 8474 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 1411 
 * [44670 / **SourceHanSans-Pixel**](https://github.com/44670/SourceHanSans-Pixel) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 154 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 2 
-* [VickScarlet / **lifeRestart**](https://github.com/VickScarlet/lifeRestart) ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/star.svg) 3599 ![](https://raw.githubusercontent.com/memset0/memset0/master/static/images/github/fork.svg) 757 
 
 </td>
 <td valign="top" width="50%">
@@ -48,12 +48,12 @@
 
 #### 👨‍💻 Followed Users
 
+* [**solstice23** <small>solstice23</small>](https://github.com/solstice23/)
 * [**Coelacanthus** <small>CoelacanthusHex</small>](https://github.com/CoelacanthusHex/) - OIer, MtF, Rust, C++, Linux
 * [**Heran Yang** <small>HeRaNO</small>](https://github.com/HeRaNO/) - Getting along with desperate.
 * [**Tian Yunhao** <small>t123yh</small>](https://github.com/t123yh/) - 一条来自成都的咸鱼。
 * [**黄巍** <small>RimoChan</small>](https://github.com/RimoChan/) - 字节跳动首席吃点心员
 * [**xzz** <small>xzz-233</small>](https://github.com/xzz-233/)
-* [**waaadreamer** <small></small>](https://github.com//)
 
 </td>
 <td valign="top" width="50%">

@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 16:36:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 16:48:08 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -12,7 +12,12 @@
 </p>
 
 <p align="center">
-👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, aka whisperain, a student who would like to do sth cool.
+<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E5%8F%AF%E7%88%B1&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20don't%20need%20to%20any%20thing%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C...%60%0A><img src="https://shields.io/badge/可爱-x0-blueviolet?style=flat"></a><a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E8%90%8C%E8%90%8C%E5%93%92&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20don't%20need%20to%20any%20thing%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C...%60%0A><img src="https://shields.io/badge/萌萌哒-x0-ff69b4?style=flat"></a><a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20OIer&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20don't%20need%20to%20any%20thing%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C...%60%0A><img src="https://shields.io/badge/OIer-x0-important?style=flat"></a><a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20C%2B%2B&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20don't%20need%20to%20any%20thing%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C...%60%0A><img src="https://shields.io/badge/C++-x0-informational?style=flat"></a><a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20JavaScript&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20don't%20need%20to%20any%20thing%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C...%60%0A><img src="https://shields.io/badge/JavaScript-x0-red?style=flat"></a><a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20TypeScript&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20don't%20need%20to%20any%20thing%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C...%60%0A><img src="https://shields.io/badge/TypeScript-x0-blue?style=flat"></a><a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20Python&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20don't%20need%20to%20any%20thing%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C...%60%0A><img src="https://shields.io/badge/Python-x0-yellow?style=flat"></a>
+</p>
+
+<p align="center">
+👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, aka whisperain, a student who would like to do sth cool.<br>
+What do you think of me? Just <i><strong>click</strong> any of the badges above</i> to vote.
 </p>
 
 <table width="800px">
@@ -89,6 +94,6 @@
 
 </table>
 
-<sub>Notification: <a href=https://github.com/memset0>memset0</a> started this repo
-at 2021-09-05 16:36:39
+<sub>Notification: <a href=https://github.com/memset0>memset0</a> committed <a href=https://github.com/memset0/memset0/commit/81805dcd8e094be6f0740e677a7ebea40752701c><code>81805dc</code></a> of this repo
+at 2021-09-05 16:48:03
 </sub>

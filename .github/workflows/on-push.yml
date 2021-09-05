@@ -8,13 +8,6 @@ jobs:
       - uses: actions/checkout@v2
       - name: Setup
         uses: ./.github/actions/setup
-      - name: Build
-        uses: ./.github/actions/build
-        with:
-          netease-phone: ${{ secrets.NETEASE_PHONE }}
-          netease-password: ${{ secrets.NETEASE_PASSWORD }}
-      - name: Check README.md
-        run: cat README.md
       - name: Get actor & short SHA
         id: vars
         run: |
@@ -32,6 +25,13 @@ jobs:
             of this repo
       - name: Check notification.html
         run: cat data/notification.html
+      - name: Build
+        uses: ./.github/actions/build
+        with:
+          netease-phone: ${{ secrets.NETEASE_PHONE }}
+          netease-password: ${{ secrets.NETEASE_PASSWORD }}
+      - name: Check README.md
+        run: cat README.md
       - name: Deploy
         uses: ./.github/actions/deploy
         with:

@@ -1,4 +1,4 @@
-name: "Auto build (scheduled / on dispatch)"
+name: "Build (scheduled / on dispatch)"
 on:
   workflow_dispatch:
   schedule:

@@ -1,4 +1,4 @@
-<!-- auto generated at Sun Sep 05 2021 17:45:49 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 05 2021 17:46:51 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -16,8 +16,8 @@
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E8%90%8C%E8%90%8C%E5%93%92&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/萌萌哒-x1-ff69b4?style=flat"></a>
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20OIer&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/OIer-x1-important?style=flat"></a>
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20C%2B%2B&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/C++-x1-informational?style=flat"></a>
-<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20JavaScript&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/JavaScript-x0-red?style=flat"></a>
-<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20TypeScript&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/TypeScript-x0-blue?style=flat"></a>
+<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20JavaScript&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/JavaScript-x1-red?style=flat"></a>
+<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20TypeScript&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/TypeScript-x1-blue?style=flat"></a>
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20Python&body=%0A**NOT%20WORKS%20YET**%0A%0AYou%20DON'T%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60%20or%20you%20can%20...%0A*%20vote%20multiple%20tags%20at%20the%20same%20time%2C%20usage%3A%20change%20issue%20title%20to%20%60%3E%20vote%20%3Ctag1%3E%2C%3Ctag2%3E%2C%3Ctag3%3E%2C...%60%0A><img src="https://shields.io/badge/Python-x0-yellow?style=flat"></a>
 
 </p>
@@ -102,5 +102,5 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
 </table>
 
 <sub>Notification: <a href=https://github.com/memset0>memset0</a> voted tag(s) of me.
-at 2021-09-05 17:45:42
+at 2021-09-05 17:46:43
 </sub>

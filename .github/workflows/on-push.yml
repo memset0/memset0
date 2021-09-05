@@ -29,6 +29,8 @@ jobs:
             <a href="https://github.com/${{ steps.vars.outputs.ACTOR }}">${{ steps.vars.outputs.ACTOR }}</a>
             committed
             <a href="https://github.com/memset0/memset0/commit/${{ steps.vars.outputs.SHA }}"><code>${{ steps.vars.outputs.SHA_SHORT }}</code></a>
+      - name: Check notification.html
+        run: cat notification.html
       - name: Deploy
         uses: ./.github/actions/deploy
         with:

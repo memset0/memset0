@@ -33,7 +33,7 @@ export default function () {
 		
 			#### ✨ Github Stats
 
-			![](${link.github_stats})
+			<img src="${link.github_stats}" height="150" />
 
 		</td>
 		<td valign="top" width="50%">

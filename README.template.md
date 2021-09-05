@@ -7,6 +7,6 @@
 </p>
 
 <table width="800px">
-{{ github-stat }}
 {{ activity }}
+{{ github-stat }}
 </table>

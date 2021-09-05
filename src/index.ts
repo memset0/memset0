@@ -17,11 +17,16 @@ const template = readFileSync(template_file_path).toString();
 
 const render = new Render(template);
 
-(async () => {
-	for (const module of modules) {
-		const func = require(`./modules/${module}.ts`).default;
-		render.apply(module, await func());
-	}
+Promise.all(modules.map(module => new Promise(async (resolve) => {
+	const func = require(`./modules/${module}.ts`).default;
+	return await func();
 
-	writeFileSync(target_file_path, render.render());
-})();
+}))).then((res: string[]) => {
+	for (const i in modules) {
+		const module = modules[i];
+		const content = res[i];
+		render.apply(module, content);
+	}
+	
+	writeFileSync(target_file_path, render.render())
+});

@@ -1,0 +1,31 @@
+name: "Build (on star)"
+on:
+  watch:
+    types: started
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup
+        uses: ./.github/actions/setup
+      - name: Build
+        uses: ./.github/actions/build
+        with:
+          netease-phone: ${{ secrets.NETEASE_PHONE }}
+          netease-password: ${{ secrets.NETEASE_PASSWORD }}
+      - name: Check README.md
+        run: cat README.md
+      - name: Notification
+        uses: ./.github/actions/notification
+        with:
+          content: >-
+            <a href="https://github.com/${{ github.event.sender.id }}">${{ github.event.sender.id }}</a>
+            started this repo
+      - name: Check notification.html
+        run: cat data/notification.html
+      - name: Deploy
+        uses: ./.github/actions/deploy
+        with:
+          message: Build
+          github-token: ${{ secrets.GITHUB_TOKEN }}

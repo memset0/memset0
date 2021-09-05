@@ -1,4 +1,4 @@
-name: Build
+name: Deploy
 inputs:
   message:
     description: message of git commit

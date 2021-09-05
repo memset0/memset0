@@ -22,13 +22,16 @@ export default async function () {
 			`
 				**NOT WORKS YET**	
 
-				You don't need to any thing else, just click \`Submit new issue\` or you can ...
-				* vote multiple tags at the same time, usage: \`> vote <tag1>,<tag2>,...\`
+				You DON'T need to anything else, just click \`Submit new issue\` or you can ...
+				* vote multiple tags at the same time, usage: change issue title to \`> vote <tag1>,<tag2>,<tag3>,...\`
 			`.replace(/\t/g, ''),
 		);
 		console.log('[tag]', tag, data, badge_link);
 
-		res += `<a href=${issue_link}><img src="${badge_link}"></a>`;
+		res += `<a href=${issue_link}><img src="${badge_link}"></a>\n`;
+		if (data.new_line_after) {
+			res += '<br>\n';
+		}
 	}
 
 	return res;

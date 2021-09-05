@@ -16,8 +16,4 @@
 
 </table>
 
-<small>Notification: 
-
-{{ notification }}
-
-</small>
+<small>Notification: {{ notification }}</small>

@@ -26,9 +26,9 @@ jobs:
         with:
           # time: enable
           content: >-
-            [${{ steps.vars.outputs.ACTOR }}](https://github.com/${{ steps.vars.outputs.ACTOR }}) 
-            committed 
-            [`${{ steps.vars.outputs.SHA_SHORT }}`](https://github.com/memset0/memset0/commit/${{ steps.vars.outputs.SHA }}) 
+            <a href="https://github.com/${{ steps.vars.outputs.ACTOR }}">${{ steps.vars.outputs.ACTOR }}</a>
+            committed
+            <a href="https://github.com/memset0/memset0/commit/${{ steps.vars.outputs.SHA }}"><code>${{ steps.vars.outputs.SHA_SHORT }}</code></a>
       - name: Deploy
         uses: ./.github/actions/deploy
         with:

@@ -10,11 +10,9 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - name: Echo content
+    - name: Echo
       shell: bash
       run: |
-        echo "${{ inputs.content }}" > notification.md
-    - name: Echo time
-      shell: bash
+        echo "${{ inputs.content }}" > data/notification.html
+        echo "at $(date "+%Y-%m-%d %H:%M:%S")" >> data/notification.html
       run: |
-        echo "at $(date "+%Y-%m-%d %H:%M:%S")" >> notification.md

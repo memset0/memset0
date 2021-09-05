@@ -1,0 +1,8 @@
+username: memset0
+hide_border: true
+hide_title: true
+github-stats:
+  include_all_commits: true
+  count_private: true
+top-langs:
+  layout: compact

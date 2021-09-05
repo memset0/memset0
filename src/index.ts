@@ -6,7 +6,8 @@ import { Render } from './render';
 
 const modules = [
 	'social-app',
-	'activity'
+	'github-stat',
+	'activity',
 ];
 
 const template_file_path = path.join(__dirname, '../README.template.md');

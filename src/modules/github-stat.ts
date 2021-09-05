@@ -40,7 +40,7 @@ export default function () {
 		
 			#### 🌐 Top Languages
 
-			![](${link.top_langs})
+			<img src="${link.top_langs}" height="135" />
 
 		</td>
 		</tr>

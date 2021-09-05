@@ -7,6 +7,6 @@ github-stats:
   disable_animations: true
   show_icons: true
   hide_rank: true
-  line_height: 25
+  line_height: 22
 top-langs:
   layout: compact

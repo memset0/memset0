@@ -1,5 +1,7 @@
 <p align="center">
-  {{ social-app }}
+
+{{ social-app }}
+
 </p>
 
 <p align="center">
@@ -7,6 +9,15 @@
 </p>
 
 <table width="800px">
+
 {{ activity }}
+
 {{ github-stat }}
+
 </table>
+
+<small>Notification: 
+
+{{ notification }}
+
+</small>

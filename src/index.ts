@@ -8,6 +8,7 @@ const modules = [
 	'social-app',
 	'github-stat',
 	'activity',
+	'notification',
 ];
 
 const template_file_path = path.join(__dirname, '../README.template.md');

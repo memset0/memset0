@@ -1,0 +1,36 @@
+name: "Build"
+on:
+  push:
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup
+        uses: ./.github/actions/setup
+      - name: Build
+        uses: ./.github/actions/build
+        with:
+          netease-phone: ${{ secrets.NETEASE_PHONE }}
+          netease-password: ${{ secrets.NETEASE_PASSWORD }}
+      - name: Check README.md
+        run: cat README.md
+      - name: Get actor & short SHA
+        id: vars
+        run: |
+          echo "::set-output name=ACTOR ::$GITHUB_ACTOR"
+          echo "::set-output name=SHA ::$GITHUB_SHA"
+          echo "::set-output name=SHA_SHORT ::$(git rev-parse --short HEAD)"
+      - name: Notification
+        uses: ./.github/actions/notification
+        with:
+          time: enable
+          content: >-
+            [${{ steps.vars.outputs.ACTOR }}](https://github.com/${{ steps.vars.outputs.ACTOR }}) 
+            committed 
+            [`${{ steps.vars.outputs.SHA_SHORT }}`](https://github.com/memset0/memset0/commit/${{ steps.vars.outputs.SHA }}) 
+      - name: Deploy
+        uses: ./.github/actions/deploy
+        with:
+          message: Build
+          github-token: ${{ secrets.GITHUB_TOKEN }}

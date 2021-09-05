@@ -1,0 +1,21 @@
+name: Notification
+inputs:
+  time:
+    description: enable/disable show time
+    required: true
+    default: disable
+  content:
+    description: 
+    required: true
+runs:
+  using: "composite"
+  steps:
+    - name: Echo content
+      shell: bash
+      run: |
+        echo "${{ inputs.content }}" > notification.md
+    - name: Echo time
+      if: ${{ inputs.date == 'enable' }}
+      shell: bash
+      run: |
+        echo "at $(date "+%Y-%m-%d %H:%M:%S")" >> notification.md

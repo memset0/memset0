@@ -1,6 +1,5 @@
 name: "Build"
 on:
-  push:
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
@@ -21,5 +20,5 @@ jobs:
       - name: Deploy
         uses: ./.github/actions/deploy
         with:
-          message: Build
+          message: Scheduled/Dispatched Build
           github-token: ${{ secrets.GITHUB_TOKEN }}

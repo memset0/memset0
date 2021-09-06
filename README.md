@@ -1,4 +1,4 @@
-<!-- auto generated at Mon Sep 06 2021 15:56:45 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Sep 06 2021 16:02:58 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -80,12 +80,12 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=455812792"><strong>【中日双语】幻化成风（翻自 梁静茹/辻亚弥乃） </strong></a> - 拉面儿
 * <a href="https://music.163.com/#/song?id=1429805487"><strong>低空飞行（翻自 沈以诚） </strong></a> - 小头菜
 * <a href="https://music.163.com/#/song?id=446247397"><strong>前前前世（Slow Ver.）</strong></a> - 泠鸢yousa
 * <a href="https://music.163.com/#/song?id=1344874921"><strong>繁华唱遍（泠鸢翻唱版）（翻自 乐正绫 调教：纳兰寻风） </strong></a> - 泠鸢yousa
 * <a href="https://music.163.com/#/song?id=393858"><strong>夜降り萃梦郷 ~ A Reverie of Dolls and Stellula</strong></a> - 流月, 瑶山百霊
 * <a href="https://music.163.com/#/song?id=28219120"><strong>輝く針の小人族　～ Little Princess</strong></a> - 上海アリス幻樂団
-* <a href="https://music.163.com/#/song?id=1422212205"><strong>我的果汁分你一半</strong></a> - 小头菜
 
 <!-- table line=1 raw=1 end -->
 </td></tr>
@@ -109,6 +109,5 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
  -->
 </table>
 
-<p align="right"><sub>Last updated: <a href=https://github.com/memset0><strong>@memset0</strong></a> committed <a href=https://github.com/memset0/memset0/commit/1c9ea6733171c602ca1a192634b98892fe02cab2><strong><code>1c9ea67</code></strong></a> to this repo
-at 2021-09-06 15:56:37
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/f724216975e03f52a9ca6b593b73628cab189742><strong><code>f724216</code></strong></a> to this repo  at 2021-09-06 16:02:50 
 </sub></p>

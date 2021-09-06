@@ -1,6 +1,6 @@
 import { load } from 'cheerio';
 import { get, agent } from 'superagent';
-import { assetLink, generateTable,TableCell } from '../utils';
+import { assetLink, generateTable, TableCell } from '../utils';
 
 const max_length = 6;
 
@@ -127,7 +127,7 @@ async function crawlFavoriteMusic() {
 			console.log('[crawl-favorite-music]', id, name, artist);
 
 			return `* 
-				<a href="https://music.163.com/#/song?id=${id}"><strong>${name}</strong></a>
+				<a href="https://music.163.com/#/song?id=${id}"><strong>${name}</strong></a> 
 				- ${artist}
 			`.replace(/[\t\n]/g, '');
 		}).join('\n');
@@ -160,7 +160,7 @@ export default async function () {
 	}, {
 		params: { width: '50%' },
 		content: '#### ✍️ My Blogs\n\n' + data.recent_blogs,
-	}],[{
+	}], [{
 		params: { width: '50%' },
 		content: '#### 👨‍💻 Followed Users\n\n' + data.followed_users,
 	}, {

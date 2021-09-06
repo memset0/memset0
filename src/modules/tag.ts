@@ -78,14 +78,14 @@ export default async function () {
 		path.join(__dirname, '../../pages/tags.md'),
 		'<p align="center">' + '<table width="1200px">' +
 		generateTable(sorted_data.map((cell: Tag): TableCell[] => [{
-			content: `<a href="${cell.issue_link})"><img src="${cell.badge}" /></a>`,
+			content: `<a href="${cell.issue_link}"><img src="${cell.badge}"></a>`,
 			params: {
 				align: 'center',
 				valign: 'middle',
 				width: '20%',
 			}
 		}, {
-			content: cell.users.map(user => `<a href="https://github.com/${user}"><img src="https://avatars.githubusercontent.com/${user}" height="40"/></a>`).join(''),
+			content: cell.users.map(user => `<a href="https://github.com/${user}"><img src="https://avatars.githubusercontent.com/${user}" height="40"></a>`).join(''),
 			params: {
 				width: '80%',
 			}

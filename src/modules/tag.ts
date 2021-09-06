@@ -12,6 +12,7 @@ export default interface Tag {
 	badge?: string,
 	users?: string[],
 	multiply?: number,
+	issue_link?: string,
 	new_line_after?: boolean,
 }
 
@@ -51,21 +52,23 @@ export default async function () {
 
 	for (const tag in tag_data) {
 		const data = tag_data[tag];
-		const issue_link = createIssueLink(
+		console.log('[tag]', tag, data.votes, data.users.length);
+
+		data.badge = createBadge(tag, 'x' + data.votes, data.color);
+		data.issue_link = createIssueLink(
 			`> vote ${tag}`,
 			`
 				You **DON'T** need to anything else, just click **\`Submit new issue\`**.
 
 				#### Notice
 
+				* You can view statistics [here](https://github.com/memset0/memset0/blob/master/pages/tags.md).
 				* You can vote for multiple tags at the same time, by changing title of issue to \`> vote <tag1>,<tag2>,...\`
 				* You can vote as many times as you want, but for the same tag, only one vote would be calculated per 12 hours.
 			`.replace(/\t/g, ''),
 		);
-		console.log('[tag]', tag, data.votes, data.users.length);
 
-		data.badge = createBadge(tag, 'x' + data.votes, data.color);
-		res += `<a href=${issue_link}><img src="${data.badge}"></a>\n`;
+		res += `<a href=${data.issue_link}><img src="${data.badge}"></a>\n`;
 		if (data.new_line_after) {
 			res += '<br>\n';
 		}
@@ -75,7 +78,7 @@ export default async function () {
 		path.join(__dirname, '../../pages/tags.md'),
 		'<p align="center">' + '<table width="1200px">' +
 		generateTable(sorted_data.map((cell: Tag): TableCell[] => [{
-			content: `<img src="${cell.badge}" />`,
+			content: `[![](${cell.badge})](${cell.issue_link})`,
 			params: {
 				align: 'center',
 				valign: 'middle',

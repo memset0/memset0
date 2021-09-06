@@ -58,7 +58,7 @@ export default async function () {
 		data.issue_link = createIssueLink(
 			`> vote ${tag}`,
 			`
-				You **DON'T** need to anything else, just click **\`Submit new issue\`**.
+				You don't need to anything else, just click \`Submit new issue\`.
 
 				#### Notice
 

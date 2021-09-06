@@ -67,5 +67,5 @@ export default async function (command: string[], args: ExecArgs): Promise<void>
 	console.log('[exec-vote]', available_tag, result);
 
 	await asyncSaveData('votes.yml', YAML.stringify(data));
-	fs.writeFileSync(path.join(__dirname, '../.comments.md'), comments);
+	fs.writeFileSync(path.join(__dirname, '../../.comments.md'), comments);
 }

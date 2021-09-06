@@ -73,7 +73,7 @@ export default async function () {
 
 	fs.writeFileSync(
 		path.join(__dirname, '../../pages/tags.md'),
-		'<table width="1200px">' + '<p align="center">' +
+		'<p align="center">' + '<table width="1200px">' +
 		generateTable(sorted_data.map((cell: Tag): TableCell[] => [{
 			content: `<img src="${cell.badge}" />`,
 			params: {
@@ -82,12 +82,12 @@ export default async function () {
 				width: '20%',
 			}
 		}, {
-			content: cell.users.map(user => `<img src="https://avatars.githubusercontent.com/${user}" height="40"/>`).join(''),
+			content: cell.users.map(user => `<a href="https://github.com/${user}"><img src="https://avatars.githubusercontent.com/${user}" height="40"/></a>`).join(''),
 			params: {
 				width: '80%',
 			}
 		}])) +
-		'</p>' + '</table>'
+		'</table>' + '</p>'
 	);
 
 	return res;

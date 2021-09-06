@@ -72,7 +72,7 @@
 <!-- table line=8 raw=1 end -->
 </td></tr><tr><td valign="middle" align="center" width="20%" >
 <!-- table line=9 raw=0 start -->
-<a href="https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20Python&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A"><img src="https://shields.io/badge/Python-x1-yellow?style=flat"></a>
+<a href="https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20Python&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A"><img src="https://shields.io/badge/Python-x2-yellow?style=flat"></a>
 <!-- table line=9 raw=0 end -->
 </td><td valign="top" width="80%" >
 <!-- table line=9 raw=1 start -->
@@ -96,7 +96,7 @@
 <!-- table line=11 raw=1 end -->
 </td></tr><tr><td valign="middle" align="center" width="20%" >
 <!-- table line=12 raw=0 start -->
-<a href="https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20Github&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A"><img src="https://shields.io/badge/Github-x1-24292F?style=flat"></a>
+<a href="https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20Github&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A"><img src="https://shields.io/badge/Github-x2-24292F?style=flat"></a>
 <!-- table line=12 raw=0 end -->
 </td><td valign="top" width="80%" >
 <!-- table line=12 raw=1 start -->

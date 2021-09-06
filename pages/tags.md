@@ -1,4 +1,4 @@
-<table width="1200px"><tr><td valign="middle" align="center" width="20%" >
+<table width="1200px"><p align="center"><tr><td valign="middle" align="center" width="20%" >
 <!-- table line=0 raw=0 start -->
 <img src="https://shields.io/badge/女孩纸-x5-E16B8C?style=flat" />
 <!-- table line=0 raw=0 end -->
@@ -102,4 +102,4 @@
 <!-- table line=12 raw=1 start -->
 <img src="https://avatars.githubusercontent.com/memset0" height="40"/>
 <!-- table line=12 raw=1 end -->
-</td></tr></table>
+</td></tr></p></table>

@@ -71,19 +71,24 @@ export default async function () {
 		}
 	}
 
-	fs.writeFileSync(path.join(__dirname, '../../pages/tags.md'), '<table width="1200px">' + generateTable(sorted_data.map((cell: Tag): TableCell[] => [{
-		content: `<img src="${cell.badge}" />`,
-		params: {
-			align: 'center',
-			valign: 'middle',
-			width: '20%',
-		}
-	}, {
-		content: cell.users.map(user => `<img src="https://avatars.githubusercontent.com/${user}" height="40"/>`).join(''),
-		params: {
-			width: '80%',
-		}
-	}])) + '</table>');
+	fs.writeFileSync(
+		path.join(__dirname, '../../pages/tags.md'),
+		'<table width="1200px">' + '<p align="center">' +
+		generateTable(sorted_data.map((cell: Tag): TableCell[] => [{
+			content: `<img src="${cell.badge}" />`,
+			params: {
+				align: 'center',
+				valign: 'middle',
+				width: '20%',
+			}
+		}, {
+			content: cell.users.map(user => `<img src="https://avatars.githubusercontent.com/${user}" height="40"/>`).join(''),
+			params: {
+				width: '80%',
+			}
+		}])) +
+		'</p>' + '</table>'
+	);
 
 	return res;
 }

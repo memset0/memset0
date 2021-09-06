@@ -1,4 +1,4 @@
-<!-- auto generated at Mon Sep 06 2021 15:40:02 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Sep 06 2021 15:42:46 GMT+0000 (Coordinated Universal Time) -->
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -7,7 +7,7 @@
 <a href="https://space.bilibili.com/76334046"><img src="https://custom-icon-badges.herokuapp.com/badge/-bilibili-fb7299?logo=bilibili-v2&style=flat" alt="bilibili"></a>
 <a href="https://music.163.com/#/user/home?id=407233351"><img src="https://custom-icon-badges.herokuapp.com/badge/-163Music-ea2000?logo=netease-music-v3&style=flat" alt="netease-music"></a>
 <a href="https://codeforces.com/profile/memset0c"><img src="https://custom-icon-badges.herokuapp.com/badge/-Codeforces-white?logo=codeforces-32x&style=flat" alt="codeforces"></a>
-<a href="https://uoj.ac/user/profile/memset0"><img src="https://custom-icon-badges.herokuapp.com/badge/-UOJ-eac51b?logo=uoj&style=flat" alt="uoj"></a>
+<a href="https://uoj.ac/user/profile/memset0"><img src="https://custom-icon-badges.herokuapp.com/badge/-UOJ-3acb3f?logo=uoj&style=flat" alt="uoj"></a>
 <a href="https://vjudge.net/user/memset0"><img src="https://custom-icon-badges.herokuapp.com/badge/-VJudge-373a3c?logo=vjudge&style=flat" alt="vjudge"></a>
 
 </p>
@@ -109,6 +109,6 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
  -->
 </table>
 
-<p align="right"><sub>Last updated: <a href=https://github.com/memset0><strong>@memset0</strong></a> committed <a href=https://github.com/memset0/memset0/commit/3b97fa0db66692aa40fa2f32088dca81f2b3b5d5><strong><code>3b97fa0</code></strong></a> to this repo
-at 2021-09-06 15:39:54
+<p align="right"><sub>Last updated: <a href=https://github.com/memset0><strong>@memset0</strong></a> committed <a href=https://github.com/memset0/memset0/commit/e9d5b2f32fa3170cce6328b02388d4d5d7f9b617><strong><code>e9d5b2f</code></strong></a> to this repo
+at 2021-09-06 15:42:41
 </sub></p>

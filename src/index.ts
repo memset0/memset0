@@ -73,7 +73,7 @@ export async function exec(command_string: string, args: ExecArgs): Promise<void
 				}
 			}
 		for (let i = data.length - 1; i >= 0; i--) {
-			if (data[i].time - now > 1000 * 60 * 60 * 12) break;
+			if (now - data[i].time > 1000 * 60 * 60 * 12) break;
 			for (const key of tag)
 				if (result[key] == success) {
 					if (data[i].user == issue_user && data[i].tag.includes(key)) {

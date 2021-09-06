@@ -24,8 +24,12 @@ export default async function () {
 		const issue_link = createIssueLink(
 			`> vote ${tag}`,
 			`
-				You DON'T need to anything else, just click \`Submit new issue\` or you can ...
-				* vote multiple tags at the same time, usage: change issue title to \`> vote <tag1>,<tag2>,<tag3>,...\`
+				You **DON'T** need to anything else, just click **\`Submit new issue\`**.
+
+				#### Notice
+
+				* You can vote for multiple tags at the same time, by changing title of issue to \`> vote <tag1>,<tag2>,...\`
+				* You can vote as many times as you want, but for the same tag, only one vote would be calculated per 12 hours.
 			`.replace(/\t/g, ''),
 		);
 		console.log('[tag]', tag, data, badge_link);

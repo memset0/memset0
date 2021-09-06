@@ -77,7 +77,7 @@ export async function exec(command_string: string, args: ExecArgs): Promise<void
 			for (const key of tag)
 				if (result[key] == success) {
 					if (data[i].user == issue_user && data[i].tag.includes(key)) {
-						result[key] = 'Failed, you could only vote the same tag per 12 hours.';
+						result[key] = 'Failed, you could only vote for the same tag per 12 hours.';
 					}
 				}
 		}
@@ -99,7 +99,7 @@ export async function exec(command_string: string, args: ExecArgs): Promise<void
 			if (available_tag.length == 1) {
 				comments += 'Your vote for `' + available_tag[0] + '` tag is ';
 			} else {
-				comments += 'Your votes for ' + available_tag.slice(0, -1).map(x => '`' + x + '`').join(', ') + 'and `' + available_tag[available_tag.length - 1] + '` tags are'
+				comments += 'Your votes for ' + available_tag.slice(0, -1).map(x => '`' + x + '`').join(', ') + 'and `' + available_tag[available_tag.length - 1] + '` tags are '
 			}
 			comments += 'calculated successfully, and will be published soon.\n\n';
 		} else {

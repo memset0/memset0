@@ -63,7 +63,7 @@ export default async function () {
 				#### Notice
 
 				* You can view statistics [here](https://github.com/memset0/memset0/blob/master/pages/tags.md).
-				* You can vote for multiple tags at the same time, by changing title of issue to \`> vote <tag1>,<tag2>,...\`
+				* You can vote for multiple tags at the same time, by changing title of issue to \`> vote <tag1> <tag2> <tag3> ...\`
 				* You can vote as many times as you want, but for the same tag, only one vote would be calculated per 12 hours.
 			`.replace(/\t/g, ''),
 		);

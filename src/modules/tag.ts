@@ -75,7 +75,11 @@ export default async function () {
 	}
 
 	fs.writeFileSync(path.join(__dirname, '../../pages/tags.md'), '<table width="1200px">' + generateTable(sorted_data.map((cell: Tag): TableCell[] => [{
-		content: `![](${cell.image})`
+		content: `<img src="${cell.image}" />`,
+		params: {
+			align: 'center',
+			valign: 'middle',
+		}
 	}, {
 		content: cell.users.map(user => `<img src="https://avatars.githubusercontent.com/${user}" height="36"/>`).join('')
 	}])) + '</table>');

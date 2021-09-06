@@ -46,9 +46,9 @@ export function generateTable(data: TableCell[][]): string {
 			}, cell.params || {});
 
 			res += '<td ' + Object.keys(params).map(x => x + '="' + params[x] + '"').join(' ') + ' >';
-			res += `\n<!-- table line=${i} raw=${j} start -->\n\n`;
+			res += `\n<!-- table line=${i} raw=${j} start -->\n`;
 			res += cell.content;
-			res += `\n\n<!-- table line=${i} raw=${j} end -->\n`;
+			res += `\n<!-- table line=${i} raw=${j} end -->\n`;
 			res += '</td>';
 		}
 

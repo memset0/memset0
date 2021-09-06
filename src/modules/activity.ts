@@ -156,16 +156,16 @@ export default async function () {
 
 	return generateTable([[{
 		params: { width: '50%' },
-		content: '#### 🌟 Starred Repos\n\n' + data.starred_repos,
+		content: '\n\n#### 🌟 Starred Repos\n\n' + data.starred_repos + '\n\n',
 	}, {
 		params: { width: '50%' },
-		content: '#### ✍️ My Blogs\n\n' + data.recent_blogs,
+		content: '\n\n#### ✍️ My Blogs\n\n' + data.recent_blogs + '\n\n',
 	}], [{
 		params: { width: '50%' },
-		content: '#### 👨‍💻 Followed Users\n\n' + data.followed_users,
+		content: '\n\n#### 👨‍💻 Followed Users\n\n' + data.followed_users + '\n\n',
 	}, {
 		params: { width: '50%' },
-		content: '#### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))\n\n' + data.favorite_music,
+		content: '\n\n#### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))\n\n' + data.favorite_music + '\n\n',
 	}]]);
 }
 

@@ -13,8 +13,8 @@ runs:
     - name: Echo content
       shell: bash
       run: |
-        echo "${{ inputs.content }}" > data/notification.html
+        echo "${{ inputs.content }}" > pages/notification.md
     - name: Echo time
       shell: bash
       run: |
-        echo "at $(date "+%Y-%m-%d %H:%M:%S")" >> data/notification.html
+        echo "at $(date "+%Y-%m-%d %H:%M:%S")" >> pages/notification.md

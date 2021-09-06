@@ -16,7 +16,7 @@ jobs:
             <a href="https://github.com/${{ github.event.sender.login }}">${{ github.event.sender.login }}</a>
             started this repo
       - name: Check notification.html
-        run: cat data/notification.html
+        run: cat pages/notification.md
       - name: Build
         uses: ./.github/actions/build
         with:

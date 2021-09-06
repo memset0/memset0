@@ -43,7 +43,7 @@ export function generateTable(data: TableCell[][]): string {
 			const cell = line[j];
 			const params = Object.assign({
 				valign: 'top'
-			}, cell.params);
+			}, cell.params || {});
 
 			res += '<td ' + Object.keys(params).map(x => x + '="' + params[x] + '"').join(' ') + ' >';
 			res += `\n<!-- table line=${i} raw=${j} start -->\n\n`;

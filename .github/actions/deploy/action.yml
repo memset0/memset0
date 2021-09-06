@@ -10,11 +10,18 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - name: Commit changes
+    - name: Git pull
+      shell: bash
+      run: |
+        git pull
+    - name: Configure git
       shell: bash
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
+    - name: Commit changes
+      shell: bash
+      run: |
         git commit -m "${{ inputs.message }}" -a
     - name: Git push
       uses: ad-m/github-push-action@master

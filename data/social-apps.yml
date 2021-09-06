@@ -16,7 +16,7 @@ zhihu:
 bilibili:
   text: bilibili
   color: fb7299
-  icon: bilibili-favicon
+  icon: bilibili-v2
   link: https://space.bilibili.com/76334046
 netease-music:
   text: 163Music
@@ -28,11 +28,11 @@ codeforces:
   color: white
   icon: codeforces-32x
   link: https://codeforces.com/profile/memset0c
-# uoj:
-#   text: UOJ
-#   color: white
-#   icon: uoj
-#   link: https://uoj.ac/user/profile/memset0
+uoj:
+  text: UOJ
+  color: eac51b
+  icon: uoj
+  link: https://uoj.ac/user/profile/memset0
 vjudge:
   text: VJudge
   color: 373a3c

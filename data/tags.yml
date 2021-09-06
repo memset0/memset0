@@ -1,18 +1,17 @@
 OIer:
   color: brightgreen
-  multiply: 2
+  multiply: 5
 聪明:
-  color: 86C166
-  multiply: 3
+  color: 2EA9DF
+  multiply: 2
 温柔:
   color: EB7A77
-  multiply: 3
+  multiply: 2
 可爱:
   color: blueviolet
-  multiply: 4
+  multiply: 3
 女孩纸:
   color: E16B8C
-  multiply: 2
 萌萌哒:
   color: FF69B4
   multiply: 2
@@ -20,7 +19,7 @@ OIer:
 C++:
   color: 7B90D2
 JavaScript:
-  color: red
+  color: CC2211
 TypeScript:
   color: blue
 Python:

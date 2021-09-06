@@ -78,7 +78,7 @@ export default async function () {
 		path.join(__dirname, '../../pages/tags.md'),
 		'<p align="center">' + '<table width="1200px">' +
 		generateTable(sorted_data.map((cell: Tag): TableCell[] => [{
-			content: `[![](${cell.badge})](${cell.issue_link})`,
+			content: `<a href="${cell.issue_link})"><img src="${cell.badge}" /></a>`,
 			params: {
 				align: 'center',
 				valign: 'middle',

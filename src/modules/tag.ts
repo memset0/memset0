@@ -9,6 +9,7 @@ export default interface Tag {
 	index?: number,
 	votes?: number,
 	image?: string,
+	badge?: string,
 	users?: string[],
 	multiply?: number,
 	new_line_after?: boolean,
@@ -63,14 +64,15 @@ export default async function () {
 		);
 		console.log('[tag]', tag, data.votes, data.users.length);
 
-		res += `<a href=${issue_link}><img src="${createBadge(tag, 'x' + data.votes, data.color)}"></a>\n`;
+		data.badge = createBadge(tag, 'x' + data.votes, data.color);
+		res += `<a href=${issue_link}><img src="${data.badge}"></a>\n`;
 		if (data.new_line_after) {
 			res += '<br>\n';
 		}
 	}
 
 	fs.writeFileSync(path.join(__dirname, '../../pages/tags.md'), '<table width="1200px">' + generateTable(sorted_data.map((cell: Tag): TableCell[] => [{
-		content: `<img src="${cell.image}" />`,
+		content: `<img src="${cell.badge}" />`,
 		params: {
 			align: 'center',
 			valign: 'middle',

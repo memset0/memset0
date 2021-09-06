@@ -4,17 +4,19 @@ inputs:
   #   description: enable/disable show time
   #   required: true
   #   default: disable
-  content:
-    description: 
+  user:
+    description: user who active this action
+    require: true
+  message:
     required: true
 runs:
   using: "composite"
   steps:
-    - name: Echo content
+    - name: Echo
       shell: bash
-      run: |
-        echo "${{ inputs.content }}" > pages/notification.md
-    - name: Echo time
-      shell: bash
-      run: |
-        echo "at $(date "+%Y-%m-%d %H:%M:%S")" >> pages/notification.md
+      run: >-
+        echo "
+        <a href="https://github.com/${{ inputs.user }}"><strong>@${{ inputs.user }}</strong></a> 
+        ${{ inputs.message }} 
+        at $(date "+%Y-%m-%d %H:%M:%S")
+        " > pages/notification.md

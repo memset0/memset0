@@ -17,9 +17,8 @@ jobs:
       - name: Notification
         uses: ./.github/actions/notification
         with:
-          # time: enable
-          content: >-
-            <a href="https://github.com/${{ steps.vars.outputs.ACTOR }}"><strong>@${{ steps.vars.outputs.ACTOR }}</strong></a>
+          user: ${{ steps.vars.outputs.ACTOR }}
+          message: >-
             committed
             <a href="https://github.com/memset0/memset0/commit/${{ steps.vars.outputs.SHA }}"><strong><code>${{ steps.vars.outputs.SHA_SHORT }}</code></strong></a>
             to this repo

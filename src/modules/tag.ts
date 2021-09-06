@@ -41,20 +41,15 @@ export default async function () {
 	}
 
 	const sorted_data = Object.values(tag_data).sort((a: Tag, b: Tag): number => {
-		if (a.votes === b.votes) {
+		if (a.users.length === b.users.length) {
 			return a.index - b.index;
 		} else {
-			return b.votes - a.votes;
+			return b.users.length - a.users.length;
 		}
 	});
 
 	for (const tag in tag_data) {
 		const data = tag_data[tag];
-		const badge_link = createBadge(
-			tag,
-			'x' + data.votes,
-			data.color,
-		);
 		const issue_link = createIssueLink(
 			`> vote ${tag}`,
 			`
@@ -68,7 +63,7 @@ export default async function () {
 		);
 		console.log('[tag]', tag, data.votes, data.users.length);
 
-		res += `<a href=${issue_link}><img src="${badge_link}"></a>\n`;
+		res += `<a href=${issue_link}><img src="${createBadge(tag, 'x' + data.votes, data.color)}"></a>\n`;
 		if (data.new_line_after) {
 			res += '<br>\n';
 		}
@@ -79,9 +74,13 @@ export default async function () {
 		params: {
 			align: 'center',
 			valign: 'middle',
+			width: '20%',
 		}
 	}, {
-		content: cell.users.map(user => `<img src="https://avatars.githubusercontent.com/${user}" height="36"/>`).join('')
+		content: cell.users.map(user => `<img src="https://avatars.githubusercontent.com/${user}" height="40"/>`).join(''),
+		params: {
+			width: '80%',
+		}
 	}])) + '</table>');
 
 	return res;

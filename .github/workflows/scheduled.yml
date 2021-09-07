@@ -17,6 +17,8 @@ jobs:
           netease-password: ${{ secrets.NETEASE_PASSWORD }}
       - name: Check README.md
         run: cat README.md
+      - name: Generate tag cloud image
+        uses: ./.github/actions/tagcloud
       - name: Deploy
         uses: ./.github/actions/deploy
         with:

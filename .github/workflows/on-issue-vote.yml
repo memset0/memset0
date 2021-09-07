@@ -37,6 +37,8 @@ jobs:
         run: cat README.md
       - name: Check tags.md
         run: cat pages/tags.md
+      - name: Generate tag cloud image
+        uses: ./.github/actions/tagcloud
       - name: "Read file contents"
         id: comments
         uses: andstor/file-reader-action@v1

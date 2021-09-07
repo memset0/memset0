@@ -1,6 +1,6 @@
-<!-- auto generated at Tue Sep 07 2021 17:00:44 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Tue Sep 07 2021 17:17:57 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/tagcloud.png?h=ed6e86&c=1631034039162" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/tagcloud.png?h=4d3848&c=1631035072583" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -89,12 +89,12 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=30352537"><strong>RYU'S ENDING</strong></a> - 下村陽子
 * <a href="https://music.163.com/#/song?id=455812792"><strong>【中日双语】幻化成风（翻自 梁静茹/辻亚弥乃） </strong></a> - 拉面儿
 * <a href="https://music.163.com/#/song?id=1429805487"><strong>低空飞行（翻自 沈以诚） </strong></a> - 小头菜
 * <a href="https://music.163.com/#/song?id=446247397"><strong>前前前世（Slow Ver.）</strong></a> - 泠鸢yousa
 * <a href="https://music.163.com/#/song?id=1344874921"><strong>繁华唱遍（泠鸢翻唱版）（翻自 乐正绫 调教：纳兰寻风） </strong></a> - 泠鸢yousa
 * <a href="https://music.163.com/#/song?id=393858"><strong>夜降り萃梦郷 ~ A Reverie of Dolls and Stellula</strong></a> - 流月, 瑶山百霊
-* <a href="https://music.163.com/#/song?id=28219120"><strong>輝く針の小人族　～ Little Princess</strong></a> - 上海アリス幻樂団
 
 
 <!-- table line=1 raw=1 end -->
@@ -119,5 +119,5 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/EtaoinWu><strong>@EtaoinWu</strong></a>  had voted  at 2021-09-07 17:00:36 
+<p align="right"><sub>Last updated:  <a href=https://github.com/undefined-moe><strong>@undefined-moe</strong></a>  had voted  at 2021-09-07 17:17:50 
 </sub></p>

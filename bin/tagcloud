@@ -9,8 +9,8 @@ source_path = path.join(path.abspath(__file__), '../../assets/tag.json')
 target_path = path.join(path.abspath(__file__), '../../assets/tagcloud.png')
 
 wc = WordCloud(background_color="white",
-               width=1200,
-               height=400,
+               width=1000,
+               height=300,
                margin=5,
                font_path=font_path)
 data = json.loads(open(source_path, 'r+', encoding='utf-8').read())
@@ -24,6 +24,6 @@ print(frequencies)
 
 im = wc.generate_from_frequencies(frequencies)
 im.to_file(target_path)
-plt.imshow(im)
-plt.axis("off")
-plt.show()
+# plt.imshow(im)
+# plt.axis("off")
+# plt.show()

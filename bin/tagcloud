@@ -4,9 +4,10 @@ from os import path
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
-font_path = path.join(path.abspath(__file__), '../../assets/font/Lolita.ttf')
-source_path = path.join(path.abspath(__file__), '../../assets/tag.json')
-target_path = path.join(path.abspath(__file__), '../../assets/tagcloud.png')
+dirname = path.split(path.realpath(__file__))[0]
+font_path = path.join(dirname, '../assets/font/Lolita.ttf')
+source_path = path.join(dirname, '../assets/tag.json')
+target_path = path.join(dirname, '../assets/tagcloud.png')
 
 wc = WordCloud(background_color="white",
                width=1000,

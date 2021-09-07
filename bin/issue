@@ -1,4 +1,4 @@
-#!/usr/bin/env ts-node
+#!ts-node
 const repository = process.env.REPOSITORY;
 const issue_id = parseInt(process.env.ISSUE_ID);
 const issue_user = process.env.ISSUE_USER;

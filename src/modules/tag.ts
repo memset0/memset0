@@ -93,5 +93,16 @@ export default async function () {
 		'</table>' + '</p>'
 	);
 
+	fs.writeFileSync(
+		path.join(__dirname, '../../assets/tag.json'),
+		JSON.stringify(Object.fromEntries(Object.keys(tag_data).map(((tag) => {
+			const { name, index, color, votes, image, badge, multiply } = tag_data[tag];
+			return [tag, {
+				name, index, color, votes, image, badge,
+				multiply: multiply || 1,
+			}];
+		})))),
+	);
+
 	return res;
 }

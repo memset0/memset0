@@ -1,0 +1,29 @@
+#!python
+import json
+from os import path
+import matplotlib.pyplot as plt
+from wordcloud import WordCloud
+
+font_path = path.join(path.abspath(__file__), '../../assets/font/Lolita.ttf')
+source_path = path.join(path.abspath(__file__), '../../assets/tag.json')
+target_path = path.join(path.abspath(__file__), '../../assets/tagcloud.png')
+
+wc = WordCloud(background_color="white",
+               width=1200,
+               height=400,
+               margin=5,
+               font_path=font_path)
+data = json.loads(open(source_path, 'r+', encoding='utf-8').read())
+
+length = len(data)
+frequencies = {}
+for tag in data:
+    frequencies[tag] = data[tag]['votes'] * data[tag]['multiply'] + (
+        length - data[tag]['index']) / length
+print(frequencies)
+
+im = wc.generate_from_frequencies(frequencies)
+im.to_file(target_path)
+plt.imshow(im)
+plt.axis("off")
+plt.show()

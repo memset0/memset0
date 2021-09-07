@@ -3,6 +3,7 @@ import { readFileSync, writeFileSync } from 'fs';
 import { Render } from './render';
 
 const modules = [
+	'tag-cloud',
 	'social-app',
 	'tag',
 	'github-stat',

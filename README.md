@@ -1,6 +1,6 @@
-<!-- auto generated at Tue Sep 07 2021 16:31:04 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Tue Sep 07 2021 16:44:46 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/tagcloud.png?h=d32536&c=1631032260688" height="150"></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/tagcloud.png?h=d32536&c=1631033081568" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
 
 #### 🌟 Starred Repos
 
+* [halo-dev / **halo**](https://github.com/halo-dev/halo) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 19k ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 6k 
 * [any86 / **any-touch**](https://github.com/any86/any-touch) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 659 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 70 
 * [ferredoxin / **QNotified**](https://github.com/ferredoxin/QNotified) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 1k ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 263 
 * [bossbaby2005 / **luogu-stats-card**](https://github.com/bossbaby2005/luogu-stats-card) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 9 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 0 
 * [timdream / **wordcloud2.js**](https://github.com/timdream/wordcloud2.js) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 1k ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 458 
 * [ZenithalHourlyRate / **acm**](https://github.com/ZenithalHourlyRate/acm) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 11 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 1 
-* [mirrorz-org / **mirrorz**](https://github.com/mirrorz-org/mirrorz) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 104 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 13 
 
 
 <!-- table line=0 raw=0 end -->
@@ -119,5 +119,5 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/78eb4ec8a6aca4c2d536faf0f35638bce0c14b94><strong><code>78eb4ec</code></strong></a> to this repo  at 2021-09-07 16:30:58 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/c84bee3861f5f9e19b0b092cd488168dd1ad0dc0><strong><code>c84bee3</code></strong></a> to this repo  at 2021-09-07 16:44:39 
 </sub></p>

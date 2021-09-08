@@ -21,3 +21,7 @@ runs:
       shell: bash
       run: |
         python bin/tagcloud
+    - name: Purge CDN cache
+      shell: bash
+      run: |
+        curl https://purge.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png

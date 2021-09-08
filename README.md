@@ -1,6 +1,6 @@
-<!-- auto generated at Wed Sep 08 2021 01:55:24 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Wed Sep 08 2021 02:15:18 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/tagcloud.png?h=37225d&c=1631066117442" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=596342&c=1631067312563" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -119,5 +119,5 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/yezhiyi9670><strong>@yezhiyi9670</strong></a>  had voted  at 2021-09-08 01:55:14 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/420aa5f0f85d5e8801b863c7a6f2a6a5050044a4><strong><code>420aa5f</code></strong></a> to this repo  at 2021-09-08 02:15:10 
 </sub></p>

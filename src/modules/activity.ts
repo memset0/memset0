@@ -155,16 +155,16 @@ export default async function () {
 	res.forEach((res, index) => { data[Object.keys(data)[index]] = res; });
 
 	return generateTable([[{
-		params: { width: '50%' },
+		params: { width: '50%', valign: 'top' },
 		content: '\n\n#### 🌟 Starred Repos\n\n' + data.starred_repos + '\n\n',
 	}, {
-		params: { width: '50%' },
+		params: { width: '50%', valign: 'top' },
 		content: '\n\n#### ✍️ My Blogs\n\n' + data.recent_blogs + '\n\n',
 	}], [{
-		params: { width: '50%' },
+		params: { width: '50%', valign: 'top' },
 		content: '\n\n#### 👨‍💻 Followed Users\n\n' + data.followed_users + '\n\n',
 	}, {
-		params: { width: '50%' },
+		params: { width: '50%', valign: 'top' },
 		content: '\n\n#### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))\n\n' + data.favorite_music + '\n\n',
 	}]]);
 }

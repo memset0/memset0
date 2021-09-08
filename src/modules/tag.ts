@@ -89,6 +89,7 @@ export default async function () {
 			content: cell.users.map(user => `<a href="https://github.com/${user}"><img src="https://avatars.githubusercontent.com/${user}" height="40"></a>`).join(''),
 			params: {
 				width: '80%',
+				valign: 'middle',
 			}
 		}])) +
 		'</table>' + '</p>'

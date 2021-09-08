@@ -2,7 +2,8 @@ import * as path from 'path';
 import * as md5File from 'md5-file';
 import { assetLink } from '../utils';
 
-const image_link = assetLink('/tagcloud.png');
+const image_link = 'https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png';
+// const image_link = assetLink('/tagcloud.png');
 const statistics_link = 'https://github.com/memset0/memset0/blob/master/pages/tags.md';
 
 export default function () {

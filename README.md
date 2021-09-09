@@ -1,6 +1,6 @@
-<!-- auto generated at Wed Sep 08 2021 16:30:46 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Thu Sep 09 2021 00:36:58 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=596342&c=1631118644505" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=da9bae&c=1631147812349" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -34,7 +34,7 @@
 
 <p align="center">
 👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, aka whisperain, a student who would like to be considered as a geek.<br>
-What do you think of me? Just <i><strong>click any of the badges above</strong></i> to vote.
+What do you think of me? <i><strong>Click any of the badges above</strong></i> to vote for tags.
 </p>
 
 <table width="800px">
@@ -44,7 +44,7 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
 
 #### 🌟 Starred Repos
 
-* [solstice23 / **argon-theme**](https://github.com/solstice23/argon-theme) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 1k ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 248 
+* [solstice23 / **argon-theme**](https://github.com/solstice23/argon-theme) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 1k ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 249 
 * [RimoChan / **Librian**](https://github.com/RimoChan/Librian) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 483 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 34 
 * [undefined-moe / **undefined-moe**](https://github.com/undefined-moe/undefined-moe) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 3 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 6 
 * [syzoj / **syzoj-ng**](https://github.com/syzoj/syzoj-ng) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 58 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 7 
@@ -74,12 +74,12 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
 
 #### 👨‍💻 Followed Users
 
+* [**Yichen Mo** <small>amomorning</small>](https://github.com/amomorning/) - Ph.D. student at School of Arc...
 * [**Zenithal** <small>ZenithalHourlyRate</small>](https://github.com/ZenithalHourlyRate/) - 头像是绫波丽 | Avatar Ayanami Rei
 * [**PinkRabbit** <small>GitPinkRabbit</small>](https://github.com/GitPinkRabbit/) - An OIer with dreams.
 * [**solstice23** <small>solstice23</small>](https://github.com/solstice23/)
 * [**Coelacanthus** <small>CoelacanthusHex</small>](https://github.com/CoelacanthusHex/) - OIer, MtF, Rust, C++, Linux
 * [**Heran Yang** <small>HeRaNO</small>](https://github.com/HeRaNO/) - Getting along with desperate.
-* [**Tian Yunhao** <small>t123yh</small>](https://github.com/t123yh/) - 一条来自成都的咸鱼。
 
 
 <!-- table line=1 raw=0 end -->
@@ -119,5 +119,5 @@ What do you think of me? Just <i><strong>click any of the badges above</strong><
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/51b1019f999e714ee0fde4eda9ed6e8e2853ada8><strong><code>51b1019</code></strong></a> to this repo  at 2021-09-08 16:29:03 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/528f6cc8281c55be0ae256a943d0a37c09ba0705><strong><code>528f6cc</code></strong></a> to this repo  at 2021-09-09 00:36:50 
 </sub></p>

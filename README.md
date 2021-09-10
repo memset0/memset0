@@ -1,6 +1,6 @@
-<!-- auto generated at Thu Sep 09 2021 11:51:22 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Fri Sep 10 2021 01:12:33 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ea027b&c=1631188276066" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=55978f&c=1631236346657" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,7 +44,7 @@ What do you think of me? <i><strong>Click any of the badges above</strong></i> t
 
 #### 🌟 Starred Repos
 
-* [solstice23 / **argon-theme**](https://github.com/solstice23/argon-theme) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 1k ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 249 
+* [solstice23 / **argon-theme**](https://github.com/solstice23/argon-theme) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 1k ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 250 
 * [RimoChan / **Librian**](https://github.com/RimoChan/Librian) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 482 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 34 
 * [undefined-moe / **undefined-moe**](https://github.com/undefined-moe/undefined-moe) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 3 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 6 
 * [syzoj / **syzoj-ng**](https://github.com/syzoj/syzoj-ng) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 58 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 7 

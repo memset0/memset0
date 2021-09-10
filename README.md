@@ -1,6 +1,6 @@
-<!-- auto generated at Fri Sep 10 2021 13:15:35 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Fri Sep 10 2021 16:02:31 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ade2fb&c=1631279729246" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=977c0b&c=1631289746199" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -59,12 +59,12 @@ What do you think of me? <i><strong>Click any of the badges above</strong></i> t
 
 #### ✍️ My Blogs
 
+* [从 Python 源码看切片实现](https://memset0.cn/python-slice/) - 2021-09-10
 * [「Petrozavodsk Summer 2020」Parity Sort](https://memset0.cn/petrozavodsk2020-summer-day5-c/) - 2021-01-21
 * [「集训队作业2020」Old Problem](https://memset0.cn/loj3401/) - 2020-12-17
 * [「集训队作业2020」春天，在积雪下结一成形，抽枝发芽](https://memset0.cn/loj3397/) - 2020-12-16
 * [「校内模拟20200810B」分身](https://memset0.cn/contest-20200810-b/) - 2020-11-24
 * [「校内模拟20201118C」张士超你到底把我家钥匙放在哪了？](https://memset0.cn/contest-20201118-c/) - 2020-11-18
-* [博客更新志](https://memset0.cn/about-new-blog/) - 2020-11-01
 
 
 <!-- table line=0 raw=1 end -->
@@ -74,12 +74,12 @@ What do you think of me? <i><strong>Click any of the badges above</strong></i> t
 
 #### 👨‍💻 Followed Users
 
+* [**Kaifeng Lyu** <small>vfleaking</small>](https://github.com/vfleaking/) - 1st-year Princeton CS PhD stud...
+* [**undefined** <small>undefined-moe</small>](https://github.com/undefined-moe/) - 菜鸡开发 学生狗 没啥特长
 * [**Yichen Mo** <small>amomorning</small>](https://github.com/amomorning/) - Ph.D. student at School of Arc...
 * [**Zenithal** <small>ZenithalHourlyRate</small>](https://github.com/ZenithalHourlyRate/) - 头像是绫波丽 | Avatar Ayanami Rei
 * [**PinkRabbit** <small>GitPinkRabbit</small>](https://github.com/GitPinkRabbit/) - An OIer with dreams.
 * [**solstice23** <small>solstice23</small>](https://github.com/solstice23/)
-* [**Coelacanthus** <small>CoelacanthusHex</small>](https://github.com/CoelacanthusHex/) - OIer, MtF, Rust, C++, Linux
-* [**Heran Yang** <small>HeRaNO</small>](https://github.com/HeRaNO/) - Getting along with desperate.
 
 
 <!-- table line=1 raw=0 end -->

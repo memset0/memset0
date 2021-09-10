@@ -1,6 +1,6 @@
-<!-- auto generated at Fri Sep 10 2021 16:05:19 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Fri Sep 10 2021 16:14:45 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=8b53f1&c=1631289914414" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=b2e570&c=1631290479416" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -89,12 +89,12 @@ What do you think of me? <i><strong>Click any of the badges above</strong></i> t
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=434560"><strong>Regret</strong></a> - 細井聡司
+* <a href="https://music.163.com/#/song?id=4922665"><strong>水镜の阳炎</strong></a> - 本田宗, tororo
 * <a href="https://music.163.com/#/song?id=480097786"><strong>幾年月</strong></a> - Mili
 * <a href="https://music.163.com/#/song?id=28467071"><strong>雨が降る</strong></a> - 坂本真綾
 * <a href="https://music.163.com/#/song?id=584155"><strong>いつも何度でも</strong></a> - 伊藤サチコ
 * <a href="https://music.163.com/#/song?id=865857544"><strong>海風を聴く街</strong></a> - 西木康智
-* <a href="https://music.163.com/#/song?id=731419"><strong>风を共に舞う気持ち</strong></a> - Falcom Sound Team jdk
-* <a href="https://music.163.com/#/song?id=865857557"><strong>赤き断崖の集落</strong></a> - 西木康智
 
 
 <!-- table line=1 raw=1 end -->

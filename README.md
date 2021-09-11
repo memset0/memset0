@@ -1,6 +1,6 @@
-<!-- auto generated at Sat Sep 11 2021 08:34:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat Sep 11 2021 10:49:02 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=2401c0&c=1631349282342" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=2401c0&c=1631357336898" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🌟 Starred Repos
 
+* [Uahh / **slscq**](https://github.com/Uahh/slscq) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)128</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)27</sub> 
 * [python / **cpython**](https://github.com/python/cpython) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)40k</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)20k</sub> 
-* [Enter-tainer / **cxx2flow**](https://github.com/Enter-tainer/cxx2flow) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)271</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)16</sub> 
+* [Enter-tainer / **cxx2flow**](https://github.com/Enter-tainer/cxx2flow) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)273</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)16</sub> 
 * [dahlbyk / **posh-git**](https://github.com/dahlbyk/posh-git) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)5k</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)735</sub> 
 * [adobe-fonts / **source-han-serif**](https://github.com/adobe-fonts/source-han-serif) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)5k</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)573</sub> 
-* [infinityedge01 / **ASOUL-Generator-Backend**](https://github.com/infinityedge01/ASOUL-Generator-Backend) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)18</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)1</sub> 
-* [memset0 / **senior-school-technology-lesson**](https://github.com/memset0/senior-school-technology-lesson) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)2</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)0</sub> 
+* [infinityedge01 / **ASOUL-Generator-Backend**](https://github.com/infinityedge01/ASOUL-Generator-Backend) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)19</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)1</sub> 
 
 
 <!-- table line=0 raw=0 end -->

@@ -1,6 +1,6 @@
-<!-- auto generated at Fri Sep 10 2021 16:14:45 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat Sep 11 2021 01:06:35 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=b2e570&c=1631290479416" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=c514eb&c=1631322388650" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? <i><strong>Click any of the badges above</strong></i> t
 
 #### 🌟 Starred Repos
 
+* [infinityedge01 / **ASOUL-Generator-Backend**](https://github.com/infinityedge01/ASOUL-Generator-Backend) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 18 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 1 
 * [memset0 / **senior-school-technology-lesson**](https://github.com/memset0/senior-school-technology-lesson) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 2 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 0 
 * [solstice23 / **argon-theme**](https://github.com/solstice23/argon-theme) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 1k ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 251 
 * [RimoChan / **Librian**](https://github.com/RimoChan/Librian) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 482 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 34 
 * [undefined-moe / **undefined-moe**](https://github.com/undefined-moe/undefined-moe) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 3 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 6 
 * [syzoj / **syzoj-ng**](https://github.com/syzoj/syzoj-ng) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 58 ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 7 
-* [halo-dev / **halo**](https://github.com/halo-dev/halo) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg) 19k ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg) 6k 
 
 
 <!-- table line=0 raw=0 end -->
@@ -89,12 +89,12 @@ What do you think of me? <i><strong>Click any of the badges above</strong></i> t
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=565966059"><strong>夢の中の楽園</strong></a> - 光田康典
 * <a href="https://music.163.com/#/song?id=434560"><strong>Regret</strong></a> - 細井聡司
 * <a href="https://music.163.com/#/song?id=4922665"><strong>水镜の阳炎</strong></a> - 本田宗, tororo
 * <a href="https://music.163.com/#/song?id=480097786"><strong>幾年月</strong></a> - Mili
 * <a href="https://music.163.com/#/song?id=28467071"><strong>雨が降る</strong></a> - 坂本真綾
 * <a href="https://music.163.com/#/song?id=584155"><strong>いつも何度でも</strong></a> - 伊藤サチコ
-* <a href="https://music.163.com/#/song?id=865857544"><strong>海風を聴く街</strong></a> - 西木康智
 
 
 <!-- table line=1 raw=1 end -->

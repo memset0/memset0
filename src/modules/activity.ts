@@ -41,8 +41,8 @@ async function crawlStarredRepos() {
 			console.log('[crawl-starred-repos]', owner, repo, stars, forks);
 			return `* 
 				[${owner} / **${repo}**](https://github.com/${owner}/${repo}) 
-				![](${star_svg_link}) ${stars} 
-				![](${fork_svg_link}) ${forks} 
+				<sub>![](${star_svg_link}) ${stars}</sub> 
+				<sub>![](${fork_svg_link}) ${forks}</sub> 
 			`.replace(/[\t\n]/g, '');
 		})
 		.join('\n');
@@ -69,7 +69,7 @@ async function crawlFollowedUsers() {
 
 			console.log('[crawl-followed-users]', name, uid, description);
 			return `* 
-				[**${name}** <small>${uid}</small>](https://github.com/${uid}/)
+				[**${name}** <sub>${uid}</sub>](https://github.com/${uid}/)
 				${description ? ' - ' : ''}${description}
 			`.replace(/[\t\n]/g, '');
 		})

@@ -41,8 +41,8 @@ async function crawlStarredRepos() {
 			console.log('[crawl-starred-repos]', owner, repo, stars, forks);
 			return `* 
 				[${owner} / **${repo}**](https://github.com/${owner}/${repo}) 
-				<sub>![](${star_svg_link}) ${stars}</sub> 
-				<sub>![](${fork_svg_link}) ${forks}</sub> 
+				<sub>![](${star_svg_link})${stars}</sub> 
+				<sub>![](${fork_svg_link})${forks}</sub> 
 			`.replace(/[\t\n]/g, '');
 		})
 		.join('\n');
@@ -69,7 +69,7 @@ async function crawlFollowedUsers() {
 
 			console.log('[crawl-followed-users]', name, uid, description);
 			return `* 
-				[**${name}** <sub>${uid}</sub>](https://github.com/${uid}/)
+				[**${name}** ${uid}](https://github.com/${uid}/)
 				${description ? ' - ' : ''}${description}
 			`.replace(/[\t\n]/g, '');
 		})
@@ -128,7 +128,7 @@ async function crawlFavoriteMusic() {
 			const artist = music.ar.slice(0, 3).map(o => o.name).join(', ');
 			const album = music.al?.name;
 			const album_id = music.al?.id;
-			const picurl = music.al?.picUrl;
+			// const picurl = music.al?.picUrl;
 
 			console.log('[crawl-favorite-music]', id, name, artist, album);
 

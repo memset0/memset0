@@ -94,12 +94,15 @@ async function crawlRecentBlogs() {
 			const month = chineseNumbers.findIndex((x) => x == date.split(' ')[0].slice(0, -1)) + 1;
 			const day = parseInt(date.split(' ')[1].slice(0, -1));
 
+			const s_year = String(year);
+			const s_month = (month < 10 ? '0' : '') + String(month);
+			const s_day = (day < 10 ? '0' : '') + String(day);
+
 			console.log('[crawl-recent-blogs]', title, link, year, month, day);
 
-			return `* 
-				[${title}](https://memset0.cn${link}) - 
-				${year}-${month < 10 ? '0' : ''}${month}-${day < 10 ? '0' : ''}${day}
-			`.replace(/[\t\n]/g, '');
+			return '* ' +
+				`[${title}](https://memset0.cn${link}) ` +
+				`- ${s_day}/${s_month}/${s_year}`;
 		})
 		.join('\n');
 }

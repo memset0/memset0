@@ -18,5 +18,5 @@ runs:
         echo "
         <a href="https://github.com/${{ inputs.user }}"><strong>@${{ inputs.user }}</strong></a> 
         ${{ inputs.message }} 
-        at $(date "+%Y-%m-%d %H:%M:%S")
+        at $(date "+%d/%m/%Y, %H:%M")
         " > pages/notification.md

@@ -1,6 +1,6 @@
-<!-- auto generated at Sat Sep 11 2021 10:51:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat Sep 11 2021 12:06:37 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=df094e&c=1631357476569" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=83db35&c=1631361992074" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,9 +44,11 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🌟 Starred Repos
 
-* [Uahh / **slscq**](https://github.com/Uahh/slscq) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)129</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)27</sub> 
+* [stone-zeng / **latex-talk**](https://github.com/stone-zeng/latex-talk) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)132</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)19</sub> 
+* [wao3 / **luogu-stats-card**](https://github.com/wao3/luogu-stats-card) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)148</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)17</sub> 
+* [Uahh / **slscq**](https://github.com/Uahh/slscq) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)133</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)27</sub> 
 * [python / **cpython**](https://github.com/python/cpython) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)40k</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)20k</sub> 
-* [Enter-tainer / **cxx2flow**](https://github.com/Enter-tainer/cxx2flow) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)273</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)16</sub> 
+* [Enter-tainer / **cxx2flow**](https://github.com/Enter-tainer/cxx2flow) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)274</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)16</sub> 
 * [dahlbyk / **posh-git**](https://github.com/dahlbyk/posh-git) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)5k</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)735</sub> 
 * [adobe-fonts / **source-han-serif**](https://github.com/adobe-fonts/source-han-serif) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)5k</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)573</sub> 
 * [infinityedge01 / **ASOUL-Generator-Backend**](https://github.com/infinityedge01/ASOUL-Generator-Backend) <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)19</sub> <sub>![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)1</sub> 
@@ -65,6 +67,8 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 * [「集训队作业2020」春天，在积雪下结一成形，抽枝发芽](https://memset0.cn/loj3397/) - 16/12/2020
 * [「校内模拟20200810B」分身](https://memset0.cn/contest-20200810-b/) - 24/11/2020
 * [「校内模拟20201118C」张士超你到底把我家钥匙放在哪了？](https://memset0.cn/contest-20201118-c/) - 18/11/2020
+* [博客更新志](https://memset0.cn/about-new-blog/) - 01/11/2020
+* [Userscript × Webpack](https://memset0.cn/build-userscript-via-webpack/) - 26/10/2020
 
 
 <!-- table line=0 raw=1 end -->
@@ -80,6 +84,8 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 * [**undefined** undefined-moe](https://github.com/undefined-moe/) - 菜鸡开发 学生狗 没啥特长
 * [**Yichen Mo** amomorning](https://github.com/amomorning/) - Ph.D. student at School of Arc...
 * [**Zenithal** ZenithalHourlyRate](https://github.com/ZenithalHourlyRate/) - 头像是绫波丽 | Avatar Ayanami Rei
+* [**PinkRabbit** GitPinkRabbit](https://github.com/GitPinkRabbit/) - An OIer with dreams.
+* [**solstice23** solstice23](https://github.com/solstice23/)
 
 
 <!-- table line=1 raw=0 end -->
@@ -95,6 +101,8 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 * <a href="https://music.163.com/#/song?id=4922665"><strong>水镜の阳炎</strong></a> - 本田宗, tororo - <a href="https://music.163.com/#/album?id=492810">水夏弐律 オリジナルサウンドトラック</a> 
 * <a href="https://music.163.com/#/song?id=480097786"><strong>幾年月</strong></a> - Mili - <a href="https://music.163.com/#/album?id=35498872">Hue</a> 
 * <a href="https://music.163.com/#/song?id=28467071"><strong>雨が降る</strong></a> - 坂本真綾 - <a href="https://music.163.com/#/album?id=2804008">Single Collection+Mitsubachi</a> 
+* <a href="https://music.163.com/#/song?id=584155"><strong>いつも何度でも</strong></a> - 伊藤サチコ - <a href="https://music.163.com/#/album?id=55112">ジブリを聴きながら、上を向いて歩こう</a> 
+* <a href="https://music.163.com/#/song?id=865857544"><strong>海風を聴く街</strong></a> - 西木康智 - <a href="https://music.163.com/#/album?id=71747233">OCTOPATH TRAVELER Original Soundtrack</a> 
 
 
 <!-- table line=1 raw=1 end -->
@@ -119,5 +127,5 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  pushed commit <a href=https://github.com/memset0/memset0/commit/8d3df57c83cbbc65ee470905d9839dd9b3f1c997><strong><code>8d3df57</code></strong></a>  at 11/09/2021, 08:34 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  pushed commit <a href=https://github.com/memset0/memset0/commit/26710404ab54a994ca347bf9b53e1b4b788d7edc><strong><code>2671040</code></strong></a>  at 11/09/2021, 12:06 
 </sub></p>

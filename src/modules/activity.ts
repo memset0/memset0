@@ -131,8 +131,8 @@ async function crawlFavoriteMusic() {
 
 			return '* ' +
 				`<a href="https://music.163.com/song?id=${id}"><strong>${name}</strong></a> ` +
-				(artist ? artist + ' ' : '') +
-				(album && album_id ? `<a href="https://music.163.com/album?id=${album_id}">${album}</a> ` : '');
+				(artist ? `- ${artist} ` : '') +
+				(album && album_id ? `- <a href="https://music.163.com/album?id=${album_id}">${album}</a> ` : '');
 		}).join('\n');
 }
 

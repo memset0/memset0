@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/memset0/memset0.git"
   },
-  "author": "",
-  "license": "GNU GPLv3",
+  "author": "memset0",
+  "license": "GPL-3.0-only",
   "bugs": {
     "url": "https://github.com/memset0/memset0/issues"
   },

@@ -1,6 +1,6 @@
-<!-- auto generated at Mon Sep 13 2021 01:10:12 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Tue Sep 14 2021 01:11:21 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=c64ddb&c=1631495405826" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=24c260&c=1631581875013" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,10 +46,10 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 * [stone-zeng / **latex-talk**](https://github.com/stone-zeng/latex-talk) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 133</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 19</sub> 
 * [wao3 / **luogu-stats-card**](https://github.com/wao3/luogu-stats-card) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 148</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 17</sub> 
-* [Uahh / **slscq**](https://github.com/Uahh/slscq) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 189</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 33</sub> 
+* [Uahh / **slscq**](https://github.com/Uahh/slscq) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 214</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 39</sub> 
 * [python / **cpython**](https://github.com/python/cpython) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 40k</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 20k</sub> 
-* [Enter-tainer / **cxx2flow**](https://github.com/Enter-tainer/cxx2flow) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 274</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 16</sub> 
-* [dahlbyk / **posh-git**](https://github.com/dahlbyk/posh-git) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 5k</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 736</sub> 
+* [Enter-tainer / **cxx2flow**](https://github.com/Enter-tainer/cxx2flow) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 275</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 16</sub> 
+* [dahlbyk / **posh-git**](https://github.com/dahlbyk/posh-git) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 5k</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 735</sub> 
 
 
 <!-- table line=0 raw=0 end -->

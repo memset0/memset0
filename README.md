@@ -1,6 +1,6 @@
-<!-- auto generated at Wed Sep 15 2021 01:08:49 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Wed Sep 15 2021 14:47:11 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=5074dd&c=1631668123785" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=35def5&c=1631717224958" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🌟 Starred Repos
 
+* [html-to-text / **node-html-to-text**](https://github.com/html-to-text/node-html-to-text) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 1k</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 198</sub> 
 * [AngelKitty / **IDA7.0**](https://github.com/AngelKitty/IDA7.0) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 92</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 38</sub> 
 * [Alpackers / **CTF-Writeups**](https://github.com/Alpackers/CTF-Writeups) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 28</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 14</sub> 
 * [stone-zeng / **latex-talk**](https://github.com/stone-zeng/latex-talk) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 133</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 19</sub> 
 * [wao3 / **luogu-stats-card**](https://github.com/wao3/luogu-stats-card) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 148</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 17</sub> 
-* [Uahh / **slscq**](https://github.com/Uahh/slscq) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 241</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 42</sub> 
-* [python / **cpython**](https://github.com/python/cpython) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 40k</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 20k</sub> 
+* [Uahh / **slscq**](https://github.com/Uahh/slscq) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 245</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 42</sub> 
 
 
 <!-- table line=0 raw=0 end -->
@@ -89,12 +89,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=33361720"><strong>为爱征战</strong></a> - 群星 - <a href="https://music.163.com/#/album?id=3176074">热门华语267</a> 
-* <a href="https://music.163.com/#/song?id=565966059"><strong>夢の中の楽園</strong></a> - 光田康典 - <a href="https://music.163.com/#/album?id=39211030">Xenoblade 2 Original Soundtrack</a> 
-* <a href="https://music.163.com/#/song?id=434560"><strong>Regret</strong></a> - 細井聡司 - <a href="https://music.163.com/#/album?id=42387">Colors</a> 
-* <a href="https://music.163.com/#/song?id=4922665"><strong>水镜の阳炎</strong></a> - 本田宗, tororo - <a href="https://music.163.com/#/album?id=492810">水夏弐律 オリジナルサウンドトラック</a> 
-* <a href="https://music.163.com/#/song?id=480097786"><strong>幾年月</strong></a> - Mili - <a href="https://music.163.com/#/album?id=35498872">Hue</a> 
-* <a href="https://music.163.com/#/song?id=28467071"><strong>雨が降る</strong></a> - 坂本真綾 - <a href="https://music.163.com/#/album?id=2804008">Single Collection+Mitsubachi</a> 
+* <a href="https://music.163.com/#/song?id=1858118347"><strong>范进中举</strong></a> - 卦者灵风 - <a href="https://music.163.com/#/album?id=129846902">范进中举</a> 
+* <a href="https://music.163.com/#/song?id=1324271679"><strong>別の人の彼女になったよ</strong></a> - wacci - <a href="https://music.163.com/#/album?id=74334313">群青リフレイン</a> 
+* <a href="https://music.163.com/#/song?id=31140106"><strong>GO!GO!ブリキ大王!!</strong></a> - 下村陽子 - <a href="https://music.163.com/#/album?id=3111129">LIVE A LIVE Original Soundtrack</a> 
+* <a href="https://music.163.com/#/song?id=1770343"><strong>Deionarra Theme</strong></a> - Mark Morgan - <a href="https://music.163.com/#/album?id=179074">Planescape: Torment</a> 
+* <a href="https://music.163.com/#/song?id=732559"><strong>Leone Fredrik Richter“Theme”</strong></a> - Falcom Sound Team jdk - <a href="https://music.163.com/#/album?id=71697">オリジナル・サウンドトラック 海の槛歌 - 后编 -</a> 
+* <a href="https://music.163.com/#/song?id=22803403"><strong>遠い約束</strong></a> - 光田康典 - <a href="https://music.163.com/#/album?id=2095965">Xenogears ORIGINAL SOUNDTRACK</a> 
 
 
 <!-- table line=1 raw=1 end -->

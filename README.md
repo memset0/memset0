@@ -1,6 +1,6 @@
-<!-- auto generated at Thu Sep 16 2021 01:12:48 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Thu Sep 16 2021 16:15:02 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=e88b94&c=1631754762578" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=2cf44d&c=1631808895274" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,7 +44,7 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🌟 Starred Repos
 
-* [paulmillr / **chokidar**](https://github.com/paulmillr/chokidar) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 8k</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 524</sub> 
+* [paulmillr / **chokidar**](https://github.com/paulmillr/chokidar) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 8k</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 525</sub> 
 * [html-to-text / **node-html-to-text**](https://github.com/html-to-text/node-html-to-text) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 1k</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 198</sub> 
 * [AngelKitty / **IDA7.0**](https://github.com/AngelKitty/IDA7.0) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 92</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 38</sub> 
 * [Alpackers / **CTF-Writeups**](https://github.com/Alpackers/CTF-Writeups) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 28</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 14</sub> 
@@ -89,12 +89,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=28568035"><strong>DESIRE</strong></a> - 美郷あき - <a href="https://music.163.com/#/album?id=2845006">月に寄りそう乙女の作法 COMPLETE SOUNDTRACK</a> 
+* <a href="https://music.163.com/#/song?id=30039731"><strong>Endless Story</strong></a> - 田村ゆかり - <a href="https://music.163.com/#/album?id=3090767">Everlasting Gift (通常盤)</a> 
+* <a href="https://music.163.com/#/song?id=29307351"><strong>share the thoughts</strong></a> - 榊原ゆい - <a href="https://music.163.com/#/album?id=3003050">share the thoughts</a> 
+* <a href="https://music.163.com/#/song?id=412178476"><strong>Till I can see you again</strong></a> - 榊原ゆい - <a href="https://music.163.com/#/album?id=34678692">榊原ゆい×Angel Note COLLABORATION vol.1</a> 
 * <a href="https://music.163.com/#/song?id=1858118347"><strong>范进中举</strong></a> - 卦者灵风 - <a href="https://music.163.com/#/album?id=129846902">范进中举</a> 
 * <a href="https://music.163.com/#/song?id=1324271679"><strong>別の人の彼女になったよ</strong></a> - wacci - <a href="https://music.163.com/#/album?id=74334313">群青リフレイン</a> 
-* <a href="https://music.163.com/#/song?id=31140106"><strong>GO!GO!ブリキ大王!!</strong></a> - 下村陽子 - <a href="https://music.163.com/#/album?id=3111129">LIVE A LIVE Original Soundtrack</a> 
-* <a href="https://music.163.com/#/song?id=1770343"><strong>Deionarra Theme</strong></a> - Mark Morgan - <a href="https://music.163.com/#/album?id=179074">Planescape: Torment</a> 
-* <a href="https://music.163.com/#/song?id=732559"><strong>Leone Fredrik Richter“Theme”</strong></a> - Falcom Sound Team jdk - <a href="https://music.163.com/#/album?id=71697">オリジナル・サウンドトラック 海の槛歌 - 后编 -</a> 
-* <a href="https://music.163.com/#/song?id=22803403"><strong>遠い約束</strong></a> - 光田康典 - <a href="https://music.163.com/#/album?id=2095965">Xenogears ORIGINAL SOUNDTRACK</a> 
 
 
 <!-- table line=1 raw=1 end -->

@@ -1,6 +1,6 @@
-<!-- auto generated at Wed Sep 15 2021 14:47:11 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Thu Sep 16 2021 01:12:48 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=35def5&c=1631717224958" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=e88b94&c=1631754762578" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🌟 Starred Repos
 
+* [paulmillr / **chokidar**](https://github.com/paulmillr/chokidar) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 8k</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 524</sub> 
 * [html-to-text / **node-html-to-text**](https://github.com/html-to-text/node-html-to-text) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 1k</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 198</sub> 
 * [AngelKitty / **IDA7.0**](https://github.com/AngelKitty/IDA7.0) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 92</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 38</sub> 
 * [Alpackers / **CTF-Writeups**](https://github.com/Alpackers/CTF-Writeups) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 28</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 14</sub> 
 * [stone-zeng / **latex-talk**](https://github.com/stone-zeng/latex-talk) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 133</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 19</sub> 
 * [wao3 / **luogu-stats-card**](https://github.com/wao3/luogu-stats-card) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 148</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 17</sub> 
-* [Uahh / **slscq**](https://github.com/Uahh/slscq) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 245</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 42</sub> 
 
 
 <!-- table line=0 raw=0 end -->

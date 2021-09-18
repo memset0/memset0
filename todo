@@ -12,5 +12,5 @@
 [x] Tags
     每个用户可以通过 Github Issue 为标签投票计次并自动更新
     参考：https://github.com/timburgan / https://github.com/marketplace/actions/create-or-update-comment / https://github.com/marketplace/actions/close-issue
-[ ] 使用 wordcloud 生成词云
+[x] 使用 wordcloud 生成词云
 [ ] 使用 <detail> 展示投票记录等

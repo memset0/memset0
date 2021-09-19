@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Sep 19 2021 01:10:07 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 19 2021 17:32:17 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=c3ab74&c=1632013801173" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=aee194&c=1632072731397" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🌟 Starred Repos
 
-* [primer / **github-vscode-theme**](https://github.com/primer/github-vscode-theme) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 1k</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 117</sub> 
-* [skinan / **imap-Image-to-PDF-Converter-Application-For-Windows**](https://github.com/skinan/imap-Image-to-PDF-Converter-Application-For-Windows) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 12</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 1</sub> 
-* [UILKUNP / **sm-upload**](https://github.com/UILKUNP/sm-upload) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 4</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 0</sub> 
-* [paulmillr / **chokidar**](https://github.com/paulmillr/chokidar) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 8k</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 525</sub> 
-* [html-to-text / **node-html-to-text**](https://github.com/html-to-text/node-html-to-text) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 1k</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 198</sub> 
-* [AngelKitty / **IDA7.0**](https://github.com/AngelKitty/IDA7.0) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 92</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 38</sub> 
+* [xincreate / **typora-theme-smoothwriting**](https://github.com/xincreate/typora-theme-smoothwriting) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 39</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 4</sub> 
+* [HuanCheng65 / **TiebaLite**](https://github.com/HuanCheng65/TiebaLite) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 907</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 85</sub> 
+* [chishaxie / **BlindWaterMark**](https://github.com/chishaxie/BlindWaterMark) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 638</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 157</sub> 
+* [takayama-lily / **vscode-qq**](https://github.com/takayama-lily/vscode-qq) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 467</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 66</sub> 
+* [memset0 / **yuyu**](https://github.com/memset0/yuyu) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 1</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 0</sub> 
+* [q19980722 / **Typora-theme-jiaran**](https://github.com/q19980722/Typora-theme-jiaran) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 21</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 5</sub> 
 
 
 <!-- table line=0 raw=0 end -->
@@ -59,12 +59,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### ✍️ My Blogs
 
+* [从 0 开始实现 Python 简化版 List](https://memset0.cn/python-my-list/) - 20/09/2021
 * [从 Python 源码看切片实现](https://memset0.cn/python-slice/) - 10/09/2021
 * [「Petrozavodsk Summer 2020」Parity Sort](https://memset0.cn/petrozavodsk2020-summer-day5-c/) - 21/01/2021
 * [「集训队作业2020」Old Problem](https://memset0.cn/loj3401/) - 17/12/2020
 * [「集训队作业2020」春天，在积雪下结一成形，抽枝发芽](https://memset0.cn/loj3397/) - 16/12/2020
 * [「校内模拟20200810B」分身](https://memset0.cn/contest-20200810-b/) - 24/11/2020
-* [「校内模拟20201118C」张士超你到底把我家钥匙放在哪了？](https://memset0.cn/contest-20201118-c/) - 18/11/2020
 
 
 <!-- table line=0 raw=1 end -->

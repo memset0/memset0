@@ -110,9 +110,9 @@ async function crawlRecentBlogs() {
 			return `
 				<details>
 					<summary><a href="https://memset0.cn${link}">${title}</a> - ${s_day}/${s_month}/${s_year}\n\n</summary>
-					<table width="400px"><tr><td>
+					<blockquote>
 						${summary}
-					</td></tr></table>
+					</blockquote>
 				</details>
 			`.replace(/[\t\n]/g, '');
 		})

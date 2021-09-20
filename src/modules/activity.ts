@@ -3,6 +3,7 @@ import { get, agent } from 'superagent';
 import { assetLink, generateTable, TableCell } from '../utils';
 
 const max_length = 6;
+const disable_github = false;
 
 const chineseNumbers = [
 	'一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二'
@@ -14,6 +15,8 @@ const fork_svg_link = assetLink('img/github/fork.svg');
 // const fork_png_link = assetLink('img/github/fork.png');
 
 async function crawlStarredRepos() {
+	if (disable_github) { return 'null'; }
+
 	const $ = load((await get('https://github.com/memset0?tab=stars')).text);
 	const parseNumber = (str: string): string => {
 		const num = parseInt(str.replace(/\,/g, '')) || 0;
@@ -50,6 +53,8 @@ async function crawlStarredRepos() {
 
 
 async function crawlFollowedUsers() {
+	if (disable_github) { return 'null'; }
+
 	const $ = load((await get('https://github.com/memset0?tab=following')).text);
 	const description_max_length = 30;
 
@@ -89,6 +94,7 @@ async function crawlRecentBlogs() {
 			const link = $e.children('a').attr('href');
 			const date = $e.children('.else').children('p:first-child').text().trim();
 			const title = $e.children('.else').children('h3').text().trim();
+			const summary = $e.children('.else').children('p:nth-child(3)').text().trim();
 
 			const year = parseInt(date.split(' ')[2]);
 			const month = chineseNumbers.findIndex((x) => x == date.split(' ')[0].slice(0, -1)) + 1;
@@ -99,12 +105,18 @@ async function crawlRecentBlogs() {
 			const s_day = (day < 10 ? '0' : '') + String(day);
 
 			console.log('[crawl-recent-blogs]', title, link, year, month, day);
-
-			return '* ' +
-				`[${title}](https://memset0.cn${link}) ` +
-				`- ${s_day}/${s_month}/${s_year}`;
+			console.log('[crawl-recent-blogs]', 'summary:', summary);
+			
+			return `
+				<details>
+					<summary><a href="https://memset0.cn${link}">${title}</a> - ${s_day}/${s_month}/${s_year}\n\n</summary>
+					<table width="400px"><tr><td>
+						${summary}
+					</td></tr></table>
+				</details>
+			`.replace(/[\t\n]/g, '');
 		})
-		.join('\n');
+		.join('\n\n');
 }
 
 

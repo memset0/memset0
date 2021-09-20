@@ -44,8 +44,8 @@ async function crawlStarredRepos() {
 			console.log('[crawl-starred-repos]', owner, repo, stars, forks);
 			return `* 
 				[${owner} / **${repo}**](https://github.com/${owner}/${repo}) - 
-				<img src="${star_png_link}" height="20px"> ${stars} 
-				<img src="${fork_png_link}" height="20px"> ${forks} 
+				<img src="${star_png_link}" height="16px">${stars} 
+				<img src="${fork_png_link}" height="16px">${forks} 
 			`.replace(/[\t\n]/g, '');
 		})
 		.join('\n');

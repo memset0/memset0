@@ -107,16 +107,23 @@ async function crawlRecentBlogs() {
 			console.log('[crawl-recent-blogs]', title, link, year, month, day);
 			console.log('[crawl-recent-blogs]', 'summary:', summary);
 			
-			return `
-				<details>
-					<summary><a href="https://memset0.cn${link}">${title}</a> - ${s_day}/${s_month}/${s_year}\n\n</summary>
-					<blockquote>
-						${summary}
-					</blockquote>
-				</details>
-			`.replace(/[\t\n]/g, '');
+			return '* ' +
+				`[${title}](https://memset0.cn${link}) ` +
+				`- ${s_day}/${s_month}/${s_year}`;
+			// return `
+			// 	<details>
+			// 		<summary>
+			// 			<a href="https://memset0.cn${link}">${title}</a>
+			// 			<sub> - ${s_day}/${s_month}/${s_year}</sub>
+			// 		</summary>
+			// 		<br>
+			// 		<blockquote>
+			// 			${summary}
+			// 		</blockquote>
+			// 	</details>
+			// `.replace(/\t+/g, '');
 		})
-		.join('\n\n');
+		.join('\n');
 }
 
 

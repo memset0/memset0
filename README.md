@@ -1,6 +1,6 @@
-<!-- auto generated at Mon Sep 20 2021 01:51:31 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Sep 20 2021 09:54:50 GMT+0800 (GMT+08:00) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=cbfde5&c=1632102687228" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=cbfde5&c=1632102886856" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,7 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🌟 Starred Repos
 
-* [darlinghq / **darling**](https://github.com/darlinghq/darling) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 7k</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 317</sub> 
-* [xincreate / **typora-theme-smoothwriting**](https://github.com/xincreate/typora-theme-smoothwriting) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 39</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 4</sub> 
-* [HuanCheng65 / **TiebaLite**](https://github.com/HuanCheng65/TiebaLite) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 909</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 85</sub> 
-* [chishaxie / **BlindWaterMark**](https://github.com/chishaxie/BlindWaterMark) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 638</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 157</sub> 
-* [takayama-lily / **vscode-qq**](https://github.com/takayama-lily/vscode-qq) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 468</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 66</sub> 
-* [memset0 / **yuyu**](https://github.com/memset0/yuyu) ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.svg)<sub> 1</sub> ![](https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.svg)<sub> 0</sub> 
+null
 
 
 <!-- table line=0 raw=0 end -->
@@ -59,17 +54,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### ✍️ My Blogs
 
-<details><summary><a href="https://memset0.cn/python-my-list/">从 0 开始实现 Python 简化版 List</a> - 20/09/2021</summary><blockquote>轻雨酱初一初二那会儿刚接触 Python 的时候，就有一种好奇——这里，怎么没有数组呀？某度一番，发现 Python 有一个叫列表的东东，是所谓数组的一个超集，支持好多好多神奇的功能，甚至同一个列表里，可以放各种各样的元素，云云。 当然后面轻...</blockquote></details>
-
-<details><summary><a href="https://memset0.cn/python-slice/">从 Python 源码看切片实现</a> - 10/09/2021</summary><blockquote>若 s="abcde"，则 s[6:2:-1] 输出啥？s[6:-2:-1] 和 s[2:-6:-1] 等等呢？ 因为从 OI 退役了，轻雨酱不得不面对一些机械性的考试，比如什么 Python 切片操作的细节，整得我云...</blockquote></details>
-
-<details><summary><a href="https://memset0.cn/petrozavodsk2020-summer-day5-c/">「Petrozavodsk Summer 2020」Parity Sort</a> - 21/01/2021</summary><blockquote>定义一个排列 $P$ 上的操作 $(t,S)$ 为： 有两个空序列 $A$ 和 $B$ 枚举 $i$ 从 $1$ 到 $n$ 如果 $S_i=0$，不进行操作 如果 $S_i=1$，如果 $P_i$ 是偶数，则放到 $A$ 的末尾，否则放...</blockquote></details>
-
-<details><summary><a href="https://memset0.cn/loj3401/">「集训队作业2020」Old Problem</a> - 17/12/2020</summary><blockquote>给一个长度为 $n$ 的序列 $a_i$，和 $q$ 组询问 $(l,r,x)$，表示求 $\displaystyle\prod_{i=l}^r\left(1-\frac{a_i}{x}\right)$ 的值。实数输出，精度要求 $10^{-6}$...</blockquote></details>
-
-<details><summary><a href="https://memset0.cn/loj3397/">「集训队作业2020」春天，在积雪下结一成形，抽枝发芽</a> - 16/12/2020</summary><blockquote>一个长度为 $n$ 的排列是正确的，当且仅当他不存在非平凡的连续子序列，使得他的值也是连续的。 对于 $k\in[1,n]$ 求出，有多少长度为 $k$ 的正确的排列。 $n\le 10^5$。 题解 Part 1定义 ...</blockquote></details>
-
-<details><summary><a href="https://memset0.cn/contest-20200810-b/">「校内模拟20200810B」分身</a> - 24/11/2020</summary><blockquote>有 $n$ 个人要从 $(0,a_i)$ 走到 $(i,0)$，你需要规划他们的路径使得两两不交。问方案数。 $a_i < a_{i+1},\ n \leq 5 \times 10^5,\ a_i \leq 10^6$。 题解需要...</blockquote></details>
+<details><summary><a href="https://memset0.cn/python-my-list/">从 0 开始实现 Python 简化版 List</a><sub>- 20/09/2021</sub></summary><br><blockquote>轻雨酱初一初二那会儿刚接触 Python 的时候，就有一种好奇——这里，怎么没有数组呀？某度一番，发现 Python 有一个叫列表的东东，是所谓数组的一个超集，支持好多好多神奇的功能，甚至同一个列表里，可以放各种各样的元素，云云。 当然后面轻...</blockquote></details>
+<details><summary><a href="https://memset0.cn/python-slice/">从 Python 源码看切片实现</a><sub>- 10/09/2021</sub></summary><br><blockquote>若 s="abcde"，则 s[6:2:-1] 输出啥？s[6:-2:-1] 和 s[2:-6:-1] 等等呢？ 因为从 OI 退役了，轻雨酱不得不面对一些机械性的考试，比如什么 Python 切片操作的细节，整得我云...</blockquote></details>
+<details><summary><a href="https://memset0.cn/petrozavodsk2020-summer-day5-c/">「Petrozavodsk Summer 2020」Parity Sort</a><sub>- 21/01/2021</sub></summary><br><blockquote>定义一个排列 $P$ 上的操作 $(t,S)$ 为： 有两个空序列 $A$ 和 $B$ 枚举 $i$ 从 $1$ 到 $n$ 如果 $S_i=0$，不进行操作 如果 $S_i=1$，如果 $P_i$ 是偶数，则放到 $A$ 的末尾，否则放...</blockquote></details>
+<details><summary><a href="https://memset0.cn/loj3401/">「集训队作业2020」Old Problem</a><sub>- 17/12/2020</sub></summary><br><blockquote>给一个长度为 $n$ 的序列 $a_i$，和 $q$ 组询问 $(l,r,x)$，表示求 $\displaystyle\prod_{i=l}^r\left(1-\frac{a_i}{x}\right)$ 的值。实数输出，精度要求 $10^{-6}$...</blockquote></details>
+<details><summary><a href="https://memset0.cn/loj3397/">「集训队作业2020」春天，在积雪下结一成形，抽枝发芽</a><sub>- 16/12/2020</sub></summary><br><blockquote>一个长度为 $n$ 的排列是正确的，当且仅当他不存在非平凡的连续子序列，使得他的值也是连续的。 对于 $k\in[1,n]$ 求出，有多少长度为 $k$ 的正确的排列。 $n\le 10^5$。 题解 Part 1定义 ...</blockquote></details>
+<details><summary><a href="https://memset0.cn/contest-20200810-b/">「校内模拟20200810B」分身</a><sub>- 24/11/2020</sub></summary><br><blockquote>有 $n$ 个人要从 $(0,a_i)$ 走到 $(i,0)$，你需要规划他们的路径使得两两不交。问方案数。 $a_i < a_{i+1},\ n \leq 5 \times 10^5,\ a_i \leq 10^6$。 题解需要...</blockquote></details>
 
 
 <!-- table line=0 raw=1 end -->
@@ -79,12 +69,7 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 👨‍💻 Followed Users
 
-* [**Angel_Kitty** AngelKitty](https://github.com/AngelKitty/) - Security researcher, Full Stac...
-* [**mgt** Enter-tainer](https://github.com/Enter-tainer/) - CS @ HUST | @UniqueStudio | @O...
-* [**billchenchina** billchenchina](https://github.com/billchenchina/) - Undergraduate @ Harbin Institu...
-* [**Kaifeng Lyu** vfleaking](https://github.com/vfleaking/) - 1st-year Princeton CS PhD stud...
-* [**undefined** undefined-moe](https://github.com/undefined-moe/) - 菜鸡开发 学生狗 没啥特长
-* [**Yichen Mo** amomorning](https://github.com/amomorning/) - Ph.D. student at School of Arc...
+null
 
 
 <!-- table line=1 raw=0 end -->

@@ -9,10 +9,10 @@ const chineseNumbers = [
 	'一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二'
 ];
 
-const star_svg_link = assetLink('img/github/star.svg');
-const fork_svg_link = assetLink('img/github/fork.svg');
-// const star_png_link = assetLink('img/github/star.png');
-// const fork_png_link = assetLink('img/github/fork.png');
+// const star_svg_link = assetLink('img/github/star.svg');
+// const fork_svg_link = assetLink('img/github/fork.svg');
+const star_png_link = assetLink('img/github/star.png');
+const fork_png_link = assetLink('img/github/fork.png');
 
 async function crawlStarredRepos() {
 	if (disable_github) { return 'null'; }
@@ -44,8 +44,8 @@ async function crawlStarredRepos() {
 			console.log('[crawl-starred-repos]', owner, repo, stars, forks);
 			return `* 
 				[${owner} / **${repo}**](https://github.com/${owner}/${repo}) 
-				![](${star_svg_link})<sub> ${stars}</sub> 
-				![](${fork_svg_link})<sub> ${forks}</sub> 
+				![](${star_png_link})<sub> ${stars} </sub> 
+				![](${fork_png_link})<sub> ${forks} </sub> 
 			`.replace(/[\t\n]/g, '');
 		})
 		.join('\n');

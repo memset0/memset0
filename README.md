@@ -1,6 +1,6 @@
-<!-- auto generated at Mon Sep 20 2021 02:25:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Tue Sep 21 2021 01:10:24 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=cbfde5&c=1632104748654" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=cbfde5&c=1632186617180" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🌟 Starred Repos
 
-* [darlinghq / **darling**](https://github.com/darlinghq/darling) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">7k <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">317 
+* [Rupan / **paperbak**](https://github.com/Rupan/paperbak) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">221 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">13 
+* [gethexon / **hexon**](https://github.com/gethexon/hexon) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">9 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">1 
+* [darlinghq / **darling**](https://github.com/darlinghq/darling) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">7k <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">318 
 * [xincreate / **typora-theme-smoothwriting**](https://github.com/xincreate/typora-theme-smoothwriting) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">39 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">4 
-* [HuanCheng65 / **TiebaLite**](https://github.com/HuanCheng65/TiebaLite) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">909 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">85 
-* [chishaxie / **BlindWaterMark**](https://github.com/chishaxie/BlindWaterMark) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">638 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">157 
-* [takayama-lily / **vscode-qq**](https://github.com/takayama-lily/vscode-qq) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">469 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">66 
-* [memset0 / **yuyu**](https://github.com/memset0/yuyu) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">1 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0 
+* [HuanCheng65 / **TiebaLite**](https://github.com/HuanCheng65/TiebaLite) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">908 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">85 
+* [chishaxie / **BlindWaterMark**](https://github.com/chishaxie/BlindWaterMark) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">640 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">157 
 
 
 <!-- table line=0 raw=0 end -->
@@ -74,12 +74,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 👨‍💻 Followed Users
 
+* [**TO/GA** CHN-ChenYi](https://github.com/CHN-ChenYi/) - We reach for the stars, act li...
 * [**Angel_Kitty** AngelKitty](https://github.com/AngelKitty/) - Security researcher, Full Stac...
 * [**mgt** Enter-tainer](https://github.com/Enter-tainer/) - CS @ HUST | @UniqueStudio | @O...
 * [**billchenchina** billchenchina](https://github.com/billchenchina/) - Undergraduate @ Harbin Institu...
 * [**Kaifeng Lyu** vfleaking](https://github.com/vfleaking/) - 1st-year Princeton CS PhD stud...
 * [**undefined** undefined-moe](https://github.com/undefined-moe/) - 菜鸡开发 学生狗 没啥特长
-* [**Yichen Mo** amomorning](https://github.com/amomorning/) - Ph.D. student at School of Arc...
 
 
 <!-- table line=1 raw=0 end -->
@@ -89,12 +89,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=565975060"><strong>トリゴの街/夜</strong></a> - 工藤ともり, 山中裕代 - <a href="https://music.163.com/#/album?id=39211030">Xenoblade 2 Original Soundtrack</a> 
-* <a href="https://music.163.com/#/song?id=484314530"><strong>深夜书店</strong></a> - 洛天依, 许嵩 - <a href="https://music.163.com/#/album?id=35623401">虚拟游乐场</a> 
-* <a href="https://music.163.com/#/song?id=1345099325"><strong>繁华唱遍 （青梅竹马ver）（翻自 乐正绫） </strong></a> - 洛少爷, 封茗囧菌 - <a href="https://music.163.com/#/album?id=75497736">繁华唱遍</a> 
-* <a href="https://music.163.com/#/song?id=1500152660"><strong>たぶん</strong></a> - YOASOBI - <a href="https://music.163.com/#/album?id=99079344">THE BOOK</a> 
-* <a href="https://music.163.com/#/song?id=28568035"><strong>DESIRE</strong></a> - 美郷あき - <a href="https://music.163.com/#/album?id=2845006">月に寄りそう乙女の作法 COMPLETE SOUNDTRACK</a> 
-* <a href="https://music.163.com/#/song?id=30039731"><strong>Endless Story</strong></a> - 田村ゆかり - <a href="https://music.163.com/#/album?id=3090767">Everlasting Gift (通常盤)</a> 
+* <a href="https://music.163.com/#/song?id=484710046"><strong>咸咸的(洛天依 ver.)</strong></a> - 洛天依, 純白P - <a href="https://music.163.com/#/album?id=35638290">蔚蓝色</a> 
+* <a href="https://music.163.com/#/song?id=31356410"><strong>MR.TAXI</strong></a> - Reol - <a href="https://music.163.com/#/album?id=3117493">MR.TAXI</a> 
+* <a href="https://music.163.com/#/song?id=440101051"><strong>XY&Z</strong></a> - 松本梨香 - <a href="https://music.163.com/#/album?id=34923526">アニメ「ポケットモンスターXY&Z」キャラソンプロジェクト集vol.2 -総集編-</a> 
+* <a href="https://music.163.com/#/song?id=506072003"><strong>上弦之月（Cover 萧忆情 / 伦桑）</strong></a> - 伦言(艾伦Sama), 苏强 - <a href="https://music.163.com/#/album?id=35754161">治愈系专辑</a> 
+* <a href="https://music.163.com/#/song?id=413829859"><strong>童话镇</strong></a> - 暗杠 - <a href="https://music.163.com/#/album?id=34704410">童话镇</a> 
+* <a href="https://music.163.com/#/song?id=447925544"><strong>飞-致我们的星辰大海</strong></a> - 璨乐团 - <a href="https://music.163.com/#/album?id=35069146">飞-致我们的星辰大海</a> 
 
 
 <!-- table line=1 raw=1 end -->

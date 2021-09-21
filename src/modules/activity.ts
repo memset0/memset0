@@ -92,7 +92,7 @@ async function crawlRecentBlogs() {
 			const $e = $(element);
 
 			const link = $e.children('a').attr('href');
-			const date = $e.children('.else').children('p:first-child').text().trim();
+			const date = $e.children('.else').children('p:first-child').text().trim().split(' · ')[0];
 			const title = $e.children('.else').children('h3').text().trim();
 			const summary = $e.children('.else').children('p:nth-child(3)').text().trim();
 

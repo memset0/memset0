@@ -1,6 +1,6 @@
-<!-- auto generated at Fri Sep 24 2021 01:10:23 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Fri Sep 24 2021 12:44:52 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=aebd9b&c=1632445816866" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=fa0916&c=1632487486403" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🌟 Starred Repos
 
-* [Tao0Lu / **Arknights_Anti-addiction_Cheater**](https://github.com/Tao0Lu/Arknights_Anti-addiction_Cheater) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">75 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">15 
-* [ZizzyDizzyMC / **linx-server**](https://github.com/ZizzyDizzyMC/linx-server) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">52 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">7 
+* [mcfx / **cplib**](https://github.com/mcfx/cplib) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">3 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0 
+* [cn / **GB2260.js**](https://github.com/cn/GB2260.js) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">112 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">20 
+* [Tao0Lu / **Arknights_Anti-addiction_Cheater**](https://github.com/Tao0Lu/Arknights_Anti-addiction_Cheater) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">79 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">15 
+* [ZizzyDizzyMC / **linx-server**](https://github.com/ZizzyDizzyMC/linx-server) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">54 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">7 
 * [thautwarm / **diojit**](https://github.com/thautwarm/diojit) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">107 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">3 
 * [thepushkarp / **nalcos**](https://github.com/thepushkarp/nalcos) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">45 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">5 
-* [george518 / **PPGo_Job**](https://github.com/george518/PPGo_Job) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">1k <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">329 
-* [Rupan / **paperbak**](https://github.com/Rupan/paperbak) - <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">221 <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">13 
 
 
 <!-- table line=0 raw=0 end -->

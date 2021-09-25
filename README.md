@@ -1,6 +1,6 @@
-<!-- auto generated at Fri Sep 24 2021 13:24:09 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat Sep 25 2021 01:07:36 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=b3a2d1&c=1632489843552" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=b3a2d1&c=1632532049941" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -61,9 +61,9 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 * [从 0 开始实现 Python 简化版 List](https://memset0.cn/python-my-list/) - 20/09/2021
 * [从 Python 源码看切片实现](https://memset0.cn/python-slice/) - 10/09/2021
-* [「Petrozavodsk Summer 2020」Parity Sort](https://memset0.cn/petrozavodsk2020-summer-day5-c/) - 21/01/2021
-* [「集训队作业2020」Old Problem](https://memset0.cn/loj3401/) - 17/12/2020
-* [「集训队作业2020」春天，在积雪下结一成形，抽枝发芽](https://memset0.cn/loj3397/) - 16/12/2020
+* [「Petrozavodsk Summer 2020」Parity Sort](https://memset0.cn/problem/petrozavodsk2020-summer-day5-c/) - 21/01/2021
+* [「集训队作业2020」Old Problem](https://memset0.cn/problem/loj3401/) - 17/12/2020
+* [「集训队作业2020」春天，在积雪下结一成形，抽枝发芽](https://memset0.cn/problem/loj3397/) - 16/12/2020
 * [「校内模拟20200810B」分身](https://memset0.cn/contest/20200810b/) - 24/11/2020
 
 

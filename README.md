@@ -1,6 +1,6 @@
-<!-- auto generated at Sat Sep 25 2021 01:07:36 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Sep 26 2021 01:11:29 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=b3a2d1&c=1632532049941" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=6a1676&c=1632618683474" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🌟 Starred Repos
 
+* [cjh0613 / **hexo-submit-urls-to-search-engine**](https://github.com/cjh0613/hexo-submit-urls-to-search-engine) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">80<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">9
+* [mauricecruz / **chrome-devtools-zerodarkmatrix-theme**](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">2k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">253
+* [yhx-12243 / **ioihw-helper**](https://github.com/yhx-12243/ioihw-helper) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">3<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
+* [stbrumme / **hash-library**](https://github.com/stbrumme/hash-library) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">160<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">59
 * [mcfx / **cplib**](https://github.com/mcfx/cplib) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">3<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
 * [cn / **GB2260.js**](https://github.com/cn/GB2260.js) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">112<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">20
-* [Tao0Lu / **Arknights_Anti-addiction_Cheater**](https://github.com/Tao0Lu/Arknights_Anti-addiction_Cheater) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">79<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">15
-* [ZizzyDizzyMC / **linx-server**](https://github.com/ZizzyDizzyMC/linx-server) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">54<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">7
-* [thautwarm / **diojit**](https://github.com/thautwarm/diojit) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">107<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">3
-* [thepushkarp / **nalcos**](https://github.com/thepushkarp/nalcos) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">45<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">5
 
 
 <!-- table line=0 raw=0 end -->
@@ -59,12 +59,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### ✍️ My Blogs
 
+* [如何手搓一个博客？](https://memset0.cn/how-my-blog-generated/) - 25/09/2021
 * [从 0 开始实现 Python 简化版 List](https://memset0.cn/python-my-list/) - 20/09/2021
 * [从 Python 源码看切片实现](https://memset0.cn/python-slice/) - 10/09/2021
 * [「Petrozavodsk Summer 2020」Parity Sort](https://memset0.cn/problem/petrozavodsk2020-summer-day5-c/) - 21/01/2021
 * [「集训队作业2020」Old Problem](https://memset0.cn/problem/loj3401/) - 17/12/2020
 * [「集训队作业2020」春天，在积雪下结一成形，抽枝发芽](https://memset0.cn/problem/loj3397/) - 16/12/2020
-* [「校内模拟20200810B」分身](https://memset0.cn/contest/20200810b/) - 24/11/2020
 
 
 <!-- table line=0 raw=1 end -->
@@ -74,12 +74,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 👨‍💻 Followed Users
 
+* [**Yujia Qiao** rapiz1](https://github.com/rapiz1/) - Focus on Cloud Native & System...
 * [**Xi Lin** zimpha](https://github.com/zimpha/) - 萌え豚
 * [**Angelic47** Angelic47](https://github.com/Angelic47/) - 一只要抱抱的手绘娘&程序娘w
 * [**Sengxian** Sengxian](https://github.com/Sengxian/)
 * [**TO/GA** CHN-ChenYi](https://github.com/CHN-ChenYi/) - We reach for the stars, act li...
 * [**Angel_Kitty** AngelKitty](https://github.com/AngelKitty/) - Security researcher, Full Stac...
-* [**mgt** Enter-tainer](https://github.com/Enter-tainer/) - CS @ HUST | @UniqueStudio | @O...
 
 
 <!-- table line=1 raw=0 end -->

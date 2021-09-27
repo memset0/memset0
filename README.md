@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Sep 26 2021 01:11:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Sep 27 2021 01:09:10 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=6a1676&c=1632618683474" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=3a725d&c=1632704943932" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🌟 Starred Repos
 
+* [babysor / **MockingBird**](https://github.com/babysor/MockingBird) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">5k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">568
+* [trimstray / **the-book-of-secret-knowledge**](https://github.com/trimstray/the-book-of-secret-knowledge) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">48k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">5k
 * [cjh0613 / **hexo-submit-urls-to-search-engine**](https://github.com/cjh0613/hexo-submit-urls-to-search-engine) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">80<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">9
 * [mauricecruz / **chrome-devtools-zerodarkmatrix-theme**](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">2k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">253
 * [yhx-12243 / **ioihw-helper**](https://github.com/yhx-12243/ioihw-helper) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">3<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
-* [stbrumme / **hash-library**](https://github.com/stbrumme/hash-library) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">160<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">59
-* [mcfx / **cplib**](https://github.com/mcfx/cplib) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">3<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
-* [cn / **GB2260.js**](https://github.com/cn/GB2260.js) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">112<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">20
+* [stbrumme / **hash-library**](https://github.com/stbrumme/hash-library) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">161<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">59
 
 
 <!-- table line=0 raw=0 end -->

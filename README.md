@@ -1,6 +1,6 @@
-<!-- auto generated at Fri Oct 01 2021 01:14:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat Oct 02 2021 01:08:41 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=8f2816&c=1633050880155" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=9c468d&c=1633136916304" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -47,7 +47,7 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 * [javascript-obfuscator / **javascript-obfuscator**](https://github.com/javascript-obfuscator/javascript-obfuscator) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">7k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">895
 * [brix / **crypto-js**](https://github.com/brix/crypto-js) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">11k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">1k
 * [cesanta / **mongoose**](https://github.com/cesanta/mongoose) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">7k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">2k
-* [babysor / **MockingBird**](https://github.com/babysor/MockingBird) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">7k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">732
+* [babysor / **MockingBird**](https://github.com/babysor/MockingBird) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">7k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">738
 * [trimstray / **the-book-of-secret-knowledge**](https://github.com/trimstray/the-book-of-secret-knowledge) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">49k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">5k
 * [cjh0613 / **hexo-submit-urls-to-search-engine**](https://github.com/cjh0613/hexo-submit-urls-to-search-engine) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">80<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">9
 

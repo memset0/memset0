@@ -1,6 +1,6 @@
-<!-- auto generated at Sat Oct 02 2021 01:08:41 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat Oct 02 2021 06:27:23 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=9c468d&c=1633136916304" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=6b5c4e&c=1633156037057" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -47,7 +47,7 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 * [javascript-obfuscator / **javascript-obfuscator**](https://github.com/javascript-obfuscator/javascript-obfuscator) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">7k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">895
 * [brix / **crypto-js**](https://github.com/brix/crypto-js) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">11k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">1k
 * [cesanta / **mongoose**](https://github.com/cesanta/mongoose) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">7k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">2k
-* [babysor / **MockingBird**](https://github.com/babysor/MockingBird) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">7k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">738
+* [babysor / **MockingBird**](https://github.com/babysor/MockingBird) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">7k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">740
 * [trimstray / **the-book-of-secret-knowledge**](https://github.com/trimstray/the-book-of-secret-knowledge) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">49k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">5k
 * [cjh0613 / **hexo-submit-urls-to-search-engine**](https://github.com/cjh0613/hexo-submit-urls-to-search-engine) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">80<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">9
 
@@ -89,12 +89,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=26349243"><strong>Preserved Roses</strong></a> - 西川貴教, 水樹奈々 - <a href="https://music.163.com/#/album?id=2462044">Preserved Roses (初回生産限定盤)</a> 
+* <a href="https://music.163.com/#/song?id=1348721228"><strong>ふわり、恋時計</strong></a> - つばきファクトリー - <a href="https://music.163.com/#/album?id=75713368">三回目のデート神話 / ふわり、恋時計</a> 
+* <a href="https://music.163.com/#/song?id=1377353308"><strong>梦蝶</strong></a> - Diy - <a href="https://music.163.com/#/album?id=73397085">自定义v</a> 
+* <a href="https://music.163.com/#/song?id=190381"><strong>水手</strong></a> - 郑智化 - <a href="https://music.163.com/#/album?id=19238">私房歌</a> 
 * <a href="https://music.163.com/#/song?id=473403182"><strong>恋ひ恋ふ縁</strong></a> - Famishin, KOTOKO - <a href="https://music.163.com/#/album?id=35377042">千恋＊万花 オリジナル・サウンドトラック</a> 
 * <a href="https://music.163.com/#/song?id=725692"><strong>only my railgun</strong></a> - fripSide - <a href="https://music.163.com/#/album?id=71074">only my railgun</a> 
-* <a href="https://music.163.com/#/song?id=27548281"><strong>歌に形はないけれど</strong></a> - 花たん - <a href="https://music.163.com/#/album?id=2631601">Flower</a> 
-* <a href="https://music.163.com/#/song?id=31134829"><strong>なきむし。 Acoustic Ver.</strong></a> - 沢井美空 - <a href="https://music.163.com/#/album?id=3112395">憂鬱日和。</a> 
-* <a href="https://music.163.com/#/song?id=1356379323"><strong>黑血症</strong></a> - 阿良良木健, 洛天依 - <a href="https://music.163.com/#/album?id=74829483">奇爱人生 LOVE ELEGIA</a> 
-* <a href="https://music.163.com/#/song?id=1462152475"><strong>牵一半</strong></a> - 洛天依, 阿良良木健 - <a href="https://music.163.com/#/album?id=92263114">牵一半</a> 
 
 
 <!-- table line=1 raw=1 end -->

@@ -1,6 +1,6 @@
-<!-- auto generated at Thu Oct 07 2021 07:59:00 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Fri Oct 08 2021 01:14:55 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=5da748&c=1633593535005" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=d231f5&c=1633655689593" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,10 +44,10 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🌟 Starred Repos
 
-* [y3oj / **y3oj**](https://github.com/y3oj/y3oj) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">3<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
+* [y3oj / **y3oj**](https://github.com/y3oj/y3oj) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">5<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
 * [solstice23 / **osu-stats-signature**](https://github.com/solstice23/osu-stats-signature) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">10<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
 * [WXRIW / **Lyricify-App**](https://github.com/WXRIW/Lyricify-App) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">209<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">7
-* [ht0Ruial / **Jiyu_udp_attack**](https://github.com/ht0Ruial/Jiyu_udp_attack) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">114<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">32
+* [ht0Ruial / **Jiyu_udp_attack**](https://github.com/ht0Ruial/Jiyu_udp_attack) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">116<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">33
 * [imengyu / **JiYuTrainer**](https://github.com/imengyu/JiYuTrainer) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">261<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">56
 * [Tatsu-syo / **noMeiryoUI**](https://github.com/Tatsu-syo/noMeiryoUI) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">1k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">84
 
@@ -74,12 +74,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 👨‍💻 Followed Users
 
+* [**Reqwey** Linhk1606](https://github.com/Linhk1606/) - ???
 * [**Shuhao Zhang** StudyingFather](https://github.com/StudyingFather/) - Focus on interest! | @OI-wiki ...
 * [**Elaina** userElaina](https://github.com/userElaina/) - t.me/userelaina
 * [**Woshiluo Luo** woshiluo](https://github.com/woshiluo/) - Student | Oier
 * [**Hang Wu** nike0good](https://github.com/nike0good/)
 * [**Yujia Qiao** rapiz1](https://github.com/rapiz1/) - Focus on Cloud Native & System...
-* [**Xi Lin** zimpha](https://github.com/zimpha/) - 萌え豚
 
 
 <!-- table line=1 raw=0 end -->
@@ -89,12 +89,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=26124987"><strong>東京テディベア</strong></a> - Neru, 鏡音リン - <a href="https://music.163.com/#/album?id=2393432">世界征服</a> 
+* <a href="https://music.163.com/#/song?id=545804135"><strong>PLANET（翻自 ラムジ） </strong></a> - 黑猫 - <a href="https://music.163.com/#/album?id=37920413">planet（御姐版你懂叭）</a> 
+* <a href="https://music.163.com/#/song?id=516358872"><strong>朱丽叶的秋天</strong></a> - 张梦弘 - <a href="https://music.163.com/#/album?id=36705076">朱丽叶的秋天</a> 
+* <a href="https://music.163.com/#/song?id=767452"><strong>三年幻想郷</strong></a> - 神乃木製作所 - <a href="https://music.163.com/#/album?id=75453">三年幻想郷</a> 
+* <a href="https://music.163.com/#/song?id=1808492017"><strong>错位时空</strong></a> - 艾辰 - <a href="https://music.163.com/#/album?id=121076375">错位时空</a> 
 * <a href="https://music.163.com/#/song?id=1472862669"><strong>沧海一声笑</strong></a> - GAI周延, 刘煜 - <a href="https://music.163.com/#/album?id=94296929">沧海一声笑</a> 
-* <a href="https://music.163.com/#/song?id=165361"><strong>不分手的恋爱</strong></a> - 汪苏泷 - <a href="https://music.163.com/#/album?id=16608">好安静</a> 
-* <a href="https://music.163.com/#/song?id=1397345903"><strong>悬溺</strong></a> - 葛东琪 - <a href="https://music.163.com/#/album?id=79886335">第二街区</a> 
-* <a href="https://music.163.com/#/song?id=1341185678"><strong>say you love me</strong></a> - 红宇乐团 - <a href="https://music.163.com/#/album?id=75137457">say you love me</a> 
-* <a href="https://music.163.com/#/song?id=517875216"><strong>听见花开</strong></a> - 陈义正 - <a href="https://music.163.com/#/album?id=36067703">义无反顾</a> 
-* <a href="https://music.163.com/#/song?id=1811921555"><strong>星辰大海</strong></a> - 黄霄雲 - <a href="https://music.163.com/#/album?id=121630728">星辰大海</a> 
 
 
 <!-- table line=1 raw=1 end -->

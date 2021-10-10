@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Oct 10 2021 01:12:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Oct 10 2021 06:23:41 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=08bb29&c=1633828365510" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=b11e44&c=1633847012761" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,11 +44,11 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🌟 Starred Repos
 
-* [y3oj / **y3oj**](https://github.com/y3oj/y3oj) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">7<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
+* [y3oj / **y3oj**](https://github.com/y3oj/y3oj) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">8<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
 * [solstice23 / **osu-stats-signature**](https://github.com/solstice23/osu-stats-signature) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">11<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
-* [WXRIW / **Lyricify-App**](https://github.com/WXRIW/Lyricify-App) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">209<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">7
-* [ht0Ruial / **Jiyu_udp_attack**](https://github.com/ht0Ruial/Jiyu_udp_attack) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">117<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">33
-* [imengyu / **JiYuTrainer**](https://github.com/imengyu/JiYuTrainer) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">262<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">56
+* [WXRIW / **Lyricify-App**](https://github.com/WXRIW/Lyricify-App) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">210<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">7
+* [ht0Ruial / **Jiyu_udp_attack**](https://github.com/ht0Ruial/Jiyu_udp_attack) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">117<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">34
+* [imengyu / **JiYuTrainer**](https://github.com/imengyu/JiYuTrainer) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">263<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">56
 * [Tatsu-syo / **noMeiryoUI**](https://github.com/Tatsu-syo/noMeiryoUI) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">1k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">84
 
 
@@ -89,12 +89,12 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=26503591"><strong>衝動の粒子</strong></a> - fox capture plan - <a href="https://music.163.com/#/album?id=2510222">Trinity</a> 
+* <a href="https://music.163.com/#/song?id=32717382"><strong>Äventyr</strong></a> - Rigël Theatre - <a href="https://music.163.com/#/album?id=3161890">SOLROS ～Eternal Memory～</a> 
 * <a href="https://music.163.com/#/song?id=26124987"><strong>東京テディベア</strong></a> - Neru, 鏡音リン - <a href="https://music.163.com/#/album?id=2393432">世界征服</a> 
 * <a href="https://music.163.com/#/song?id=545804135"><strong>PLANET（翻自 ラムジ） </strong></a> - 黑猫 - <a href="https://music.163.com/#/album?id=37920413">planet（御姐版你懂叭）</a> 
 * <a href="https://music.163.com/#/song?id=516358872"><strong>朱丽叶的秋天</strong></a> - 张梦弘 - <a href="https://music.163.com/#/album?id=36705076">朱丽叶的秋天</a> 
 * <a href="https://music.163.com/#/song?id=767452"><strong>三年幻想郷</strong></a> - 神乃木製作所 - <a href="https://music.163.com/#/album?id=75453">三年幻想郷</a> 
-* <a href="https://music.163.com/#/song?id=1808492017"><strong>错位时空</strong></a> - 艾辰 - <a href="https://music.163.com/#/album?id=121076375">错位时空</a> 
-* <a href="https://music.163.com/#/song?id=1472862669"><strong>沧海一声笑</strong></a> - GAI周延, 刘煜 - <a href="https://music.163.com/#/album?id=94296929">沧海一声笑</a> 
 
 
 <!-- table line=1 raw=1 end -->
@@ -119,5 +119,5 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/Dearbabies><strong>@Dearbabies</strong></a>  had voted  at 07/10/2021, 07:58 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  pushed commit <a href=https://github.com/memset0/memset0/commit/7da889e63db975d79754fc7ee42e69f5497d0ca9><strong><code>7da889e</code></strong></a>  at 10/10/2021, 06:23 
 </sub></p>

@@ -1,4 +1,4 @@
-<p align="center">This tag cloud is based on the votes of these users, you can also join this via <a href="https://github.com/memset0">my Github profile</a>.<p>
+<p align="center">This tag cloud is based on the votes of these users, you can also join this activity via <a href="https://github.com/memset0">my Github profile</a>.<p>
 <p align="center">这张标签云是基于下列用户的投票生成的，你也可以在 <a href="https://github.com/memset0">我的 Github 主页</a> 参与这项活动。</p><br>
 <p align="center"><table width="1200px"><tr><td align="center" valign="middle" width="20%" >
 <!-- table line=0 raw=0 start -->

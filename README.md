@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Oct 10 2021 13:14:09 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Oct 10 2021 14:48:25 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=b11e44&c=1633871643877" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=7ea283&c=1633877298967" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -34,7 +34,7 @@
 
 <p align="center">
 👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, aka whisperain, a student who would like to be considered as a geek.<br>
-What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an new issue with presets to vote.
+What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issue with presets to vote.
 </p>
 
 <table width="800px">
@@ -119,5 +119,5 @@ What do you think of me? Please <strong>CLICK BADGES ABOVE</strong> to open an n
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/psz2007><strong>@psz2007</strong></a>  had voted  at 10/10/2021, 13:14 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  pushed commit <a href=https://github.com/memset0/memset0/commit/eb7e9ce6f71b9cd5c43bb35a12be3e6d67c9dc96><strong><code>eb7e9ce</code></strong></a>  at 10/10/2021, 14:48 
 </sub></p>

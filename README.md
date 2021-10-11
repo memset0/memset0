@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Oct 10 2021 14:48:25 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Oct 11 2021 01:13:24 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=7ea283&c=1633877298967" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=7ea283&c=1633914799062" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -89,12 +89,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=469310563"><strong>三年前</strong></a> - RaJor - <a href="https://music.163.com/#/album?id=35331073">三年前</a> 
+* <a href="https://music.163.com/#/song?id=36102364"><strong>SPÏKA</strong></a> - Rigël Theatre - <a href="https://music.163.com/#/album?id=3390058">Lengsel -Ghosts of Memories-</a> 
 * <a href="https://music.163.com/#/song?id=26503591"><strong>衝動の粒子</strong></a> - fox capture plan - <a href="https://music.163.com/#/album?id=2510222">Trinity</a> 
 * <a href="https://music.163.com/#/song?id=32717382"><strong>Äventyr</strong></a> - Rigël Theatre - <a href="https://music.163.com/#/album?id=3161890">SOLROS ～Eternal Memory～</a> 
 * <a href="https://music.163.com/#/song?id=26124987"><strong>東京テディベア</strong></a> - Neru, 鏡音リン - <a href="https://music.163.com/#/album?id=2393432">世界征服</a> 
 * <a href="https://music.163.com/#/song?id=545804135"><strong>PLANET（翻自 ラムジ） </strong></a> - 黑猫 - <a href="https://music.163.com/#/album?id=37920413">planet（御姐版你懂叭）</a> 
-* <a href="https://music.163.com/#/song?id=516358872"><strong>朱丽叶的秋天</strong></a> - 张梦弘 - <a href="https://music.163.com/#/album?id=36705076">朱丽叶的秋天</a> 
-* <a href="https://music.163.com/#/song?id=767452"><strong>三年幻想郷</strong></a> - 神乃木製作所 - <a href="https://music.163.com/#/album?id=75453">三年幻想郷</a> 
 
 
 <!-- table line=1 raw=1 end -->

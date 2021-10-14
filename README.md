@@ -1,6 +1,6 @@
-<!-- auto generated at Wed Oct 13 2021 01:13:26 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Thu Oct 14 2021 01:10:51 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=6e4eba&c=1634087600358" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=44dc01&c=1634173844589" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,8 +44,8 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🌟 Starred Repos
 
-* [jerrylususu / **9square**](https://github.com/jerrylususu/9square) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">22<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
-* [gja / **cloudflare-worker-local**](https://github.com/gja/cloudflare-worker-local) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">132<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">26
+* [jerrylususu / **9square**](https://github.com/jerrylususu/9square) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">24<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
+* [gja / **cloudflare-worker-local**](https://github.com/gja/cloudflare-worker-local) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">133<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">26
 * [sharkdp / **insect**](https://github.com/sharkdp/insect) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">2k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">99
 * [EtherDream / **jsproxy**](https://github.com/EtherDream/jsproxy) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">8k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">3k
 * [maxwellito / **vivus**](https://github.com/maxwellito/vivus) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">13k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">1k
@@ -89,12 +89,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=22636655"><strong>信仰は儚き人間の為に</strong></a> - 上海アリス幻樂団 - <a href="https://music.163.com/#/album?id=2075198">東方風神録〜Mountain of Faith. サウンドトラック</a> 
+* <a href="https://music.163.com/#/song?id=1349479429"><strong>異世界の初心者</strong></a> - HJLL, 夜の律 - <a href="https://music.163.com/#/album?id=75614027">NightLaw03:Transcend</a> 
+* <a href="https://music.163.com/#/song?id=851062"><strong>悠久の蒸気机関</strong></a> - 黄昏フロンティア - <a href="https://music.163.com/#/album?id=84771">核热造神ヒソウテンソク 东方非想天则 Original Sound Track</a> 
+* <a href="https://music.163.com/#/song?id=411500394"><strong>Little Red Train</strong></a> - Rigël Theatre - <a href="https://music.163.com/#/album?id=34678306">Little Red Train</a> 
 * <a href="https://music.163.com/#/song?id=469310563"><strong>三年前</strong></a> - RaJor - <a href="https://music.163.com/#/album?id=35331073">三年前</a> 
 * <a href="https://music.163.com/#/song?id=36102364"><strong>SPÏKA</strong></a> - Rigël Theatre - <a href="https://music.163.com/#/album?id=3390058">Lengsel -Ghosts of Memories-</a> 
-* <a href="https://music.163.com/#/song?id=26503591"><strong>衝動の粒子</strong></a> - fox capture plan - <a href="https://music.163.com/#/album?id=2510222">Trinity</a> 
-* <a href="https://music.163.com/#/song?id=32717382"><strong>Äventyr</strong></a> - Rigël Theatre - <a href="https://music.163.com/#/album?id=3161890">SOLROS ～Eternal Memory～</a> 
-* <a href="https://music.163.com/#/song?id=26124987"><strong>東京テディベア</strong></a> - Neru, 鏡音リン - <a href="https://music.163.com/#/album?id=2393432">世界征服</a> 
-* <a href="https://music.163.com/#/song?id=545804135"><strong>PLANET（翻自 ラムジ） </strong></a> - 黑猫 - <a href="https://music.163.com/#/album?id=37920413">planet（御姐版你懂叭）</a> 
 
 
 <!-- table line=1 raw=1 end -->

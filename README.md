@@ -1,6 +1,6 @@
-<!-- auto generated at Sat Oct 16 2021 02:34:48 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat Oct 16 2021 02:41:49 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=2002e3&c=1634351684706" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=2002e3&c=1634352105048" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -74,12 +74,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 👨‍💻 Followed Users
 
-* [**Runze Zhang** zj713300](https://github.com/zj713300/)
-* [**_rqy** rqy1458814497](https://github.com/rqy1458814497/)
-* [**琴梨梨** qinlili23333](https://github.com/qinlili23333/)
-* [**MaxXing** MaxXSoft](https://github.com/MaxXSoft/)
-* [**Abby** abbychau](https://github.com/abbychau/)
-* [**Reqwey** Linhk1606](https://github.com/Linhk1606/)
+* [**Runze Zhang** zj713300](https://github.com/zj713300/) - Runze Zhang（张润泽） or Woruo（沃若）,...
+* [**_rqy** rqy1458814497](https://github.com/rqy1458814497/) - Tsinghua University Math under...
+* [**琴梨梨** qinlili23333](https://github.com/qinlili23333/) - 秃了的生化天坑大三狗A Biopharmaceutical...
+* [**MaxXing** MaxXSoft](https://github.com/MaxXSoft/) - El Psy Congroo
+* [**Abby** abbychau](https://github.com/abbychau/) - Chau Yu Hoiqq:56750419/tt:abb...
+* [**Reqwey** Linhk1606](https://github.com/Linhk1606/) - ???
 
 
 <!-- table line=1 raw=0 end -->
@@ -119,5 +119,5 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  pushed commit <a href=https://github.com/memset0/memset0/commit/50bd059492a8392c60bb39ae2c53bb345ed99f95><strong><code>50bd059</code></strong></a>  at 16/10/2021, 02:34 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  pushed commit <a href=https://github.com/memset0/memset0/commit/7f2d7c354971477be5c61589b6382333233f253e><strong><code>7f2d7c3</code></strong></a>  at 16/10/2021, 02:41 
 </sub></p>

@@ -69,7 +69,7 @@ async function crawlFollowedUsers() {
 			let uid = $e.children('a').children('span').eq(1).text();
 			if (!name) { name = uid, uid = ''; }
 
-			let description = $e.children('div.color-text-secondary').text().trim();
+			let description = $e.children('.color-fg-muted.text-small').eq(0).text().trim();
 			if (description.length >= description_max_length) {
 				description = description.slice(0, description_max_length) + '...';
 			}

@@ -1,6 +1,6 @@
-<!-- auto generated at Sat Oct 16 2021 01:17:33 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat Oct 16 2021 02:34:48 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=2f3b28&c=1634347047688" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=2002e3&c=1634351684706" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,7 +44,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🌟 Starred Repos
 
-
+* [Gsllchb / **Handright**](https://github.com/Gsllchb/Handright) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">738<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">131
+* [lwch / **natpass**](https://github.com/lwch/natpass) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">224<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">26
+* [tensorlayer / **text-antispam**](https://github.com/tensorlayer/text-antispam) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">360<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">98
+* [cheshirekow / **uchroot**](https://github.com/cheshirekow/uchroot) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">16<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">2
+* [jerrylususu / **9square**](https://github.com/jerrylususu/9square) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">25<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
+* [gja / **cloudflare-worker-local**](https://github.com/gja/cloudflare-worker-local) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">133<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">26
 
 
 <!-- table line=0 raw=0 end -->
@@ -69,7 +74,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 👨‍💻 Followed Users
 
-
+* [**Runze Zhang** zj713300](https://github.com/zj713300/)
+* [**_rqy** rqy1458814497](https://github.com/rqy1458814497/)
+* [**琴梨梨** qinlili23333](https://github.com/qinlili23333/)
+* [**MaxXing** MaxXSoft](https://github.com/MaxXSoft/)
+* [**Abby** abbychau](https://github.com/abbychau/)
+* [**Reqwey** Linhk1606](https://github.com/Linhk1606/)
 
 
 <!-- table line=1 raw=0 end -->
@@ -109,5 +119,5 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  pushed commit <a href=https://github.com/memset0/memset0/commit/eb7e9ce6f71b9cd5c43bb35a12be3e6d67c9dc96><strong><code>eb7e9ce</code></strong></a>  at 10/10/2021, 14:48 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  pushed commit <a href=https://github.com/memset0/memset0/commit/50bd059492a8392c60bb39ae2c53bb345ed99f95><strong><code>50bd059</code></strong></a>  at 16/10/2021, 02:34 
 </sub></p>

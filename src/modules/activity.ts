@@ -4,6 +4,8 @@ import { assetLink, generateTable, TableCell } from '../utils';
 
 const max_length = 6;
 const disable_github = false;
+const github_root = 'https://github.com';
+// const github_root = 'https://hub.fastgit.org';
 
 const chineseNumbers = [
 	'一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二'
@@ -17,7 +19,7 @@ const fork_png_link = assetLink('img/github/fork.png');
 async function crawlStarredRepos() {
 	if (disable_github) { return 'null'; }
 
-	const $ = load((await get('https://github.com/memset0?tab=stars')).text);
+	const $ = load((await get(github_root + '/memset0?tab=stars')).text);
 	const parseNumber = (str: string): string => {
 		const num = parseInt(str.replace(/\,/g, '')) || 0;
 		if (num >= 1000000) {
@@ -29,7 +31,7 @@ async function crawlStarredRepos() {
 		}
 	}
 
-	return Array.from($('.col-12.d-block.width-full.py-4.border-bottom.color-border-secondary'))
+	return Array.from($('.col-12.d-block.width-full.py-4.border-bottom.color-border-muted'))
 		.slice(0, max_length)
 		.map((element) => {
 			const $e = $(element);
@@ -55,10 +57,10 @@ async function crawlStarredRepos() {
 async function crawlFollowedUsers() {
 	if (disable_github) { return 'null'; }
 
-	const $ = load((await get('https://github.com/memset0?tab=following')).text);
+	const $ = load((await get(github_root + '/memset0?tab=following')).text);
 	const description_max_length = 30;
 
-	return Array.from($('.d-table.table-fixed.col-12.width-full.py-4.border-bottom.color-border-secondary'))
+	return Array.from($('.d-table.table-fixed.col-12.width-full.py-4.border-bottom.color-border-muted'))
 		.slice(0, max_length)
 		.map((element) => {
 			const $e = $(element).children('div').eq(1);
@@ -106,7 +108,7 @@ async function crawlRecentBlogs() {
 
 			console.log('[crawl-recent-blogs]', title, link, year, month, day);
 			console.log('[crawl-recent-blogs]', 'summary:', summary);
-			
+
 			return '* ' +
 				`[${title}](https://memset0.cn${link}) ` +
 				`- ${s_day}/${s_month}/${s_year}`;

@@ -1,6 +1,6 @@
-<!-- auto generated at Fri Oct 15 2021 01:14:51 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat Oct 16 2021 01:17:33 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=d98b50&c=1634260485005" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=2f3b28&c=1634347047688" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🌟 Starred Repos
 
-* [tensorlayer / **text-antispam**](https://github.com/tensorlayer/text-antispam) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">357<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">98
-* [cheshirekow / **uchroot**](https://github.com/cheshirekow/uchroot) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">16<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">2
-* [jerrylususu / **9square**](https://github.com/jerrylususu/9square) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">25<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
-* [gja / **cloudflare-worker-local**](https://github.com/gja/cloudflare-worker-local) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">133<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">26
-* [sharkdp / **insect**](https://github.com/sharkdp/insect) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">2k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">99
-* [EtherDream / **jsproxy**](https://github.com/EtherDream/jsproxy) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">8k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">3k
+
 
 
 <!-- table line=0 raw=0 end -->
@@ -74,12 +69,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 👨‍💻 Followed Users
 
-* [**琴梨梨** qinlili23333](https://github.com/qinlili23333/) - 秃了的生化天坑大三狗A Biopharmaceutical...
-* [**MaxXing** MaxXSoft](https://github.com/MaxXSoft/) - El Psy Congroo
-* [**Abby** abbychau](https://github.com/abbychau/) - Chau Yu Hoiqq:56750419/tt:abb...
-* [**Reqwey** Linhk1606](https://github.com/Linhk1606/) - ???
-* [**Shuhao Zhang** StudyingFather](https://github.com/StudyingFather/) - Focus on interest! | @OI-wiki ...
-* [**Elaina** userElaina](https://github.com/userElaina/) - t.me/userelaina
+
 
 
 <!-- table line=1 raw=0 end -->

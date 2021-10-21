@@ -1,6 +1,6 @@
-<!-- auto generated at Wed Oct 20 2021 01:14:12 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Thu Oct 21 2021 01:19:27 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=34b1cd&c=1634692446784" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=31d291&c=1634779161885" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,8 +45,8 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 #### 🌟 Starred Repos
 
 * [Gsllchb / **Handright**](https://github.com/Gsllchb/Handright) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">739<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">133
-* [lwch / **natpass**](https://github.com/lwch/natpass) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">251<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">27
-* [tensorlayer / **text-antispam**](https://github.com/tensorlayer/text-antispam) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">363<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">98
+* [lwch / **natpass**](https://github.com/lwch/natpass) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">258<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">27
+* [tensorlayer / **text-antispam**](https://github.com/tensorlayer/text-antispam) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">364<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">98
 * [cheshirekow / **uchroot**](https://github.com/cheshirekow/uchroot) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">16<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">2
 * [jerrylususu / **9square**](https://github.com/jerrylususu/9square) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">25<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
 * [gja / **cloudflare-worker-local**](https://github.com/gja/cloudflare-worker-local) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">135<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">27
@@ -89,12 +89,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=77080"><strong>酒矸倘卖无</strong></a> - 迪克牛仔 - <a href="https://music.163.com/#/album?id=7576">黄金十载全精选</a> 
+* <a href="https://music.163.com/#/song?id=117220"><strong>十分十二寸</strong></a> - 林子祥 - <a href="https://music.163.com/#/album?id=11443">十分十二寸</a> 
+* <a href="https://music.163.com/#/song?id=77099"><strong>你知道我在等你吗</strong></a> - 迪克牛仔 - <a href="https://music.163.com/#/album?id=7576">黄金十载全精选</a> 
+* <a href="https://music.163.com/#/song?id=104602"><strong>跟往事干杯</strong></a> - 姜育恒 - <a href="https://music.163.com/#/album?id=10338">跟往事干杯</a> 
 * <a href="https://music.163.com/#/song?id=39940013"><strong>无言的结局</strong></a> - 李茂山 - <a href="https://music.163.com/#/album?id=3436199">李茂山精选集</a> 
 * <a href="https://music.163.com/#/song?id=27927147"><strong>123木头人</strong></a> - 刘德华, 陈小春, 梅艳芳 - <a href="https://music.163.com/#/album?id=2696008">热门华语138</a> 
-* <a href="https://music.163.com/#/song?id=349892"><strong>失恋阵线联盟</strong></a> - 草蜢 - <a href="https://music.163.com/#/album?id=34488">失恋阵线联盟</a> 
-* <a href="https://music.163.com/#/song?id=237379"><strong>潇洒地走</strong></a> - 高胜美 - <a href="https://music.163.com/#/album?id=23770">雷射金曲1</a> 
-* <a href="https://music.163.com/#/song?id=194769"><strong>让一切随风</strong></a> - 钟镇涛 - <a href="https://music.163.com/#/album?id=19621">听涛</a> 
-* <a href="https://music.163.com/#/song?id=110740"><strong>忘情水(Live)</strong></a> - 刘德华 - <a href="https://music.163.com/#/album?id=10945">爱你一万年 99演唱会</a> 
 
 
 <!-- table line=1 raw=1 end -->

@@ -1,6 +1,6 @@
-<!-- auto generated at Wed Oct 27 2021 01:07:32 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Thu Oct 28 2021 01:08:58 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=a215a4&c=1635296846293" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0e7f1e&c=1635383332869" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,8 +45,8 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 #### 🌟 Starred Repos
 
 * [I-am-Erk / **CDDA-Tilesets**](https://github.com/I-am-Erk/CDDA-Tilesets) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">175<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">69
-* [Gsllchb / **Handright**](https://github.com/Gsllchb/Handright) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">743<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">134
-* [lwch / **natpass**](https://github.com/lwch/natpass) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">268<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">27
+* [Gsllchb / **Handright**](https://github.com/Gsllchb/Handright) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">745<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">135
+* [lwch / **natpass**](https://github.com/lwch/natpass) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">271<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">27
 * [tensorlayer / **text-antispam**](https://github.com/tensorlayer/text-antispam) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">365<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">99
 * [cheshirekow / **uchroot**](https://github.com/cheshirekow/uchroot) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">16<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">2
 * [jerrylususu / **9square**](https://github.com/jerrylususu/9square) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">25<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0

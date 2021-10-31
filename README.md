@@ -1,6 +1,6 @@
-<!-- auto generated at Sat Oct 30 2021 02:27:14 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Oct 31 2021 01:12:33 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=621e7c&c=1635560828275" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=621e7c&c=1635642745994" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🌟 Starred Repos
 
+* [stdlib-js / **stdlib**](https://github.com/stdlib-js/stdlib) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">2k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">145
+* [ADeltaX / **WSAGAScript**](https://github.com/ADeltaX/WSAGAScript) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">1k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">109
 * [liust97 / **rich-simulator**](https://github.com/liust97/rich-simulator) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">49<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">9
-* [type-challenges / **type-challenges**](https://github.com/type-challenges/type-challenges) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">8k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">495
+* [type-challenges / **type-challenges**](https://github.com/type-challenges/type-challenges) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">8k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">496
 * [Chi-Task-Force / **Chi-Telegram-Inline-Bot**](https://github.com/Chi-Task-Force/Chi-Telegram-Inline-Bot) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">10<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
 * [I-am-Erk / **CDDA-Tilesets**](https://github.com/I-am-Erk/CDDA-Tilesets) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">176<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">70
-* [Gsllchb / **Handright**](https://github.com/Gsllchb/Handright) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">748<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">134
-* [lwch / **natpass**](https://github.com/lwch/natpass) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">275<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">27
 
 
 <!-- table line=0 raw=0 end -->
@@ -89,12 +89,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=77080"><strong>酒矸倘卖无</strong></a> - 迪克牛仔 - <a href="https://music.163.com/#/album?id=7576">黄金十载全精选</a> 
-* <a href="https://music.163.com/#/song?id=117220"><strong>十分十二寸</strong></a> - 林子祥 - <a href="https://music.163.com/#/album?id=11443">十分十二寸</a> 
-* <a href="https://music.163.com/#/song?id=77099"><strong>你知道我在等你吗</strong></a> - 迪克牛仔 - <a href="https://music.163.com/#/album?id=7576">黄金十载全精选</a> 
-* <a href="https://music.163.com/#/song?id=104602"><strong>跟往事干杯</strong></a> - 姜育恒 - <a href="https://music.163.com/#/album?id=10338">跟往事干杯</a> 
-* <a href="https://music.163.com/#/song?id=39940013"><strong>无言的结局</strong></a> - 李茂山 - <a href="https://music.163.com/#/album?id=3436199">李茂山精选集</a> 
-* <a href="https://music.163.com/#/song?id=27927147"><strong>123木头人</strong></a> - 刘德华, 陈小春, 梅艳芳 - <a href="https://music.163.com/#/album?id=2696008">热门华语138</a> 
+* <a href="https://music.163.com/#/song?id=96100"><strong>奔跑</strong></a> - 黄征, 羽·泉 - <a href="https://music.163.com/#/album?id=9376">爱情诺曼底</a> 
+* <a href="https://music.163.com/#/song?id=276294"><strong>相思</strong></a> - 毛阿敏 - <a href="https://music.163.com/#/album?id=27444">腔.调</a> 
+* <a href="https://music.163.com/#/song?id=394653"><strong>坐在巷口的那对男女</strong></a> - 自然卷 - <a href="https://music.163.com/#/album?id=39082">C'est la vie 这就是生活</a> 
+* <a href="https://music.163.com/#/song?id=281385"><strong>让泪化做相思雨</strong></a> - 彭芳 - <a href="https://music.163.com/#/album?id=27952">纯色角3</a> 
+* <a href="https://music.163.com/#/song?id=276734"><strong>没有情人的情人节</strong></a> - 孟庭苇 - <a href="https://music.163.com/#/album?id=27485">冬季到台北来看雨</a> 
+* <a href="https://music.163.com/#/song?id=188989"><strong>离人</strong></a> - 张学友 - <a href="https://music.163.com/#/album?id=19118">不后悔</a> 
 
 
 <!-- table line=1 raw=1 end -->

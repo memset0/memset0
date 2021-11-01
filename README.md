@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Oct 31 2021 01:12:33 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Nov 01 2021 01:12:15 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=621e7c&c=1635642745994" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=cd1f74&c=1635729129012" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,11 +45,11 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 #### 🌟 Starred Repos
 
 * [stdlib-js / **stdlib**](https://github.com/stdlib-js/stdlib) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">2k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">145
-* [ADeltaX / **WSAGAScript**](https://github.com/ADeltaX/WSAGAScript) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">1k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">109
+* [WSA-Community / **WSAGAScript**](https://github.com/WSA-Community/WSAGAScript) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">1k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">111
 * [liust97 / **rich-simulator**](https://github.com/liust97/rich-simulator) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">49<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">9
-* [type-challenges / **type-challenges**](https://github.com/type-challenges/type-challenges) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">8k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">496
+* [type-challenges / **type-challenges**](https://github.com/type-challenges/type-challenges) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">8k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">498
 * [Chi-Task-Force / **Chi-Telegram-Inline-Bot**](https://github.com/Chi-Task-Force/Chi-Telegram-Inline-Bot) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">10<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
-* [I-am-Erk / **CDDA-Tilesets**](https://github.com/I-am-Erk/CDDA-Tilesets) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">176<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">70
+* [I-am-Erk / **CDDA-Tilesets**](https://github.com/I-am-Erk/CDDA-Tilesets) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">177<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">70
 
 
 <!-- table line=0 raw=0 end -->
@@ -74,12 +74,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 👨‍💻 Followed Users
 
+* [**Chenyao Lou** louchenyao](https://github.com/louchenyao/) - OwO~
+* [**Officeyutong** ](https://github.com//) - I know nothing. I'm good at no...
 * [**Runze Zhang** zj713300](https://github.com/zj713300/) - Runze Zhang（张润泽） or Woruo（沃若）,...
 * [**_rqy** rqy1458814497](https://github.com/rqy1458814497/) - Tsinghua University Math under...
 * [**琴梨梨** qinlili23333](https://github.com/qinlili23333/) - 秃了的生化天坑大三狗A Biopharmaceutical...
 * [**MaxXing** MaxXSoft](https://github.com/MaxXSoft/) - El Psy Congroo
-* [**Abby** abbychau](https://github.com/abbychau/) - Chau Yu Hoiqq:56750419/tt:abb...
-* [**Reqwey** Linhk1606](https://github.com/Linhk1606/) - ???
 
 
 <!-- table line=1 raw=0 end -->

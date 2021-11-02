@@ -1,6 +1,6 @@
-<!-- auto generated at Mon Nov 01 2021 12:03:42 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Tue Nov 02 2021 01:12:47 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=755472&c=1635768215880" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=3abe61&c=1635815561016" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🌟 Starred Repos
 
+* [foxsen / **archbase**](https://github.com/foxsen/archbase) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">96<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">4
+* [tauri-apps / **tauri**](https://github.com/tauri-apps/tauri) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">23k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">563
+* [Mottie / **GitHub-userscripts**](https://github.com/Mottie/GitHub-userscripts) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">1k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">118
 * [stdlib-js / **stdlib**](https://github.com/stdlib-js/stdlib) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">2k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">145
-* [WSA-Community / **WSAGAScript**](https://github.com/WSA-Community/WSAGAScript) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">1k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">111
+* [WSA-Community / **WSAGAScript**](https://github.com/WSA-Community/WSAGAScript) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">1k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">113
 * [liust97 / **rich-simulator**](https://github.com/liust97/rich-simulator) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">49<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">9
-* [type-challenges / **type-challenges**](https://github.com/type-challenges/type-challenges) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">8k<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">500
-* [Chi-Task-Force / **Chi-Telegram-Inline-Bot**](https://github.com/Chi-Task-Force/Chi-Telegram-Inline-Bot) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">10<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">0
-* [I-am-Erk / **CDDA-Tilesets**](https://github.com/I-am-Erk/CDDA-Tilesets) <img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/star.png" height="18px">177<img src="https://raw.githubusercontent.com/memset0/memset0/master/assets/img/github/fork.png" height="18px">70
 
 
 <!-- table line=0 raw=0 end -->
@@ -89,12 +89,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=96100"><strong>奔跑</strong></a> - 黄征, 羽·泉 - <a href="https://music.163.com/#/album?id=9376">爱情诺曼底</a> 
-* <a href="https://music.163.com/#/song?id=276294"><strong>相思</strong></a> - 毛阿敏 - <a href="https://music.163.com/#/album?id=27444">腔.调</a> 
-* <a href="https://music.163.com/#/song?id=394653"><strong>坐在巷口的那对男女</strong></a> - 自然卷 - <a href="https://music.163.com/#/album?id=39082">C'est la vie 这就是生活</a> 
-* <a href="https://music.163.com/#/song?id=281385"><strong>让泪化做相思雨</strong></a> - 彭芳 - <a href="https://music.163.com/#/album?id=27952">纯色角3</a> 
-* <a href="https://music.163.com/#/song?id=276734"><strong>没有情人的情人节</strong></a> - 孟庭苇 - <a href="https://music.163.com/#/album?id=27485">冬季到台北来看雨</a> 
-* <a href="https://music.163.com/#/song?id=188989"><strong>离人</strong></a> - 张学友 - <a href="https://music.163.com/#/album?id=19118">不后悔</a> 
+* <a href="https://music.163.com/#/song?id=5244822"><strong>我愿意</strong></a> - 王菲 - <a href="https://music.163.com/#/album?id=511483">国语经典101</a> 
+* <a href="https://music.163.com/#/song?id=94646"><strong>小薇</strong></a> - 黄品源 - <a href="https://music.163.com/#/album?id=9260">简单情歌 小薇</a> 
+* <a href="https://music.163.com/#/song?id=156210"><strong>将军令</strong></a> - 吴克群 - <a href="https://music.163.com/#/album?id=15732">将军令</a> 
+* <a href="https://music.163.com/#/song?id=85580"><strong>童话</strong></a> - 光良 - <a href="https://music.163.com/#/album?id=8402">童话</a> 
+* <a href="https://music.163.com/#/song?id=165405"><strong>巴赫旧约</strong></a> - 汪苏泷 - <a href="https://music.163.com/#/album?id=16614">巴赫旧约</a> 
+* <a href="https://music.163.com/#/song?id=165367"><strong>三国杀</strong></a> - 汪苏泷 - <a href="https://music.163.com/#/album?id=16608">好安静</a> 
 
 
 <!-- table line=1 raw=1 end -->

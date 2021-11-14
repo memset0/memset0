@@ -3,7 +3,8 @@ import * as path from 'path';
 
 const root_path = path.join(__dirname, '../data');
 const repo_root_uri = 'https://github.com/memset0/memset0';
-const assets_root_uri = 'https://raw.githubusercontent.com/memset0/memset0/master/assets/';
+// const assets_root_uri = 'https://raw.githubusercontent.com/memset0/memset0/master/assets/';
+const assets_root_uri = 'https://cdn.jsdelivr.net/gh/memset0/memset0/assets/';
 
 
 export function loadData(dir: string): string {

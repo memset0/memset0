@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Nov 21 2021 01:13:03 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Nov 22 2021 01:11:18 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=850234&c=1637457178077" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=b5ac1d&c=1637543471734" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🌟 Starred Repos
 
+* [syzoj / **syzoj-renderer**](https://github.com/syzoj/syzoj-renderer) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">9<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">4
+* [ankitects / **anki**](https://github.com/ankitects/anki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">9k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
+* [kerrickstaley / **genanki**](https://github.com/kerrickstaley/genanki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">897<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">91
+* [tldraw / **tldraw**](https://github.com/tldraw/tldraw) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">88
+* [termux / **termux-boot**](https://github.com/termux/termux-boot) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">304<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">134
 * [bkerler / **mtkclient**](https://github.com/bkerler/mtkclient) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">203<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">63
-* [DavidPisces / **ReduceMIUI**](https://github.com/DavidPisces/ReduceMIUI) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">164<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">14
-* [abbychau / **shin-semver**](https://github.com/abbychau/shin-semver) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [jashkenas / **coffeescript**](https://github.com/jashkenas/coffeescript) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">16k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
-* [maxtaco / **coffee-script**](https://github.com/maxtaco/coffee-script) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">733<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">62
-* [memset0 / **open-xuehai**](https://github.com/memset0/open-xuehai) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 
 
 <!-- table line=0 raw=0 end -->
@@ -74,12 +74,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 👨‍💻 Followed Users
 
+* [**HIMlaoS_Misa** MisaLiu](https://github.com/MisaLiu/) - A little trash.
 * [**Andy Y.** hzyangjc](https://github.com/hzyangjc/) - Tenderness is reserved for tho...
 * [**Chenyao Lou** louchenyao](https://github.com/louchenyao/) - OwO~
 * [**Officeyutong** ](https://github.com//) - I know nothing. I'm good at no...
 * [**Runze Zhang** zj713300](https://github.com/zj713300/) - Runze Zhang（张润泽） or Woruo（沃若）,...
 * [**_rqy** rqy1458814497](https://github.com/rqy1458814497/) - Tsinghua University Math under...
-* [**琴梨梨** qinlili23333](https://github.com/qinlili23333/) - 秃了的生化天坑大三狗A Biopharmaceutical...
 
 
 <!-- table line=1 raw=0 end -->
@@ -89,12 +89,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=26600025"><strong>荷塘月色</strong></a> - 凤凰传奇 - <a href="https://music.163.com/#/album?id=2533022">凤凰传奇原创合集</a> 
+* <a href="https://music.163.com/#/song?id=1849434429"><strong>荷塘月色（翻自 凤凰传奇）</strong></a> - Lex9 - <a href="https://music.163.com/#/album?id=128238916">月色正好</a> 
+* <a href="https://music.163.com/#/song?id=22687362"><strong>Infinite Mirror</strong></a> - LITE - <a href="https://music.163.com/#/album?id=2081461">Phantasia</a> 
 * <a href="https://music.163.com/#/song?id=5244822"><strong>我愿意</strong></a> - 王菲 - <a href="https://music.163.com/#/album?id=511483">国语经典101</a> 
 * <a href="https://music.163.com/#/song?id=94646"><strong>小薇</strong></a> - 黄品源 - <a href="https://music.163.com/#/album?id=9260">简单情歌 小薇</a> 
 * <a href="https://music.163.com/#/song?id=156210"><strong>将军令</strong></a> - 吴克群 - <a href="https://music.163.com/#/album?id=15732">将军令</a> 
-* <a href="https://music.163.com/#/song?id=85580"><strong>童话</strong></a> - 光良 - <a href="https://music.163.com/#/album?id=8402">童话</a> 
-* <a href="https://music.163.com/#/song?id=165405"><strong>巴赫旧约</strong></a> - 汪苏泷 - <a href="https://music.163.com/#/album?id=16614">巴赫旧约</a> 
-* <a href="https://music.163.com/#/song?id=165367"><strong>三国杀</strong></a> - 汪苏泷 - <a href="https://music.163.com/#/album?id=16608">好安静</a> 
 
 
 <!-- table line=1 raw=1 end -->

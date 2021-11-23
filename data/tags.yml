@@ -15,18 +15,18 @@ OIer:
 萌萌哒:
   color: FF69B4
   multiply: 2
-  new_line_after: true
-C++:
-  color: 7B90D2
-JavaScript:
-  color: CC2211
-TypeScript:
-  color: blue
-Python:
-  color: yellow
-Vue:
-  color: 42B983
-Docker:
-  color: 2496ED
-Github:
-  color: 24292F
+#   new_line_after: true
+# C++:
+#   color: 7B90D2
+# JavaScript:
+#   color: CC2211
+# TypeScript:
+#   color: blue
+# Python:
+#   color: yellow
+# Vue:
+#   color: 42B983
+# Docker:
+#   color: 2496ED
+# Github:
+#   color: 24292F

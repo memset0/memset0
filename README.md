@@ -1,6 +1,6 @@
-<!-- auto generated at Mon Nov 22 2021 01:11:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Tue Nov 23 2021 01:09:51 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=b5ac1d&c=1637543471734" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=047b12&c=1637629784596" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🌟 Starred Repos
 
+* [memset0 / **ankira-source**](https://github.com/memset0/ankira-source) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
+* [wuyr / **HookwormForAndroid**](https://github.com/wuyr/HookwormForAndroid) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">223<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">40
 * [syzoj / **syzoj-renderer**](https://github.com/syzoj/syzoj-renderer) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">9<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">4
 * [ankitects / **anki**](https://github.com/ankitects/anki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">9k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
-* [kerrickstaley / **genanki**](https://github.com/kerrickstaley/genanki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">897<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">91
-* [tldraw / **tldraw**](https://github.com/tldraw/tldraw) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">88
-* [termux / **termux-boot**](https://github.com/termux/termux-boot) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">304<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">134
-* [bkerler / **mtkclient**](https://github.com/bkerler/mtkclient) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">203<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">63
+* [kerrickstaley / **genanki**](https://github.com/kerrickstaley/genanki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">898<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">91
+* [tldraw / **tldraw**](https://github.com/tldraw/tldraw) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">99
 
 
 <!-- table line=0 raw=0 end -->
@@ -74,12 +74,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 👨‍💻 Followed Users
 
+* [**rainssong** rainssong](https://github.com/rainssong/) - Indie Game Developer
 * [**HIMlaoS_Misa** MisaLiu](https://github.com/MisaLiu/) - A little trash.
 * [**Andy Y.** hzyangjc](https://github.com/hzyangjc/) - Tenderness is reserved for tho...
 * [**Chenyao Lou** louchenyao](https://github.com/louchenyao/) - OwO~
 * [**Officeyutong** ](https://github.com//) - I know nothing. I'm good at no...
 * [**Runze Zhang** zj713300](https://github.com/zj713300/) - Runze Zhang（张润泽） or Woruo（沃若）,...
-* [**_rqy** rqy1458814497](https://github.com/rqy1458814497/) - Tsinghua University Math under...
 
 
 <!-- table line=1 raw=0 end -->

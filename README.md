@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Nov 28 2021 14:05:05 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Nov 28 2021 15:03:00 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=5e38f9&c=1638108298822" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=2743fc&c=1638111773317" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -33,8 +33,8 @@
 </p>
 
 <p align="center">
-👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, aka whisperain, a student who would like to be considered as a geek.<br>
-What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issue with presets to vote.
+👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, aka whisperain, a student who want to be considered as a geek.<br>
+What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 </p>
 
 <table width="800px">
@@ -89,12 +89,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=1299844890"><strong>同桌的你 (Live)</strong></a> - 老狼 - <a href="https://music.163.com/#/album?id=72192747">2014恒大音乐节现场版</a> 
+* <a href="https://music.163.com/#/song?id=1885752790"><strong>ダンスロボットダンス (アレンジメドレー (キメラver) はるまきごはん×煮ル果実×和田たけあき×栗山夕璃（蜂屋ななし）×じん×かいりきベア×てにをは×Chinozo×ピノキオピー×稲葉曇×一二三×Aqu3ra×Neru×ナユタン星人)</strong></a> - はるまきごはん, 煮ル果実, くらげP - <a href="https://music.163.com/#/album?id=134545901">キメラ</a> 
 * <a href="https://music.163.com/#/song?id=30798034"><strong>光るなら</strong></a> - Goose house - <a href="https://music.163.com/#/album?id=3104335">四月は君の嘘 第1卷 特典CD</a> 
 * <a href="https://music.163.com/#/song?id=5280037"><strong>中华民谣</strong></a> - 孙浩 - <a href="https://music.163.com/#/album?id=513586">二十世纪原创经典典藏 龙凤金歌榜</a> 
 * <a href="https://music.163.com/#/song?id=426881163"><strong>ニヒルと水没都市</strong></a> - 鏡音リン, 鏡音レン, Neru - <a href="https://music.163.com/#/album?id=34841025">GOTHIC & HORROR</a> 
 * <a href="https://music.163.com/#/song?id=306719"><strong>城里的月光</strong></a> - 许美静 - <a href="https://music.163.com/#/album?id=30461">完美静选</a> 
-* <a href="https://music.163.com/#/song?id=618819"><strong>百花缭乱ファンタズム 葵ちゃん ReMIX full chorus Ver</strong></a> - 真理絵, 南條愛乃 - <a href="https://music.163.com/#/album?id=58947">鬼ごっこ!ファンディスク ボーカルマキシ</a> 
-* <a href="https://music.163.com/#/song?id=32922790"><strong>栀子花开</strong></a> - 何炅 - <a href="https://music.163.com/#/album?id=3174550">栀子花开</a> 
 
 
 <!-- table line=1 raw=1 end -->
@@ -119,5 +119,5 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  pushed commit <a href=https://github.com/memset0/memset0/commit/5d780c79c69f9a83bfbade6e78c04291dbce8e86><strong><code>5d780c7</code></strong></a>  at 28/11/2021, 11:09 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  pushed commit <a href=https://github.com/memset0/memset0/commit/16436579add3cd5008beed77ac8e37c43ce6835d><strong><code>1643657</code></strong></a>  at 28/11/2021, 15:02 
 </sub></p>

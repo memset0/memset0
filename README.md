@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Nov 28 2021 15:04:00 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Nov 28 2021 23:13:30 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=2743fc&c=1638111835436" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=2743fc&c=1638141204678" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,12 +45,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Starred Repos
 
-* [notion-enhancer / **notion-repackaged**](https://github.com/notion-enhancer/notion-repackaged) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">364<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">12
+* [k8gege / **Ladon**](https://github.com/k8gege/Ladon) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">677
+* [notion-enhancer / **notion-repackaged**](https://github.com/notion-enhancer/notion-repackaged) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">367<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">12
 * [KunoiSayami / **delete-message-notifier**](https://github.com/KunoiSayami/delete-message-notifier) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
-* [Clansty / **Q2TG**](https://github.com/Clansty/Q2TG) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">67<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">10
+* [Clansty / **Q2TG**](https://github.com/Clansty/Q2TG) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">68<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">10
 * [mashirozx / **arknights-ui**](https://github.com/mashirozx/arknights-ui) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">257<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">48
 * [memset0 / **typecho-theme-ringo**](https://github.com/memset0/typecho-theme-ringo) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">52<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">6
-* [XAMPPRocky / **tokei**](https://github.com/XAMPPRocky/tokei) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">316
 
 
 <!-- table line=0 raw=0 end -->
@@ -90,12 +90,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=1299844890"><strong>同桌的你 (Live)</strong></a> - 老狼 - <a href="https://music.163.com/#/album?id=72192747">2014恒大音乐节现场版</a> 
-* <a href="https://music.163.com/#/song?id=1885752790"><strong>ダンスロボットダンス (アレンジメドレー (キメラver) はるまきごはん×煮ル果実×和田たけあき×栗山夕璃（蜂屋ななし）×じん×かいりきベア×てにをは×Chinozo×ピノキオピー×稲葉曇×一二三×Aqu3ra×Neru×ナユタン星人)</strong></a> - はるまきごはん, 煮ル果実, くらげP - <a href="https://music.163.com/#/album?id=134545901">キメラ</a> 
-* <a href="https://music.163.com/#/song?id=30798034"><strong>光るなら</strong></a> - Goose house - <a href="https://music.163.com/#/album?id=3104335">四月は君の嘘 第1卷 特典CD</a> 
-* <a href="https://music.163.com/#/song?id=5280037"><strong>中华民谣</strong></a> - 孙浩 - <a href="https://music.163.com/#/album?id=513586">二十世纪原创经典典藏 龙凤金歌榜</a> 
-* <a href="https://music.163.com/#/song?id=426881163"><strong>ニヒルと水没都市</strong></a> - 鏡音リン, 鏡音レン, Neru - <a href="https://music.163.com/#/album?id=34841025">GOTHIC & HORROR</a> 
-* <a href="https://music.163.com/#/song?id=306719"><strong>城里的月光</strong></a> - 许美静 - <a href="https://music.163.com/#/album?id=30461">完美静选</a> 
+* <a href="https://music.163.com/#/song?id=28152638"><strong>Sunrise</strong></a> - Nao'ymt - <a href="https://music.163.com/#/album?id=2732502">矢的直明 2013 大晦日</a> 
+* <a href="https://music.163.com/#/song?id=714514"><strong>泣いてもいいかな</strong></a> - MAGIC OF LiFE - <a href="https://music.163.com/#/album?id=69842">somewhere</a> 
+* <a href="https://music.163.com/#/song?id=36496695"><strong>Love Yourself</strong></a> - Justin Bieber - <a href="https://music.163.com/#/album?id=3389146">Purpose</a> 
+* <a href="https://music.163.com/#/song?id=19274538"><strong>Sink Or Swim</strong></a> - Tyrone Wells - <a href="https://music.163.com/#/album?id=1768461">Remain</a> 
+* <a href="https://music.163.com/#/song?id=1361789569"><strong>花雨落</strong></a> - 任然 - <a href="https://music.163.com/#/album?id=78813501">花雨落</a> 
+* <a href="https://music.163.com/#/song?id=535798"><strong>遥か远きベルク王国</strong></a> - 上松範康 - <a href="https://music.163.com/#/album?id=50353">白骑士物语 -episode.portable- ドグマ・ウォーズ オリジナル・サウンドトラック</a> 
 
 
 <!-- table line=1 raw=1 end -->

@@ -1,6 +1,6 @@
-<!-- auto generated at Tue Nov 23 2021 01:09:51 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Nov 28 2021 11:09:34 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=047b12&c=1637629784596" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=5e38f9&c=1638097767914" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -44,12 +44,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🌟 Starred Repos
 
-* [memset0 / **ankira-source**](https://github.com/memset0/ankira-source) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [wuyr / **HookwormForAndroid**](https://github.com/wuyr/HookwormForAndroid) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">223<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">40
-* [syzoj / **syzoj-renderer**](https://github.com/syzoj/syzoj-renderer) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">9<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">4
-* [ankitects / **anki**](https://github.com/ankitects/anki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">9k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
-* [kerrickstaley / **genanki**](https://github.com/kerrickstaley/genanki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">898<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">91
-* [tldraw / **tldraw**](https://github.com/tldraw/tldraw) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">99
+* [notion-enhancer / **notion-repackaged**](https://github.com/notion-enhancer/notion-repackaged) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">364<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">12
+* [KunoiSayami / **delete-message-notifier**](https://github.com/KunoiSayami/delete-message-notifier) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
+* [Clansty / **Q2TG**](https://github.com/Clansty/Q2TG) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">67<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">10
+* [mashirozx / **arknights-ui**](https://github.com/mashirozx/arknights-ui) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">257<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">48
+* [memset0 / **typecho-theme-ringo**](https://github.com/memset0/typecho-theme-ringo) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">52<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">6
+* [XAMPPRocky / **tokei**](https://github.com/XAMPPRocky/tokei) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">316
 
 
 <!-- table line=0 raw=0 end -->
@@ -74,12 +74,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 👨‍💻 Followed Users
 
+* [**XeKr** XeKr](https://github.com/XeKr/)
+* [**Tianle Xu** xtlsoft](https://github.com/xtlsoft/) - Tianle Xu, a senior 3 student ...
+* [**icy-blue** icy-blue](https://github.com/icy-blue/) - Shandong University
 * [**rainssong** rainssong](https://github.com/rainssong/) - Indie Game Developer
 * [**HIMlaoS_Misa** MisaLiu](https://github.com/MisaLiu/) - A little trash.
 * [**Andy Y.** hzyangjc](https://github.com/hzyangjc/) - Tenderness is reserved for tho...
-* [**Chenyao Lou** louchenyao](https://github.com/louchenyao/) - OwO~
-* [**Officeyutong** ](https://github.com//) - I know nothing. I'm good at no...
-* [**Runze Zhang** zj713300](https://github.com/zj713300/) - Runze Zhang（张润泽） or Woruo（沃若）,...
 
 
 <!-- table line=1 raw=0 end -->
@@ -89,12 +89,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=618819"><strong>百花缭乱ファンタズム 葵ちゃん ReMIX full chorus Ver</strong></a> - 真理絵, 南條愛乃 - <a href="https://music.163.com/#/album?id=58947">鬼ごっこ!ファンディスク ボーカルマキシ</a> 
+* <a href="https://music.163.com/#/song?id=32922790"><strong>栀子花开</strong></a> - 何炅 - <a href="https://music.163.com/#/album?id=3174550">栀子花开</a> 
+* <a href="https://music.163.com/#/song?id=1483891618"><strong>自由飞翔 (Live)</strong></a> - 沈凌, 玲花 - <a href="https://music.163.com/#/album?id=96247545">嗨唱转起来第二季 第1期</a> 
+* <a href="https://music.163.com/#/song?id=167844"><strong>灰色头像</strong></a> - 许嵩 - <a href="https://music.163.com/#/album?id=16951">寻雾启示</a> 
+* <a href="https://music.163.com/#/song?id=26090160"><strong>单身情歌</strong></a> - 林志炫 - <a href="https://music.163.com/#/album?id=2390019">最爱美声 影音典藏精选</a> 
 * <a href="https://music.163.com/#/song?id=26600025"><strong>荷塘月色</strong></a> - 凤凰传奇 - <a href="https://music.163.com/#/album?id=2533022">凤凰传奇原创合集</a> 
-* <a href="https://music.163.com/#/song?id=1849434429"><strong>荷塘月色（翻自 凤凰传奇）</strong></a> - Lex9 - <a href="https://music.163.com/#/album?id=128238916">月色正好</a> 
-* <a href="https://music.163.com/#/song?id=22687362"><strong>Infinite Mirror</strong></a> - LITE - <a href="https://music.163.com/#/album?id=2081461">Phantasia</a> 
-* <a href="https://music.163.com/#/song?id=5244822"><strong>我愿意</strong></a> - 王菲 - <a href="https://music.163.com/#/album?id=511483">国语经典101</a> 
-* <a href="https://music.163.com/#/song?id=94646"><strong>小薇</strong></a> - 黄品源 - <a href="https://music.163.com/#/album?id=9260">简单情歌 小薇</a> 
-* <a href="https://music.163.com/#/song?id=156210"><strong>将军令</strong></a> - 吴克群 - <a href="https://music.163.com/#/album?id=15732">将军令</a> 
 
 
 <!-- table line=1 raw=1 end -->
@@ -119,5 +119,5 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/Nickel-Angel><strong>@Nickel-Angel</strong></a>  had voted  at 20/11/2021, 10:45 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  pushed commit <a href=https://github.com/memset0/memset0/commit/5d780c79c69f9a83bfbade6e78c04291dbce8e86><strong><code>5d780c7</code></strong></a>  at 28/11/2021, 11:09 
 </sub></p>

@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Nov 28 2021 11:09:34 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Nov 28 2021 14:05:05 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=5e38f9&c=1638097767914" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=5e38f9&c=1638108298822" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -89,12 +89,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to open an new issu
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=30798034"><strong>光るなら</strong></a> - Goose house - <a href="https://music.163.com/#/album?id=3104335">四月は君の嘘 第1卷 特典CD</a> 
+* <a href="https://music.163.com/#/song?id=5280037"><strong>中华民谣</strong></a> - 孙浩 - <a href="https://music.163.com/#/album?id=513586">二十世纪原创经典典藏 龙凤金歌榜</a> 
+* <a href="https://music.163.com/#/song?id=426881163"><strong>ニヒルと水没都市</strong></a> - 鏡音リン, 鏡音レン, Neru - <a href="https://music.163.com/#/album?id=34841025">GOTHIC & HORROR</a> 
+* <a href="https://music.163.com/#/song?id=306719"><strong>城里的月光</strong></a> - 许美静 - <a href="https://music.163.com/#/album?id=30461">完美静选</a> 
 * <a href="https://music.163.com/#/song?id=618819"><strong>百花缭乱ファンタズム 葵ちゃん ReMIX full chorus Ver</strong></a> - 真理絵, 南條愛乃 - <a href="https://music.163.com/#/album?id=58947">鬼ごっこ!ファンディスク ボーカルマキシ</a> 
 * <a href="https://music.163.com/#/song?id=32922790"><strong>栀子花开</strong></a> - 何炅 - <a href="https://music.163.com/#/album?id=3174550">栀子花开</a> 
-* <a href="https://music.163.com/#/song?id=1483891618"><strong>自由飞翔 (Live)</strong></a> - 沈凌, 玲花 - <a href="https://music.163.com/#/album?id=96247545">嗨唱转起来第二季 第1期</a> 
-* <a href="https://music.163.com/#/song?id=167844"><strong>灰色头像</strong></a> - 许嵩 - <a href="https://music.163.com/#/album?id=16951">寻雾启示</a> 
-* <a href="https://music.163.com/#/song?id=26090160"><strong>单身情歌</strong></a> - 林志炫 - <a href="https://music.163.com/#/album?id=2390019">最爱美声 影音典藏精选</a> 
-* <a href="https://music.163.com/#/song?id=26600025"><strong>荷塘月色</strong></a> - 凤凰传奇 - <a href="https://music.163.com/#/album?id=2533022">凤凰传奇原创合集</a> 
 
 
 <!-- table line=1 raw=1 end -->

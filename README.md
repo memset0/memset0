@@ -1,6 +1,6 @@
-<!-- auto generated at Mon Dec 06 2021 01:13:24 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Tue Dec 07 2021 01:15:33 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=9697a3&c=1638753198108" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=891446&c=1638839727222" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,12 +45,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Starred Repos
 
+* [Nukesor / **pueue**](https://github.com/Nukesor/pueue) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">57
 * [PySimpleGUI / **PySimpleGUI**](https://github.com/PySimpleGUI/PySimpleGUI) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">8k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
-* [ChenJunsen / **Hegui3.0**](https://github.com/ChenJunsen/Hegui3.0) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">130<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">35
-* [Mas0nShi / **typoraCracker**](https://github.com/Mas0nShi/typoraCracker) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">284<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">84
-* [RimoChan / **match-you**](https://github.com/RimoChan/match-you) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">830<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">63
+* [ChenJunsen / **Hegui3.0**](https://github.com/ChenJunsen/Hegui3.0) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">131<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">35
+* [Mas0nShi / **typoraCracker**](https://github.com/Mas0nShi/typoraCracker) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">312<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">97
+* [RimoChan / **match-you**](https://github.com/RimoChan/match-you) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">857<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">63
 * [k8gege / **Ladon**](https://github.com/k8gege/Ladon) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">679
-* [notion-enhancer / **notion-repackaged**](https://github.com/notion-enhancer/notion-repackaged) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">392<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">12
 
 
 <!-- table line=0 raw=0 end -->
@@ -90,12 +90,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=22813877"><strong>ROCK OVER JAPAN</strong></a> - トリプルH - <a href="https://music.163.com/#/album?id=2097220">輪るピングドラム キャラクターソングアルバム</a> 
+* <a href="https://music.163.com/#/song?id=669053"><strong>TOKYO</strong></a> - YUI - <a href="https://music.163.com/#/album?id=64545">FROM ME TO YOU</a> 
 * <a href="https://music.163.com/#/song?id=22813882"><strong>灰色の水曜日</strong></a> - トリプルH - <a href="https://music.163.com/#/album?id=2097220">輪るピングドラム キャラクターソングアルバム</a> 
 * <a href="https://music.163.com/#/song?id=26209392"><strong>少年よ我に帰れ</strong></a> - やくしまるえつこ - <a href="https://music.163.com/#/album?id=2422034">RADIO ONSEN EUTOPIA</a> 
 * <a href="https://music.163.com/#/song?id=3405868"><strong>Scarborough Fair</strong></a> - Sarah Brightman - <a href="https://music.163.com/#/album?id=345234">The Very Best of Sarah Brightman 1990-2000</a> 
 * <a href="https://music.163.com/#/song?id=305020"><strong>爱情错觉</strong></a> - 王娅 - <a href="https://music.163.com/#/album?id=30220">爱情错觉</a> 
-* <a href="https://music.163.com/#/song?id=1297802566"><strong>盗墓笔记·十年人间</strong></a> - 李常超 (Lao乾妈) - <a href="https://music.163.com/#/album?id=72041288">盗墓笔记·十年人间</a> 
-* <a href="https://music.163.com/#/song?id=1411598636"><strong>爱笑的女孩</strong></a> - 杨陆 - <a href="https://music.163.com/#/album?id=84310732">爱笑的女孩</a> 
 
 
 <!-- table line=1 raw=1 end -->

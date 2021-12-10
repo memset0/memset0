@@ -1,6 +1,6 @@
-<!-- auto generated at Thu Dec 09 2021 01:12:57 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Fri Dec 10 2021 01:13:03 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=b422c2&c=1639012370814" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=c073bb&c=1639098777109" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,11 +46,11 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 #### 🌟 Starred Repos
 
 * [pymupdf / **PyMuPDF**](https://github.com/pymupdf/PyMuPDF) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">221
-* [Nukesor / **pueue**](https://github.com/Nukesor/pueue) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">57
+* [Nukesor / **pueue**](https://github.com/Nukesor/pueue) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">58
 * [PySimpleGUI / **PySimpleGUI**](https://github.com/PySimpleGUI/PySimpleGUI) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">8k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
 * [ChenJunsen / **Hegui3.0**](https://github.com/ChenJunsen/Hegui3.0) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">132<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">35
-* [Mas0nShi / **typoraCracker**](https://github.com/Mas0nShi/typoraCracker) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">358<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">116
-* [RimoChan / **match-you**](https://github.com/RimoChan/match-you) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">890<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">64
+* [Mas0nShi / **typoraCracker**](https://github.com/Mas0nShi/typoraCracker) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">377<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">124
+* [RimoChan / **match-you**](https://github.com/RimoChan/match-you) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">912<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">66
 
 
 <!-- table line=0 raw=0 end -->

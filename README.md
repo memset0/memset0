@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Dec 19 2021 01:19:12 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Dec 20 2021 01:15:09 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=dc0f2e&c=1639876746507" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=15d65e&c=1639962904119" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,11 +45,11 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Starred Repos
 
-* [xugaoyi / **vuepress-theme-vdoing**](https://github.com/xugaoyi/vuepress-theme-vdoing) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">456
-* [warpdotdev / **warp**](https://github.com/warpdotdev/warp) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">638<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">7
-* [Saul-Mirone / **milkdown**](https://github.com/Saul-Mirone/milkdown) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">166
-* [QianMo / **Game-Programmer-Study-Notes**](https://github.com/QianMo/Game-Programmer-Study-Notes) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
-* [h16nning / **typora-gitbook-theme**](https://github.com/h16nning/typora-gitbook-theme) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">176<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">39
+* [xugaoyi / **vuepress-theme-vdoing**](https://github.com/xugaoyi/vuepress-theme-vdoing) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">455
+* [warpdotdev / **warp**](https://github.com/warpdotdev/warp) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">641<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">6
+* [Saul-Mirone / **milkdown**](https://github.com/Saul-Mirone/milkdown) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">167
+* [QianMo / **Game-Programmer-Study-Notes**](https://github.com/QianMo/Game-Programmer-Study-Notes) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">6k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
+* [h16nning / **typora-gitbook-theme**](https://github.com/h16nning/typora-gitbook-theme) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">178<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">39
 * [Aloxaf / **rbkcrack**](https://github.com/Aloxaf/rbkcrack) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">0<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">60
 
 
@@ -90,12 +90,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=507228574"><strong>ぼくら（城镇青年ED）（翻自 ヘクとパスカル） </strong></a> - 玖肆仟 - <a href="https://music.163.com/#/album?id=36272126">仟の律 [翻唱辑]</a> 
+* <a href="https://music.163.com/#/song?id=734541"><strong>神様のヒマ潰し</strong></a> - GO!GO!7188 - <a href="https://music.163.com/#/album?id=71926">ベスト　オブ　ゴー！ゴー！</a> 
+* <a href="https://music.163.com/#/song?id=583002"><strong>极限状况</strong></a> - 橋本由香利 - <a href="https://music.163.com/#/album?id=54977">轮るピングディスクVol.4</a> 
+* <a href="https://music.163.com/#/song?id=703997"><strong>DEAR FUTURE</strong></a> - COALTAR OF THE DEEPERS - <a href="https://music.163.com/#/album?id=68542">DEAR FUTURE</a> 
+* <a href="https://music.163.com/#/song?id=206276"><strong>明日への讃歌</strong></a> - 阿兰 - <a href="https://music.163.com/#/album?id=20948">Voice of EARTH</a> 
 * <a href="https://music.163.com/#/song?id=496869422"><strong>打上花火</strong></a> - Daoko, 米津玄師 - <a href="https://music.163.com/#/album?id=35864443">打上花火</a> 
-* <a href="https://music.163.com/#/song?id=1390480881"><strong>风铃</strong></a> - 孟凡明 - <a href="https://music.163.com/#/album?id=81592861">风铃</a> 
-* <a href="https://music.163.com/#/song?id=178176"><strong>擦肩而过</strong></a> - 宇桐非, 胡雯 - <a href="https://music.163.com/#/album?id=18027">与你同飞</a> 
-* <a href="https://music.163.com/#/song?id=430297476"><strong>Legend of Everfree (Main Title)</strong></a> - Daniel Ingram - <a href="https://music.163.com/#/album?id=34869671">Equestria Girls: Legend of Everfree (Original Motion Picture Soundtrack)</a> 
-* <a href="https://music.163.com/#/song?id=362937"><strong>烟火</strong></a> - 陈翔 - <a href="https://music.163.com/#/album?id=35879">My Stage</a> 
-* <a href="https://music.163.com/#/song?id=1885752789"><strong>運命 (はるまきごはん×煮ル果実)</strong></a> - はるまきごはん, 煮ル果実 - <a href="https://music.163.com/#/album?id=134545901">キメラ</a> 
 
 
 <!-- table line=1 raw=1 end -->

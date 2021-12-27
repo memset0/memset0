@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Dec 26 2021 01:18:57 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Dec 27 2021 01:16:16 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ed8d5f&c=1640481532322" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=734659&c=1640567770294" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,12 +45,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Starred Repos
 
+* [zxf20180725 / **pal2slg**](https://github.com/zxf20180725/pal2slg) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 * [leisurelicht / **wtfpython-cn**](https://github.com/leisurelicht/wtfpython-cn) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">12k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
 * [xugaoyi / **vuepress-theme-vdoing**](https://github.com/xugaoyi/vuepress-theme-vdoing) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">463
-* [warpdotdev / **warp**](https://github.com/warpdotdev/warp) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">655<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">7
+* [warpdotdev / **warp**](https://github.com/warpdotdev/warp) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">657<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">7
 * [Saul-Mirone / **milkdown**](https://github.com/Saul-Mirone/milkdown) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">174
 * [QianMo / **Game-Programmer-Study-Notes**](https://github.com/QianMo/Game-Programmer-Study-Notes) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">6k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
-* [h16nning / **typora-gitbook-theme**](https://github.com/h16nning/typora-gitbook-theme) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">178<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">39
 
 
 <!-- table line=0 raw=0 end -->
@@ -90,12 +90,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=1417236632"><strong>あの夢をなぞって</strong></a> - YOASOBI - <a href="https://music.163.com/#/album?id=85040420">あの夢をなぞって</a> 
-* <a href="https://music.163.com/#/song?id=1417453306"><strong>Prover</strong></a> - milet - <a href="https://music.163.com/#/album?id=85060247">Prover / Tell me</a> 
-* <a href="https://music.163.com/#/song?id=1379821181"><strong>Samurai 45</strong></a> - MIYAVI - <a href="https://music.163.com/#/album?id=80583621">NO SLEEP TILL TOKYO</a> 
-* <a href="https://music.163.com/#/song?id=487003518"><strong>sh0ut</strong></a> - Tielle, R!N/Gemie, SawanoHiroyuki[nZk] - <a href="https://music.163.com/#/album?id=35377381">gravityWall/sh0ut</a> 
-* <a href="https://music.163.com/#/song?id=1472480890"><strong>群青</strong></a> - YOASOBI - <a href="https://music.163.com/#/album?id=94214994">群青</a> 
-* <a href="https://music.163.com/#/song?id=454231736"><strong>Life Will Change</strong></a> - Lyn - <a href="https://music.163.com/#/album?id=35123894">PERSONA5 オリジナル・サウンドトラック</a> 
+* <a href="https://music.163.com/#/song?id=1350330823"><strong>マイライフ</strong></a> - CY8ER - <a href="https://music.163.com/#/album?id=75781185">デッドボーイ、デッドガール</a> 
+* <a href="https://music.163.com/#/song?id=1385116334"><strong>スクランブル交際</strong></a> - DECO*27, 初音ミク - <a href="https://music.163.com/#/album?id=81026951">アンドロイドガール</a> 
+* <a href="https://music.163.com/#/song?id=27785806"><strong>Ortus</strong></a> - 水谷広実 - <a href="https://music.163.com/#/album?id=2674267">神さまのいない日曜日 O.S.T 鎮魂歌</a> 
+* <a href="https://music.163.com/#/song?id=1414774757"><strong>Rush-More</strong></a> - litmus* - <a href="https://music.163.com/#/album?id=84778664">Good Life</a> 
+* <a href="https://music.163.com/#/song?id=1838314423"><strong>僕の和风本当上手 (Extended Ver)</strong></a> - iKz - <a href="https://music.163.com/#/album?id=126173258">僕の和风本当上手</a> 
+* <a href="https://music.163.com/#/song?id=1365609604"><strong>ぴこぴこ東京</strong></a> - 中田ヤスタカ, 眞白桃々 - <a href="https://music.163.com/#/album?id=79158641">ぴこぴこ東京</a> 
 
 
 <!-- table line=1 raw=1 end -->

@@ -1,6 +1,6 @@
-<!-- auto generated at Mon Dec 27 2021 01:16:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Tue Dec 28 2021 01:14:18 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=734659&c=1640567770294" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=bf58ff&c=1640654052149" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -47,9 +47,9 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 * [zxf20180725 / **pal2slg**](https://github.com/zxf20180725/pal2slg) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 * [leisurelicht / **wtfpython-cn**](https://github.com/leisurelicht/wtfpython-cn) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">12k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
-* [xugaoyi / **vuepress-theme-vdoing**](https://github.com/xugaoyi/vuepress-theme-vdoing) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">463
-* [warpdotdev / **warp**](https://github.com/warpdotdev/warp) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">657<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">7
-* [Saul-Mirone / **milkdown**](https://github.com/Saul-Mirone/milkdown) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">174
+* [xugaoyi / **vuepress-theme-vdoing**](https://github.com/xugaoyi/vuepress-theme-vdoing) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">464
+* [warpdotdev / **warp**](https://github.com/warpdotdev/warp) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">659<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">7
+* [Saul-Mirone / **milkdown**](https://github.com/Saul-Mirone/milkdown) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">175
 * [QianMo / **Game-Programmer-Study-Notes**](https://github.com/QianMo/Game-Programmer-Study-Notes) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">6k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
 
 
@@ -90,12 +90,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=1350330823"><strong>マイライフ</strong></a> - CY8ER - <a href="https://music.163.com/#/album?id=75781185">デッドボーイ、デッドガール</a> 
-* <a href="https://music.163.com/#/song?id=1385116334"><strong>スクランブル交際</strong></a> - DECO*27, 初音ミク - <a href="https://music.163.com/#/album?id=81026951">アンドロイドガール</a> 
-* <a href="https://music.163.com/#/song?id=27785806"><strong>Ortus</strong></a> - 水谷広実 - <a href="https://music.163.com/#/album?id=2674267">神さまのいない日曜日 O.S.T 鎮魂歌</a> 
-* <a href="https://music.163.com/#/song?id=1414774757"><strong>Rush-More</strong></a> - litmus* - <a href="https://music.163.com/#/album?id=84778664">Good Life</a> 
-* <a href="https://music.163.com/#/song?id=1838314423"><strong>僕の和风本当上手 (Extended Ver)</strong></a> - iKz - <a href="https://music.163.com/#/album?id=126173258">僕の和风本当上手</a> 
-* <a href="https://music.163.com/#/song?id=1365609604"><strong>ぴこぴこ東京</strong></a> - 中田ヤスタカ, 眞白桃々 - <a href="https://music.163.com/#/album?id=79158641">ぴこぴこ東京</a> 
+* <a href="https://music.163.com/#/song?id=746252"><strong>古街 - Furumachi -</strong></a> - 星猫音楽 - <a href="https://music.163.com/#/album?id=73263">古街音楽</a> 
+* <a href="https://music.163.com/#/song?id=5222768"><strong>Down By The Sally Gardens</strong></a> - Joanie Madden - <a href="https://music.163.com/#/album?id=509860">Keltica</a> 
+* <a href="https://music.163.com/#/song?id=27580437"><strong>雨上がりの街</strong></a> - 星猫音楽 - <a href="https://music.163.com/#/album?id=2641064">古街音楽II</a> 
+* <a href="https://music.163.com/#/song?id=2470049"><strong>Seóirse Brabston (George Brabazon)</strong></a> - Derek Bell - <a href="https://music.163.com/#/album?id=248766">Carolan's Receipt: The Music of Carolan, Vol. 1</a> 
+* <a href="https://music.163.com/#/song?id=22708638"><strong>Natsu no Yuki (夏の雪)</strong></a> - 羽毛田丈史 - <a href="https://music.163.com/#/album?id=2084183">「魔法遣いに大切なこと~夏のソラ~」オリジナルサウンドトラック</a> 
+* <a href="https://music.163.com/#/song?id=5046621"><strong>Bring to the Boil</strong></a> - Beltaine - <a href="https://music.163.com/#/album?id=500942">The Witcher (Music Inspired by the Game)</a> 
 
 
 <!-- table line=1 raw=1 end -->

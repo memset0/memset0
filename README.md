@@ -1,6 +1,6 @@
-<!-- auto generated at Tue Jan 04 2022 01:16:24 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Wed Jan 05 2022 01:18:08 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=4d4d1d&c=1641258978387" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=603012&c=1641345482299" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -50,7 +50,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 * [QL-Win / **QuickLook**](https://github.com/QL-Win/QuickLook) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">801
 * [zxf20180725 / **pal2slg**](https://github.com/zxf20180725/pal2slg) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 * [leisurelicht / **wtfpython-cn**](https://github.com/leisurelicht/wtfpython-cn) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">12k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
-* [xugaoyi / **vuepress-theme-vdoing**](https://github.com/xugaoyi/vuepress-theme-vdoing) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">479
+* [xugaoyi / **vuepress-theme-vdoing**](https://github.com/xugaoyi/vuepress-theme-vdoing) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">480
 
 
 <!-- table line=0 raw=0 end -->

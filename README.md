@@ -1,6 +1,6 @@
-<!-- auto generated at Wed Jan 12 2022 01:16:58 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Thu Jan 13 2022 01:19:48 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=573225&c=1641950212047" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=55864f&c=1642036783186" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,7 +45,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Starred Repos
 
-* [WXRIW / **Lyricify-App**](https://github.com/WXRIW/Lyricify-App) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">270<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">12
+* [WXRIW / **Lyricify-App**](https://github.com/WXRIW/Lyricify-App) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">271<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">12
 * [ouuan / **luogu-motaki**](https://github.com/ouuan/luogu-motaki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">25<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [QL-Win / **QuickLook**](https://github.com/QL-Win/QuickLook) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">804
 * [zxf20180725 / **pal2slg**](https://github.com/zxf20180725/pal2slg) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
@@ -90,12 +90,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=34179482"><strong>银色比武场BGM04</strong></a> - David Arkenstone - <a href="https://music.163.com/#/album?id=3275212">银色比武场BGM</a> 
-* <a href="https://music.163.com/#/song?id=562241505"><strong>The Chanter's Tune/Battle of Aughrim</strong></a> - Celtic Mode - <a href="https://music.163.com/#/album?id=38931875">Scarborough Fair - Greensleeves - Amazing Grace - Geordi - Musik Aus Irland</a> 
-* <a href="https://music.163.com/#/song?id=746149"><strong>故郷の梦人</strong></a> - 星猫音楽 - <a href="https://music.163.com/#/album?id=73251">ごちゃにゃ</a> 
-* <a href="https://music.163.com/#/song?id=746138"><strong>影追いのルトヴェルネ</strong></a> - 星猫音楽 - <a href="https://music.163.com/#/album?id=73248">旅鸟音楽</a> 
-* <a href="https://music.163.com/#/song?id=746252"><strong>古街 - Furumachi -</strong></a> - 星猫音楽 - <a href="https://music.163.com/#/album?id=73263">古街音楽</a> 
-* <a href="https://music.163.com/#/song?id=5222768"><strong>Down By The Sally Gardens</strong></a> - Joanie Madden - <a href="https://music.163.com/#/album?id=509860">Keltica</a> 
+* <a href="https://music.163.com/#/song?id=95651"><strong>社会主义好</strong></a> - 张楚 - <a href="https://music.163.com/#/album?id=9337">红色摇滚</a> 
+* <a href="https://music.163.com/#/song?id=109545"><strong>光阴的故事</strong></a> - 罗大佑 - <a href="https://music.163.com/#/album?id=10855">之乎者也</a> 
+* <a href="https://music.163.com/#/song?id=469104609"><strong>Spear of Justice</strong></a> - String Player Gamer - <a href="https://music.163.com/#/album?id=35297773">Undertale: Strings of Determination, Vol. 2</a> 
+* <a href="https://music.163.com/#/song?id=1398283841"><strong>初恋</strong></a> - 赖冠霖 - <a href="https://music.163.com/#/album?id=82595937">初恋那件小事 电视剧原声带</a> 
+* <a href="https://music.163.com/#/song?id=327736"><strong>梁山伯与茱丽叶</strong></a> - 卓文萱, 曹格 - <a href="https://music.163.com/#/album?id=32426">习惯</a> 
+* <a href="https://music.163.com/#/song?id=1387157948"><strong>除了春天 爱情和樱花</strong></a> - 卤蛋老师, Superluckyqi - <a href="https://music.163.com/#/album?id=81211687">除了春天 爱情和樱花</a> 
 
 
 <!-- table line=1 raw=1 end -->

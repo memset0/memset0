@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Jan 23 2022 01:12:39 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Jan 24 2022 01:15:45 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0c8780&c=1642900353437" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=6ed35d&c=1642986939939" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,12 +45,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Starred Repos
 
-* [sivan / **heti**](https://github.com/sivan/heti) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">159
+* [lxgw / **LxgwWenKai**](https://github.com/lxgw/LxgwWenKai) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">142
+* [lxgw / **LxgwMarkerGothic**](https://github.com/lxgw/LxgwMarkerGothic) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">31<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
+* [sivan / **heti**](https://github.com/sivan/heti) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">161
 * [YunYouJun / **air-conditioner**](https://github.com/YunYouJun/air-conditioner) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">428
 * [YunYouJun / **hexo-theme-yun**](https://github.com/YunYouJun/hexo-theme-yun) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">898<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">160
 * [WXRIW / **Lyricify-App**](https://github.com/WXRIW/Lyricify-App) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">280<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">13
-* [ouuan / **luogu-motaki**](https://github.com/ouuan/luogu-motaki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">25<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [QL-Win / **QuickLook**](https://github.com/QL-Win/QuickLook) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">810
 
 
 <!-- table line=0 raw=0 end -->
@@ -90,12 +90,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=95651"><strong>社会主义好</strong></a> - 张楚 - <a href="https://music.163.com/#/album?id=9337">红色摇滚</a> 
-* <a href="https://music.163.com/#/song?id=109545"><strong>光阴的故事</strong></a> - 罗大佑 - <a href="https://music.163.com/#/album?id=10855">之乎者也</a> 
-* <a href="https://music.163.com/#/song?id=469104609"><strong>Spear of Justice</strong></a> - String Player Gamer - <a href="https://music.163.com/#/album?id=35297773">Undertale: Strings of Determination, Vol. 2</a> 
-* <a href="https://music.163.com/#/song?id=1398283841"><strong>初恋</strong></a> - 赖冠霖 - <a href="https://music.163.com/#/album?id=82595937">初恋那件小事 电视剧原声带</a> 
-* <a href="https://music.163.com/#/song?id=327736"><strong>梁山伯与茱丽叶</strong></a> - 卓文萱, 曹格 - <a href="https://music.163.com/#/album?id=32426">习惯</a> 
-* <a href="https://music.163.com/#/song?id=1387157948"><strong>除了春天 爱情和樱花</strong></a> - 卤蛋老师, Superluckyqi - <a href="https://music.163.com/#/album?id=81211687">除了春天 爱情和樱花</a> 
+* <a href="https://music.163.com/#/song?id=1216195"><strong>American Pie</strong></a> - Don McLean - <a href="https://music.163.com/#/album?id=125914">The Very Best Of Don McLean</a> 
+* <a href="https://music.163.com/#/song?id=1901371647"><strong>孤勇者</strong></a> - 陈奕迅 - <a href="https://music.163.com/#/album?id=137142551">孤勇者</a> 
+* <a href="https://music.163.com/#/song?id=1401571984"><strong>精疲力尽的恋歌</strong></a> - MEON, Lyrik_p - <a href="https://music.163.com/#/album?id=82974108">精疲力尽的恋歌</a> 
+* <a href="https://music.163.com/#/song?id=1471008694"><strong>夏天还不算开始</strong></a> - Milk, Lyrik_p - <a href="https://music.163.com/#/album?id=93896116">夏天还不算开始</a> 
+* <a href="https://music.163.com/#/song?id=1837804950"><strong>Hopeful Dreamer (独唱版)</strong></a> - 嘉然Diana - <a href="https://music.163.com/#/album?id=126095518">Hopeful Dreamer</a> 
+* <a href="https://music.163.com/#/song?id=1301884692"><strong>烟雨行舟（原唱：伦桑）</strong></a> - 司南 - <a href="https://music.163.com/#/album?id=72286335">司南的古风cover</a> 
 
 
 <!-- table line=1 raw=1 end -->

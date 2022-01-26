@@ -1,6 +1,6 @@
-<!-- auto generated at Tue Jan 25 2022 01:18:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Wed Jan 26 2022 00:31:55 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=3e9159&c=1643073503760" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=6c7437&c=1643157110125" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20OIer&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A><img src="https://shields.io/badge/OIer-x19-brightgreen?style=flat"></a>
+<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20OIer&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A><img src="https://shields.io/badge/OIer-x20-brightgreen?style=flat"></a>
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E7%AC%A8%E8%9B%8B&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A><img src="https://shields.io/badge/笨蛋-x4-2EA9DF?style=flat"></a>
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E6%B8%A9%E6%9F%94&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A><img src="https://shields.io/badge/温柔-x7-EB7A77?style=flat"></a>
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E5%8F%AF%E7%88%B1&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A><img src="https://shields.io/badge/可爱-x11-blueviolet?style=flat"></a>
@@ -45,12 +45,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Starred Repos
 
-* [lxgw / **LxgwWenKai**](https://github.com/lxgw/LxgwWenKai) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">151
+* [lxgw / **LxgwWenKai**](https://github.com/lxgw/LxgwWenKai) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">163
 * [lxgw / **LxgwMarkerGothic**](https://github.com/lxgw/LxgwMarkerGothic) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">31<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
-* [sivan / **heti**](https://github.com/sivan/heti) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">166
+* [sivan / **heti**](https://github.com/sivan/heti) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">170
 * [YunYouJun / **air-conditioner**](https://github.com/YunYouJun/air-conditioner) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">429
-* [YunYouJun / **hexo-theme-yun**](https://github.com/YunYouJun/hexo-theme-yun) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">899<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">160
-* [WXRIW / **Lyricify-App**](https://github.com/WXRIW/Lyricify-App) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">281<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">14
+* [YunYouJun / **hexo-theme-yun**](https://github.com/YunYouJun/hexo-theme-yun) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">899<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">161
+* [WXRIW / **Lyricify-App**](https://github.com/WXRIW/Lyricify-App) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">283<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">14
 
 
 <!-- table line=0 raw=0 end -->
@@ -120,5 +120,5 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/xwh-Marvelous><strong>@xwh-Marvelous</strong></a>  had voted  at 23/01/2022, 00:43 
+<p align="right"><sub>Last updated:  <a href=https://github.com/Doubeecat><strong>@Doubeecat</strong></a>  had voted  at 26/01/2022, 00:31 
 </sub></p>

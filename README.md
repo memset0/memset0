@@ -1,6 +1,6 @@
-<!-- auto generated at Tue Feb 15 2022 01:23:59 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Tue Feb 15 2022 12:29:29 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=4a2f39&c=1644888234070" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=3861bd&c=1644928164490" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -18,7 +18,7 @@
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20OIer&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A><img src="https://shields.io/badge/OIer-x20-brightgreen?style=flat"></a>
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E7%AC%A8%E8%9B%8B&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A><img src="https://shields.io/badge/笨蛋-x4-2EA9DF?style=flat"></a>
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E6%B8%A9%E6%9F%94&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A><img src="https://shields.io/badge/温柔-x7-EB7A77?style=flat"></a>
-<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E5%8F%AF%E7%88%B1&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A><img src="https://shields.io/badge/可爱-x12-blueviolet?style=flat"></a>
+<a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E5%8F%AF%E7%88%B1&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A><img src="https://shields.io/badge/可爱-x13-blueviolet?style=flat"></a>
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E5%A5%B3%E5%AD%A9%E7%BA%B8&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A><img src="https://shields.io/badge/女孩纸-x11-E16B8C?style=flat"></a>
 <a href=https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E8%90%8C%E8%90%8C%E5%93%92&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A><img src="https://shields.io/badge/萌萌哒-x9-FF69B4?style=flat"></a>
 <br>
@@ -45,12 +45,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Starred Repos
 
+* [Innei / **shuffle-article**](https://github.com/Innei/shuffle-article) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">35<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
+* [AntiLeaf / **antileaf-nonebot**](https://github.com/AntiLeaf/antileaf-nonebot) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">6<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [immortal / **immortal**](https://github.com/immortal/immortal) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">723<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">51
-* [lxgw / **LxgwWenKai**](https://github.com/lxgw/LxgwWenKai) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">184
-* [lxgw / **LxgwMarkerGothic**](https://github.com/lxgw/LxgwMarkerGothic) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">34<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
+* [lxgw / **LxgwWenKai**](https://github.com/lxgw/LxgwWenKai) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">183
+* [lxgw / **LxgwMarkerGothic**](https://github.com/lxgw/LxgwMarkerGothic) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">35<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 * [sivan / **heti**](https://github.com/sivan/heti) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">173
-* [YunYouJun / **air-conditioner**](https://github.com/YunYouJun/air-conditioner) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">434
-* [YunYouJun / **hexo-theme-yun**](https://github.com/YunYouJun/hexo-theme-yun) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">914<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">159
 
 
 <!-- table line=0 raw=0 end -->
@@ -75,12 +75,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 👨‍💻 Followed Users
 
+* [**Shifeng Ye** AntiLeaf](https://github.com/AntiLeaf/) - 最大的罪行往往源自贪婪而非贫穷。
 * [**XeKr** XeKr](https://github.com/XeKr/)
 * [**Tianle Xu** xtlsoft](https://github.com/xtlsoft/) - Tianle Xu, a senior 3 student ...
 * [**icy-blue** icy-blue](https://github.com/icy-blue/) - Shandong University          ...
 * [**rainssong** rainssong](https://github.com/rainssong/) - Indie Game Developer
 * [**HIMlaoS_Misa** MisaLiu](https://github.com/MisaLiu/) - A little trash.
-* [**Andy Y.** hzyangjc](https://github.com/hzyangjc/) - Tenderness is reserved for tho...
 
 
 <!-- table line=1 raw=0 end -->
@@ -90,12 +90,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=1216195"><strong>American Pie</strong></a> - Don McLean - <a href="https://music.163.com/#/album?id=125914">The Very Best Of Don McLean</a> 
-* <a href="https://music.163.com/#/song?id=1901371647"><strong>孤勇者</strong></a> - 陈奕迅 - <a href="https://music.163.com/#/album?id=137142551">孤勇者</a> 
-* <a href="https://music.163.com/#/song?id=1401571984"><strong>精疲力尽的恋歌</strong></a> - MEON, Lyrik_p - <a href="https://music.163.com/#/album?id=82974108">精疲力尽的恋歌</a> 
-* <a href="https://music.163.com/#/song?id=1471008694"><strong>夏天还不算开始</strong></a> - Milk, Lyrik_p - <a href="https://music.163.com/#/album?id=93896116">夏天还不算开始</a> 
-* <a href="https://music.163.com/#/song?id=1837804950"><strong>Hopeful Dreamer (独唱版)</strong></a> - 嘉然Diana - <a href="https://music.163.com/#/album?id=126095518">Hopeful Dreamer</a> 
-* <a href="https://music.163.com/#/song?id=1301884692"><strong>烟雨行舟（原唱：伦桑）</strong></a> - 司南 - <a href="https://music.163.com/#/album?id=72286335">司南的古风cover</a> 
+* <a href="https://music.163.com/#/song?id=257098"><strong>为你我受冷风吹</strong></a> - 林忆莲 - <a href="https://music.163.com/#/album?id=25645">Love, Sandy</a> 
+* <a href="https://music.163.com/#/song?id=108858"><strong>编号89757</strong></a> - 林俊杰 - <a href="https://music.163.com/#/album?id=10799">编号89757</a> 
+* <a href="https://music.163.com/#/song?id=354352"><strong>月牙湾</strong></a> - F.I.R. - <a href="https://music.163.com/#/album?id=34961">爱.歌姬</a> 
+* <a href="https://music.163.com/#/song?id=213540"><strong>希望(国)</strong></a> - 陈慧琳 - <a href="https://music.163.com/#/album?id=21632">我是阳光的</a> 
+* <a href="https://music.163.com/#/song?id=350909"><strong>笔记</strong></a> - 周笔畅 - <a href="https://music.163.com/#/album?id=34573">终极PK</a> 
+* <a href="https://music.163.com/#/song?id=1831474126"><strong>流年如歌</strong></a> - 苍穹 - <a href="https://music.163.com/#/album?id=124898816">哔哩哔哩拜年纪金曲回顾</a> 
 
 
 <!-- table line=1 raw=1 end -->
@@ -120,5 +120,5 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/JRzyh><strong>@JRzyh</strong></a>  had voted  at 14/02/2022, 11:01 
+<p align="right"><sub>Last updated:  <a href=https://github.com/TanjiroTanjiro><strong>@TanjiroTanjiro</strong></a>  had voted  at 15/02/2022, 12:29 
 </sub></p>

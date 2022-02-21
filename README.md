@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Feb 20 2022 01:22:33 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Feb 21 2022 01:14:56 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=1effb1&c=1645320147221" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=115348&c=1645406091925" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,12 +45,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Starred Repos
 
+* [Anduin2017 / **HowToCook**](https://github.com/Anduin2017/HowToCook) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">298
+* [Deophius / **singin**](https://github.com/Deophius/singin) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [memset0 / **open-xuehai**](https://github.com/memset0/open-xuehai) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [noatpad / **typora-theme-ursine**](https://github.com/noatpad/typora-theme-ursine) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">655<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">81
 * [Innei / **shuffle-article**](https://github.com/Innei/shuffle-article) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">44<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [AntiLeaf / **antileaf-nonebot**](https://github.com/AntiLeaf/antileaf-nonebot) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">7<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [immortal / **immortal**](https://github.com/immortal/immortal) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">724<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">51
-* [lxgw / **LxgwWenKai**](https://github.com/lxgw/LxgwWenKai) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">186
 
 
 <!-- table line=0 raw=0 end -->
@@ -75,12 +75,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 👨‍💻 Followed Users
 
+* [**Deophius** ](https://github.com//)
+* [**ltyec** ltyec](https://github.com/ltyec/) - 🏳️‍⚧️transgender studentlear...
 * [**Sicrete** ](https://github.com//)
 * [**yurzhang** Nikaidou-Shinku](https://github.com/Nikaidou-Shinku/) - China
 * [**Shifeng Ye** AntiLeaf](https://github.com/AntiLeaf/) - 最大的罪行往往源自贪婪而非贫穷。
 * [**XeKr** XeKr](https://github.com/XeKr/)
-* [**Tianle Xu** xtlsoft](https://github.com/xtlsoft/) - Tianle Xu, a senior 3 student ...
-* [**icy-blue** icy-blue](https://github.com/icy-blue/) - Shandong University          ...
 
 
 <!-- table line=1 raw=0 end -->
@@ -90,12 +90,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=547969272"><strong>桃源恋歌</strong></a> - GARNiDELiA - <a href="https://music.163.com/#/album?id=37871066">G.R.N.D.</a> 
+* <a href="https://music.163.com/#/song?id=1831504253"><strong>让风告诉你 (日文版)</strong></a> - Hanser, 泠鸢yousa - <a href="https://music.163.com/#/album?id=124905738">让风告诉你 (日文版)</a> 
+* <a href="https://music.163.com/#/song?id=21157332"><strong>One Day</strong></a> - Matisyahu - <a href="https://music.163.com/#/album?id=1956474">One Day</a> 
 * <a href="https://music.163.com/#/song?id=257098"><strong>为你我受冷风吹</strong></a> - 林忆莲 - <a href="https://music.163.com/#/album?id=25645">Love, Sandy</a> 
 * <a href="https://music.163.com/#/song?id=108858"><strong>编号89757</strong></a> - 林俊杰 - <a href="https://music.163.com/#/album?id=10799">编号89757</a> 
 * <a href="https://music.163.com/#/song?id=354352"><strong>月牙湾</strong></a> - F.I.R. - <a href="https://music.163.com/#/album?id=34961">爱.歌姬</a> 
-* <a href="https://music.163.com/#/song?id=213540"><strong>希望(国)</strong></a> - 陈慧琳 - <a href="https://music.163.com/#/album?id=21632">我是阳光的</a> 
-* <a href="https://music.163.com/#/song?id=350909"><strong>笔记</strong></a> - 周笔畅 - <a href="https://music.163.com/#/album?id=34573">终极PK</a> 
-* <a href="https://music.163.com/#/song?id=1831474126"><strong>流年如歌</strong></a> - 苍穹 - <a href="https://music.163.com/#/album?id=124898816">哔哩哔哩拜年纪金曲回顾</a> 
 
 
 <!-- table line=1 raw=1 end -->

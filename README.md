@@ -1,6 +1,6 @@
-<!-- auto generated at Thu Feb 24 2022 01:23:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Fri Feb 25 2022 01:21:34 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=c1743c&c=1645665827454" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=48a38b&c=1645752087413" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,11 +46,11 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 #### 🌟 Starred Repos
 
 * [lana-k / **sqliteviz**](https://github.com/lana-k/sqliteviz) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">52
-* [Anduin2017 / **HowToCook**](https://github.com/Anduin2017/HowToCook) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">15k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
+* [Anduin2017 / **HowToCook**](https://github.com/Anduin2017/HowToCook) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">17k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
 * [Deophius / **singin**](https://github.com/Deophius/singin) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [memset0 / **open-xuehai**](https://github.com/memset0/open-xuehai) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [noatpad / **typora-theme-ursine**](https://github.com/noatpad/typora-theme-ursine) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">655<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">82
-* [Innei / **shuffle-article**](https://github.com/Innei/shuffle-article) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">45<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
+* [Innei / **shuffle-article**](https://github.com/Innei/shuffle-article) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">47<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 
 
 <!-- table line=0 raw=0 end -->
@@ -75,12 +75,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 👨‍💻 Followed Users
 
+* [**I-m-Eden** ](https://github.com//)
+* [**panole** ](https://github.com//)
 * [**Deophius** ](https://github.com//)
 * [**ltyec** ltyec](https://github.com/ltyec/) - 🏳️‍⚧️transgender studentlear...
 * [**Sicrete** ](https://github.com//)
 * [**yurzhang** Nikaidou-Shinku](https://github.com/Nikaidou-Shinku/) - China
-* [**Shifeng Ye** AntiLeaf](https://github.com/AntiLeaf/) - 最大的罪行往往源自贪婪而非贫穷。
-* [**XeKr** XeKr](https://github.com/XeKr/)
 
 
 <!-- table line=1 raw=0 end -->
@@ -90,12 +90,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=547969272"><strong>桃源恋歌</strong></a> - GARNiDELiA - <a href="https://music.163.com/#/album?id=37871066">G.R.N.D.</a> 
-* <a href="https://music.163.com/#/song?id=1831504253"><strong>让风告诉你 (日文版)</strong></a> - Hanser, 泠鸢yousa - <a href="https://music.163.com/#/album?id=124905738">让风告诉你 (日文版)</a> 
-* <a href="https://music.163.com/#/song?id=21157332"><strong>One Day</strong></a> - Matisyahu - <a href="https://music.163.com/#/album?id=1956474">One Day</a> 
-* <a href="https://music.163.com/#/song?id=257098"><strong>为你我受冷风吹</strong></a> - 林忆莲 - <a href="https://music.163.com/#/album?id=25645">Love, Sandy</a> 
-* <a href="https://music.163.com/#/song?id=108858"><strong>编号89757</strong></a> - 林俊杰 - <a href="https://music.163.com/#/album?id=10799">编号89757</a> 
-* <a href="https://music.163.com/#/song?id=354352"><strong>月牙湾</strong></a> - F.I.R. - <a href="https://music.163.com/#/album?id=34961">爱.歌姬</a> 
+* <a href="https://music.163.com/#/song?id=1407540299"><strong>Letter</strong></a> - SHE'S - <a href="https://music.163.com/#/album?id=83877201">Tricolor EP</a> 
+* <a href="https://music.163.com/#/song?id=22741412"><strong>サマーブリーズにのって</strong></a> - I WiSH - <a href="https://music.163.com/#/album?id=2088217">THE COMPLETE COLLECTION OF I WiSH</a> 
+* <a href="https://music.163.com/#/song?id=1428275780"><strong>やっぱり雨は降るんだね</strong></a> - ツユ - <a href="https://music.163.com/#/album?id=86237839">やっぱり雨は降るんだね</a> 
+* <a href="https://music.163.com/#/song?id=33469881"><strong>pastel</strong></a> - ClariS - <a href="https://music.163.com/#/album?id=3211207">アネモネ</a> 
+* <a href="https://music.163.com/#/song?id=1406598531"><strong>再生</strong></a> - Perfume - <a href="https://music.163.com/#/album?id=83762608">再生</a> 
+* <a href="https://music.163.com/#/song?id=528423473"><strong>Grace</strong></a> - Jannik - <a href="https://music.163.com/#/album?id=37115871">Grace</a> 
 
 
 <!-- table line=1 raw=1 end -->

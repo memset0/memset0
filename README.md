@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Feb 27 2022 01:22:08 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Feb 28 2022 01:21:31 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=2341c7&c=1645924923495" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=216cc7&c=1646011286113" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,12 +45,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Starred Repos
 
+* [zadam / **trilium**](https://github.com/zadam/trilium) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">14k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">895
 * [lana-k / **sqliteviz**](https://github.com/lana-k/sqliteviz) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">52
-* [Anduin2017 / **HowToCook**](https://github.com/Anduin2017/HowToCook) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">18k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
+* [Anduin2017 / **HowToCook**](https://github.com/Anduin2017/HowToCook) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">19k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
 * [Deophius / **singin**](https://github.com/Deophius/singin) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [memset0 / **open-xuehai**](https://github.com/memset0/open-xuehai) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [noatpad / **typora-theme-ursine**](https://github.com/noatpad/typora-theme-ursine) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">655<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">82
-* [Innei / **shuffle-article**](https://github.com/Innei/shuffle-article) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">48<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 
 
 <!-- table line=0 raw=0 end -->
@@ -90,12 +90,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=849211"><strong>“キュウベエの営业テーマ” Copy ver.</strong></a> - TAMUSIC - <a href="https://music.163.com/#/album?id=84590">Puella Musica 魔法少女まどか☆マギカ同人</a> 
+* <a href="https://music.163.com/#/song?id=1918633954"><strong>Dreaming of you</strong></a> - MY FIRST STORY - <a href="https://music.163.com/#/album?id=140091996">Dreaming of you</a> 
+* <a href="https://music.163.com/#/song?id=28661544"><strong>銀の龍の背に乗って</strong></a> - 佐藤聡美 - <a href="https://music.163.com/#/album?id=2866273">Twinkle Voice~声の贈り物~</a> 
 * <a href="https://music.163.com/#/song?id=1407540299"><strong>Letter</strong></a> - SHE'S - <a href="https://music.163.com/#/album?id=83877201">Tricolor EP</a> 
 * <a href="https://music.163.com/#/song?id=22741412"><strong>サマーブリーズにのって</strong></a> - I WiSH - <a href="https://music.163.com/#/album?id=2088217">THE COMPLETE COLLECTION OF I WiSH</a> 
 * <a href="https://music.163.com/#/song?id=1428275780"><strong>やっぱり雨は降るんだね</strong></a> - ツユ - <a href="https://music.163.com/#/album?id=86237839">やっぱり雨は降るんだね</a> 
-* <a href="https://music.163.com/#/song?id=33469881"><strong>pastel</strong></a> - ClariS - <a href="https://music.163.com/#/album?id=3211207">アネモネ</a> 
-* <a href="https://music.163.com/#/song?id=1406598531"><strong>再生</strong></a> - Perfume - <a href="https://music.163.com/#/album?id=83762608">再生</a> 
-* <a href="https://music.163.com/#/song?id=528423473"><strong>Grace</strong></a> - Jannik - <a href="https://music.163.com/#/album?id=37115871">Grace</a> 
 
 
 <!-- table line=1 raw=1 end -->

@@ -1,6 +1,6 @@
-<!-- auto generated at Mon Mar 14 2022 01:34:56 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Tue Mar 15 2022 01:36:02 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=94e2e3&c=1647221690150" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=1c8e5b&c=1647308157379" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,10 +46,10 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 #### 🌟 Starred Repos
 
 * [3150601355 / **SimpleScaleDown**](https://github.com/3150601355/SimpleScaleDown) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">128<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">37
-* [Wohlstand / **TheXTech**](https://github.com/Wohlstand/TheXTech) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">127<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">12
+* [Wohlstand / **TheXTech**](https://github.com/Wohlstand/TheXTech) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">128<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">12
 * [wainshine / **Chinese-Names-Corpus**](https://github.com/wainshine/Chinese-Names-Corpus) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">832
 * [HEZOpen-2020 / **singin2-punctuality**](https://github.com/HEZOpen-2020/singin2-punctuality) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [Icalingua-plus-plus / **Icalingua-plus-plus**](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">188<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">18
+* [Icalingua-plus-plus / **Icalingua-plus-plus**](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">195<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">19
 * [memset0 / **trilium-theme-alkaid**](https://github.com/memset0/trilium-theme-alkaid) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 
 
@@ -90,12 +90,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=849211"><strong>“キュウベエの営业テーマ” Copy ver.</strong></a> - TAMUSIC - <a href="https://music.163.com/#/album?id=84590">Puella Musica 魔法少女まどか☆マギカ同人</a> 
-* <a href="https://music.163.com/#/song?id=1918633954"><strong>Dreaming of you</strong></a> - MY FIRST STORY - <a href="https://music.163.com/#/album?id=140091996">Dreaming of you</a> 
-* <a href="https://music.163.com/#/song?id=28661544"><strong>銀の龍の背に乗って</strong></a> - 佐藤聡美 - <a href="https://music.163.com/#/album?id=2866273">Twinkle Voice~声の贈り物~</a> 
-* <a href="https://music.163.com/#/song?id=1407540299"><strong>Letter</strong></a> - SHE'S - <a href="https://music.163.com/#/album?id=83877201">Tricolor EP</a> 
-* <a href="https://music.163.com/#/song?id=22741412"><strong>サマーブリーズにのって</strong></a> - I WiSH - <a href="https://music.163.com/#/album?id=2088217">THE COMPLETE COLLECTION OF I WiSH</a> 
-* <a href="https://music.163.com/#/song?id=1428275780"><strong>やっぱり雨は降るんだね</strong></a> - ツユ - <a href="https://music.163.com/#/album?id=86237839">やっぱり雨は降るんだね</a> 
+* <a href="https://music.163.com/#/song?id=35270431"><strong>DOKIDOKIリズム ～For Chieri rearrange MIX～</strong></a> - 大空直美 - <a href="https://music.163.com/#/album?id=3308786">346Pro IDOL selection vol.3</a> 
+* <a href="https://music.163.com/#/song?id=31830620"><strong>からっぽの街月夜の下</strong></a> - Orangestar, 初音ミク - <a href="https://music.163.com/#/album?id=3139078">未完成エイトビーツ</a> 
+* <a href="https://music.163.com/#/song?id=287719"><strong>开始懂了</strong></a> - 孙燕姿 - <a href="https://music.163.com/#/album?id=28558">我要的幸福</a> 
+* <a href="https://music.163.com/#/song?id=454828887"><strong>遇见</strong></a> - 孙燕姿 - <a href="https://music.163.com/#/album?id=35140205">白羽毛之恋 华语典藏情歌 Vol.2</a> 
+* <a href="https://music.163.com/#/song?id=4922555"><strong>a fairy tale</strong></a> - MUSIRISCA - <a href="https://music.163.com/#/album?id=492804">Anemone</a> 
+* <a href="https://music.163.com/#/song?id=33911781"><strong>secret base ~君がくれたもの~ (10 years after Ver.)</strong></a> - 茅野愛衣, 戸松遥, 早見沙織 - <a href="https://music.163.com/#/album?id=3266177">secret base ～君がくれたもの～</a> 
 
 
 <!-- table line=1 raw=1 end -->

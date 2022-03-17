@@ -1,6 +1,6 @@
-<!-- auto generated at Wed Mar 16 2022 01:38:31 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Thu Mar 17 2022 01:34:16 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0d9f16&c=1647394706465" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=219608&c=1647480850360" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,11 +46,11 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 #### 🌟 Starred Repos
 
 * [shengcaishizhan / **kkndme_tianya**](https://github.com/shengcaishizhan/kkndme_tianya) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">7k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
-* [3150601355 / **SimpleScaleDown**](https://github.com/3150601355/SimpleScaleDown) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">131<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">38
+* [3150601355 / **SimpleScaleDown**](https://github.com/3150601355/SimpleScaleDown) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">133<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">38
 * [Wohlstand / **TheXTech**](https://github.com/Wohlstand/TheXTech) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">128<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">12
 * [wainshine / **Chinese-Names-Corpus**](https://github.com/wainshine/Chinese-Names-Corpus) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">832
 * [HEZOpen-2020 / **singin2-punctuality**](https://github.com/HEZOpen-2020/singin2-punctuality) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [Icalingua-plus-plus / **Icalingua-plus-plus**](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">198<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">19
+* [Icalingua-plus-plus / **Icalingua-plus-plus**](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">205<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">21
 
 
 <!-- table line=0 raw=0 end -->

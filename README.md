@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Mar 20 2022 01:35:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Mar 21 2022 01:45:39 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=a8fce4&c=1647740142411" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=d3b101&c=1647827133249" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,12 +45,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Starred Repos
 
+* [tangly1024 / **NotionNext**](https://github.com/tangly1024/NotionNext) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">76<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">55
+* [siyuan-note / **siyuan**](https://github.com/siyuan-note/siyuan) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">218
 * [amodm / **webbrowser-rs**](https://github.com/amodm/webbrowser-rs) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">109<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">22
 * [shengcaishizhan / **kkndme_tianya**](https://github.com/shengcaishizhan/kkndme_tianya) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">7k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
 * [3150601355 / **SimpleScaleDown**](https://github.com/3150601355/SimpleScaleDown) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">136<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">40
 * [Wohlstand / **TheXTech**](https://github.com/Wohlstand/TheXTech) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">129<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">12
-* [wainshine / **Chinese-Names-Corpus**](https://github.com/wainshine/Chinese-Names-Corpus) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">834
-* [HEZOpen-2020 / **singin2-punctuality**](https://github.com/HEZOpen-2020/singin2-punctuality) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 
 
 <!-- table line=0 raw=0 end -->

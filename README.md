@@ -1,6 +1,6 @@
-<!-- auto generated at Thu Mar 24 2022 11:53:38 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Fri Mar 25 2022 01:40:56 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=feee16&c=1648122813625" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=e81bfd&c=1648172451027" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -90,12 +90,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=1835298267"><strong>白熱の戦い</strong></a> - 川﨑龍 - <a href="https://music.163.com/#/album?id=125643867">TVアニメ『遊☆戯☆王SEVENS』オリジナル・サウンドトラック SOUND RUSH ONE!!</a> 
-* <a href="https://music.163.com/#/song?id=1832675225"><strong>ホントノワタシ</strong></a> - HoneyWorks, Kotoha - <a href="https://music.163.com/#/album?id=125200522">告白実行委員会 -FLYING SONGS- 愛してる</a> 
-* <a href="https://music.163.com/#/song?id=1856722728"><strong>好きだから。</strong></a> - 『ユイカ』 - <a href="https://music.163.com/#/album?id=129596378">好きだから。</a> 
-* <a href="https://music.163.com/#/song?id=1480366978"><strong>アカシア</strong></a> - BUMP OF CHICKEN - <a href="https://music.163.com/#/album?id=95627046">アカシア</a> 
-* <a href="https://music.163.com/#/song?id=35270431"><strong>DOKIDOKIリズム ～For Chieri rearrange MIX～</strong></a> - 大空直美 - <a href="https://music.163.com/#/album?id=3308786">346Pro IDOL selection vol.3</a> 
-* <a href="https://music.163.com/#/song?id=31830620"><strong>からっぽの街月夜の下</strong></a> - Orangestar, 初音ミク - <a href="https://music.163.com/#/album?id=3139078">未完成エイトビーツ</a> 
+* <a href="https://music.163.com/#/song?id=128082"><strong>朋友的酒</strong></a> - 李晓杰 - <a href="https://music.163.com/#/album?id=12385">老大</a> 
+* <a href="https://music.163.com/#/song?id=362996"><strong>父亲</strong></a> - 筷子兄弟 - <a href="https://music.163.com/#/album?id=35887">父亲</a> 
+* <a href="https://music.163.com/#/song?id=485118"><strong>幽霊少女 for グランファンタズム</strong></a> - 中河健 - <a href="https://music.163.com/#/album?id=46429">イリスのアトリエ グランファンタズム オリジナルサウンドトラック</a> 
+* <a href="https://music.163.com/#/song?id=354601"><strong>你的微笑</strong></a> - F.I.R. - <a href="https://music.163.com/#/album?id=34988">F.I.R.同名专辑</a> 
+* <a href="https://music.163.com/#/song?id=640866"><strong>Secret</strong></a> - 茶太 - <a href="https://music.163.com/#/album?id=61434">eclipse改</a> 
+* <a href="https://music.163.com/#/song?id=354500"><strong>千年之恋</strong></a> - F.I.R. - <a href="https://music.163.com/#/album?id=34980">无限</a> 
 
 
 <!-- table line=1 raw=1 end -->

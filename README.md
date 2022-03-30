@@ -1,6 +1,6 @@
-<!-- auto generated at Tue Mar 29 2022 01:50:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Wed Mar 30 2022 01:51:01 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=25b814&c=1648518625340" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=d168af&c=1648605055232" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,10 +46,10 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 #### 🌟 Starred Repos
 
 * [skywind3000 / **awesome-cheatsheets**](https://github.com/skywind3000/awesome-cheatsheets) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">8k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
-* [skywind3000 / **preserve-cd**](https://github.com/skywind3000/preserve-cd) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">277
-* [skywind3000 / **preserve-iso**](https://github.com/skywind3000/preserve-iso) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">149<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">12
-* [OldPanda / **Open-the-F-king-URL-Right-Now**](https://github.com/OldPanda/Open-the-F-king-URL-Right-Now) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">158<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">15
-* [yeayee / **joyful-pandas**](https://github.com/yeayee/joyful-pandas) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">0<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">554
+* [skywind3000 / **preserve-cd**](https://github.com/skywind3000/preserve-cd) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">278
+* [skywind3000 / **preserve-iso**](https://github.com/skywind3000/preserve-iso) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">151<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">12
+* [OldPanda / **Open-the-F-king-URL-Right-Now**](https://github.com/OldPanda/Open-the-F-king-URL-Right-Now) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">160<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">15
+* [yeayee / **joyful-pandas**](https://github.com/yeayee/joyful-pandas) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">0<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">555
 * [mattflor / **chorddiag**](https://github.com/mattflor/chorddiag) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">129<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">43
 
 
@@ -90,12 +90,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=174956"><strong>坏女孩</strong></a> - 徐良, 小凌 - <a href="https://music.163.com/#/album?id=17594">不良少年</a> 
-* <a href="https://music.163.com/#/song?id=1855105077"><strong>世界の秘密</strong></a> - Vaundy - <a href="https://music.163.com/#/album?id=129316747">世界の秘密</a> 
-* <a href="https://music.163.com/#/song?id=1488866474"><strong>夜に浮かぶ</strong></a> - Haruna - <a href="https://music.163.com/#/album?id=97136563">夜に浮かぶ</a> 
-* <a href="https://music.163.com/#/song?id=1363343648"><strong>Leanan Sidhe</strong></a> - Rigël Theatre - <a href="https://music.163.com/#/album?id=78936693">Fontana e Fata</a> 
-* <a href="https://music.163.com/#/song?id=1343016814"><strong>白猫海賊船</strong></a> - 日南結里, Yunomi - <a href="https://music.163.com/#/album?id=75378630">未来茶屋 vol.0</a> 
-* <a href="https://music.163.com/#/song?id=167860"><strong>单人旅途</strong></a> - 许嵩 - <a href="https://music.163.com/#/album?id=16951">寻雾启示</a> 
+* <a href="https://music.163.com/#/song?id=167680"><strong>亲情式的爱情</strong></a> - 许嵩 - <a href="https://music.163.com/#/album?id=16932">梦游计</a> 
+* <a href="https://music.163.com/#/song?id=1383011071"><strong>CHO-DARI-</strong></a> - 23.exe, 初音ミク - <a href="https://music.163.com/#/album?id=80851045">CHO-DARI-</a> 
+* <a href="https://music.163.com/#/song?id=1443634040"><strong>悲しみは水のよう（《我的悲伤是水做的》日文版）</strong></a> - 夏野Natsuno - <a href="https://music.163.com/#/album?id=88270117">「悲しみは水のよう」《我的悲伤是水做的》日文版</a> 
+* <a href="https://music.163.com/#/song?id=1501722588"><strong>toge</strong></a> - あよ - <a href="https://music.163.com/#/album?id=99327060">toge</a> 
+* <a href="https://music.163.com/#/song?id=28018474"><strong>風色メロディ</strong></a> - 大空直美 - <a href="https://music.163.com/#/album?id=2713064">THE IDOLM@STER CINDERELLA MASTER 023緒方智絵里</a> 
+* <a href="https://music.163.com/#/song?id=1449678888"><strong>回到夏天</strong></a> - 傲七爷, 小田音乐社 - <a href="https://music.163.com/#/album?id=89734732">回到夏天</a> 
 
 
 <!-- table line=1 raw=1 end -->

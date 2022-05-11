@@ -1,6 +1,6 @@
-<!-- auto generated at Tue May 10 2022 01:41:23 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Wed May 11 2022 02:05:20 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=1d84fa&c=1652146877915" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=a559ec&c=1652234715189" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,7 +45,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Starred Repos
 
-* [lz1998 / **ricq**](https://github.com/lz1998/ricq) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">176<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">17
+* [lz1998 / **ricq**](https://github.com/lz1998/ricq) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">178<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">17
 * [zenozeng / **fonts.css**](https://github.com/zenozeng/fonts.css) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">134
 * [doersino / **UnicodeMathML**](https://github.com/doersino/UnicodeMathML) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">24<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 * [mvoidex / **UnicodeMath**](https://github.com/mvoidex/UnicodeMath) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">98<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">19
@@ -75,12 +75,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 👨‍💻 Followed Users
 
-* [**horizon7** 7lagrange](https://github.com/7lagrange/)
+* [**Andy Y.** hzyangjc](https://github.com/hzyangjc/) - Tenderness is reserved for tho...
+* [**HIMlaoS_Misa** MisaLiu](https://github.com/MisaLiu/) - 生命不息，睡觉不止。
+* [**ltyec** ltyec](https://github.com/ltyec/) - 🏳️‍⚧️transgender studentlear...
 * [**Alex Cui** alexcui03](https://github.com/alexcui03/) - A Senior One student in Shangh...
 * [**ksyx** ](https://github.com//) - Worcester, MA
 * [**Tesla I. Zhang‮** ice1000](https://github.com/ice1000/) - Penn State undergrad, type the...
-* [**I-m-Eden** ](https://github.com//)
-* [**panole** ](https://github.com//)
 
 
 <!-- table line=1 raw=0 end -->

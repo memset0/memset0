@@ -1,6 +1,6 @@
-<!-- auto generated at Fri May 13 2022 02:17:50 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sat May 14 2022 02:20:14 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=435050&c=1652408265121" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=89cdb8&c=1652494804748" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,12 +45,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Starred Repos
 
+* [Charlie-zzy / **Chem-Calculator**](https://github.com/Charlie-zzy/Chem-Calculator) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [lz1998 / **ricq**](https://github.com/lz1998/ricq) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">178<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">17
 * [zenozeng / **fonts.css**](https://github.com/zenozeng/fonts.css) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">134
 * [doersino / **UnicodeMathML**](https://github.com/doersino/UnicodeMathML) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">24<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 * [mvoidex / **UnicodeMath**](https://github.com/mvoidex/UnicodeMath) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">98<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">19
 * [EtaoinWu / **unicode-math-translate**](https://github.com/EtaoinWu/unicode-math-translate) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [The-Run-Philosophy-Organization / **run**](https://github.com/The-Run-Philosophy-Organization/run) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">14k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
 
 
 <!-- table line=0 raw=0 end -->
@@ -75,12 +75,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 👨‍💻 Followed Users
 
+* [**Charlie** Charlie-zzy](https://github.com/Charlie-zzy/) - OIer高一蒟蒻
 * [**Andy Y.** hzyangjc](https://github.com/hzyangjc/) - Tenderness is reserved for tho...
 * [**HIMlaoS_Misa** MisaLiu](https://github.com/MisaLiu/) - 生命不息，睡觉不止。
 * [**ltyec** ltyec](https://github.com/ltyec/) - 🏳️‍⚧️transgender studentlear...
 * [**Alex Cui** alexcui03](https://github.com/alexcui03/) - A Senior One student in Shangh...
 * [**ksyx** ](https://github.com//) - Worcester, MA
-* [**Tesla I. Zhang‮** ice1000](https://github.com/ice1000/) - Penn State undergrad, type the...
 
 
 <!-- table line=1 raw=0 end -->

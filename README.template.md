@@ -14,6 +14,8 @@ a student who would like to be considered as a geek.<br>
 What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 </p>
 
+### Recent
+
 <table width="800px">
 {{ activity }}
 <!-- {{ github-stat }} -->

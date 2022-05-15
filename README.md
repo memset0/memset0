@@ -1,6 +1,6 @@
-<!-- auto generated at Sat May 14 2022 02:20:14 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun May 15 2022 02:09:47 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=89cdb8&c=1652494804748" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=1655bb&c=1652580582327" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,7 +45,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Starred Repos
 
-* [Charlie-zzy / **Chem-Calculator**](https://github.com/Charlie-zzy/Chem-Calculator) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
+* [Charlie-zzy / **Chem-Calculator**](https://github.com/Charlie-zzy/Chem-Calculator) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [lz1998 / **ricq**](https://github.com/lz1998/ricq) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">178<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">17
 * [zenozeng / **fonts.css**](https://github.com/zenozeng/fonts.css) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">134
 * [doersino / **UnicodeMathML**](https://github.com/doersino/UnicodeMathML) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">24<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1

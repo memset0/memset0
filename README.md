@@ -1,6 +1,6 @@
-<!-- auto generated at Mon May 16 2022 01:55:04 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Tue May 17 2022 02:02:16 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=78f638&c=1652666098566" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=18b664&c=1652752931403" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -48,7 +48,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 #### 🌟 Starred Repos
 
 * [Charlie-zzy / **Chem-Calculator**](https://github.com/Charlie-zzy/Chem-Calculator) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">6<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [lz1998 / **ricq**](https://github.com/lz1998/ricq) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">178<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">17
+* [lz1998 / **ricq**](https://github.com/lz1998/ricq) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">180<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">17
 * [zenozeng / **fonts.css**](https://github.com/zenozeng/fonts.css) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">134
 * [doersino / **UnicodeMathML**](https://github.com/doersino/UnicodeMathML) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">24<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 * [mvoidex / **UnicodeMath**](https://github.com/mvoidex/UnicodeMath) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">98<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">19
@@ -92,12 +92,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=158923"><strong>红尘来去一场梦</strong></a> - 巫启贤 - <a href="https://music.163.com/#/album?id=15963">红尘来去一场梦</a> 
-* <a href="https://music.163.com/#/song?id=509313150"><strong>Sakura Tears</strong></a> - Snigellin - <a href="https://music.163.com/#/album?id=3271560">最新热歌慢摇110</a> 
-* <a href="https://music.163.com/#/song?id=26484910"><strong>青春</strong></a> - 冷碗碗 - <a href="https://music.163.com/#/album?id=2508143">中国梦之声第一季 第三期</a> 
-* <a href="https://music.163.com/#/song?id=28196329"><strong>青春</strong></a> - 韩红 - <a href="https://music.163.com/#/album?id=2746051">军歌嘹亮</a> 
-* <a href="https://music.163.com/#/song?id=108248"><strong>只对你有感觉</strong></a> - 林俊杰 - <a href="https://music.163.com/#/album?id=10755">她说 概念自选辑</a> 
-* <a href="https://music.163.com/#/song?id=29418291"><strong>YUBIKIRI-GENMAN</strong></a> - Mili - <a href="https://music.163.com/#/album?id=3021064">Mag Mell</a> 
+* <a href="https://music.163.com/#/song?id=224000"><strong>怎样</strong></a> - 戴佩妮 - <a href="https://music.163.com/#/album?id=22634">怎样</a> 
+* <a href="https://music.163.com/#/song?id=277382"><strong>盛夏的果实</strong></a> - 莫文蔚 - <a href="https://music.163.com/#/album?id=27539">含情莫莫 莫文蔚全精选辑</a> 
+* <a href="https://music.163.com/#/song?id=210049"><strong>布拉格广场</strong></a> - 蔡依林, 周杰伦 - <a href="https://music.163.com/#/album?id=21349">看我72变</a> 
+* <a href="https://music.163.com/#/song?id=65528"><strong>淘汰</strong></a> - 陈奕迅 - <a href="https://music.163.com/#/album?id=6434">认了吧</a> 
+* <a href="https://music.163.com/#/song?id=386538"><strong>温柔</strong></a> - 五月天 - <a href="https://music.163.com/#/album?id=38285">我们是五月天</a> 
+* <a href="https://music.163.com/#/song?id=287035"><strong>遇见</strong></a> - 孙燕姿 - <a href="https://music.163.com/#/album?id=28519">My Story, Your Song 经典全纪录 (主打精华版)</a> 
 
 
 <!-- table line=1 raw=1 end -->

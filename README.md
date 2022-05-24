@@ -1,6 +1,6 @@
-<!-- auto generated at Tue May 24 2022 14:49:45 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Tue May 24 2022 14:50:51 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0ee678&c=1653403779460" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0ee678&c=1653403849619" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -45,7 +45,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 <!-- table line=0 raw=0 start -->
 
 
-#### 🌟 Starred Repos
+#### 🌟 Stars
 
 * [Charlie-zzy / **Chem-Calculator**](https://github.com/Charlie-zzy/Chem-Calculator) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">7<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 * [lz1998 / **ricq**](https://github.com/lz1998/ricq) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">183<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">19
@@ -60,7 +60,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 <!-- table line=0 raw=1 start -->
 
 
-#### ✍️ My Blogs
+#### ✍️ Blogs
 
 * [如何手搓一个博客？](https://memset0.cn/how-my-blog-generated/) - 25/09/2021
 * [从 0 开始实现 Python 简化版 List](https://memset0.cn/python-my-list/) - 20/09/2021
@@ -75,7 +75,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 <!-- table line=1 raw=0 start -->
 
 
-#### 👨‍💻 Followed Users
+#### 👨‍💻 Following
 
 * [**EdisonJwa** EdisonJwa](https://github.com/EdisonJwa/) - Seoul, South Korea
 * [**Charlie** Charlie-zzy](https://github.com/Charlie-zzy/) - OIer高一蒟蒻
@@ -90,7 +90,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 <!-- table line=1 raw=1 start -->
 
 
-#### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))
+#### 🎼 Music ([163.com](https://music.163.com/#/user/home?id=407233351))
 
 * <a href="https://music.163.com/#/song?id=224000"><strong>怎样</strong></a> - 戴佩妮 - <a href="https://music.163.com/#/album?id=22634">怎样</a> 
 * <a href="https://music.163.com/#/song?id=277382"><strong>盛夏的果实</strong></a> - 莫文蔚 - <a href="https://music.163.com/#/album?id=27539">含情莫莫 莫文蔚全精选辑</a> 
@@ -122,5 +122,5 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  pushed commit <a href=https://github.com/memset0/memset0/commit/97c2eeab5040b7fc9302d41488b012b235f5ac7b><strong><code>97c2eea</code></strong></a>  at 24/05/2022, 14:49 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  pushed commit <a href=https://github.com/memset0/memset0/commit/258ecfb9ab87b1c0714aa95ff6d7bf2f3ec56e65><strong><code>258ecfb</code></strong></a>  at 24/05/2022, 14:50 
 </sub></p>

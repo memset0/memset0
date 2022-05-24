@@ -183,16 +183,16 @@ export default async function () {
 
 	return generateTable([[{
 		params: { width: '50%', valign: 'top' },
-		content: '\n\n#### 🌟 Starred Repos\n\n' + data.starred_repos + '\n\n',
+		content: '\n\n#### 🌟 Stars\n\n' + data.starred_repos + '\n\n',
 	}, {
 		params: { width: '50%', valign: 'top' },
-		content: '\n\n#### ✍️ My Blogs\n\n' + data.recent_blogs + '\n\n',
+		content: '\n\n#### ✍️ Blogs\n\n' + data.recent_blogs + '\n\n',
 	}], [{
 		params: { width: '50%', valign: 'top' },
-		content: '\n\n#### 👨‍💻 Followed Users\n\n' + data.followed_users + '\n\n',
+		content: '\n\n#### 👨‍💻 Following\n\n' + data.followed_users + '\n\n',
 	}, {
 		params: { width: '50%', valign: 'top' },
-		content: '\n\n#### 🎼 Favorite Music (on [163music](https://music.163.com/#/user/home?id=407233351))\n\n' + data.favorite_music + '\n\n',
+		content: '\n\n#### 🎼 Music ([163.com](https://music.163.com/#/user/home?id=407233351))\n\n' + data.favorite_music + '\n\n',
 	}]]);
 }
 

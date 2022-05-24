@@ -19,7 +19,7 @@ jobs:
         with:
           user: ${{ steps.vars.outputs.ACTOR }}
           message: >-
-            pushed commit
+            committed
             <a href="https://github.com/memset0/memset0/commit/${{ steps.vars.outputs.SHA }}"><strong><code>${{ steps.vars.outputs.SHA_SHORT }}</code></strong></a>
       - name: Check notification.html
         run: cat pages/notification.md

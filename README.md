@@ -1,6 +1,6 @@
-<!-- auto generated at Thu May 26 2022 02:12:08 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Fri May 27 2022 02:06:36 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ce8fd9&c=1653531123451" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=cb1780&c=1653617190102" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -47,12 +47,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Stars
 
-* [asciinema / **asciinema**](https://github.com/asciinema/asciinema) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">822
-* [Wilfred / **difftastic**](https://github.com/Wilfred/difftastic) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">132
+* [zijie0 / **HumanSystemOptimization**](https://github.com/zijie0/HumanSystemOptimization) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">655<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">33
+* [asciinema / **asciinema**](https://github.com/asciinema/asciinema) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">821
+* [Wilfred / **difftastic**](https://github.com/Wilfred/difftastic) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">133
 * [StabilityMan / **StabilityGuide**](https://github.com/StabilityMan/StabilityGuide) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">442
-* [geekdada / **bob-plugin-deepl-translate**](https://github.com/geekdada/bob-plugin-deepl-translate) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">139<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">16
+* [geekdada / **bob-plugin-deepl-translate**](https://github.com/geekdada/bob-plugin-deepl-translate) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">140<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">16
 * [Charlie-zzy / **Chem-Calculator**](https://github.com/Charlie-zzy/Chem-Calculator) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">7<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
-* [lz1998 / **ricq**](https://github.com/lz1998/ricq) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">183<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">20
 
 
 <!-- table line=0 raw=0 end -->
@@ -92,12 +92,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Music ([163.com](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=1413863166"><strong>想去海边</strong></a> - 夏日入侵企画 - <a href="https://music.163.com/#/album?id=84029595">想去海边</a> 
+* <a href="https://music.163.com/#/song?id=63968"><strong>算你狠</strong></a> - 陈小春 - <a href="https://music.163.com/#/album?id=6332">算你狠</a> 
+* <a href="https://music.163.com/#/song?id=1336856864"><strong>形容</strong></a> - 沈以诚 - <a href="https://music.163.com/#/album?id=78232124">初遇</a> 
+* <a href="https://music.163.com/#/song?id=307655"><strong>一个人的精彩</strong></a> - 萧亚轩 - <a href="https://music.163.com/#/album?id=30549">红蔷薇</a> 
 * <a href="https://music.163.com/#/song?id=224000"><strong>怎样</strong></a> - 戴佩妮 - <a href="https://music.163.com/#/album?id=22634">怎样</a> 
 * <a href="https://music.163.com/#/song?id=277382"><strong>盛夏的果实</strong></a> - 莫文蔚 - <a href="https://music.163.com/#/album?id=27539">含情莫莫 莫文蔚全精选辑</a> 
-* <a href="https://music.163.com/#/song?id=210049"><strong>布拉格广场</strong></a> - 蔡依林, 周杰伦 - <a href="https://music.163.com/#/album?id=21349">看我72变</a> 
-* <a href="https://music.163.com/#/song?id=65528"><strong>淘汰</strong></a> - 陈奕迅 - <a href="https://music.163.com/#/album?id=6434">认了吧</a> 
-* <a href="https://music.163.com/#/song?id=386538"><strong>温柔</strong></a> - 五月天 - <a href="https://music.163.com/#/album?id=38285">我们是五月天</a> 
-* <a href="https://music.163.com/#/song?id=287035"><strong>遇见</strong></a> - 孙燕姿 - <a href="https://music.163.com/#/album?id=28519">My Story, Your Song 经典全纪录 (主打精华版)</a> 
 
 
 <!-- table line=1 raw=1 end -->

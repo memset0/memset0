@@ -1,6 +1,6 @@
-<!-- auto generated at Wed Jun 01 2022 02:28:54 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Thu Jun 02 2022 02:09:17 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=a82b2a&c=1654050528542" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=2c8de0&c=1654135751759" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -49,7 +49,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 * [memset0 / **naive-math-problem**](https://github.com/memset0/naive-math-problem) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [nanasess / **setup-chromedriver**](https://github.com/nanasess/setup-chromedriver) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">54<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">21
-* [zijie0 / **HumanSystemOptimization**](https://github.com/zijie0/HumanSystemOptimization) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">220
+* [zijie0 / **HumanSystemOptimization**](https://github.com/zijie0/HumanSystemOptimization) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">259
 * [asciinema / **asciinema**](https://github.com/asciinema/asciinema) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">821
 * [Wilfred / **difftastic**](https://github.com/Wilfred/difftastic) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">135
 * [StabilityMan / **StabilityGuide**](https://github.com/StabilityMan/StabilityGuide) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">443
@@ -77,12 +77,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 👨‍💻 Following
 
+* [**ForkΨKillet** ForkKILLET](https://github.com/ForkKILLET/) - ForkKILLET loves chocolate. He...
+* [**extend-luogu** ](https://github.com//)
 * [**EdisonJwa** EdisonJwa](https://github.com/EdisonJwa/) - Seoul, South Korea
 * [**Charlie** Charlie-zzy](https://github.com/Charlie-zzy/) - OIer高一蒟蒻
 * [**Andy Y.** hzyangjc](https://github.com/hzyangjc/) - Tenderness is reserved for tho...
 * [**HIMlaoS_Misa** MisaLiu](https://github.com/MisaLiu/) - 生命不息，睡觉不止。
-* [**ltyec** ltyec](https://github.com/ltyec/) - 🏳️‍⚧️transgender studentlear...
-* [**Alex Cui** alexcui03](https://github.com/alexcui03/) - A Senior One student in Shangh...
 
 
 <!-- table line=1 raw=0 end -->
@@ -92,12 +92,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Music ([163.com](https://music.163.com/#/user/home?id=407233351))
 
+* <a href="https://music.163.com/#/song?id=27965042"><strong>桃花醉</strong></a> - HITA, 董真 - <a href="https://music.163.com/#/album?id=2702008">桃花醉</a> 
+* <a href="https://music.163.com/#/song?id=27566649"><strong>春よ、来い</strong></a> - 松任谷由実 - <a href="https://music.163.com/#/album?id=2639183">松任谷由実40周年記念ベストアルバム 日本の恋と、ユーミンと。</a> 
+* <a href="https://music.163.com/#/song?id=28461734"><strong>春よ、来い</strong></a> - 池田綾子 - <a href="https://music.163.com/#/album?id=2801173">東京カフェスタイル #3 ファンタジー</a> 
 * <a href="https://music.163.com/#/song?id=1413863166"><strong>想去海边</strong></a> - 夏日入侵企画 - <a href="https://music.163.com/#/album?id=84029595">想去海边</a> 
 * <a href="https://music.163.com/#/song?id=63968"><strong>算你狠</strong></a> - 陈小春 - <a href="https://music.163.com/#/album?id=6332">算你狠</a> 
 * <a href="https://music.163.com/#/song?id=1336856864"><strong>形容</strong></a> - 沈以诚 - <a href="https://music.163.com/#/album?id=78232124">初遇</a> 
-* <a href="https://music.163.com/#/song?id=307655"><strong>一个人的精彩</strong></a> - 萧亚轩 - <a href="https://music.163.com/#/album?id=30549">红蔷薇</a> 
-* <a href="https://music.163.com/#/song?id=224000"><strong>怎样</strong></a> - 戴佩妮 - <a href="https://music.163.com/#/album?id=22634">怎样</a> 
-* <a href="https://music.163.com/#/song?id=277382"><strong>盛夏的果实</strong></a> - 莫文蔚 - <a href="https://music.163.com/#/album?id=27539">含情莫莫 莫文蔚全精选辑</a> 
 
 
 <!-- table line=1 raw=1 end -->

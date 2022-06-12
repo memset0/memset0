@@ -1,6 +1,6 @@
-<!-- auto generated at Sat Jun 11 2022 13:32:48 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Sun Jun 12 2022 02:20:19 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=094db9&c=1654954362055" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=aa4c16&c=1655000413825" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -47,12 +47,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Stars
 
+* [colmugx / **hexo-theme-Nlvi**](https://github.com/colmugx/hexo-theme-Nlvi) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">234<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">23
+* [alist-org / **alist**](https://github.com/alist-org/alist) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">6k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
 * [yanranxiaoxi / **Smooth-Files-Gallery**](https://github.com/yanranxiaoxi/Smooth-Files-Gallery) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">9<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
 * [harrischristiansen / **generals-bot**](https://github.com/harrischristiansen/generals-bot) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">33<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">12
-* [LAX1DUDE / **eaglercraft**](https://github.com/LAX1DUDE/eaglercraft) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">577<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">889
+* [LAX1DUDE / **eaglercraft**](https://github.com/LAX1DUDE/eaglercraft) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">577<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">890
 * [memset0 / **naive-math-problem**](https://github.com/memset0/naive-math-problem) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [nanasess / **setup-chromedriver**](https://github.com/nanasess/setup-chromedriver) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">54<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">21
-* [zijie0 / **HumanSystemOptimization**](https://github.com/zijie0/HumanSystemOptimization) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">339
 
 
 <!-- table line=0 raw=0 end -->

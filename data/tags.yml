@@ -1,6 +1,6 @@
 OIer:
   color: brightgreen
-  multiply: 5
+  multiply: 3
 笨蛋:
   color: 2EA9DF
   multiply: 2
@@ -14,7 +14,7 @@ OIer:
   color: E16B8C
 萌萌哒:
   color: FF69B4
-  multiply: 2
+  multiply: 3
   new_line_after: true
 C++:
   color: 7B90D2

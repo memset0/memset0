@@ -88,7 +88,7 @@ export default async function () {
 				width: '20%',
 			}
 		}, {
-			content: cell.users.map(user => `<a href="https://github.com/${user}"><img src="https://avatars.githubusercontent.com/${user}" height="40"></a>`).join(''),
+			content: cell.users.map(user => `<a href="https://github.com/${user}"><img src="https://avatars.githubusercontent.com/${user}" height="80"></a>`).join(''),
 			params: {
 				width: '80%',
 				valign: 'middle',

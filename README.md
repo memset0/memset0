@@ -1,6 +1,6 @@
-<!-- auto generated at Mon Jul 18 2022 02:22:59 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Jul 18 2022 23:34:33 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=eeb458&c=1658110972929" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=3f1dd3&c=1658187267395" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -47,12 +47,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Stars
 
+* [garywill / **cc-visualize**](https://github.com/garywill/cc-visualize) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">106<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 * [g0v / **moedict-webkit**](https://github.com/g0v/moedict-webkit) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">527<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">95
 * [antoniotejada / **Trilium-TocWidget**](https://github.com/antoniotejada/Trilium-TocWidget) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">22<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
-* [WeNeedHome / **SummaryOfLoanSuspension**](https://github.com/WeNeedHome/SummaryOfLoanSuspension) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">17k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
+* [WeNeedHome / **SummaryOfLoanSuspension**](https://github.com/WeNeedHome/SummaryOfLoanSuspension) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">18k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
 * [zenozeng / **font-detect.js**](https://github.com/zenozeng/font-detect.js) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">79<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
-* [DukeLuo / **wai**](https://github.com/DukeLuo/wai) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">76<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
-* [labring / **laf**](https://github.com/labring/laf) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">181
+* [DukeLuo / **wai**](https://github.com/DukeLuo/wai) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">77<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 
 
 <!-- table line=0 raw=0 end -->
@@ -92,12 +92,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🎼 Music ([163.com](https://music.163.com/#/user/home?id=407233351))
 
-* <a href="https://music.163.com/#/song?id=167952"><strong>风碑</strong></a> - 小柯, 董真 - <a href="https://music.163.com/#/album?id=16964">风碑</a> 
-* <a href="https://music.163.com/#/song?id=165340"><strong>有点甜</strong></a> - 汪苏泷, By2 - <a href="https://music.163.com/#/album?id=16606">万有引力</a> 
-* <a href="https://music.163.com/#/song?id=126443"><strong>窗外</strong></a> - 李琛 - <a href="https://music.163.com/#/album?id=12216">窗外</a> 
-* <a href="https://music.163.com/#/song?id=28757080"><strong>唱给谁听</strong></a> - Kent王健 - <a href="https://music.163.com/#/album?id=2886095">热门华语227</a> 
-* <a href="https://music.163.com/#/song?id=25918133"><strong>那时雨</strong></a> - 徐良 - <a href="https://music.163.com/#/album?id=2342012">那时雨</a> 
-* <a href="https://music.163.com/#/song?id=4993311"><strong>Das Absuchen</strong></a> - 阿保剛 - <a href="https://music.163.com/#/album?id=496764">Ever17 ~the out of infinity~ Sound Collection</a> 
+* <a href="https://music.163.com/#/song?id=1831400558"><strong>You and Me</strong></a> - しゃろう - <a href="https://music.163.com/#/album?id=124875804">You and Me</a> 
+* <a href="https://music.163.com/#/song?id=372359"><strong>咏春</strong></a> - 七朵组合 - <a href="https://music.163.com/#/album?id=36919">咏春</a> 
+* <a href="https://music.163.com/#/song?id=407450443"><strong>相思引</strong></a> - 小旭音乐 - <a href="https://music.163.com/#/album?id=2785018">小旭音乐精选集（一）</a> 
+* <a href="https://music.163.com/#/song?id=1416747959"><strong>仙剑问情(主题曲)</strong></a> - 萧人凤 - <a href="https://music.163.com/#/album?id=84989567">仙剑奇侠传三外传 问情篇</a> 
+* <a href="https://music.163.com/#/song?id=28923074"><strong>爱妃</strong></a> - 后弦 - <a href="https://music.163.com/#/album?id=2948021">爱妃</a> 
+* <a href="https://music.163.com/#/song?id=26545241"><strong>落花情</strong></a> - 七朵组合 - <a href="https://music.163.com/#/album?id=2519222">落花情</a> 
 
 
 <!-- table line=1 raw=1 end -->
@@ -122,5 +122,5 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/continueandbreak><strong>@continueandbreak</strong></a>  voted  at 16/07/2022, 11:22 
+<p align="right"><sub>Last updated:  <a href=https://github.com/Youngchen2022><strong>@Youngchen2022</strong></a>  voted  at 18/07/2022, 23:34 
 </sub></p>

@@ -1,6 +1,6 @@
-<!-- auto generated at Sun Jul 17 2022 08:33:07 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Mon Jul 18 2022 02:22:59 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=cf607c&c=1658046780486" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=eeb458&c=1658110972929" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -47,12 +47,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Stars
 
+* [g0v / **moedict-webkit**](https://github.com/g0v/moedict-webkit) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">527<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">95
 * [antoniotejada / **Trilium-TocWidget**](https://github.com/antoniotejada/Trilium-TocWidget) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">22<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
-* [WeNeedHome / **SummaryOfLoanSuspension**](https://github.com/WeNeedHome/SummaryOfLoanSuspension) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">16k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
+* [WeNeedHome / **SummaryOfLoanSuspension**](https://github.com/WeNeedHome/SummaryOfLoanSuspension) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">17k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
 * [zenozeng / **font-detect.js**](https://github.com/zenozeng/font-detect.js) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">79<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
 * [DukeLuo / **wai**](https://github.com/DukeLuo/wai) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">76<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 * [labring / **laf**](https://github.com/labring/laf) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">181
-* [Froxlor / **Froxlor**](https://github.com/Froxlor/Froxlor) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">423
 
 
 <!-- table line=0 raw=0 end -->
@@ -77,12 +77,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 👨‍💻 Following
 
+* [**dark-flames** dark-flames](https://github.com/dark-flames/) - Programming Language / Type Th...
+* [**Yangyu Chen** cyyself](https://github.com/cyyself/) - Chongqing University         ...
+* [**忘怀** opsiff](https://github.com/opsiff/) - 爱我所爱，无怨无悔 | 🔑5FC20E04
 * [**DIYgod** DIYgod](https://github.com/DIYgod/) - 写代码是热爱，写到世界充满爱！
 * [**2006DuckOnline** ](https://github.com//)
 * [**Fuyuky** ](https://github.com//)
-* [**ForkΨKillet** ForkKILLET](https://github.com/ForkKILLET/) - ForkKILLET loves chocolate. He...
-* [**EdisonJwa** EdisonJwa](https://github.com/EdisonJwa/) - Seoul, South Korea
-* [**Charlie** Charlie-zzy](https://github.com/Charlie-zzy/) - OIer高一蒟蒻
 
 
 <!-- table line=1 raw=0 end -->

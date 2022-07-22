@@ -1,6 +1,6 @@
-<!-- auto generated at Thu Jul 21 2022 02:23:54 GMT+0000 (Coordinated Universal Time) -->
+<!-- auto generated at Fri Jul 22 2022 02:24:08 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=c29d3b&c=1658370228096" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=cc51d9&c=1658456641992" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -47,12 +47,12 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 
 #### 🌟 Stars
 
-* [Ryanest114514 / **Ryan.GitHub.io**](https://github.com/Ryanest114514/Ryan.GitHub.io) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [garywill / **cc-visualize**](https://github.com/garywill/cc-visualize) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">139<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
+* [welai / **glow-sans**](https://github.com/welai/glow-sans) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">42
+* [antoniotejada / **Trilium-SyntaxHighlightWidget**](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">18<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
+* [Ryanest114514 / **Ryan.GitHub.io**](https://github.com/Ryanest114514/Ryan.GitHub.io) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
+* [garywill / **cc-visualize**](https://github.com/garywill/cc-visualize) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">142<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
 * [g0v / **moedict-webkit**](https://github.com/g0v/moedict-webkit) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">527<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">95
 * [antoniotejada / **Trilium-TocWidget**](https://github.com/antoniotejada/Trilium-TocWidget) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">22<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">3
-* [WeNeedHome / **SummaryOfLoanSuspension**](https://github.com/WeNeedHome/SummaryOfLoanSuspension) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">18k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
-* [zenozeng / **font-detect.js**](https://github.com/zenozeng/font-detect.js) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">79<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
 
 
 <!-- table line=0 raw=0 end -->

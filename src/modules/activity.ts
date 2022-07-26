@@ -2,7 +2,7 @@ import { load } from 'cheerio';
 import { get, agent } from 'superagent';
 import { assetLink, generateTable, TableCell } from '../utils';
 
-const max_length = 6;
+const max_length = 5;
 const disable_github = false;
 const github_root = 'https://github.com';
 // const github_root = 'https://hub.fastgit.org';

@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Fri Aug 26 2022 11:32:53 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Fri Aug 26 2022 11:35:17 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ea87e8&c=1661513570576" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ea87e8&c=1661513714739" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -34,7 +34,7 @@
 
 <p align="center">
 👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, or you can call me 轻雨酱 (whisperain).<br>
-Notice the tag cloud above? This is generated based on user votes, you can also participate by <i>clicking the badge</i>.
+Notice the tag cloud above? It's generated based on user votes, you can also participate by <strong><i>clicking the badge</i></strong>.
 </p>
 
 ### Recent Activities
@@ -58,20 +58,6 @@ Notice the tag cloud above? This is generated based on user votes, you can also 
 <!-- table line=0 raw=1 start -->
 
 
-<h4 align="center"><i>✍️ Blogs</i></h4>
-
-* [浅谈高中数学中常用的逼近方法（更新中...）](https://memset0.cn/math/approximants/) - 16/07/2022
-* [如何手搓一个博客？](https://memset0.cn/how-my-blog-generated/) - 25/09/2021
-* [从 0 开始实现 Python 简化版 List](https://memset0.cn/python-my-list/) - 20/09/2021
-* [从 Python 源码看切片实现](https://memset0.cn/python-slice/) - 10/09/2021
-* [「Petrozavodsk Summer 2020」Parity Sort](https://memset0.cn/problem/petrozavodsk2020-summer-day5-c/) - 21/01/2021
-
-
-<!-- table line=0 raw=1 end -->
-</td></tr><tr><td width="50%" valign="top" >
-<!-- table line=1 raw=0 start -->
-
-
 <h4 align="center"><i>👨‍💻 Following</i></h4>
 
 * [**CloudWolfYT** ](https://github.com//)
@@ -79,6 +65,20 @@ Notice the tag cloud above? This is generated based on user votes, you can also 
 * [**_LittleC_** XxLittleCxX](https://github.com/XxLittleCxX/) - Nothing here.
 * [**Misaka_L** Misaka-L](https://github.com/Misaka-L/) - 讨厌虫子 (各种意义上的)
 * [**Shigma** shigma](https://github.com/shigma/) - chore: tweak
+
+
+<!-- table line=0 raw=1 end -->
+</td></tr><tr><td width="50%" valign="top" >
+<!-- table line=1 raw=0 start -->
+
+
+<h4 align="center"><i>✍️ Blogs</i></h4>
+
+* [浅谈高中数学中常用的逼近方法（更新中...）](https://memset0.cn/math/approximants/) - 16/07/2022
+* [如何手搓一个博客？](https://memset0.cn/how-my-blog-generated/) - 25/09/2021
+* [从 0 开始实现 Python 简化版 List](https://memset0.cn/python-my-list/) - 20/09/2021
+* [从 Python 源码看切片实现](https://memset0.cn/python-slice/) - 10/09/2021
+* [「Petrozavodsk Summer 2020」Parity Sort](https://memset0.cn/problem/petrozavodsk2020-summer-day5-c/) - 21/01/2021
 
 
 <!-- table line=1 raw=0 end -->
@@ -117,5 +117,5 @@ Notice the tag cloud above? This is generated based on user votes, you can also 
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/879439e33699c4151ae24ea83da00846823e3bfc><strong><code>879439e</code></strong></a>  at 26/08/2022, 11:32 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/80e8734a1ba4769269140db9bfa2d6407dee0e9c><strong><code>80e8734</code></strong></a>  at 26/08/2022, 11:35 
 </sub></p>

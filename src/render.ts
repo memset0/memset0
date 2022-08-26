@@ -8,7 +8,7 @@ export class Render {
 	}
 
 	render() {
-		return `<!-- auto generated at ${Date()} -->\n\n` + this.template;
+		return `<!-- This file was automatically generated at ${Date()} -->\n\n` + this.template;
 	}
 
 	constructor(template: string) {

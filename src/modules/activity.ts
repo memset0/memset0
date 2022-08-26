@@ -181,18 +181,22 @@ export default async function () {
 	const res = await Promise.all(Object.values(data).map(func => new Promise((resolve) => { resolve(safeCall(func)); })));
 	res.forEach((res, index) => { data[Object.keys(data)[index]] = res; });
 
+	const titlelize = (title: string) => {
+		return `\n\n<h4 align="center">${title}</h4>\n\n`
+	}
+
 	return generateTable([[{
 		params: { width: '50%', valign: 'top' },
-		content: '\n\n#### 🌟 Stars\n\n' + data.starred_repos + '\n\n',
+		content: titlelize('🌟 Stars') + data.starred_repos + '\n\n',
 	}, {
 		params: { width: '50%', valign: 'top' },
-		content: '\n\n#### ✍️ Blogs\n\n' + data.recent_blogs + '\n\n',
+		content: titlelize('✍️ Blogs') + data.recent_blogs + '\n\n',
 	}], [{
 		params: { width: '50%', valign: 'top' },
-		content: '\n\n#### 👨‍💻 Following\n\n' + data.followed_users + '\n\n',
+		content: titlelize('👨‍💻 Following') + data.followed_users + '\n\n',
 	}, {
 		params: { width: '50%', valign: 'top' },
-		content: '\n\n#### 🎼 Music ([163.com](https://music.163.com/#/user/home?id=407233351))\n\n' + data.favorite_music + '\n\n',
+		content: titlelize('🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)') + data.favorite_music + '\n\n',
 	}]]);
 }
 

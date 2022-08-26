@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, aka whisperain,<br>
-a student who would like to be considered as a geek.<br>
-What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
+👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, or you can call me 轻雨酱 (whisperain).<br>
+Notice the tag cloud above? This is generated based on votes by Github users, you can also participate by *clicking the badge* above.
 </p>
 
 ### Recent Activities

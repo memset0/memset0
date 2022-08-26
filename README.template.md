@@ -10,7 +10,7 @@
 
 <p align="center">
 👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, or you can call me 轻雨酱 (whisperain).<br>
-Notice the tag cloud above? This is generated based on user votes, you can also participate by <i>clicking the badge<i>.
+Notice the tag cloud above? This is generated based on user votes, you can also participate by <i>clicking the badge</i>.
 </p>
 
 ### Recent Activities

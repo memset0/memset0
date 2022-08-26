@@ -182,7 +182,7 @@ export default async function () {
 	res.forEach((res, index) => { data[Object.keys(data)[index]] = res; });
 
 	const titlelize = (title: string) => {
-		return `\n\n<h4 align="center">${title}</h4>\n\n`
+		return `\n\n<h4 align="center"><i>${title}</i></h4>\n\n`
 	}
 
 	return generateTable([[{

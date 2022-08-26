@@ -137,8 +137,8 @@ async function crawlFavoriteMusic() {
 	// console.log('[crawl-favorite-music]', 'login with', phone, password);
 
 	const session = agent();
-	const tmp = await session.get(api_root + '/login/cellphone').query({ phone, md5_password: password });
-	console.log('[crawl-favorite-music]', 'login status', tmp.body.code);
+	// const tmp = await session.get(api_root + '/login/cellphone').query({ phone, md5_password: password });
+	// console.log('[crawl-favorite-music]', 'login status', tmp.body.code);
 	const res = await session.get(api_root + '/playlist/detail').query({ id });
 
 	return res.body.playlist.tracks

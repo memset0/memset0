@@ -77,7 +77,7 @@ export default async function () {
 
 	fs.writeFileSync(
 		path.join(__dirname, '../../pages/tags.md'),
-		'<p align="center">This tag cloud is based on the votes of these users, you can also join this activity via <a href="https://github.com/memset0">my Github profile</a>.<p>\n' +
+		'<p align="center">This tag cloud is generated based on the votes of these Github users, you can also join this participate via <a href="https://github.com/memset0">my Github profile</a>.<p>\n' +
 		'<p align="center">这张标签云是基于下列用户的投票生成的，你也可以在 <a href="https://github.com/memset0">我的 Github 主页</a> 参与这项活动。</p><br>\n' + 
 		'<p align="center">' + '<table align="center">' +
 		generateTable(sorted_data.map((cell: Tag): TableCell[] => [{

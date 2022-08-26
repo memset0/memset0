@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Fri Aug 26 2022 11:30:37 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Fri Aug 26 2022 11:32:53 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ea87e8&c=1661513434679" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ea87e8&c=1661513570576" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -34,7 +34,7 @@
 
 <p align="center">
 👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, or you can call me 轻雨酱 (whisperain).<br>
-Notice the tag cloud above? This is generated based on user votes, you can also participate by <i>clicking the badge<i>.
+Notice the tag cloud above? This is generated based on user votes, you can also participate by <i>clicking the badge</i>.
 </p>
 
 ### Recent Activities
@@ -44,7 +44,7 @@ Notice the tag cloud above? This is generated based on user votes, you can also 
 <!-- table line=0 raw=0 start -->
 
 
-<h4 align="center">🌟 Stars</h4>
+<h4 align="center"><i>🌟 Stars</i></h4>
 
 * [bripkens / **connect-history-api-fallback**](https://github.com/bripkens/connect-history-api-fallback) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">139
 * [Raymo111 / **emoji**](https://github.com/Raymo111/emoji) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">32<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">6
@@ -58,7 +58,7 @@ Notice the tag cloud above? This is generated based on user votes, you can also 
 <!-- table line=0 raw=1 start -->
 
 
-<h4 align="center">✍️ Blogs</h4>
+<h4 align="center"><i>✍️ Blogs</i></h4>
 
 * [浅谈高中数学中常用的逼近方法（更新中...）](https://memset0.cn/math/approximants/) - 16/07/2022
 * [如何手搓一个博客？](https://memset0.cn/how-my-blog-generated/) - 25/09/2021
@@ -72,7 +72,7 @@ Notice the tag cloud above? This is generated based on user votes, you can also 
 <!-- table line=1 raw=0 start -->
 
 
-<h4 align="center">👨‍💻 Following</h4>
+<h4 align="center"><i>👨‍💻 Following</i></h4>
 
 * [**CloudWolfYT** ](https://github.com//)
 * [**vincent163** vincent-163](https://github.com/vincent-163/)
@@ -86,13 +86,13 @@ Notice the tag cloud above? This is generated based on user votes, you can also 
 <!-- table line=1 raw=1 start -->
 
 
-<h4 align="center">🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</h4>
+<h4 align="center"><i>🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</i></h4>
 
-* <a href="https://music.163.com/#/song?id=386040"><strong>咸鱼</strong></a> - 五月天 - <a href="https://music.163.com/#/album?id=38247">知足 最真杰作选</a> 
-* <a href="https://music.163.com/#/song?id=27678655"><strong>李白</strong></a> - 李荣浩 - <a href="https://music.163.com/#/album?id=2659088">模特</a> 
-* <a href="https://music.163.com/#/song?id=1839485202"><strong>非花</strong></a> - 锦零 - <a href="https://music.163.com/#/album?id=126409465">非花</a> 
-* <a href="https://music.163.com/#/song?id=26145111"><strong>虐心</strong></a> - 徐良, 孙羽幽 - <a href="https://music.163.com/#/album?id=2342012">那时雨</a> 
-* <a href="https://music.163.com/#/song?id=1448014526"><strong>The Tsukimori Song</strong></a> - 高田雅史, 市川恵津子 - <a href="https://music.163.com/#/album?id=89432253">零~月蝕の仮面~ SOUNDTRACK</a> 
+* <a href="https://music.163.com/#/song?id=27903312"><strong>君の銀の庭</strong></a> - Kalafina - <a href="https://music.163.com/#/album?id=2691730">君の銀の庭</a> 
+* <a href="https://music.163.com/#/song?id=729839"><strong>way of life -Full Version-</strong></a> - Falcom Sound Team J.D.K. - <a href="https://music.163.com/#/album?id=71435">英雄伝説 零の軌跡 オリジナルサウンドトラック</a> 
+* <a href="https://music.163.com/#/song?id=1486983140"><strong>Unreal Creation!</strong></a> - 櫻川めぐ - <a href="https://music.163.com/#/album?id=96774674">ハミダシクリエイティブ ボーカルアルバム</a> 
+* <a href="https://music.163.com/#/song?id=1645108"><strong>Born a Stranger</strong></a> - Kan R. Gao - <a href="https://music.163.com/#/album?id=167078">To the Moon</a> 
+* <a href="https://music.163.com/#/song?id=1850441822"><strong>Rosary - Intro</strong></a> - Binary Haze Interactive, Mili - <a href="https://music.163.com/#/album?id=128455683">ENDER LILIES: Quietus of the Knights Original Soundtrack</a> 
 
 
 <!-- table line=1 raw=1 end -->
@@ -117,5 +117,5 @@ Notice the tag cloud above? This is generated based on user votes, you can also 
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/dfad2c5927cded7b06de6389ac5325ab9c35ef00><strong><code>dfad2c5</code></strong></a>  at 26/08/2022, 11:30 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/879439e33699c4151ae24ea83da00846823e3bfc><strong><code>879439e</code></strong></a>  at 26/08/2022, 11:32 
 </sub></p>

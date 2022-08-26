@@ -1,6 +1,6 @@
-<!-- auto generated at Fri Aug 26 2022 11:14:56 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Fri Aug 26 2022 11:26:23 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ea87e8&c=1661512494361" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ea87e8&c=1661513178258" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -33,9 +33,8 @@
 </p>
 
 <p align="center">
-👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, aka whisperain,<br>
-a student who would like to be considered as a geek.<br>
-What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
+👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, or you can call me 轻雨酱 (whisperain).<br>
+Notice the tag cloud above? This is generated based on votes by Github users, you can also participate by *clicking the badge* above.
 </p>
 
 ### Recent Activities
@@ -45,7 +44,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 <!-- table line=0 raw=0 start -->
 
 
-#### 🌟 Stars
+<h4 align="center">🌟 Stars</h4>
 
 * [bripkens / **connect-history-api-fallback**](https://github.com/bripkens/connect-history-api-fallback) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">139
 * [Raymo111 / **emoji**](https://github.com/Raymo111/emoji) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">32<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">6
@@ -59,7 +58,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 <!-- table line=0 raw=1 start -->
 
 
-#### ✍️ Blogs
+<h4 align="center">✍️ Blogs</h4>
 
 * [浅谈高中数学中常用的逼近方法（更新中...）](https://memset0.cn/math/approximants/) - 16/07/2022
 * [如何手搓一个博客？](https://memset0.cn/how-my-blog-generated/) - 25/09/2021
@@ -73,7 +72,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 <!-- table line=1 raw=0 start -->
 
 
-#### 👨‍💻 Following
+<h4 align="center">👨‍💻 Following</h4>
 
 * [**CloudWolfYT** ](https://github.com//)
 * [**vincent163** vincent-163](https://github.com/vincent-163/)
@@ -87,7 +86,7 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 <!-- table line=1 raw=1 start -->
 
 
-#### 🎼 Music ([163.com](https://music.163.com/#/user/home?id=407233351))
+<h4 align="center">🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</h4>
 
 * <a href="https://music.163.com/#/song?id=386040"><strong>咸鱼</strong></a> - 五月天 - <a href="https://music.163.com/#/album?id=38247">知足 最真杰作选</a> 
 * <a href="https://music.163.com/#/song?id=27678655"><strong>李白</strong></a> - 李荣浩 - <a href="https://music.163.com/#/album?id=2659088">模特</a> 
@@ -118,5 +117,5 @@ What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/e9b36f2c44cee5b739b676645072c9dc3547b6c5><strong><code>e9b36f2</code></strong></a>  at 26/08/2022, 11:14 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/4e157004ffc04e4767f13729d20f1bc60aa21e71><strong><code>4e15700</code></strong></a>  at 26/08/2022, 11:26 
 </sub></p>

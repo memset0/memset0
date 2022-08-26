@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Fri Aug 26 2022 11:26:23 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Fri Aug 26 2022 11:30:37 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ea87e8&c=1661513178258" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ea87e8&c=1661513434679" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -34,7 +34,7 @@
 
 <p align="center">
 👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, or you can call me 轻雨酱 (whisperain).<br>
-Notice the tag cloud above? This is generated based on votes by Github users, you can also participate by *clicking the badge* above.
+Notice the tag cloud above? This is generated based on user votes, you can also participate by <i>clicking the badge<i>.
 </p>
 
 ### Recent Activities
@@ -50,7 +50,7 @@ Notice the tag cloud above? This is generated based on votes by Github users, yo
 * [Raymo111 / **emoji**](https://github.com/Raymo111/emoji) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">32<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">6
 * [Wjghj-Project / **Chatbot-SILI**](https://github.com/Wjghj-Project/Chatbot-SILI) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">8<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 * [choukh / **MetaZF**](https://github.com/choukh/MetaZF) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [subframe7536 / **Maple-font**](https://github.com/subframe7536/Maple-font) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">936<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">17
+* [subframe7536 / **Maple-font**](https://github.com/subframe7536/Maple-font) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">937<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">17
 
 
 <!-- table line=0 raw=0 end -->
@@ -117,5 +117,5 @@ Notice the tag cloud above? This is generated based on votes by Github users, yo
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/4e157004ffc04e4767f13729d20f1bc60aa21e71><strong><code>4e15700</code></strong></a>  at 26/08/2022, 11:26 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/dfad2c5927cded7b06de6389ac5325ab9c35ef00><strong><code>dfad2c5</code></strong></a>  at 26/08/2022, 11:30 
 </sub></p>

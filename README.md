@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sat Aug 27 2022 02:34:11 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Sat Aug 27 2022 16:09:58 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ea87e8&c=1661567646499" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=7b54e7&c=1661616593318" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, or you can call me 轻雨酱 (whisperain).<br>
+👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, 12th grade student, you can also call me 轻雨酱 (whisperain).<br>
 Notice the tag cloud above? It's generated based on user votes, you can also participate by <strong><i>clicking the badge</i></strong>.
 </p>
 
@@ -46,11 +46,11 @@ Notice the tag cloud above? It's generated based on user votes, you can also par
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
+* [dwyl / **repo-badges**](https://github.com/dwyl/repo-badges) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
 * [iamkun / **dayjs**](https://github.com/iamkun/dayjs) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">40k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
 * [bripkens / **connect-history-api-fallback**](https://github.com/bripkens/connect-history-api-fallback) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">139
 * [Raymo111 / **emoji**](https://github.com/Raymo111/emoji) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">32<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">6
 * [Wjghj-Project / **Chatbot-SILI**](https://github.com/Wjghj-Project/Chatbot-SILI) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">8<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
-* [choukh / **MetaZF**](https://github.com/choukh/MetaZF) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 
 
 <!-- table line=0 raw=0 end -->
@@ -60,11 +60,11 @@ Notice the tag cloud above? It's generated based on user votes, you can also par
 
 <h4 align="center"><i>👨‍💻 Following</i></h4>
 
+* [**Leo** Leooeloel](https://github.com/Leooeloel/) - @netless-io
+* [**Shigma** shigma](https://github.com/shigma/) - chore: tweak
+* [**启动台** rdp-studio](https://github.com/rdp-studio/) - @rdpstudio2019              ...
 * [**CloudWolfYT** ](https://github.com//)
 * [**vincent163** vincent-163](https://github.com/vincent-163/)
-* [**_LittleC_** XxLittleCxX](https://github.com/XxLittleCxX/) - Nothing here.
-* [**Misaka_L** Misaka-L](https://github.com/Misaka-L/) - 讨厌虫子 (各种意义上的)
-* [**Shigma** shigma](https://github.com/shigma/) - chore: tweak
 
 
 <!-- table line=0 raw=1 end -->
@@ -72,7 +72,7 @@ Notice the tag cloud above? It's generated based on user votes, you can also par
 <!-- table line=1 raw=0 start -->
 
 
-<h4 align="center"><i>✍️ Blogs</i></h4>
+<h4 align="center"><i>✍️ Blog Posts</i></h4>
 
 * [浅谈高中数学中常用的逼近方法（更新中...）](https://memset0.cn/math/approximants/) - 16/07/2022
 * [如何手搓一个博客？](https://memset0.cn/how-my-blog-generated/) - 25/09/2021
@@ -117,5 +117,5 @@ Notice the tag cloud above? It's generated based on user votes, you can also par
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/80e8734a1ba4769269140db9bfa2d6407dee0e9c><strong><code>80e8734</code></strong></a>  at 26/08/2022, 11:35 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/f0e97ce62457fdd2774e1f161fb9128df90e2b79><strong><code>f0e97ce</code></strong></a>  at 27/08/2022, 16:09 
 </sub></p>

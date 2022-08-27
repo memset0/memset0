@@ -193,7 +193,7 @@ export default async function () {
 		content: titlelize('👨‍💻 Following') + data.followed_users + '\n\n',
 	}], [{
 		params: { width: '50%', valign: 'top' },
-		content: titlelize('✍️ Blogs') + data.recent_blogs + '\n\n',
+		content: titlelize('✍️ Blog Posts') + data.recent_blogs + '\n\n',
 	}, {
 		params: { width: '50%', valign: 'top' },
 		content: titlelize('🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)') + data.favorite_music + '\n\n',

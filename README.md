@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Fri Aug 26 2022 11:35:17 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Sat Aug 27 2022 02:34:11 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ea87e8&c=1661513714739" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ea87e8&c=1661567646499" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,11 +46,11 @@ Notice the tag cloud above? It's generated based on user votes, you can also par
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
+* [iamkun / **dayjs**](https://github.com/iamkun/dayjs) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">40k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
 * [bripkens / **connect-history-api-fallback**](https://github.com/bripkens/connect-history-api-fallback) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">139
 * [Raymo111 / **emoji**](https://github.com/Raymo111/emoji) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">32<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">6
 * [Wjghj-Project / **Chatbot-SILI**](https://github.com/Wjghj-Project/Chatbot-SILI) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">8<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 * [choukh / **MetaZF**](https://github.com/choukh/MetaZF) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [subframe7536 / **Maple-font**](https://github.com/subframe7536/Maple-font) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">937<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">17
 
 
 <!-- table line=0 raw=0 end -->

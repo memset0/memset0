@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sun Aug 28 2022 12:23:38 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Mon Aug 29 2022 02:39:51 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=f3d253&c=1661689412635" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=f3d253&c=1661740785863" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,11 +46,11 @@ Notice the tag cloud above? It's generated based on user votes, you can also par
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
+* [ecomfe / **fontmin**](https://github.com/ecomfe/fontmin) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">298
 * [dwyl / **repo-badges**](https://github.com/dwyl/repo-badges) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
 * [iamkun / **dayjs**](https://github.com/iamkun/dayjs) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">40k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
 * [bripkens / **connect-history-api-fallback**](https://github.com/bripkens/connect-history-api-fallback) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">139
 * [Raymo111 / **emoji**](https://github.com/Raymo111/emoji) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">32<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">6
-* [Wjghj-Project / **Chatbot-SILI**](https://github.com/Wjghj-Project/Chatbot-SILI) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">8<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 
 
 <!-- table line=0 raw=0 end -->
@@ -60,11 +60,11 @@ Notice the tag cloud above? It's generated based on user votes, you can also par
 
 <h4 align="center"><i>👨‍💻 Following</i></h4>
 
+* [**Diu** ddiu8081](https://github.com/ddiu8081/) - Make everything elegant.
 * [**Simon Shiki** SimonShiki](https://github.com/SimonShiki/) - Learning
 * [**Leo** Leooeloel](https://github.com/Leooeloel/) - @netless-io
 * [**Shigma** shigma](https://github.com/shigma/) - chore: tweak
 * [**启动台** rdp-studio](https://github.com/rdp-studio/) - @rdpstudio2019              ...
-* [**CloudWolfYT** ](https://github.com//)
 
 
 <!-- table line=0 raw=1 end -->
@@ -88,11 +88,11 @@ Notice the tag cloud above? It's generated based on user votes, you can also par
 
 <h4 align="center"><i>🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</i></h4>
 
-* <a href="https://music.163.com/#/song?id=27903312"><strong>君の銀の庭</strong></a> - Kalafina - <a href="https://music.163.com/#/album?id=2691730">君の銀の庭</a> 
-* <a href="https://music.163.com/#/song?id=729839"><strong>way of life -Full Version-</strong></a> - Falcom Sound Team J.D.K. - <a href="https://music.163.com/#/album?id=71435">英雄伝説 零の軌跡 オリジナルサウンドトラック</a> 
-* <a href="https://music.163.com/#/song?id=1486983140"><strong>Unreal Creation!</strong></a> - 櫻川めぐ - <a href="https://music.163.com/#/album?id=96774674">ハミダシクリエイティブ ボーカルアルバム</a> 
-* <a href="https://music.163.com/#/song?id=1645108"><strong>Born a Stranger</strong></a> - Kan R. Gao - <a href="https://music.163.com/#/album?id=167078">To the Moon</a> 
-* <a href="https://music.163.com/#/song?id=1850441822"><strong>Rosary - Intro</strong></a> - Binary Haze Interactive, Mili - <a href="https://music.163.com/#/album?id=128455683">ENDER LILIES: Quietus of the Knights Original Soundtrack</a> 
+* <a href="https://music.163.com/#/song?id=1375725396"><strong>Cyberangel</strong></a> - Hanser - <a href="https://music.163.com/#/album?id=74946157">崩坏3-Onwards-Original Soundtrack</a> 
+* <a href="https://music.163.com/#/song?id=461375949"><strong>红妆</strong></a> - 排骨教主, papaw泡泡, 南岐 - <a href="https://music.163.com/#/album?id=35199247">红妆</a> 
+* <a href="https://music.163.com/#/song?id=1451720450"><strong>一笑江湖</strong></a> - 闻人听書_ - <a href="https://music.163.com/#/album?id=90105352">一笑江湖</a> 
+* <a href="https://music.163.com/#/song?id=5232465"><strong>光阴的故事</strong></a> - 罗大佑 - <a href="https://music.163.com/#/album?id=510720">命中注定最犀利</a> 
+* <a href="https://music.163.com/#/song?id=29444536"><strong>花冠</strong></a> - 天野月 - <a href="https://music.163.com/#/album?id=3027193">A MOON CHILD IN THE SKY</a> 
 
 
 <!-- table line=1 raw=1 end -->

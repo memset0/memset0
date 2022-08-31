@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Tue Aug 30 2022 02:46:04 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Wed Aug 31 2022 02:51:50 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=6c1b41&c=1661827558743" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=3bf9cc&c=1661914305483" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,7 +46,7 @@ Notice the tag cloud above? It's generated based on user votes, you can also par
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
-* [actions / **typescript-action**](https://github.com/actions/typescript-action) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">295
+* [actions / **typescript-action**](https://github.com/actions/typescript-action) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">296
 * [ecomfe / **fontmin**](https://github.com/ecomfe/fontmin) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">298
 * [dwyl / **repo-badges**](https://github.com/dwyl/repo-badges) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
 * [iamkun / **dayjs**](https://github.com/iamkun/dayjs) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">40k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
@@ -60,11 +60,11 @@ Notice the tag cloud above? It's generated based on user votes, you can also par
 
 <h4 align="center"><i>👨‍💻 Following</i></h4>
 
+* [**RainChan** mzdluo123](https://github.com/mzdluo123/) - A student 👀
+* [**Mrs4s** ](https://github.com//) - 死宅 挖坑不填怪
 * [**Diu** ddiu8081](https://github.com/ddiu8081/) - Make everything elegant.
 * [**Simon Shiki** SimonShiki](https://github.com/SimonShiki/) - Learning
 * [**Leo** Leooeloel](https://github.com/Leooeloel/) - @netless-io
-* [**Shigma** shigma](https://github.com/shigma/) - chore: tweak
-* [**启动台** rdp-studio](https://github.com/rdp-studio/) - @rdpstudio2019              ...
 
 
 <!-- table line=0 raw=1 end -->

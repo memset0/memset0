@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Wed Aug 31 2022 02:51:50 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Thu Sep 01 2022 02:33:47 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=3bf9cc&c=1661914305483" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=33b617&c=1661999621605" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,11 +46,11 @@ Notice the tag cloud above? It's generated based on user votes, you can also par
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
+* [yezhiyi9670 / **toxic-music-player-1**](https://github.com/yezhiyi9670/toxic-music-player-1) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
+* [SpyglassMC / **Spyglass**](https://github.com/SpyglassMC/Spyglass) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">161<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">15
+* [Yurihaia / **mc-nbtdoc**](https://github.com/Yurihaia/mc-nbtdoc) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">34<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">9
 * [actions / **typescript-action**](https://github.com/actions/typescript-action) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">296
 * [ecomfe / **fontmin**](https://github.com/ecomfe/fontmin) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">298
-* [dwyl / **repo-badges**](https://github.com/dwyl/repo-badges) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
-* [iamkun / **dayjs**](https://github.com/iamkun/dayjs) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">40k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
-* [bripkens / **connect-history-api-fallback**](https://github.com/bripkens/connect-history-api-fallback) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">139
 
 
 <!-- table line=0 raw=0 end -->
@@ -88,11 +88,11 @@ Notice the tag cloud above? It's generated based on user votes, you can also par
 
 <h4 align="center"><i>🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</i></h4>
 
-* <a href="https://music.163.com/#/song?id=1375725396"><strong>Cyberangel</strong></a> - Hanser - <a href="https://music.163.com/#/album?id=74946157">崩坏3-Onwards-Original Soundtrack</a> 
-* <a href="https://music.163.com/#/song?id=461375949"><strong>红妆</strong></a> - 排骨教主, papaw泡泡, 南岐 - <a href="https://music.163.com/#/album?id=35199247">红妆</a> 
-* <a href="https://music.163.com/#/song?id=1451720450"><strong>一笑江湖</strong></a> - 闻人听書_ - <a href="https://music.163.com/#/album?id=90105352">一笑江湖</a> 
-* <a href="https://music.163.com/#/song?id=5232465"><strong>光阴的故事</strong></a> - 罗大佑 - <a href="https://music.163.com/#/album?id=510720">命中注定最犀利</a> 
-* <a href="https://music.163.com/#/song?id=29444536"><strong>花冠</strong></a> - 天野月 - <a href="https://music.163.com/#/album?id=3027193">A MOON CHILD IN THE SKY</a> 
+* <a href="https://music.163.com/#/song?id=1457463959"><strong>Right Here Waiting</strong></a> - Music Travel Love - <a href="https://music.163.com/#/album?id=91361133">Right Here Waiting</a> 
+* <a href="https://music.163.com/#/song?id=469508285"><strong>浪漫鉄道 (蹉跌篇)</strong></a> - 谷村新司, アリス - <a href="https://music.163.com/#/album?id=35338027">STANDARD~呼吸~</a> 
+* <a href="https://music.163.com/#/song?id=1355964064"><strong>幸せ</strong></a> - 小林幸子 - <a href="https://music.163.com/#/album?id=78275296">小林幸子全曲集 2013</a> 
+* <a href="https://music.163.com/#/song?id=1831474117"><strong>繁华唱遍</strong></a> - 乐正绫 - <a href="https://music.163.com/#/album?id=124898816">哔哩哔哩拜年纪金曲回顾</a> 
+* <a href="https://music.163.com/#/song?id=1304882046"><strong>江南夜</strong></a> - 七朵组合 - <a href="https://music.163.com/#/album?id=72593623">江南夜</a> 
 
 
 <!-- table line=1 raw=1 end -->

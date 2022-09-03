@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Fri Sep 02 2022 02:38:05 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Sat Sep 03 2022 02:39:29 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=aaa1e4&c=1662086279739" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=f40daf&c=1662172764659" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,11 +46,11 @@ Notice the tag cloud above? It's generated based on user votes, you can also par
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
+* [Youmiel / **FloatingIslands-Datapack**](https://github.com/Youmiel/FloatingIslands-Datapack) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">38<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
 * [yezhiyi9670 / **toxic-music-player-1**](https://github.com/yezhiyi9670/toxic-music-player-1) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [SpyglassMC / **Spyglass**](https://github.com/SpyglassMC/Spyglass) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">161<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">15
 * [Yurihaia / **mc-nbtdoc**](https://github.com/Yurihaia/mc-nbtdoc) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">34<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">9
 * [actions / **typescript-action**](https://github.com/actions/typescript-action) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">296
-* [ecomfe / **fontmin**](https://github.com/ecomfe/fontmin) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">298
 
 
 <!-- table line=0 raw=0 end -->

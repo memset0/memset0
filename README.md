@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sat Sep 03 2022 03:25:49 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Sun Sep 04 2022 02:35:30 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0e4418&c=1662175545126" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0e4418&c=1662258924978" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,11 +46,11 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
+* [sindresorhus / **github-markdown-css**](https://github.com/sindresorhus/github-markdown-css) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">6k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
+* [XPoet / **picx**](https://github.com/XPoet/picx) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">246
+* [aui / **art-template**](https://github.com/aui/art-template) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">9k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
+* [HaujetZhao / **QuickHand**](https://github.com/HaujetZhao/QuickHand) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">127<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">17
 * [Youmiel / **FloatingIslands-Datapack**](https://github.com/Youmiel/FloatingIslands-Datapack) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">38<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
-* [yezhiyi9670 / **toxic-music-player-1**](https://github.com/yezhiyi9670/toxic-music-player-1) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [SpyglassMC / **Spyglass**](https://github.com/SpyglassMC/Spyglass) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">161<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">15
-* [Yurihaia / **mc-nbtdoc**](https://github.com/Yurihaia/mc-nbtdoc) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">34<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">9
-* [actions / **typescript-action**](https://github.com/actions/typescript-action) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">296
 
 
 <!-- table line=0 raw=0 end -->
@@ -88,11 +88,11 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 
 <h4 align="center"><i>🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</i></h4>
 
+* <a href="https://music.163.com/#/song?id=29163086"><strong>あの少女の愛がまるで人形のように嘘めいていたとしても</strong></a> - IOSYS - <a href="https://music.163.com/#/album?id=2995118">Scary Halloween Show</a> 
+* <a href="https://music.163.com/#/song?id=793740"><strong>Endless night (梦消失　〜 Lost Dream)</strong></a> - NJK Record - <a href="https://music.163.com/#/album?id=78582">TOHO EURO FLASH Vol.2</a> 
+* <a href="https://music.163.com/#/song?id=687140"><strong>Saigetsu(砕月)</strong></a> - mican*, 綾倉盟 - <a href="https://music.163.com/#/album?id=66454">PLASTIK WORLD</a> 
+* <a href="https://music.163.com/#/song?id=27746534"><strong>カゲロウ</strong></a> - Stack - <a href="https://music.163.com/#/album?id=2671112">NO SIGNAL</a> 
 * <a href="https://music.163.com/#/song?id=1457463959"><strong>Right Here Waiting</strong></a> - Music Travel Love - <a href="https://music.163.com/#/album?id=91361133">Right Here Waiting</a> 
-* <a href="https://music.163.com/#/song?id=469508285"><strong>浪漫鉄道 (蹉跌篇)</strong></a> - 谷村新司, アリス - <a href="https://music.163.com/#/album?id=35338027">STANDARD~呼吸~</a> 
-* <a href="https://music.163.com/#/song?id=1355964064"><strong>幸せ</strong></a> - 小林幸子 - <a href="https://music.163.com/#/album?id=78275296">小林幸子全曲集 2013</a> 
-* <a href="https://music.163.com/#/song?id=1831474117"><strong>繁华唱遍</strong></a> - 乐正绫 - <a href="https://music.163.com/#/album?id=124898816">哔哩哔哩拜年纪金曲回顾</a> 
-* <a href="https://music.163.com/#/song?id=1304882046"><strong>江南夜</strong></a> - 七朵组合 - <a href="https://music.163.com/#/album?id=72593623">江南夜</a> 
 
 
 <!-- table line=1 raw=1 end -->

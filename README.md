@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sun Sep 04 2022 02:35:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Mon Sep 05 2022 02:39:37 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0e4418&c=1662258924978" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=7ce240&c=1662345571871" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,11 +46,11 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
+* [rocksdanister / **lively**](https://github.com/rocksdanister/lively) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">8k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">697
+* [HalcyonAzure / **lsky-pro-docker**](https://github.com/HalcyonAzure/lsky-pro-docker) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">56<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">18
 * [sindresorhus / **github-markdown-css**](https://github.com/sindresorhus/github-markdown-css) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">6k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
-* [XPoet / **picx**](https://github.com/XPoet/picx) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">246
+* [XPoet / **picx**](https://github.com/XPoet/picx) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">247
 * [aui / **art-template**](https://github.com/aui/art-template) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">9k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
-* [HaujetZhao / **QuickHand**](https://github.com/HaujetZhao/QuickHand) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">127<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">17
-* [Youmiel / **FloatingIslands-Datapack**](https://github.com/Youmiel/FloatingIslands-Datapack) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">38<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
 
 
 <!-- table line=0 raw=0 end -->
@@ -74,7 +74,7 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 
 <h4 align="center"><i>✍️ Blog Posts</i></h4>
 
-* [浅谈高中数学中常用的逼近方法（更新中...）](https://memset0.cn/math/approximants/) - 16/07/2022
+* [浅谈高中数学中常用的逼近方法（更新中...）](https://memset0.cn/primary-math/approximants/) - 16/07/2022
 * [如何手搓一个博客？](https://memset0.cn/how-my-blog-generated/) - 25/09/2021
 * [从 0 开始实现 Python 简化版 List](https://memset0.cn/python-my-list/) - 20/09/2021
 * [从 Python 源码看切片实现](https://memset0.cn/python-slice/) - 10/09/2021
@@ -88,11 +88,11 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 
 <h4 align="center"><i>🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</i></h4>
 
+* <a href="https://music.163.com/#/song?id=4919981"><strong>Believe Me</strong></a> - 阿保剛 - <a href="https://music.163.com/#/album?id=492638">STEINS;GATE サウンドトラックⅡ「Event Horizon」</a> 
+* <a href="https://music.163.com/#/song?id=766014"><strong>童祭　~ Innocent Treasures</strong></a> - 市松椿 - <a href="https://music.163.com/#/album?id=75313">palette ~人々が爱した幻想郷~</a> 
+* <a href="https://music.163.com/#/song?id=29562772"><strong>万華鏡</strong></a> - 幽閉サテライト - <a href="https://music.163.com/#/album?id=3044131">万華鏡</a> 
 * <a href="https://music.163.com/#/song?id=29163086"><strong>あの少女の愛がまるで人形のように嘘めいていたとしても</strong></a> - IOSYS - <a href="https://music.163.com/#/album?id=2995118">Scary Halloween Show</a> 
 * <a href="https://music.163.com/#/song?id=793740"><strong>Endless night (梦消失　〜 Lost Dream)</strong></a> - NJK Record - <a href="https://music.163.com/#/album?id=78582">TOHO EURO FLASH Vol.2</a> 
-* <a href="https://music.163.com/#/song?id=687140"><strong>Saigetsu(砕月)</strong></a> - mican*, 綾倉盟 - <a href="https://music.163.com/#/album?id=66454">PLASTIK WORLD</a> 
-* <a href="https://music.163.com/#/song?id=27746534"><strong>カゲロウ</strong></a> - Stack - <a href="https://music.163.com/#/album?id=2671112">NO SIGNAL</a> 
-* <a href="https://music.163.com/#/song?id=1457463959"><strong>Right Here Waiting</strong></a> - Music Travel Love - <a href="https://music.163.com/#/album?id=91361133">Right Here Waiting</a> 
 
 
 <!-- table line=1 raw=1 end -->

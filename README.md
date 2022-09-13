@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Mon Sep 12 2022 02:49:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Tue Sep 13 2022 02:45:19 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=3659b0&c=1662950955318" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=b85eb3&c=1663037113930" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -47,7 +47,7 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 <h4 align="center"><i>🌟 Stars</i></h4>
 
 * [yaronn / **blessed-contrib**](https://github.com/yaronn/blessed-contrib) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">14k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">895
-* [KristallWang / **tiancaifancheshaonv**](https://github.com/KristallWang/tiancaifancheshaonv) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">71<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
+* [KristallWang / **tiancaifancheshaonv**](https://github.com/KristallWang/tiancaifancheshaonv) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">73<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
 * [ysc3839 / **FontMod**](https://github.com/ysc3839/FontMod) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">51
 * [umeshmk / **Tailwindcss-cheatsheet**](https://github.com/umeshmk/Tailwindcss-cheatsheet) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">112<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">16
 * [tusen-ai / **naive-ui**](https://github.com/tusen-ai/naive-ui) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
@@ -88,11 +88,11 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 
 <h4 align="center"><i>🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</i></h4>
 
+* <a href="https://music.163.com/#/song?id=1971408775"><strong>心无所扰</strong></a> - 兰音Reine - <a href="https://music.163.com/#/album?id=149554019">心无所扰·新</a> 
+* <a href="https://music.163.com/#/song?id=1215678"><strong>Vincent</strong></a> - Don McLean - <a href="https://music.163.com/#/album?id=125874">Legendary Don McLean</a> 
+* <a href="https://music.163.com/#/song?id=473964222"><strong>Stormbringer</strong></a> - World Beyond - <a href="https://music.163.com/#/album?id=35424258">Mindshell</a> 
+* <a href="https://music.163.com/#/song?id=1980535387"><strong>归去来兮</strong></a> - 兰音Reine, 快雪时晴 - <a href="https://music.163.com/#/album?id=151415919">归去来兮</a> 
 * <a href="https://music.163.com/#/song?id=29463703"><strong>兄弟抱一下</strong></a> - 鸿雁组合 - <a href="https://music.163.com/#/album?id=3029407">草原苍狼</a> 
-* <a href="https://music.163.com/#/song?id=473940625"><strong>Beyond</strong></a> - World Beyond - <a href="https://music.163.com/#/album?id=35424258">Mindshell</a> 
-* <a href="https://music.163.com/#/song?id=473964223"><strong>Edge of the Razor</strong></a> - World Beyond - <a href="https://music.163.com/#/album?id=35424258">Mindshell</a> 
-* <a href="https://music.163.com/#/song?id=1965919488"><strong>I’m still alive today</strong></a> - 96猫 - <a href="https://music.163.com/#/album?id=148464173">パリピ孔明 VOCAL COLLECTION MEGAMORI!!</a> 
-* <a href="https://music.163.com/#/song?id=1899612613"><strong>韶华赋</strong></a> - 兰音Reine - <a href="https://music.163.com/#/album?id=136855914">韶华赋【原创国风电子】</a> 
 
 
 <!-- table line=1 raw=1 end -->

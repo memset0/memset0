@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sun Sep 18 2022 02:56:25 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Mon Sep 19 2022 02:49:40 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=9c5dd0&c=1663469780410" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=10c837&c=1663555774701" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,11 +46,11 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
-* [CoderWanFeng / **PyOfficeRobot**](https://github.com/CoderWanFeng/PyOfficeRobot) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">29<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">8
-* [vincentdchan / **CubyText**](https://github.com/vincentdchan/CubyText) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">275<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">10
-* [PowerShell / **PSReadLine**](https://github.com/PowerShell/PSReadLine) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">265
-* [yaronn / **blessed-contrib**](https://github.com/yaronn/blessed-contrib) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">14k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">895
-* [KristallWang / **tiancaifancheshaonv**](https://github.com/KristallWang/tiancaifancheshaonv) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">81<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">3
+* [dewfall123 / **ruabick**](https://github.com/dewfall123/ruabick) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">29<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">8
+* [logseq / **logseq**](https://github.com/logseq/logseq) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">16k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
+* [logseq / **awesome-logseq**](https://github.com/logseq/awesome-logseq) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">58
+* [qqqil / **books**](https://github.com/qqqil/books) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">192<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
+* [itorr / **one-last-image**](https://github.com/itorr/one-last-image) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">460<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">13
 
 
 <!-- table line=0 raw=0 end -->
@@ -60,11 +60,11 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 
 <h4 align="center"><i>👨‍💻 Following</i></h4>
 
+* [**Xuanwo** Xuanwo](https://github.com/Xuanwo/) - learn, work and think in an op...
+* [**YuZeGod** YuZeGod](https://github.com/YuZeGod/)
+* [**汪心禾 Wang, Xinhe** wxh06](https://github.com/wxh06/) - 16 y.o. Grade 10 Student / C++...
 * [**Anillc** ](https://github.com//) - Anillc dayo~
 * [**RainChan** mzdluo123](https://github.com/mzdluo123/) - A student 👀
-* [**Mrs4s** ](https://github.com//) - 死宅 挖坑不填怪
-* [**Diu** ddiu8081](https://github.com/ddiu8081/) - Make everything elegant.
-* [**Simon Shiki** SimonShiki](https://github.com/SimonShiki/) - Learning
 
 
 <!-- table line=0 raw=1 end -->
@@ -88,11 +88,11 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 
 <h4 align="center"><i>🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</i></h4>
 
-* <a href="https://music.163.com/#/song?id=1855940834"><strong>Scarborough Fair（斯卡布罗集市）</strong></a> - 兰音Reine - <a href="https://music.163.com/#/album?id=129466995">Scarborough Fair《斯卡布罗集市》</a> 
-* <a href="https://music.163.com/#/song?id=1977466971"><strong>恋人心</strong></a> - 兰音Reine - <a href="https://music.163.com/#/album?id=150801248">恋人心</a> 
-* <a href="https://music.163.com/#/song?id=1971408775"><strong>心无所扰</strong></a> - 兰音Reine - <a href="https://music.163.com/#/album?id=149554019">心无所扰·新</a> 
-* <a href="https://music.163.com/#/song?id=1215678"><strong>Vincent</strong></a> - Don McLean - <a href="https://music.163.com/#/album?id=125874">Legendary Don McLean</a> 
-* <a href="https://music.163.com/#/song?id=473964222"><strong>Stormbringer</strong></a> - World Beyond - <a href="https://music.163.com/#/album?id=35424258">Mindshell</a> 
+* <a href="https://music.163.com/#/song?id=756278"><strong>avec un point d'interrogation 疑问符と共に</strong></a> - I've - <a href="https://music.163.com/#/album?id=74262">さよならを教えて ~comment te dire adieu~  Soundtrack</a> 
+* <a href="https://music.163.com/#/song?id=28556036"><strong>Brand New World</strong></a> - 忍 - <a href="https://music.163.com/#/album?id=2839001">いろとりどりのセカイ オリジナルサウンドトラック</a> 
+* <a href="https://music.163.com/#/song?id=1901070033"><strong>陽だまり探して[with Marcia]</strong></a> - Marcia - <a href="https://music.163.com/#/album?id=137086804">陽だまりを探して</a> 
+* <a href="https://music.163.com/#/song?id=1459650128"><strong>Вечер грустных пар</strong></a> - Ploho - <a href="https://music.163.com/#/album?id=91832817">Вечер Грустных Пар</a> 
+* <a href="https://music.163.com/#/song?id=22623026"><strong>Moonlight Shadow</strong></a> - Dana Winner - <a href="https://music.163.com/#/album?id=2070479">Märchenland der Gefühl</a> 
 
 
 <!-- table line=1 raw=1 end -->

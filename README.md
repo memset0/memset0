@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Mon Sep 19 2022 02:49:40 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Tue Sep 20 2022 02:40:08 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=10c837&c=1663555774701" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=23da2e&c=1663641603504" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,11 +46,11 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
+* [remy / **nodemon**](https://github.com/remy/nodemon) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">24k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
+* [vuejs / **petite-vue**](https://github.com/vuejs/petite-vue) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">6k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">271
+* [kifuan / **helang**](https://github.com/kifuan/helang) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">93
+* [ftiasch / **icpc-camp-wiki**](https://github.com/ftiasch/icpc-camp-wiki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">44<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">11
 * [dewfall123 / **ruabick**](https://github.com/dewfall123/ruabick) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">29<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">8
-* [logseq / **logseq**](https://github.com/logseq/logseq) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">16k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
-* [logseq / **awesome-logseq**](https://github.com/logseq/awesome-logseq) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">58
-* [qqqil / **books**](https://github.com/qqqil/books) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">192<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1k
-* [itorr / **one-last-image**](https://github.com/itorr/one-last-image) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">460<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">13
 
 
 <!-- table line=0 raw=0 end -->

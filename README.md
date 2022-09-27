@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Mon Sep 26 2022 02:48:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Tue Sep 27 2022 02:36:58 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0c7866&c=1664160505037" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=d5bc75&c=1664246213988" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,11 +46,11 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
-* [YuehaiTeam / **cocogoat**](https://github.com/YuehaiTeam/cocogoat) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">420<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">26
-* [Icalingua-plus-plus / **Icalingua3**](https://github.com/Icalingua-plus-plus/Icalingua3) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">75<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
+* [vscodethemes / **web**](https://github.com/vscodethemes/web) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">535<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">23
+* [YuehaiTeam / **cocogoat**](https://github.com/YuehaiTeam/cocogoat) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">422<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">26
+* [Icalingua-plus-plus / **Icalingua3**](https://github.com/Icalingua-plus-plus/Icalingua3) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">78<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">4
 * [barats / **ohUrlShortener**](https://github.com/barats/ohUrlShortener) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">131<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">27
 * [gram-js / **gramjs**](https://github.com/gram-js/gramjs) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">549<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">96
-* [Teahouse-Studios / **tinter**](https://github.com/Teahouse-Studios/tinter) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">9<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 
 
 <!-- table line=0 raw=0 end -->
@@ -88,11 +88,11 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 
 <h4 align="center"><i>🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</i></h4>
 
-* <a href="https://music.163.com/#/song?id=756278"><strong>avec un point d'interrogation 疑问符と共に</strong></a> - I've - <a href="https://music.163.com/#/album?id=74262">さよならを教えて ~comment te dire adieu~  Soundtrack</a> 
-* <a href="https://music.163.com/#/song?id=28556036"><strong>Brand New World</strong></a> - 忍 - <a href="https://music.163.com/#/album?id=2839001">いろとりどりのセカイ オリジナルサウンドトラック</a> 
-* <a href="https://music.163.com/#/song?id=1901070033"><strong>陽だまり探して[with Marcia]</strong></a> - Marcia - <a href="https://music.163.com/#/album?id=137086804">陽だまりを探して</a> 
-* <a href="https://music.163.com/#/song?id=1459650128"><strong>Вечер грустных пар</strong></a> - Ploho - <a href="https://music.163.com/#/album?id=91832817">Вечер Грустных Пар</a> 
-* <a href="https://music.163.com/#/song?id=22623026"><strong>Moonlight Shadow</strong></a> - Dana Winner - <a href="https://music.163.com/#/album?id=2070479">Märchenland der Gefühl</a> 
+* <a href="https://music.163.com/#/song?id=5234472"><strong>爱在西元前</strong></a> - 周杰伦 - <a href="https://music.163.com/#/album?id=510845">跨世纪金曲精选</a> 
+* <a href="https://music.163.com/#/song?id=5280416"><strong>小白船(朝鲜童谣)</strong></a> - 少儿艺术中心 - <a href="https://music.163.com/#/album?id=513604">外国民歌金曲(一) 梭罗河</a> 
+* <a href="https://music.163.com/#/song?id=1984268622"><strong>英雄联盟S12主题曲《逐星》（史诗版）</strong></a> - 兰音Reine - <a href="https://music.163.com/#/album?id=152198528">2022英雄联盟全球总决赛主题曲——《逐星》</a> 
+* <a href="https://music.163.com/#/song?id=1951513479"><strong>现代爱情故事 (Live)</strong></a> - 林晓峰, 刘惜君 - <a href="https://music.163.com/#/album?id=145694983">声生不息 第6期</a> 
+* <a href="https://music.163.com/#/song?id=252477"><strong>或许等不到，消雪~Tell Me Where Future is</strong></a> - 九条咲夜 - <a href="https://music.163.com/#/album?id=25233">东方音葉月</a> 
 
 
 <!-- table line=1 raw=1 end -->

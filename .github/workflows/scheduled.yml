@@ -1,8 +1,14 @@
 name: CI (scheduled)
+
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
+
+concurrency:
+  group: 'CI'
+  cancel-in-progress: true
+
 jobs:
   deploy:
     runs-on: ubuntu-latest

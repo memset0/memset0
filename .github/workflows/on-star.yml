@@ -1,7 +1,9 @@
 name: CI (on starred)
+
 on:
   watch:
     types: started
+
 jobs:
   deploy:
     runs-on: ubuntu-latest

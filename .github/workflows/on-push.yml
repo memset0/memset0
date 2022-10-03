@@ -1,6 +1,12 @@
 name: CI
+
 on:
   push:
+
+concurrency:
+  group: 'CI'
+  cancel-in-progress: true
+
 jobs:
   deploy:
     runs-on: ubuntu-latest

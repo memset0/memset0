@@ -1,7 +1,9 @@
 name: Vote
+
 on:
   issues:
     types: [opened]
+
 jobs:
   vote:
     runs-on: ubuntu-latest
@@ -25,7 +27,7 @@ jobs:
         uses: ./.github/actions/notification
         with:
           user: ${{ github.event.issue.user.login }}
-          message: voted 
+          message: voted
       - name: Check notification.html
         run: cat pages/notification.md
       - name: Build
@@ -39,11 +41,11 @@ jobs:
         run: cat pages/tags.md
       - name: Generate tag cloud image
         uses: ./.github/actions/tagcloud
-      - name: "Read file contents"
+      - name: 'Read file contents'
         id: comments
         uses: andstor/file-reader-action@v1
         with:
-          path: ".comments.md"
+          path: '.comments.md'
       - name: Close issue
         uses: peter-evans/close-issue@v1
         with:

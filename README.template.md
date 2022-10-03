@@ -13,6 +13,8 @@
 Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate.
 </p>
 
+<img src="{{ skill-icons }}" align="center"/>
+
 ### Recent Activities
 
 <table width="800px">

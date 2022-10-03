@@ -5,6 +5,7 @@
   "main": "src/index.ts",
   "scripts": {
     "build": "ts-node ./bin/build",
+    "dev": "cross-env NODE_ENV=development ts-node ./bin/build",
     "issue": "ts-node ./bin/issue"
   },
   "repository": {
@@ -21,6 +22,7 @@
     "@types/cheerio": "^0.22.30",
     "@types/node": "^16.7.10",
     "cheerio": "^1.0.0-rc.10",
+    "cross-env": "^7.0.3",
     "md5-file": "^5.0.0",
     "superagent": "^6.1.0",
     "ts-node": "^10.2.1",

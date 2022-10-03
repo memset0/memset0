@@ -16,7 +16,7 @@ const commands = [
 ];
 
 const template_file_path = path.join(__dirname, '../README.template.md');
-const target_file_path = path.join(__dirname, '../README.md');
+const target_file_path = path.join(__dirname, process.env.NODE_ENV === 'development' ? '../README.dev.md' : '../README.md');
 
 
 export interface ExecArgs {

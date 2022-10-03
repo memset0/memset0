@@ -2,10 +2,10 @@
 
 ## Hi 👋 memset0 here!
 
-* 📚 I'm a 12th Grade student, ~~was an OIer~~
-* ✒️ Love writing my blog [https://mem.ac/](https://mem.ac)
-* 🎯 Codeforces Rating 2754 / Virtual Judge 2825 ACs
-* ❤️ Fav. Languages: C++ / Python / TypeScript / Vue
+* 📚 12th Grade student, ~~was an OIer~~
+* ✒️ Love coding & writing my blog [https://mem.ac/](https://mem.ac)
+* 🎯 Codeforces Rating 2754 / Virtual Judge 2825 AC
+* ❤️ Fav. Languages: C++ / Python / TypeScript
 * 📫 Email: memset0@outlook.com / i@memset0.cn
 
 <!-- Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate. -->

@@ -1,5 +1,6 @@
 import { load } from 'cheerio';
 import { get, agent } from 'superagent';
+import generateSkillIcons from './skill-icons';
 import { assetLink, generateTable, TableCell } from '../utils';
 
 const max_length = 5;
@@ -165,7 +166,7 @@ async function crawlFavoriteMusic() {
 }
 
 
-export default async function () {
+export async function oldGenerater() {
 	const safeCall = (func) => {
 		try {
 			return func();
@@ -201,6 +202,45 @@ export default async function () {
 	}, {
 		params: { width: '50%', valign: 'top' },
 		content: titlelize('🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)') + data.favorite_music + '\n\n',
+	}]]);
+}
+
+export default async function () {
+	const safeCall = (func) => {
+		try {
+			return func();
+		} catch (err) {
+			// throw err;
+			return `Failed to crawl data, caught ${err.name}${err.message.code ? '(' + err.message.code + ')' : ''} ...`;
+		}
+	};
+
+	const data = {
+		starred_repos: crawlStarredRepos,
+		recent_blogs: crawlRecentBlogs,
+		// followed_users: crawlFollowedUsers,
+		favorite_music: crawlFavoriteMusic,
+	};
+
+	const res = await Promise.all(Object.values(data).map(func => new Promise((resolve) => { resolve(safeCall(func)); })));
+	res.forEach((res, index) => { data[Object.keys(data)[index]] = res; });
+
+	const titlelize = (title: string) => {
+		return `\n\n<h4 align="center"><i>${title}</i></h4>\n\n`
+	}
+
+	return generateTable([[{
+		params: { width: '50%', valign: 'top' },
+		content: titlelize('🌟 Starred Repos') + data.starred_repos + '\n\n',
+	}, {
+		params: { width: '50%', valign: 'top' },
+		content: titlelize('✍️ Blog Posts') + data.recent_blogs + '\n\n',
+	}], [{
+		params: { width: '50%', valign: 'top' },
+		content: titlelize('🎼 Music Fav. (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)') + data.favorite_music + '\n\n',
+	}, {
+		params: { width: '50%', valign: 'top' },
+		content: `<img src="${generateSkillIcons()} />`,
 	}]]);
 }
 

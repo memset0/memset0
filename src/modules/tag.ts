@@ -35,6 +35,7 @@ export default async function () {
 	for (const vote of votes) {
 		for (const tag of vote.tag) {
 			const data = tags[tag];
+			if (!data) { continue; }
 			data.votes += 1;
 			if (!data.users.includes(vote.user)) {
 				data.users.push(vote.user);

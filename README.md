@@ -1,15 +1,15 @@
-<!-- This file was automatically generated at Mon Oct 03 2022 13:21:02 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Mon Oct 03 2022 13:23:56 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="300" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=5ddecf&c=1664803257916" height="150" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="300" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=5ddecf&c=1664803434241" height="150" /> </a> 
 
 ## Hi 👋 memset0 here!
 
-* 📚 12th Grade student, ~~was~~ OIer
+* 📚 I'm a 12th Grade student, ~~was an OIer~~
 * ✒️ Maintaining my blog [(mem.ac)](https://mem.ac)
-* ❤️ Love data structure & Telegram & TypeScript
+* ❤️ Love data structure & TypeScript
 * 📫 Contact me by
-  * ![](https://custom-icon-badges.herokuapp.com/badge/-QQ-f00?logo=qq-favicon&style=flat) `2601960221`
-  * ![](https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat) `memset0@outlook.com`
+  　　![](https://custom-icon-badges.herokuapp.com/badge/-QQ-f00?logo=qq-favicon&style=flat) 2601960221
+  　　![](https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat) memset0@outlook.com
 
 <!-- Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate. -->
 
@@ -117,5 +117,5 @@
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/8d1d83eedf2f167ae0fc0b8b92e0ab3858e6716d><strong><code>8d1d83e</code></strong></a>  at 03/10/2022, 13:20 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/a07da5fe565e532e67dbbb90c331d49494180605><strong><code>a07da5f</code></strong></a>  at 03/10/2022, 13:23 
 </sub></p>

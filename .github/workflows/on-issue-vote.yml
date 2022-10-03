@@ -1,4 +1,4 @@
-name: "Vote"
+name: Vote
 on:
   issues:
     types: [opened]
@@ -51,5 +51,5 @@ jobs:
       - name: Deploy
         uses: ./.github/actions/deploy
         with:
-          message: Be voted by @${{ github.event.issue.user.login }}
+          message: Voted by @${{ github.event.issue.user.login }}
           github-token: ${{ secrets.GITHUB_TOKEN }}

@@ -1,4 +1,4 @@
-name: "Build (on push)"
+name: CI
 on:
   push:
 jobs:
@@ -33,5 +33,5 @@ jobs:
       - name: Deploy
         uses: ./.github/actions/deploy
         with:
-          message: Build (By CI)
+          message: Build by CI
           github-token: ${{ secrets.GITHUB_TOKEN }}

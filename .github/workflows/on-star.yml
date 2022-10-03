@@ -1,4 +1,4 @@
-name: "Build (on star)"
+name: CI (on starred)
 on:
   watch:
     types: started
@@ -26,5 +26,5 @@ jobs:
       - name: Deploy
         uses: ./.github/actions/deploy
         with:
-          message: Be starred by @${{ github.event.sender.login }}
+          message: Starred by @${{ github.event.sender.login }}
           github-token: ${{ secrets.GITHUB_TOKEN }}

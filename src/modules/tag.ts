@@ -17,24 +17,24 @@ export default interface Tag {
 }
 
 export default async function () {
-	const tag_data = YAML.parse(await asyncLoadData('tags.yml')) || {};
-	const vote_data = YAML.parse(await asyncLoadData('votes.yml')) || [];
+	const tags = YAML.parse(await asyncLoadData('tags.yml')) || {};
+	const votes = YAML.parse(await asyncLoadData('votes.yml')) || [];
 	let res = '';
 	let index_pointer = 0;
 
-	for (const tag in tag_data) {
-		tag_data[tag] = Object.assign(tag_data[tag], {
+	for (const tag in tags) {
+		tags[tag] = Object.assign(tags[tag], {
 			name: tag,
 			index: index_pointer++,
 			votes: 0,
 			users: [],
-			image: createBadge('', tag, tag_data[tag].color),
+			image: createBadge('', tag, tags[tag].color),
 		});
 	}
 
-	for (const vote of vote_data) {
+	for (const vote of votes) {
 		for (const tag of vote.tag) {
-			const data = tag_data[tag];
+			const data = tags[tag];
 			data.votes += 1;
 			if (!data.users.includes(vote.user)) {
 				data.users.push(vote.user);
@@ -42,7 +42,7 @@ export default async function () {
 		}
 	}
 
-	const sorted_data = Object.values(tag_data).sort((a: Tag, b: Tag): number => {
+	const sorted_data = Object.values(tags).sort((a: Tag, b: Tag): number => {
 		if (a.users.length === b.users.length) {
 			return a.index - b.index;
 		} else {
@@ -50,8 +50,8 @@ export default async function () {
 		}
 	});
 
-	for (const tag in tag_data) {
-		const data = tag_data[tag];
+	for (const tag in tags) {
+		const data = tags[tag];
 		console.log('[tag]', tag, data.votes, data.users.length);
 
 		data.badge = createBadge(tag, 'x' + data.votes, data.color);
@@ -78,7 +78,7 @@ export default async function () {
 	fs.writeFileSync(
 		path.join(__dirname, '../../pages/tags.md'),
 		'<p align="center">This tag cloud is generated based on the votes of these Github users, you can also join this participate via <a href="https://github.com/memset0">my Github profile</a>.<p>\n' +
-		'<p align="center">这张标签云是基于下列用户的投票生成的，你也可以在 <a href="https://github.com/memset0">我的 Github 主页</a> 参与这项活动。</p><br>\n' + 
+		'<p align="center">这张标签云是基于下列用户的投票生成的，你也可以在 <a href="https://github.com/memset0">我的 Github 主页</a> 参与这项活动。</p><br>\n' +
 		'<p align="center">' + '<table align="center">' +
 		generateTable(sorted_data.map((cell: Tag): TableCell[] => [{
 			content: `<a href="${cell.issue_link}"><img src="${cell.badge}"></a>`,
@@ -99,8 +99,8 @@ export default async function () {
 
 	fs.writeFileSync(
 		path.join(__dirname, '../../assets/tag.json'),
-		JSON.stringify(Object.fromEntries(Object.keys(tag_data).map(((tag) => {
-			const { name, index, color, votes, image, badge, multiply } = tag_data[tag];
+		JSON.stringify(Object.fromEntries(Object.keys(tags).map(((tag) => {
+			const { name, index, color, votes, image, badge, multiply } = tags[tag];
 			return [tag, {
 				name, index, color, votes, image, badge,
 				multiply: multiply || 1,

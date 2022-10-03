@@ -9,19 +9,13 @@ font_path = path.join(dirname, '../assets/font/Lolita.ttf')
 source_path = path.join(dirname, '../assets/tag.json')
 target_path = path.join(dirname, '../assets/tagcloud.png')
 
-wc = WordCloud(background_color=None,
-               mode="RGBA",
-               width=1000,
-               height=300,
-               margin=10,
-               font_path=font_path)
+wc = WordCloud(background_color=None, mode="RGBA", width=1000, height=300, margin=10, font_path=font_path)
 data = json.loads(open(source_path, 'r+', encoding='utf-8').read())
 
 length = len(data)
 frequencies = {}
 for tag in data:
-    frequencies[tag] = data[tag]['votes'] * data[tag]['multiply'] + (
-        length - data[tag]['index']) / length
+    frequencies[tag] = data[tag]['votes'] * data[tag]['multiply'] + (length - data[tag]['index']) / length
 print(frequencies)
 
 im = wc.generate_from_frequencies(frequencies)

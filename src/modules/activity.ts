@@ -18,6 +18,10 @@ const star_png_link = assetLink('img/github/star.png');
 const fork_png_link = assetLink('img/github/fork.png');
 
 async function crawlStarredRepos() {
+	if (process.env.NODE_ENV === 'development') {
+		return ''
+	}
+
 	if (disable_github) { return 'null'; }
 
 	const $ = load((await get(github_root + '/memset0?tab=stars')).text);
@@ -56,6 +60,10 @@ async function crawlStarredRepos() {
 
 
 async function crawlFollowedUsers() {
+	if (process.env.NODE_ENV === 'development') {
+		return ''
+	}
+
 	if (disable_github) { return 'null'; }
 
 	const $ = load((await get(github_root + '/memset0?tab=following')).text);

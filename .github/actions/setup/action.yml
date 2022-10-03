@@ -1,17 +1,16 @@
 name: Setup
+
 runs:
-  using: "composite"
+  using: 'composite'
+
   steps:
-    - uses: actions/setup-node@v2
+    - name: Setup Node
+      uses: actions/setup-node@v3
       with:
-        node-version: '14'
-    - name: Cache dependence
-      uses: actions/cache@v2
-      with:
-        path: ~/.npm
-        key: npm-${{ hashFiles('package-lock.json') }}
-        restore-keys: npm-
-    - name: Install dependence
+        node-version: '16'
+        cache: 'yarn'
+
+    - name: Install dependencies
       shell: bash
       run: |
-        npm install
+        yarn --prefer-offline

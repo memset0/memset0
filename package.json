@@ -23,6 +23,7 @@
     "@types/node": "^16.7.10",
     "cheerio": "^1.0.0-rc.10",
     "cross-env": "^7.0.3",
+    "download": "^8.0.0",
     "md5-file": "^5.0.0",
     "superagent": "^6.1.0",
     "ts-node": "^10.2.1",

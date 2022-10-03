@@ -1,11 +1,13 @@
 name: Build
+
 inputs:
   netease-phone:
     required: true
   netease-password:
     required: true
+
 runs:
-  using: "composite"
+  using: 'composite'
   steps:
     - name: Install dependence
       shell: bash
@@ -13,4 +15,4 @@ runs:
         NODE_TLS_REJECT_UNAUTHORIZED=0 
         NETEASE_PHONE=${{ inputs.netease-phone }} 
         NETEASE_PASSWORD=${{ inputs.netease-password }} 
-        npm run build
+        yarn run build

@@ -1,5 +1,5 @@
 # see https://github.com/tandpfun/skill-icons
-perline: 11
+perline: 16
 theme: dark
 icons:
   - androidstudio
@@ -10,13 +10,13 @@ icons:
   - codepen
   - coffeescript
   - css
-  - deno
+  # - deno
   - discord
   - bots
   - docker
   - electron
   - express
-  - figma
+  # - figma
   - flask
   - git
   - github
@@ -26,28 +26,27 @@ icons:
   - java
   - js
   - jquery
-  - kotlin
+  # - kotlin
   - latex
   - linux
   - lua
   - md
-  - mongodb
+  # - mongodb
   - mysql
   - nginx
   - nodejs
-  - nuxtjs
+  # - nuxtjs
   - ps
   - php
   - powershell
   - pr
   - py
-  - qt
+  # - qt
   - raspberrypi
   - regex
   - sass
   - sqlite
   - sketchup
-  - tailwind
   - ts
   - unity
   - vim

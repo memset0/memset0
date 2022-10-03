@@ -19,5 +19,5 @@ export default function () {
 				height="150"
 			/>
 		</a>
-	`;
+	`.replace(/\t/g, ' ').replace(/\s{2,}/g, ' ');
 }

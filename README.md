@@ -1,15 +1,6 @@
-<!-- This file was automatically generated at Mon Oct 03 2022 12:56:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Mon Oct 03 2022 13:00:01 GMT+0000 (Coordinated Universal Time) -->
 
-
-		<a href="https://github.com/memset0/memset0/blob/master/pages/tags.md">
-			<img
-				align="right"
-				width="300"
-				src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=a71cef&c=1664801805173"
-				height="150"
-			/>
-		</a>
-	
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="300" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=a71cef&c=1664801999602" height="150" /> </a> 
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -120,5 +111,5 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/161c41eb9e9b6cec70f5953363658e6e38988bf2><strong><code>161c41e</code></strong></a>  at 03/10/2022, 12:56 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/5ff30543333a5826df7adffececa50a39c78631e><strong><code>5ff3054</code></strong></a>  at 03/10/2022, 12:59 
 </sub></p>

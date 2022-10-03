@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Mon Oct 03 2022 12:27:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Mon Oct 03 2022 12:32:05 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=203d9a&c=1664800048426" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=203d9a&c=1664800322850" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -37,7 +37,7 @@
 Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate.
 </p>
 
-<!-- <p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=11&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,deno,discord,bots,docker,electron,express,figma,flask,git,github,githubactions,html,idea,java,js,jquery,kotlin,latex,linux,lua,md,mongodb,mysql,nginx,nodejs,nuxtjs,ps,php,powershell,pr,py,qt,raspberrypi,regex,sass,sqlite,sketchup,tailwind,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress"/></p> -->
+<p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=11&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,deno,discord,bots,docker,electron,express,figma,flask,git,github,githubactions,html,idea,java,js,jquery,kotlin,latex,linux,lua,md,mongodb,mysql,nginx,nodejs,nuxtjs,ps,php,powershell,pr,py,qt,raspberrypi,regex,sass,sqlite,sketchup,tailwind,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress"/></p>
 
 ### Recent Activities
 
@@ -46,7 +46,7 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 <!-- table line=0 raw=0 start -->
 
 
-<h4 align="center"><i>🌟 Starred Repos</i></h4>
+<h4 align="center"><i>🌟 Stars</i></h4>
 
 * [mem-static / **qface**](https://github.com/mem-static/qface) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [scriptscat / **scriptcat**](https://github.com/scriptscat/scriptcat) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">450<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">43
@@ -60,6 +60,20 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 <!-- table line=0 raw=1 start -->
 
 
+<h4 align="center"><i>👨‍💻 Following</i></h4>
+
+* [**Xuanwo** Xuanwo](https://github.com/Xuanwo/) - learn, work and think in an op...
+* [**YuZeGod** YuZeGod](https://github.com/YuZeGod/)
+* [**汪心禾 Wang, Xinhe** wxh06](https://github.com/wxh06/) - 16 y.o. Grade 10 Student / C++...
+* [**Anillc** ](https://github.com//) - Anillc dayo~
+* [**RainChan** mzdluo123](https://github.com/mzdluo123/) - A student 👀
+
+
+<!-- table line=0 raw=1 end -->
+</td></tr><tr><td width="50%" valign="top" >
+<!-- table line=1 raw=0 start -->
+
+
 <h4 align="center"><i>✍️ Blog Posts</i></h4>
 
 * [浅谈高中数学中常用的逼近方法（更新中...）](https://memset0.cn/primary-math/approximants/) - 16/07/2022
@@ -69,12 +83,12 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 * [「Petrozavodsk Summer 2020」Parity Sort](https://memset0.cn/problem/petrozavodsk2020-summer-day5-c/) - 21/01/2021
 
 
-<!-- table line=0 raw=1 end -->
-</td></tr><tr><td width="50%" valign="top" >
-<!-- table line=1 raw=0 start -->
+<!-- table line=1 raw=0 end -->
+</td><td width="50%" valign="top" >
+<!-- table line=1 raw=1 start -->
 
 
-<h4 align="center"><i>🎼 Music Fav. (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</i></h4>
+<h4 align="center"><i>🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</i></h4>
 
 * <a href="https://music.163.com/#/song?id=468026331"><strong>一人行者（Cover 心华）</strong></a> - 萧忆情Alex - <a href="https://music.163.com/#/album?id=3358088">萧忆情作品集</a> 
 * <a href="https://music.163.com/#/song?id=1412142637"><strong>Blackbird (Original Mix)</strong></a> - The Beatles - <a href="https://music.163.com/#/album?id=84372835">Hey Jude</a> 
@@ -83,10 +97,6 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 * <a href="https://music.163.com/#/song?id=167827"><strong>素颜</strong></a> - 许嵩, 何曼婷 - <a href="https://music.163.com/#/album?id=16949">素颜</a> 
 
 
-<!-- table line=1 raw=0 end -->
-</td><td width="50%" valign="middle" >
-<!-- table line=1 raw=1 start -->
-<p><img src="https://skillicons.dev/icons?theme=dark&perline=11&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,deno,discord,bots,docker,electron,express,figma,flask,git,github,githubactions,html,idea,java,js,jquery,kotlin,latex,linux,lua,md,mongodb,mysql,nginx,nodejs,nuxtjs,ps,php,powershell,pr,py,qt,raspberrypi,regex,sass,sqlite,sketchup,tailwind,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress" /></p>
 <!-- table line=1 raw=1 end -->
 </td></tr>
 <!-- 
@@ -109,5 +119,5 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/b727a60e575470b218c90aab93bb2000d6f47a29><strong><code>b727a60</code></strong></a>  at 03/10/2022, 12:27 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/0ab5b55be4745959968a43f83cb82e381b578e97><strong><code>0ab5b55</code></strong></a>  at 03/10/2022, 12:32 
 </sub></p>

@@ -1,17 +1,23 @@
 {{ tag-cloud }}
 
-<p align="center">
+## Hi 👋 memset0 here!
+
+* 📚 12th Grade student, ~~was~~ OIer
+* ✒️ Maintaining my blog [(mem.ac)](https://mem.ac)
+* ❤️ Love data structure & Telegram & TypeScript
+* 📫 Contact me by
+  * ![](https://custom-icon-badges.herokuapp.com/badge/-QQ-f00?logo=qq-favicon&style=flat) `2601960221`
+  * ![](https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat) `memset0@outlook.com`
+
+<!-- Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate. -->
+
+<!-- <p align="center">
 {{ social-app }}
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
 {{ tag }}
-</p>
-
-<p align="center">
-👋 Hello, my friend! I'm <a href="https://memset0.cn/">memset0</a>, a 12th grade student, you can also call me 轻雨酱 (whisperain).<br>
-Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate.
-</p>
+</p> -->
 
 <!-- <p align="center"><img src="{{ skill-icons }}"/></p> -->
 

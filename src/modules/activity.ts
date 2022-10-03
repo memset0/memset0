@@ -240,7 +240,7 @@ export default async function () {
 		content: titlelize('🎼 Music Fav. (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)') + data.favorite_music + '\n\n',
 	}, {
 		params: { width: '50%', valign: 'top' },
-		content: `<img src="${generateSkillIcons()} />`,
+		content: `<img src="${generateSkillIcons()}" />`,
 	}]]);
 }
 

@@ -3,11 +3,10 @@
 ## Hi 👋 memset0 here!
 
 * 📚 I'm a 12th Grade student, ~~was an OIer~~
-* ✒️ Maintaining my blog [(mem.ac)](https://mem.ac)
-* ❤️ Love data structure & TypeScript
-* 📫 Contact me by
-  　　![](https://custom-icon-badges.herokuapp.com/badge/-QQ-f00?logo=qq-favicon&style=flat) 2601960221
-  　　![](https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat) memset0@outlook.com
+* ✒️ Love writing my blog [https://mem.ac/](https://mem.ac)
+* 🎯 Codeforces Rating 2754 / Virtual Judge 2825 ACs
+* ❤️ Fav. Languages: C++ / Python / TypeScript / Vue
+* 📫 Email: memset0@outlook.com / i@memset0.cn
 
 <!-- Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate. -->
 

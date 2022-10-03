@@ -10,5 +10,14 @@ export default function () {
 	const h = md5File.sync(path.join(__dirname, '../../assets/tagcloud.png'));
 	console.log('[tag-cloud]', 'md5-hash', h);
 
-	return `<p align="center"><a href="${statistics_link}"><img src="${image_link}?h=${h.slice(0, 6)}&c=${Date.now()}" height="150"></a></p>`
+	return `
+		<a href="${statistics_link}">
+			<img
+				align="right"
+				width="300"
+				src="${image_link}?h=${h.slice(0, 6)}&c=${Date.now()}"
+				height="150"
+			/>
+		</a>
+	`;
 }

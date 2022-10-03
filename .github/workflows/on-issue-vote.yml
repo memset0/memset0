@@ -55,4 +55,4 @@ jobs:
         with:
           message: Voted by @${{ github.event.issue.user.login }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          ci-token: ${{ serects.CI_BOT_TOKEN }}
+          ci-token: ${{ secrets.CI_BOT_TOKEN }}

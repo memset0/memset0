@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Mon Oct 03 2022 10:08:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Mon Oct 03 2022 12:00:15 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=203d9a&c=1664791722384" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=203d9a&c=1664798409580" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -37,6 +37,8 @@
 Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate.
 </p>
 
+<img src="{{ skill-icons }}" align="center"/>
+
 ### Recent Activities
 
 <table width="800px">
@@ -49,7 +51,7 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 * [mem-static / **qface**](https://github.com/mem-static/qface) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [scriptscat / **scriptcat**](https://github.com/scriptscat/scriptcat) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">450<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">43
 * [Yuelioi / **snippet-cat**](https://github.com/Yuelioi/snippet-cat) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">9<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [smallevilbeast / **ntchat**](https://github.com/smallevilbeast/ntchat) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">492<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">70
+* [smallevilbeast / **ntchat**](https://github.com/smallevilbeast/ntchat) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">493<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">70
 * [breezedeus / **pix2text**](https://github.com/breezedeus/pix2text) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">51<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">4
 
 
@@ -117,5 +119,5 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/0c704cc25cd94d04db5e6f421611b40a367d9064><strong><code>0c704cc</code></strong></a>  at 03/10/2022, 10:08 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/f86d224e962d6abb565e4914a219db2e57724647><strong><code>f86d224</code></strong></a>  at 03/10/2022, 12:00 
 </sub></p>

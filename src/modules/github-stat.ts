@@ -1,4 +1,4 @@
-import * as YAML from 'yaml';
+import YAML from 'yaml';
 import { loadData } from '../utils';
 
 function deepCopy(target: object): object {

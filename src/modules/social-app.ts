@@ -1,4 +1,4 @@
-import * as YAML from 'yaml';
+import YAML from 'yaml';
 import { loadData } from '../utils';
 
 const img_link_template = 'https://custom-icon-badges.herokuapp.com/badge/-{text}-{color}?logo={icon}&style=flat'

@@ -130,6 +130,10 @@ async function crawlRecentBlogs() {
 
 
 async function crawlFavoriteMusic() {
+	if (process.env.NODE_ENV === 'development') {
+		return ''
+	}
+
 	const api_root = 'https://netease-cloud-music-api-eta-drab.vercel.app/';
 	const id = 6954849908;
 	const phone = process.env.NETEASE_PHONE;

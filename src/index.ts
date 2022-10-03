@@ -1,23 +1,7 @@
-import * as path from 'path';
+import fs from 'fs';
+import path from 'path';
 import { readFileSync, writeFileSync } from 'fs';
 import { Render } from './render';
-
-const modules = [
-	'tag-cloud',
-	'social-app',
-	'tag',
-	'github-stat',
-	'activity',
-	'notification',
-];
-
-const commands = [
-	'vote',
-];
-
-const template_file_path = path.join(__dirname, '../README.template.md');
-const target_file_path = path.join(__dirname, process.env.NODE_ENV === 'development' ? '../README.dev.md' : '../README.md');
-
 
 export interface ExecArgs {
 	repository?: string,
@@ -27,22 +11,34 @@ export interface ExecArgs {
 };
 
 
+const modules = loadFromLocal(path.join(__dirname, './modules'));
+const commands = loadFromLocal(path.join(__dirname, './commands'));
+
+const templatePath = path.join(__dirname, '../README.template.md');
+const targetPath = path.join(__dirname, process.env.NODE_ENV === 'development' ? '../README.dev.md' : '../README.md');
+
+
+function loadFromLocal(dir: string): string[] {
+	return fs.readdirSync(dir)
+		.filter(file => file.endsWith('.ts'))
+		.map(file => file.slice(0, -3));
+}
+
+
 export async function build(): Promise<void> {
-	const template = readFileSync(template_file_path).toString();
+	const template = readFileSync(templatePath).toString();
 	const render = new Render(template);
 
 	await Promise.all(modules.map(module => new Promise(async (resolve) => {
 		const func = require(`./modules/${module}.ts`).default;
 		resolve(await func());
-
 	}))).then((res: string[]) => {
 		for (const i in modules) {
 			const module = modules[i];
 			const content = res[i];
 			render.apply(module, content);
 		}
-
-		writeFileSync(target_file_path, render.render());
+		writeFileSync(targetPath, render.render());
 	});
 }
 

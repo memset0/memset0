@@ -21,3 +21,13 @@ runs:
       with:
         github_token: ${{ inputs.github-token }}
         branch: ${{ github.ref }}
+    - name: Push assets
+      uses: cpina/github-action-push-to-another-repository@main
+      env:
+        API_TOKEN_GITHUB: ${{ serects.CI_BOT_TOKEN }}
+      with:
+        source-directory: ./assets
+        destination-github-username: mem-static
+        destination-repository-name: memset0-github-profile
+        target-branch: main
+        user-email: ci@memset0.cn

@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Mon Oct 03 2022 12:20:01 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Mon Oct 03 2022 12:22:56 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=203d9a&c=1664799597590" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=203d9a&c=1664799774368" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -86,7 +86,7 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 <!-- table line=1 raw=0 end -->
 </td><td width="50%" valign="top" >
 <!-- table line=1 raw=1 start -->
-<img src="https://skillicons.dev/icons?theme=dark&perline=11&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,deno,discord,bots,docker,electron,express,figma,flask,git,github,githubactions,html,idea,java,js,jquery,kotlin,latex,linux,lua,md,mongodb,mysql,nginx,nodejs,nuxtjs,ps,php,powershell,pr,py,qt,raspberrypi,regex,sass,sqlite,sketchup,tailwind,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress />
+<img src="https://skillicons.dev/icons?theme=dark&perline=11&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,deno,discord,bots,docker,electron,express,figma,flask,git,github,githubactions,html,idea,java,js,jquery,kotlin,latex,linux,lua,md,mongodb,mysql,nginx,nodejs,nuxtjs,ps,php,powershell,pr,py,qt,raspberrypi,regex,sass,sqlite,sketchup,tailwind,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress" />
 <!-- table line=1 raw=1 end -->
 </td></tr>
 <!-- 
@@ -109,5 +109,5 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/c85f114ed5e49dc015b98ab9a4c1a5f3a870683c><strong><code>c85f114</code></strong></a>  at 03/10/2022, 12:19 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/e08394b8d5884075a6bb930dbf995069d6b9d274><strong><code>e08394b</code></strong></a>  at 03/10/2022, 12:22 
 </sub></p>

@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Mon Oct 03 2022 02:16:06 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Mon Oct 03 2022 10:08:47 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=b4873f&c=1664763362354" height="150"></a></p>
+<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=203d9a&c=1664791722384" height="150"></a></p>
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -46,11 +46,11 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
-* [breezedeus / **pix2text**](https://github.com/breezedeus/pix2text) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">50<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">4
-* [crabbly / **Print.js**](https://github.com/crabbly/Print.js) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">552
-* [journey-ad / **Moe-counter**](https://github.com/journey-ad/Moe-counter) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">538<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">78
-* [koishijs / **koishi-plugin-shorturl**](https://github.com/koishijs/koishi-plugin-shorturl) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [vscodethemes / **web**](https://github.com/vscodethemes/web) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">538<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">23
+* [mem-static / **qface**](https://github.com/mem-static/qface) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
+* [scriptscat / **scriptcat**](https://github.com/scriptscat/scriptcat) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">450<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">43
+* [Yuelioi / **snippet-cat**](https://github.com/Yuelioi/snippet-cat) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">9<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
+* [smallevilbeast / **ntchat**](https://github.com/smallevilbeast/ntchat) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">492<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">70
+* [breezedeus / **pix2text**](https://github.com/breezedeus/pix2text) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">51<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">4
 
 
 <!-- table line=0 raw=0 end -->
@@ -88,11 +88,11 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
 
 <h4 align="center"><i>🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</i></h4>
 
-* <a href="https://music.163.com/#/song?id=5234472"><strong>爱在西元前</strong></a> - 周杰伦 - <a href="https://music.163.com/#/album?id=510845">跨世纪金曲精选</a> 
-* <a href="https://music.163.com/#/song?id=5280416"><strong>小白船(朝鲜童谣)</strong></a> - 少儿艺术中心 - <a href="https://music.163.com/#/album?id=513604">外国民歌金曲(一) 梭罗河</a> 
-* <a href="https://music.163.com/#/song?id=1984268622"><strong>英雄联盟S12主题曲《逐星》（史诗版）</strong></a> - 兰音Reine - <a href="https://music.163.com/#/album?id=152198528">2022英雄联盟全球总决赛主题曲——《逐星》</a> 
-* <a href="https://music.163.com/#/song?id=1951513479"><strong>现代爱情故事 (Live)</strong></a> - 林晓峰, 刘惜君 - <a href="https://music.163.com/#/album?id=145694983">声生不息 第6期</a> 
-* <a href="https://music.163.com/#/song?id=252477"><strong>或许等不到，消雪~Tell Me Where Future is</strong></a> - 九条咲夜 - <a href="https://music.163.com/#/album?id=25233">东方音葉月</a> 
+* <a href="https://music.163.com/#/song?id=468026331"><strong>一人行者（Cover 心华）</strong></a> - 萧忆情Alex - <a href="https://music.163.com/#/album?id=3358088">萧忆情作品集</a> 
+* <a href="https://music.163.com/#/song?id=1412142637"><strong>Blackbird (Original Mix)</strong></a> - The Beatles - <a href="https://music.163.com/#/album?id=84372835">Hey Jude</a> 
+* <a href="https://music.163.com/#/song?id=1338695683"><strong>起风了</strong></a> - 吴青峰 - <a href="https://music.163.com/#/album?id=75116936">起风了</a> 
+* <a href="https://music.163.com/#/song?id=307525"><strong>独角戏</strong></a> - 许茹芸 - <a href="https://music.163.com/#/album?id=30534">如果云知道</a> 
+* <a href="https://music.163.com/#/song?id=167827"><strong>素颜</strong></a> - 许嵩, 何曼婷 - <a href="https://music.163.com/#/album?id=16949">素颜</a> 
 
 
 <!-- table line=1 raw=1 end -->
@@ -117,5 +117,5 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/Deophius><strong>@Deophius</strong></a>  voted  at 28/09/2022, 10:25 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/0c704cc25cd94d04db5e6f421611b40a367d9064><strong><code>0c704cc</code></strong></a>  at 03/10/2022, 10:08 
 </sub></p>

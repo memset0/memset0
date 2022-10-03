@@ -206,6 +206,8 @@ export async function oldGenerater() {
 }
 
 export default async function () {
+	return oldGenerater()
+
 	const safeCall = (func) => {
 		try {
 			return func();

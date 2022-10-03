@@ -14,9 +14,9 @@ export default function () {
 		<a href="${statistics_link}">
 			<img
 				align="right"
-				width="300"
+				width="400"
 				src="${image_link}?h=${h.slice(0, 6)}&c=${Date.now()}"
-				height="150"
+				height="200"
 			/>
 		</a>
 	`.replace(/\t/g, ' ').replace(/\s{2,}/g, ' ');

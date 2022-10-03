@@ -7,6 +7,8 @@ inputs:
   github-token:
     description: serects.GITHUB_TOKEN
     required: true
+  ci-token:
+    required: true
 runs:
   using: "composite"
   steps:
@@ -24,7 +26,7 @@ runs:
     - name: Push assets
       uses: cpina/github-action-push-to-another-repository@main
       env:
-        API_TOKEN_GITHUB: ${{ serects.CI_BOT_TOKEN }}
+        API_TOKEN_GITHUB: ${{ inputs.ci-token }}
       with:
         source-directory: ./assets
         destination-github-username: mem-static

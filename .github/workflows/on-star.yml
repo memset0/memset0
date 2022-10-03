@@ -30,3 +30,4 @@ jobs:
         with:
           message: Starred by @${{ github.event.sender.login }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          ci-token: ${{ serects.CI_BOT_TOKEN }}

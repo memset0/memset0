@@ -1,6 +1,15 @@
-<!-- This file was automatically generated at Mon Oct 03 2022 12:52:19 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Mon Oct 03 2022 12:56:47 GMT+0000 (Coordinated Universal Time) -->
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=1badb3&c=1664801538361" height="150"></a></p>
+
+		<a href="https://github.com/memset0/memset0/blob/master/pages/tags.md">
+			<img
+				align="right"
+				width="300"
+				src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=a71cef&c=1664801805173"
+				height="150"
+			/>
+		</a>
+	
 
 <p align="center">
 <a href="mailto:memset0@outlook.com"><img src="https://custom-icon-badges.herokuapp.com/badge/-Outlook-fff?logo=outlook-favicon&style=flat" alt="outlook"></a>
@@ -29,7 +38,7 @@
 Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate.
 </p>
 
-<p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=16&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,discord,bots,docker,electron,express,flask,git,github,githubactions,html,idea,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,pr,py,raspberrypi,regex,sass,sqlite,sketchup,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress"/></p>
+<!-- <p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=16&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,discord,bots,docker,electron,express,flask,git,github,githubactions,html,idea,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,pr,py,raspberrypi,regex,sass,sqlite,sketchup,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress"/></p> -->
 
 ### Recent Activities
 
@@ -111,5 +120,5 @@ Notice the tag cloud above? It's generated based on user votes, <strong><i>click
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  voted  at 03/10/2022, 12:52 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/161c41eb9e9b6cec70f5953363658e6e38988bf2><strong><code>161c41e</code></strong></a>  at 03/10/2022, 12:56 
 </sub></p>

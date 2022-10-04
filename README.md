@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Tue Oct 04 2022 17:39:04 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Tue Oct 04 2022 17:41:26 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=1b6de7&c=1664905142381" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=1b6de7&c=1664905285054" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -12,13 +12,11 @@
 <a href="https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E8%90%8C%E8%90%8C%E5%93%92&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A"><img src="https://shields.io/badge/萌萌哒-x9-FF69B4?style=flat"></a>
 
 
-* 📚 12th Grade student, ~~was an OIer~~
+* 📚 12th Grade student ~~was an OIer~~
 * ✒️ Love coding & writing my blog [https://mem.ac/](https://mem.ac)
 * 🎯 Codeforces Rating 2754 / Virtual Judge 2825 AC
 * ❤️ Fav. Languages: C++ / Python / TypeScript
 * 📫 Email: memset0@outlook.com / i@memset0.cn
-
-![](https://skillicons.dev/icons?theme=dark&perline=16&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,discord,bots,docker,electron,express,flask,git,github,githubactions,html,idea,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,pr,py,raspberrypi,regex,sass,sqlite,sketchup,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress)
 
 <!-- Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate. -->
 
@@ -38,7 +36,7 @@
 {{ tag }}
 </p> -->
 
-<!-- <p align="center"><img src="{{ skill-icons }}"/></p> -->
+<!-- <p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=16&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,discord,bots,docker,electron,express,flask,git,github,githubactions,html,idea,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,pr,py,raspberrypi,regex,sass,sqlite,sketchup,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress"/></p> -->
 
 ### Recent Activities
 
@@ -120,5 +118,5 @@
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/c7023a7fae6f1de06b25b26e150d870aa924765b><strong><code>c7023a7</code></strong></a>  at 04/10/2022, 17:38 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/d6953f653de0d26ca9e98a2db2669d38bca4d8c6><strong><code>d6953f6</code></strong></a>  at 04/10/2022, 17:41 
 </sub></p>

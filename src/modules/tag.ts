@@ -70,7 +70,7 @@ export default async function () {
 			`.replace(/\t/g, ''),
 		);
 
-		res += `<a href=${data.issue_link}><img src="${data.badge}"></a>\n`;
+		res += `<a href="${data.issue_link}"><img src="${data.badge}"></a>\n`;
 		if (data.new_line_after) {
 			res += '<br>\n';
 		}

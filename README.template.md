@@ -10,6 +10,8 @@
 * ❤️ Fav. Languages: C++ / Python / TypeScript
 * 📫 Email: memset0@outlook.com / i@memset0.cn
 
+![]({{ skill-icons }})
+
 <!-- Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate. -->
 
 <!-- <p align="center">

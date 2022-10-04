@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Tue Oct 04 2022 17:35:37 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Tue Oct 04 2022 17:39:04 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=1b6de7&c=1664904935304" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=1b6de7&c=1664905142381" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -17,6 +17,8 @@
 * 🎯 Codeforces Rating 2754 / Virtual Judge 2825 AC
 * ❤️ Fav. Languages: C++ / Python / TypeScript
 * 📫 Email: memset0@outlook.com / i@memset0.cn
+
+![](https://skillicons.dev/icons?theme=dark&perline=16&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,discord,bots,docker,electron,express,flask,git,github,githubactions,html,idea,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,pr,py,raspberrypi,regex,sass,sqlite,sketchup,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress)
 
 <!-- Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate. -->
 
@@ -36,7 +38,7 @@
 {{ tag }}
 </p> -->
 
-<!-- <p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=16&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,discord,bots,docker,electron,express,flask,git,github,githubactions,html,idea,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,pr,py,raspberrypi,regex,sass,sqlite,sketchup,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress"/></p> -->
+<!-- <p align="center"><img src="{{ skill-icons }}"/></p> -->
 
 ### Recent Activities
 
@@ -118,5 +120,5 @@
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/849e21ca14ec2242958535d3167344bfa2f0701f><strong><code>849e21c</code></strong></a>  at 04/10/2022, 17:35 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/c7023a7fae6f1de06b25b26e150d870aa924765b><strong><code>c7023a7</code></strong></a>  at 04/10/2022, 17:38 
 </sub></p>

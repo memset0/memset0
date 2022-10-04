@@ -4,7 +4,7 @@
 
 {{ tag }}
 
-* 📚 12th Grade student ~~was an OIer~~
+* 📚 12th Grade student ~~(was an OIer)~~
 * ✒️ Love coding & writing my blog [https://mem.ac/](https://mem.ac)
 * 🎯 Codeforces Rating 2754 / Virtual Judge 2825 AC
 * ❤️ Fav. Languages: C++ / Python / TypeScript

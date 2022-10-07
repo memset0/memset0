@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Thu Oct 06 2022 02:23:11 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Fri Oct 07 2022 02:35:12 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=567093&c=1665022986738" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=f07d6a&c=1665110107931" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -47,9 +47,9 @@
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
-* [DominikPieper / **obsidian-ReadItLater**](https://github.com/DominikPieper/obsidian-ReadItLater) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">98<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">9
-* [Pseudonium / **Obsidian_to_Anki**](https://github.com/Pseudonium/Obsidian_to_Anki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">819<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">70
-* [reuseman / **flashcards-obsidian**](https://github.com/reuseman/flashcards-obsidian) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">455<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">40
+* [DominikPieper / **obsidian-ReadItLater**](https://github.com/DominikPieper/obsidian-ReadItLater) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">99<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">9
+* [Pseudonium / **Obsidian_to_Anki**](https://github.com/Pseudonium/Obsidian_to_Anki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">820<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">70
+* [reuseman / **flashcards-obsidian**](https://github.com/reuseman/flashcards-obsidian) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">456<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">40
 * [dhruvik7 / **obsidian-daily-stats**](https://github.com/dhruvik7/obsidian-daily-stats) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">65<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">9
 * [memset0 / **weixin-print-to-pdf**](https://github.com/memset0/weixin-print-to-pdf) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 
@@ -89,11 +89,11 @@
 
 <h4 align="center"><i>🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</i></h4>
 
+* <a href="https://music.163.com/#/song?id=573968818"><strong>大城小爱</strong></a> - 王力宏 - <a href="https://music.163.com/#/album?id=39744141">2006 来电答铃 国语歌曲排行总冠军</a> 
+* <a href="https://music.163.com/#/song?id=504835560"><strong>假装</strong></a> - 陈雪凝 - <a href="https://music.163.com/#/album?id=38340236">拾陆</a> 
+* <a href="https://music.163.com/#/song?id=1972601253"><strong>淡烟疏雨（古筝版）</strong></a> - 裴去病 - <a href="https://music.163.com/#/album?id=149775014">金光布袋戏·古筝曲集</a> 
+* <a href="https://music.163.com/#/song?id=1363658469"><strong>花田错</strong></a> - 王力宏 - <a href="https://music.163.com/#/album?id=78962386">火力全开</a> 
 * <a href="https://music.163.com/#/song?id=468026331"><strong>一人行者（Cover 心华）</strong></a> - 萧忆情Alex - <a href="https://music.163.com/#/album?id=3358088">萧忆情作品集</a> 
-* <a href="https://music.163.com/#/song?id=1412142637"><strong>Blackbird (Original Mix)</strong></a> - The Beatles - <a href="https://music.163.com/#/album?id=84372835">Hey Jude</a> 
-* <a href="https://music.163.com/#/song?id=1338695683"><strong>起风了</strong></a> - 吴青峰 - <a href="https://music.163.com/#/album?id=75116936">起风了</a> 
-* <a href="https://music.163.com/#/song?id=307525"><strong>独角戏</strong></a> - 许茹芸 - <a href="https://music.163.com/#/album?id=30534">如果云知道</a> 
-* <a href="https://music.163.com/#/song?id=167827"><strong>素颜</strong></a> - 许嵩, 何曼婷 - <a href="https://music.163.com/#/album?id=16949">素颜</a> 
 
 
 <!-- table line=1 raw=1 end -->

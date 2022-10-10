@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sun Oct 09 2022 02:41:25 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Mon Oct 10 2022 02:41:12 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=58527c&c=1665283281368" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=4ebe3c&c=1665369668064" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -47,11 +47,11 @@
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
+* [memset0 / **imgtools**](https://github.com/memset0/imgtools) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [chenghongyao / **obsidian-booknote-plugin**](https://github.com/chenghongyao/obsidian-booknote-plugin) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">150<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">16
-* [koishijs / **novelai-bot**](https://github.com/koishijs/novelai-bot) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">86<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">5
-* [DominikPieper / **obsidian-ReadItLater**](https://github.com/DominikPieper/obsidian-ReadItLater) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">100<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">9
-* [Pseudonium / **Obsidian_to_Anki**](https://github.com/Pseudonium/Obsidian_to_Anki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">822<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">70
-* [reuseman / **flashcards-obsidian**](https://github.com/reuseman/flashcards-obsidian) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">459<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">40
+* [koishijs / **novelai-bot**](https://github.com/koishijs/novelai-bot) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">145<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">8
+* [DominikPieper / **obsidian-ReadItLater**](https://github.com/DominikPieper/obsidian-ReadItLater) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">103<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">9
+* [Pseudonium / **Obsidian_to_Anki**](https://github.com/Pseudonium/Obsidian_to_Anki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">825<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">70
 
 
 <!-- table line=0 raw=0 end -->

@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Mon Oct 10 2022 02:41:12 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Tue Oct 11 2022 02:36:10 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=4ebe3c&c=1665369668064" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=4ca10f&c=1665455766908" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -48,10 +48,10 @@
 <h4 align="center"><i>🌟 Stars</i></h4>
 
 * [memset0 / **imgtools**](https://github.com/memset0/imgtools) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [chenghongyao / **obsidian-booknote-plugin**](https://github.com/chenghongyao/obsidian-booknote-plugin) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">150<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">16
-* [koishijs / **novelai-bot**](https://github.com/koishijs/novelai-bot) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">145<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">8
+* [chenghongyao / **obsidian-booknote-plugin**](https://github.com/chenghongyao/obsidian-booknote-plugin) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">151<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">16
+* [koishijs / **novelai-bot**](https://github.com/koishijs/novelai-bot) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">205<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">16
 * [DominikPieper / **obsidian-ReadItLater**](https://github.com/DominikPieper/obsidian-ReadItLater) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">103<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">9
-* [Pseudonium / **Obsidian_to_Anki**](https://github.com/Pseudonium/Obsidian_to_Anki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">825<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">70
+* [Pseudonium / **Obsidian_to_Anki**](https://github.com/Pseudonium/Obsidian_to_Anki) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">826<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">70
 
 
 <!-- table line=0 raw=0 end -->
@@ -89,11 +89,11 @@
 
 <h4 align="center"><i>🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</i></h4>
 
+* <a href="https://music.163.com/#/song?id=518896460"><strong>Reburn</strong></a> - 茶理理 - <a href="https://music.163.com/#/album?id=35622177">崩坏3-Impact- Original Soundtrack</a> 
 * <a href="https://music.163.com/#/song?id=573968818"><strong>大城小爱</strong></a> - 王力宏 - <a href="https://music.163.com/#/album?id=39744141">2006 来电答铃 国语歌曲排行总冠军</a> 
 * <a href="https://music.163.com/#/song?id=504835560"><strong>假装</strong></a> - 陈雪凝 - <a href="https://music.163.com/#/album?id=38340236">拾陆</a> 
 * <a href="https://music.163.com/#/song?id=1972601253"><strong>淡烟疏雨（古筝版）</strong></a> - 裴去病 - <a href="https://music.163.com/#/album?id=149775014">金光布袋戏·古筝曲集</a> 
 * <a href="https://music.163.com/#/song?id=1363658469"><strong>花田错</strong></a> - 王力宏 - <a href="https://music.163.com/#/album?id=78962386">火力全开</a> 
-* <a href="https://music.163.com/#/song?id=468026331"><strong>一人行者（Cover 心华）</strong></a> - 萧忆情Alex - <a href="https://music.163.com/#/album?id=3358088">萧忆情作品集</a> 
 
 
 <!-- table line=1 raw=1 end -->

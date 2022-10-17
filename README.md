@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sun Oct 16 2022 02:53:35 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Mon Oct 17 2022 02:55:28 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=955bf3&c=1665888810561" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=9b96f9&c=1665975324719" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -12,7 +12,7 @@
 <a href="https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E8%90%8C%E8%90%8C%E5%93%92&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A"><img src="https://shields.io/badge/萌萌哒-x9-FF69B4?style=flat"></a>
 
 
-* 📚 12th Grade student ~~(was an OIer)~~
+* 📚 12th Grade student, ~~having been an OIer~~
 * ✒️ Love coding & writing my blog [https://mem.ac/](https://mem.ac)
 * 🎯 Codeforces Rating 2754 / Virtual Judge 2825 AC
 * ❤️ Fav. Languages: C++ / Python / TypeScript
@@ -47,11 +47,11 @@
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
-* [userElaina / **this-is-the-China-website**](https://github.com/userElaina/this-is-the-China-website) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">7<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
+* [BuilderIO / **qwik**](https://github.com/BuilderIO/qwik) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">11k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">455
+* [userElaina / **this-is-the-China-website**](https://github.com/userElaina/this-is-the-China-website) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">17<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [PiotrDabkowski / **Js2Py**](https://github.com/PiotrDabkowski/Js2Py) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">232
 * [memset0 / **imgtools**](https://github.com/memset0/imgtools) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [chenghongyao / **obsidian-booknote-plugin**](https://github.com/chenghongyao/obsidian-booknote-plugin) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">154<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">17
-* [koishijs / **novelai-bot**](https://github.com/koishijs/novelai-bot) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">81
 
 
 <!-- table line=0 raw=0 end -->

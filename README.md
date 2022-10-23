@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sat Oct 22 2022 02:31:51 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Sun Oct 23 2022 02:43:04 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=d98465&c=1666405906810" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=e6cd6d&c=1666492979686" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -47,11 +47,11 @@
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
+* [Ellpeck / **ObsidianCustomFrames**](https://github.com/Ellpeck/ObsidianCustomFrames) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">158<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">7
+* [RafaelGB / **obsidian-db-folder**](https://github.com/RafaelGB/obsidian-db-folder) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">457<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">16
+* [marp-team / **marp-core**](https://github.com/marp-team/marp-core) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">471<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">118
+* [mgmeyers / **obsidian-kanban**](https://github.com/mgmeyers/obsidian-kanban) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">81
 * [aidenlx / **obsidian-icon-shortcodes**](https://github.com/aidenlx/obsidian-icon-shortcodes) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">61<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">3
-* [AUTOMATIC1111 / **stable-diffusion-webui**](https://github.com/AUTOMATIC1111/stable-diffusion-webui) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">16k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
-* [BuilderIO / **qwik**](https://github.com/BuilderIO/qwik) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">12k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">484
-* [userElaina / **this-is-the-China-website**](https://github.com/userElaina/this-is-the-China-website) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">29<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [PiotrDabkowski / **Js2Py**](https://github.com/PiotrDabkowski/Js2Py) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">234
 
 
 <!-- table line=0 raw=0 end -->

@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Wed Oct 26 2022 02:26:02 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Wed Oct 26 2022 16:17:12 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=018bcd&c=1666751157825" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=65e0bd&c=1666801028138" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -14,9 +14,9 @@
 
 * 📚 12th Grade student, ~~having been an OIer~~
 * ✒️ Love coding & writing my blog [https://mem.ac/](https://mem.ac)
-* 🎯 Codeforces Rating 2754 / Virtual Judge 2825 AC
 * ❤️ Fav. Languages: C++ / Python / TypeScript
-* 📫 Email: memset0@outlook.com / i@memset0.cn
+* 🎯 Codeforces Rating 2754 / Virtual Judge 2825 AC
+* 📫 Email: i@mem.ac / memset0@outlook.com
 
 <!-- Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate. -->
 
@@ -49,8 +49,8 @@
 
 * [studyzy / **imewlconverter**](https://github.com/studyzy/imewlconverter) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">558
 * [LemonHX / **wenshudb**](https://github.com/LemonHX/wenshudb) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">26<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [Ellpeck / **ObsidianCustomFrames**](https://github.com/Ellpeck/ObsidianCustomFrames) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">160<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">7
-* [RafaelGB / **obsidian-db-folder**](https://github.com/RafaelGB/obsidian-db-folder) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">469<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">16
+* [Ellpeck / **ObsidianCustomFrames**](https://github.com/Ellpeck/ObsidianCustomFrames) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">161<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">7
+* [RafaelGB / **obsidian-db-folder**](https://github.com/RafaelGB/obsidian-db-folder) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">472<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">17
 * [marp-team / **marp-core**](https://github.com/marp-team/marp-core) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">473<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">118
 
 
@@ -118,5 +118,5 @@
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/caotianlang><strong>@caotianlang</strong></a>  voted  at 24/10/2022, 06:06 
+<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/0c16a10b19a2089c4313172bea95ba429bb2a2a2><strong><code>0c16a10</code></strong></a>  at 26/10/2022, 16:17 
 </sub></p>

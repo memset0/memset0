@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Thu Oct 27 2022 02:22:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Fri Oct 28 2022 02:31:53 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=65e0bd&c=1666837345922" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=73d708&c=1666924308972" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -47,11 +47,11 @@
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
-* [lxgw / **LxgwNeoXiHei**](https://github.com/lxgw/LxgwNeoXiHei) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">152<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
-* [studyzy / **imewlconverter**](https://github.com/studyzy/imewlconverter) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">559
-* [LemonHX / **wenshudb**](https://github.com/LemonHX/wenshudb) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">26<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [Ellpeck / **ObsidianCustomFrames**](https://github.com/Ellpeck/ObsidianCustomFrames) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">161<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">7
-* [RafaelGB / **obsidian-db-folder**](https://github.com/RafaelGB/obsidian-db-folder) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">475<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">17
+* [artiebits / **pdf-to-printer**](https://github.com/artiebits/pdf-to-printer) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">316<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">80
+* [konhi / **obsidian-repositories-downloader**](https://github.com/konhi/obsidian-repositories-downloader) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">15<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
+* [uphy / **obsidian-reminder**](https://github.com/uphy/obsidian-reminder) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">152<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">6
+* [MSzturc / **obsidian-better-pdf-plugin**](https://github.com/MSzturc/obsidian-better-pdf-plugin) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">104<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">14
+* [pjeby / **hotkey-helper**](https://github.com/pjeby/hotkey-helper) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">68<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
 
 
 <!-- table line=0 raw=0 end -->

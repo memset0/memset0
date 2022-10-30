@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sat Oct 29 2022 15:14:45 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Sun Oct 30 2022 02:38:13 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=f73c64&c=1667056480519" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=c25be8&c=1667097479111" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -47,7 +47,7 @@
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
-* [artiebits / **pdf-to-printer**](https://github.com/artiebits/pdf-to-printer) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">316<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">80
+* [artiebits / **pdf-to-printer**](https://github.com/artiebits/pdf-to-printer) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">317<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">80
 * [konhi / **obsidian-repositories-downloader**](https://github.com/konhi/obsidian-repositories-downloader) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">15<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
 * [uphy / **obsidian-reminder**](https://github.com/uphy/obsidian-reminder) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">152<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">7
 * [MSzturc / **obsidian-better-pdf-plugin**](https://github.com/MSzturc/obsidian-better-pdf-plugin) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">106<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">14

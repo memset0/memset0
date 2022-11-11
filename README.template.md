@@ -29,4 +29,4 @@
 <!-- {{ github-stat }} -->
 </table>
 
-<p align="right"><sub>Last updated: {{ notification }}</sub></p>
+<p align="right"><sub>Last update: {{ notification }}</sub></p>

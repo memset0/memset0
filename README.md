@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sat Nov 05 2022 10:29:07 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Fri Nov 11 2022 13:57:43 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0cf8c9&c=1667644143091" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0cf8c9&c=1668175059178" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -47,11 +47,11 @@
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
-* [JasonWei512 / **EnergyStarX**](https://github.com/JasonWei512/EnergyStarX) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">115<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">4
-* [PojavLauncherTeam / **PojavLauncher**](https://github.com/PojavLauncherTeam/PojavLauncher) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">3k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">753
-* [flarum / **framework**](https://github.com/flarum/framework) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">5k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">794
-* [shimataro / **ssh-key-action**](https://github.com/shimataro/ssh-key-action) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">389<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">59
-* [littlecodersh / **ItChat**](https://github.com/littlecodersh/ItChat) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">22k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">5k
+* [memset0 / **weixin-print-to-pdf**](https://github.com/memset0/weixin-print-to-pdf) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">20<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
+* [asLody / **VirtualApp**](https://github.com/asLody/VirtualApp) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">8k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
+* [moegi-design / **vscode-theme**](https://github.com/moegi-design/vscode-theme) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">45<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">3
+* [liber-xuehai / **dict-exporter**](https://github.com/liber-xuehai/dict-exporter) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
+* [JasonWei512 / **EnergyStarX**](https://github.com/JasonWei512/EnergyStarX) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">130<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">4
 
 
 <!-- table line=0 raw=0 end -->
@@ -118,5 +118,5 @@
  -->
 </table>
 
-<p align="right"><sub>Last updated:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/2100aeee7da69d767ba7080d308bef54d8f3fed8><strong><code>2100aee</code></strong></a>  at 05/11/2022, 10:29 
+<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/0656b07ecafacb6d1bc30d0b6b9218173f79854c><strong><code>0656b07</code></strong></a>  at 11/11/2022, 13:57 
 </sub></p>

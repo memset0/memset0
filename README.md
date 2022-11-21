@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Fri Nov 11 2022 13:57:43 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Mon Nov 21 2022 15:30:44 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0cf8c9&c=1668175059178" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0cf8c9&c=1669044643831" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -47,11 +47,11 @@
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
-* [memset0 / **weixin-print-to-pdf**](https://github.com/memset0/weixin-print-to-pdf) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">20<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">1
-* [asLody / **VirtualApp**](https://github.com/asLody/VirtualApp) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">8k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2k
-* [moegi-design / **vscode-theme**](https://github.com/moegi-design/vscode-theme) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">45<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">3
-* [liber-xuehai / **dict-exporter**](https://github.com/liber-xuehai/dict-exporter) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
-* [JasonWei512 / **EnergyStarX**](https://github.com/JasonWei512/EnergyStarX) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">130<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">4
+* [lisonge / **vite-plugin-monkey**](https://github.com/lisonge/vite-plugin-monkey) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">341<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">12
+* [CiyuTeam / **Ciyu**](https://github.com/CiyuTeam/Ciyu) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">23<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
+* [koishijs / **docs**](https://github.com/koishijs/docs) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">4<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
+* [kingToolbox / **WindTerm**](https://github.com/kingToolbox/WindTerm) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">728
+* [uiwjs / **react-md-editor**](https://github.com/uiwjs/react-md-editor) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">105
 
 
 <!-- table line=0 raw=0 end -->
@@ -75,11 +75,11 @@
 
 <h4 align="center"><i>✍️ Blog Posts</i></h4>
 
-* [浅谈高中数学中常用的逼近方法（更新中...）](https://memset0.cn/primary-math/approximants/) - 16/07/2022
-* [如何手搓一个博客？](https://memset0.cn/how-my-blog-generated/) - 25/09/2021
-* [从 0 开始实现 Python 简化版 List](https://memset0.cn/python-my-list/) - 20/09/2021
-* [从 Python 源码看切片实现](https://memset0.cn/python-slice/) - 10/09/2021
+* [浅谈高中数学中常用的逼近方法](https://memset0.cn/primary-math/approximants/) - 16/07/2022
+* [如何手搓一个博客？](https://memset0.cn/how-my-blog-built/) - 25/09/2021
 * [「Petrozavodsk Summer 2020」Parity Sort](https://memset0.cn/problem/petrozavodsk2020-summer-day5-c/) - 21/01/2021
+* [「集训队作业2020」Old Problem](https://memset0.cn/problem/loj3401/) - 17/12/2020
+* [「集训队作业2020」春天，在积雪下结一成形，抽枝发芽](https://memset0.cn/problem/loj3397/) - 16/12/2020
 
 
 <!-- table line=1 raw=0 end -->
@@ -118,5 +118,5 @@
  -->
 </table>
 
-<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/0656b07ecafacb6d1bc30d0b6b9218173f79854c><strong><code>0656b07</code></strong></a>  at 11/11/2022, 13:57 
+<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/776fb99f831047c26b845b9844755b12c5e3f6d1><strong><code>776fb99</code></strong></a>  at 21/11/2022, 15:30 
 </sub></p>

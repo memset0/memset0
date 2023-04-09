@@ -59,14 +59,12 @@ export default async function () {
 		data.issue_link = createIssueLink(
 			`> vote ${tag}`,
 			`
-				You don't need to anything else, just click \`Submit new issue\`.
-
-				#### Notice
-
-				* Don't send a new task while any Github Action is running
-				* You can view statistics [here](https://github.com/memset0/memset0/blob/master/pages/tags.md).
-				* You can vote as many times as you want, but for the same tag, only one vote would be calculated per 12 hours.
-				* You can vote for multiple tags at the same time, by changing title of issue to \`> vote <tag1> <tag2> <tag3> ...\`
+				Click "Submit new issue" to complete your task.
+				
+				#### Note:
+				* Statistics can be viewed at [here](https://github.com/memset0/memset0/blob/master/pages/tags.md).
+				* Only one vote per person per 24 hours will be counted for each tag.
+				* Multiple tags can be voted for at the same time by changing the issue title to "> vote <tag1> <tag2> <tag3> ..."
 			`.replace(/\t/g, ''),
 		);
 

@@ -4,11 +4,12 @@
 
 {{ tag }}
 
-* 📚 12th Grade student, ~~having been an OIer~~
-* ✒️ Love coding & writing my blog [https://mem.ac/](https://mem.ac)
-* ❤️ Fav. Languages: C++ / Python / TypeScript
-* 🎯 Codeforces Rating 2754 / Virtual Judge 2825 AC
-* 📫 Email: i@mem.ac / memset0@outlook.com
+* 📚 Grade 12 student, former OIer, programming enthusiast
+* ✒️ Passionate blogger, checkout my blog at [https://mem.ac/](https://mem.ac)
+* ❤️ Favourite languages: C++ / Python / TypeScript
+* 📫 Email me at [i@mem.ac](mailto://i@mem.ac) or [memset0@outlook.com](mailto://memset0@outlook.com)
+
+<!-- * 🎯 Codeforces Rating 2754  -->
 
 <!-- Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate. -->
 

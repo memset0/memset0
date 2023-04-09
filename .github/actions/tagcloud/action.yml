@@ -1,7 +1,6 @@
 name: Tag Cloud Build
 runs:
   using: "composite"
-  shell: bash
   steps:
     # - name: Setup Python
     #   uses: actions/setup-python@v2

@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sun Jan 15 2023 01:31:56 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Sun Apr 09 2023 03:17:30 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0cf8c9&c=1673746312202" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0cf8c9&c=1681010243571" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -12,11 +12,12 @@
 <a href="https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E8%90%8C%E8%90%8C%E5%93%92&body=%0AYou%20don't%20need%20to%20anything%20else%2C%20just%20click%20%60Submit%20new%20issue%60.%0A%0A%23%23%23%23%20Notice%0A%0A*%20Don't%20send%20a%20new%20task%20while%20any%20Github%20Action%20is%20running%0A*%20You%20can%20view%20statistics%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20You%20can%20vote%20as%20many%20times%20as%20you%20want%2C%20but%20for%20the%20same%20tag%2C%20only%20one%20vote%20would%20be%20calculated%20per%2012%20hours.%0A*%20You%20can%20vote%20for%20multiple%20tags%20at%20the%20same%20time%2C%20by%20changing%20title%20of%20issue%20to%20%60%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%60%0A"><img src="https://shields.io/badge/萌萌哒-x9-FF69B4?style=flat"></a>
 
 
-* 📚 12th Grade student, ~~having been an OIer~~
-* ✒️ Love coding & writing my blog [https://mem.ac/](https://mem.ac)
-* ❤️ Fav. Languages: C++ / Python / TypeScript
-* 🎯 Codeforces Rating 2754 / Virtual Judge 2825 AC
-* 📫 Email: i@mem.ac / memset0@outlook.com
+* 📚 Grade 12 student, former OIer, programming enthusiast
+* ✒️ Passionate blogger, checkout my blog at [https://mem.ac/](https://mem.ac)
+* ❤️ Favourite languages: C++ / Python / TypeScript
+* 📫 Email me at [i@mem.ac](mailto://i@mem.ac) or [memset0@outlook.com](mailto://memset0@outlook.com)
+
+<!-- * 🎯 Codeforces Rating 2754  -->
 
 <!-- Notice the tag cloud above? It's generated based on user votes, <strong><i>click the badge</i></strong> to participate. -->
 
@@ -47,11 +48,11 @@
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
-* [privatenumber / **github-cdn**](https://github.com/privatenumber/github-cdn) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">45<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">7
-* [ForkKILLET / **cuiping.js**](https://github.com/ForkKILLET/cuiping.js) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">10<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">2
-* [marwincn / **auto-group-tabs**](https://github.com/marwincn/auto-group-tabs) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">89<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">19
-* [cjh0613 / **tencent-sensitive-words**](https://github.com/cjh0613/tencent-sensitive-words) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">288<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">84
-* [NianBroken / **Firework_Simulator**](https://github.com/NianBroken/Firework_Simulator) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">186<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">78
+* [fenjalien / **obsidian-typst**](https://github.com/fenjalien/obsidian-typst) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">26<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
+* [A-kirami / **matcha**](https://github.com/A-kirami/matcha) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">43<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">3
+* [kaixindelele / **ChatPaper**](https://github.com/kaixindelele/ChatPaper) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">8k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">731
+* [typst / **typst**](https://github.com/typst/typst) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">15k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">277
+* [Himself65 / **rich-data**](https://github.com/Himself65/rich-data) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">130<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">13
 
 
 <!-- table line=0 raw=0 end -->
@@ -61,11 +62,11 @@
 
 <h4 align="center"><i>👨‍💻 Following</i></h4>
 
+* [**云游君** YunYouJun](https://github.com/YunYouJun/) - I hope to create things that c...
+* [**Ayu / Sq. / Claire** ayuusweetfish](https://github.com/ayuusweetfish/) - zh/en/ja · practice reminder! ...
+* [**rvalue** r-value](https://github.com/r-value/) - AFOIer | Τhіnk οncе, сοdе ΝаΝc...
 * [**DJJo** ssshooter](https://github.com/ssshooter/) - JavaScript, the BEST game
 * [**笑沐泽** voderl](https://github.com/voderl/) - NanJing
-* [**Szchin** Jerry-Gren](https://github.com/Jerry-Gren/) - HEZ
-* [**Steve Li** lbr77](https://github.com/lbr77/) - 高三狗一个
-* [**ceerRep** ](https://github.com//)
 
 
 <!-- table line=0 raw=1 end -->
@@ -118,5 +119,5 @@
  -->
 </table>
 
-<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/0b13e3fdeeecc1fbff096c92fdcfb602ae1e012a><strong><code>0b13e3f</code></strong></a>  at 15/01/2023, 01:31 
+<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/32b032c61db91e8d8e7de50baafda70590ca4d70><strong><code>32b032c</code></strong></a>  at 09/04/2023, 03:17 
 </sub></p>

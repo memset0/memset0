@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sun Apr 09 2023 03:27:34 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Sun Apr 09 2023 03:39:11 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0cf8c9&c=1681010848828" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0cf8c9&c=1681011549886" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -90,11 +90,11 @@
 
 <h4 align="center"><i>🎼 Fav. Music (<a href="https://music.163.com/#/user/home?id=407233351">163.com</a>)</i></h4>
 
-* <a href="https://music.163.com/#/song?id=518896460"><strong>Reburn</strong></a> - 茶理理 - <a href="https://music.163.com/#/album?id=35622177">崩坏3-Impact- Original Soundtrack</a> 
-* <a href="https://music.163.com/#/song?id=573968818"><strong>大城小爱</strong></a> - 王力宏 - <a href="https://music.163.com/#/album?id=39744141">2006 来电答铃 国语歌曲排行总冠军</a> 
-* <a href="https://music.163.com/#/song?id=504835560"><strong>假装</strong></a> - 陈雪凝 - <a href="https://music.163.com/#/album?id=38340236">拾陆</a> 
-* <a href="https://music.163.com/#/song?id=1972601253"><strong>淡烟疏雨（古筝版）</strong></a> - 裴去病 - <a href="https://music.163.com/#/album?id=149775014">金光布袋戏·古筝曲集</a> 
-* <a href="https://music.163.com/#/song?id=468026331"><strong>一人行者（Cover 心华）</strong></a> - 萧忆情Alex - <a href="https://music.163.com/#/album?id=3358088">萧忆情作品集</a> 
+* <a href="https://music.163.com/#/song?id=22677579"><strong>歌に形はないけれど</strong></a> - doriko, 初音ミク - <a href="https://music.163.com/#/album?id=2080195">初音ミクベスト ～memories～</a> 
+* <a href="https://music.163.com/#/song?id=4890960"><strong>夢みることり</strong></a> - 初音ミク, 鏡音リン, nagimiso.sys - <a href="https://music.163.com/#/album?id=491004">EXIT TUNES PRESENTS Vocalostar feat.初音ミク</a> 
+* <a href="https://music.163.com/#/song?id=4890956"><strong>桜の季节</strong></a> - ゆうゆ, 初音ミク - <a href="https://music.163.com/#/album?id=491004">EXIT TUNES PRESENTS Vocalostar feat.初音ミク</a> 
+* <a href="https://music.163.com/#/song?id=26127113"><strong>ボーカロイドのうた</strong></a> - 初音ミク - <a href="https://music.163.com/#/album?id=2393648">BIRTHDAY SONGS for 初音ミク</a> 
+* <a href="https://music.163.com/#/song?id=22677426"><strong>桜ノ雨</strong></a> - halyosy, 初音ミク - <a href="https://music.163.com/#/album?id=2080190">初音ミク 5thバースデーベスト ～impacts～</a> 
 
 
 <!-- table line=1 raw=1 end -->

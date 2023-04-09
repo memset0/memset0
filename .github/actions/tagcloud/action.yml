@@ -18,12 +18,12 @@ runs:
       with:
         python-version: '3.10'
         cache: 'pip' # caching pip dependencies
-    - name: Install dependence
+    - name: Generate tagcloud
+      shell: bash
       run: |
         pip install -r requirements.txt
-    - name: Run python script
-      run: |
         python bin/tagcloud
     - name: Purge CDN cache
+      shell: bash
       run: |
         curl https://purge.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png

@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Thu Jun 22 2023 01:04:08 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Fri Jun 23 2023 01:10:22 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=f3ccc8&c=1687395843447" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=270e6f&c=1687482617573" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -49,10 +49,10 @@
 <h4 align="center"><i>🌟 Stars</i></h4>
 
 * [yosupo06 / **library-checker-problems**](https://github.com/yosupo06/library-checker-problems) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">387<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">94
-* [WankkoRee / **eaio**](https://github.com/WankkoRee/eaio) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">929<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">16
+* [WankkoRee / **eaio**](https://github.com/WankkoRee/eaio) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">931<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">16
 * [pot-app / **pot-desktop**](https://github.com/pot-app/pot-desktop) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">102
 * [fanjyy / **lemon-imui**](https://github.com/fanjyy/lemon-imui) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">203<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">53
-* [Stapxs / **Stapxs-QQ-Lite-2.0**](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">259<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">14
+* [Stapxs / **Stapxs-QQ-Lite-2.0**](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">261<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">14
 
 
 <!-- table line=0 raw=0 end -->

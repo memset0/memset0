@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sat Jun 24 2023 01:10:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Sun Jun 25 2023 01:17:02 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=8e997c&c=1687569012877" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=b4ddf8&c=1687655818037" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -48,11 +48,11 @@
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
+* [atcoder / **ac-library**](https://github.com/atcoder/ac-library) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">180
+* [ArtalkJS / **Artalk**](https://github.com/ArtalkJS/Artalk) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">860<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">78
+* [w181496 / **Web-CTF-Cheatsheet**](https://github.com/w181496/Web-CTF-Cheatsheet) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">506
 * [yosupo06 / **library-checker-problems**](https://github.com/yosupo06/library-checker-problems) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">387<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">94
-* [WankkoRee / **eaio**](https://github.com/WankkoRee/eaio) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">942<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">16
-* [pot-app / **pot-desktop**](https://github.com/pot-app/pot-desktop) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">103
-* [fanjyy / **lemon-imui**](https://github.com/fanjyy/lemon-imui) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">203<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">53
-* [Stapxs / **Stapxs-QQ-Lite-2.0**](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">267<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">15
+* [WankkoRee / **eaio**](https://github.com/WankkoRee/eaio) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">948<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">16
 
 
 <!-- table line=0 raw=0 end -->
@@ -62,11 +62,11 @@
 
 <h4 align="center"><i>👨‍💻 Following</i></h4>
 
+* [**Mivik** Mivik](https://github.com/Mivik/) - Beijing, China
 * [**cayso** csyer](https://github.com/csyer/)
 * [**云游君** YunYouJun](https://github.com/YunYouJun/) - I hope to create things that c...
 * [**Ayu / Sq. / Claire** ayuusweetfish](https://github.com/ayuusweetfish/) - zh/en/ja · practice reminder! ...
 * [**rvalue** r-value](https://github.com/r-value/) - AFOIer | Τhіnk οncе, сοdе ΝаΝc...
-* [**DJJo** ssshooter](https://github.com/ssshooter/) - JavaScript, the BEST game
 
 
 <!-- table line=0 raw=1 end -->

@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sun Jun 25 2023 01:17:02 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Mon Jun 26 2023 01:12:55 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=b4ddf8&c=1687655818037" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=55b61c&c=1687741969582" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -48,11 +48,11 @@
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
+* [liuran001 / **GJZS**](https://github.com/liuran001/GJZS) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">750<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">59
+* [memset0 / **competitive-programming-library**](https://github.com/memset0/competitive-programming-library) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [atcoder / **ac-library**](https://github.com/atcoder/ac-library) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">180
-* [ArtalkJS / **Artalk**](https://github.com/ArtalkJS/Artalk) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">860<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">78
-* [w181496 / **Web-CTF-Cheatsheet**](https://github.com/w181496/Web-CTF-Cheatsheet) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">506
-* [yosupo06 / **library-checker-problems**](https://github.com/yosupo06/library-checker-problems) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">387<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">94
-* [WankkoRee / **eaio**](https://github.com/WankkoRee/eaio) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">948<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">16
+* [ArtalkJS / **Artalk**](https://github.com/ArtalkJS/Artalk) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">861<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">78
+* [w181496 / **Web-CTF-Cheatsheet**](https://github.com/w181496/Web-CTF-Cheatsheet) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">2k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">507
 
 
 <!-- table line=0 raw=0 end -->

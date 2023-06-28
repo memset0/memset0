@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Tue Jun 27 2023 01:11:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Wed Jun 28 2023 01:13:05 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=83566e&c=1687828283109" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=3d82aa&c=1687914780351" height="200" /> </a> 
 
 ## Hi 👋 memset0 here!
 
@@ -48,8 +48,8 @@
 
 <h4 align="center"><i>🌟 Stars</i></h4>
 
-* [hyprwm / **Hyprland**](https://github.com/hyprwm/Hyprland) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">9k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">322
-* [liuran001 / **GJZS**](https://github.com/liuran001/GJZS) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">752<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">59
+* [hyprwm / **Hyprland**](https://github.com/hyprwm/Hyprland) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">9k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">323
+* [liuran001 / **GJZS**](https://github.com/liuran001/GJZS) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">753<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">59
 * [memset0 / **competitive-programming-library**](https://github.com/memset0/competitive-programming-library) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">0
 * [atcoder / **ac-library**](https://github.com/atcoder/ac-library) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">1k<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">180
 * [ArtalkJS / **Artalk**](https://github.com/ArtalkJS/Artalk) <img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/star.png" height="18px">863<img src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/img/github/fork.png" height="18px">78

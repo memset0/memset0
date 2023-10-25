@@ -15,8 +15,8 @@
 * 📚 Zhejiang U. undergrad, year 1
 * 🎯 ICPCer, programming enthusiast
 * ✒️ Passionate blogger, checkout my blog at [mem.ac](https://mem.ac)
-* ❤️ Favourite languages: C++ / Python / TypeScript / Go
 * 📫 Email me at [i@mem.ac](mailto://i@mem.ac) or [memset0@outlook.com](mailto://memset0@outlook.com)
+* ❤️ Favourite languages: C++ / Python / TypeScript / Go
 
 <!-- <p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=16&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,discord,bots,docker,electron,express,flask,git,github,githubactions,html,idea,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,pr,py,raspberrypi,regex,sass,sqlite,sketchup,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress"/></p> -->
 

@@ -12,12 +12,11 @@
 <a href="https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E8%90%8C%E8%90%8C%E5%93%92&body=%0AClick%20%22Submit%20new%20issue%22%20to%20complete%20your%20task.%0A%0A%23%23%23%23%20Note%3A%0A*%20Statistics%20can%20be%20viewed%20at%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20Only%20one%20vote%20per%20person%20per%2024%20hours%20will%20be%20counted%20for%20each%20tag.%0A*%20Multiple%20tags%20can%20be%20voted%20for%20at%20the%20same%20time%20by%20changing%20the%20issue%20title%20to%20%22%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%22%0A"><img src="https://shields.io/badge/萌萌哒-x9-FF69B4?style=flat"></a>
 
 
-* 📚 Zhejiang U. undergrad, year 1; ICPCer, programming enthusiast
-* ✒️ Passionate blogger, checkout my blog at [https://mem.ac/](https://mem.ac)
-* ❤️ Favourite languages: C++ / Python / TypeScript / Kotlin
+* 📚 Zhejiang U. undergrad, year 1
+* 🎯 ICPCer, programming enthusiast
+* ✒️ Passionate blogger, checkout my blog at [mem.ac](https://mem.ac)
+* ❤️ Favourite languages: C++ / Python / TypeScript / Go
 * 📫 Email me at [i@mem.ac](mailto://i@mem.ac) or [memset0@outlook.com](mailto://memset0@outlook.com)
-
-<!-- * 🎯 Codeforces Rating 2754  -->
 
 <!-- <p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=16&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,discord,bots,docker,electron,express,flask,git,github,githubactions,html,idea,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,pr,py,raspberrypi,regex,sass,sqlite,sketchup,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress"/></p> -->
 

@@ -9,7 +9,7 @@ font_path = path.join(dirname, '../assets/font/Lolita.ttf')
 source_path = path.join(dirname, '../assets/tag.json')
 target_path = path.join(dirname, '../assets/tagcloud.png')
 
-wc = WordCloud(background_color=None, mode="RGBA", width=800, height=600, margin=10, font_path=font_path)
+wc = WordCloud(background_color=None, mode="RGBA", width=800, height=500, margin=10, font_path=font_path)
 data = json.loads(open(source_path, 'r+', encoding='utf-8').read())
 
 length = len(data)

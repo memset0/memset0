@@ -16,7 +16,7 @@ export default function () {
 				align="right"
 				width="400"
 				src="${image_link}?h=${h.slice(0, 6)}&c=${Date.now()}"
-				height="200"
+				height="300"
 			/>
 		</a>
 	`.replace(/\t/g, ' ').replace(/\s{2,}/g, ' ');

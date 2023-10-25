@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Wed Oct 25 2023 06:02:51 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Wed Oct 25 2023 06:38:01 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=385ae4&c=1698213770470" height="200" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=385ae4&c=1698215880860" height="200" /> </a> 
 
 ## Hello, this is *mem*👋
 
@@ -18,9 +18,11 @@
 * 📫 Email me at [i@mem.ac](mailto://i@mem.ac) or [memset0@outlook.com](mailto://memset0@outlook.com)
 * ❤️ Favourite languages: C++ / Python / TypeScript / Go
 
+<!-- * 🎯 Codeforces Rating 2754  -->
+
 <!-- <p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=16&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,discord,bots,docker,electron,express,flask,git,github,githubactions,html,idea,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,pr,py,raspberrypi,regex,sass,sqlite,sketchup,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress"/></p> -->
 
 <!--
-<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/70dd1508b7b1b3e149b5685c0942babbae6a8e17><strong><code>70dd150</code></strong></a>  at 25/10/2023, 06:02 
+<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/9f63290af03ad619d9202b8ecf64e99a58f7d1d4><strong><code>9f63290</code></strong></a>  at 25/10/2023, 06:37 
 </sub></p>
 -->

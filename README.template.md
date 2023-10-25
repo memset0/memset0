@@ -4,10 +4,11 @@
 
 {{ tag }}
 
-* 📚 Zhejiang U. undergrad, year 1; ICPCer, programming enthusiast
-* ✒️ Passionate blogger, checkout my blog at [https://mem.ac/](https://mem.ac)
-* ❤️ Favourite languages: C++ / Python / TypeScript / Kotlin
+* 📚 Zhejiang U. undergrad, year 1
+* 🎯 ICPCer, programming enthusiast
+* ✒️ Passionate blogger, checkout my blog at [mem.ac](https://mem.ac)
 * 📫 Email me at [i@mem.ac](mailto://i@mem.ac) or [memset0@outlook.com](mailto://memset0@outlook.com)
+* ❤️ Favourite languages: C++ / Python / TypeScript / Go
 
 <!-- * 🎯 Codeforces Rating 2754  -->
 

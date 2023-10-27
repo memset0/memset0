@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Fri Oct 27 2023 00:58:55 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Fri Oct 27 2023 04:09:09 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=cac17a&c=1698368330091" height="250" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=0438fa&c=1698379743986" height="250" /> </a> 
 
 ## Hello, this is *mem*👋
 
@@ -12,8 +12,8 @@
 <a href="https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E8%90%8C%E8%90%8C%E5%93%92&body=%0AClick%20%22Submit%20new%20issue%22%20to%20complete%20your%20task.%0A%0A%23%23%23%23%20Note%3A%0A*%20Statistics%20can%20be%20viewed%20at%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20Only%20one%20vote%20per%20person%20per%2024%20hours%20will%20be%20counted%20for%20each%20tag.%0A*%20Multiple%20tags%20can%20be%20voted%20for%20at%20the%20same%20time%20by%20changing%20the%20issue%20title%20to%20%22%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%22%0A"><img src="https://shields.io/badge/萌萌哒-x9-FF69B4?style=flat"></a>
 
 
-* 📚 Zhejiang U. undergrad, year 1
-* 🎯 ICPCer, programming enthusiast
+* 📚 Zhejiang Univ. undergrad, year 1
+* 🎯 ICPCer, former OIer, programming enthusiast
 * ✒️ Passionate blogger, checkout my blog at [mem.ac](https://mem.ac)
 * 📫 Email me at [i@mem.ac](mailto://i@mem.ac) or [memset0@outlook.com](mailto://memset0@outlook.com)
 * ❤️ Favourite languages: C++ / Python / TypeScript / Go
@@ -23,6 +23,6 @@
 <!-- <p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=16&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,discord,bots,docker,electron,express,flask,git,github,githubactions,html,idea,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,pr,py,raspberrypi,regex,sass,sqlite,sketchup,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress"/></p> -->
 
 <!--
-<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  voted  at 25/10/2023, 07:21 
+<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/697bc590f59827891050d25262495fe1ec881ff2><strong><code>697bc59</code></strong></a>  at 27/10/2023, 04:09 
 </sub></p>
 -->

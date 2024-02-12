@@ -1,25 +1,32 @@
 #!python
 import json
 from os import path
-import matplotlib.pyplot as plt
 from wordcloud import WordCloud
+# import matplotlib.pyplot as plt
 
 dirname = path.split(path.realpath(__file__))[0]
 font_path = path.join(dirname, '../assets/font/Lolita.ttf')
 source_path = path.join(dirname, '../assets/tag.json')
 target_path = path.join(dirname, '../assets/tagcloud.png')
+target_path_2 = path.join(dirname, '../assets/tagcloud_800x300.png')
 
-wc = WordCloud(background_color=None, mode="RGBA", width=800, height=500, margin=10, font_path=font_path)
-data = json.loads(open(source_path, 'r+', encoding='utf-8').read())
 
-length = len(data)
-frequencies = {}
-for tag in data:
-    frequencies[tag] = data[tag]['votes'] * data[tag]['multiply'] + (length - data[tag]['index']) / length
-print(frequencies)
+def draw(file_path, width, height):
+    wc = WordCloud(background_color=None, mode="RGBA", width=width, height=height, margin=10, font_path=font_path)
+    data = json.loads(open(source_path, 'r+', encoding='utf-8').read())
 
-im = wc.generate_from_frequencies(frequencies)
-im.to_file(target_path)
-# plt.imshow(im)
-# plt.axis("off")
-# plt.show()
+    length = len(data)
+    frequencies = {}
+    for tag in data:
+        frequencies[tag] = data[tag]['votes'] * data[tag]['multiply'] + (length - data[tag]['index']) / length
+    print(frequencies)
+
+    im = wc.generate_from_frequencies(frequencies)
+    im.to_file(file_path)
+    # plt.imshow(im)
+    # plt.axis("off")
+    # plt.show()
+
+
+draw(target_path, 800, 500)
+draw(target_path_2, 800, 300)

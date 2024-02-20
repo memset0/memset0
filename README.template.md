@@ -5,7 +5,7 @@
 {{ tag }}
 
 * 📚 Zhejiang University undergrad, year 1
-* 🎯 Currently an ICPCer (Nanjing 23' 3rd, Hefei 23' 2nd)
+* 🎯 ICPC participant, 2023 Hefei 2nd, Nanjing 3rd
 * ✒️ Passionate blogger, checkout my blog at [mem.ac](https://mem.ac)
 * 📫 Email me at [i@mem.ac](mailto://i@mem.ac) or [memset0@outlook.com](mailto://memset0@outlook.com)
 * 👀 Interested in Web Developing, Software Engineering and TCS

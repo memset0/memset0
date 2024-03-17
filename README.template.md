@@ -1,6 +1,6 @@
 {{ tag-cloud }}
 
-### Hello👋 this is *memset0*
+### Hello, this is *memset0*. 👋
 
 {{ tag }}
 
@@ -9,7 +9,7 @@
 * ✒️ Passionate blogger, welcome to my blog [mem.ac](https://mem.ac)
 * 📫 Email me at [i@mem.ac](mailto://i@mem.ac) or [memset0@outlook.com](mailto://memset0@outlook.com)
 * 👀 Interested in Web Dev, Software Engineering and TCS
-* ❤️ Favourite languages: C++ / TypeScript / Python / Kotlin
+* ❤️ Favourite languages: C++ / TypeScript / Python / Typst
 
 <!-- * 🎯 Codeforces Rating 2754  -->
 

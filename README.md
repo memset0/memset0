@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sun Jun 16 2024 01:12:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Sun Jul 28 2024 15:24:20 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=c6e440&c=1718500330910" height="250" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=170aa0&c=1722180254928" height="250" /> </a> 
 
 ### Hello, this is *memset0*. 👋
 
@@ -13,10 +13,10 @@
 
 
 * 📚 Zhejiang U undergrad, year 1, majoring in Computer Science
-* 🎯 ICPC participant, Hefei 23' Gold(2nd), Nanjing 23' Gold(3rd)
+* 🎯 ICPC participant, Hefei 23' Runner-up, Nanjing 23' 3rd place
 * ✒️ Passionate blogger, welcome to my blog [mem.ac](https://mem.ac)
 * 📫 Email me at [i@mem.ac](mailto://i@mem.ac) or [memset0@outlook.com](mailto://memset0@outlook.com)
-* 👀 Interested in Web Dev, Software Engineering and TCS
+* 👀 Interested in Web Dev, Software Engineering and GNN
 * ❤️ Favourite languages: C++ / TypeScript / Python / Typst
 
 <!-- * 🎯 Codeforces Rating 2754  -->
@@ -24,6 +24,6 @@
 <!-- <p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=16&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,discord,bots,docker,electron,express,flask,git,github,githubactions,html,idea,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,pr,py,raspberrypi,regex,sass,sqlite,sketchup,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress"/></p> -->
 
 <!--
-<p align="right"><sub>Last update:  <a href=https://github.com/Liberty404hbw><strong>@Liberty404hbw</strong></a>  starred this repo  at 19/03/2024, 11:45 
+<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/33c8fb7fcb6329d209723cb3c957b3f995066e36><strong><code>33c8fb7</code></strong></a>  at 28/07/2024, 15:24 
 </sub></p>
 -->

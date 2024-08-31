@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Sat Aug 31 2024 01:13:31 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Sat Aug 31 2024 13:05:56 GMT+0000 (Coordinated Universal Time) -->
 
- <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=3ea996&c=1725066807446" height="250" /> </a> 
+ <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=cb8cf6&c=1725109551841" height="250" /> </a> 
 
 ### Hello, this is *memset0*. 👋
 
@@ -16,7 +16,7 @@
 * 🎯 ICPC participant, Hefei 23' Runner-up, Nanjing 23' 3rd place
 * ✒️ Passionate blogger, welcome to my blog [mem.ac](https://mem.ac)
 * 📫 Email me at [i@mem.ac](mailto://i@mem.ac) or [memset0@outlook.com](mailto://memset0@outlook.com)
-* 👀 Interested in Web Dev, Software Engineering and GNN
+* 👀 Interested in: Graph Neural Network / Software Engineering
 * ❤️ Favourite languages: C++ / TypeScript / Python / Typst
 
 <!-- * 🎯 Codeforces Rating 2754  -->
@@ -24,6 +24,6 @@
 <!-- <p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=16&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,discord,bots,docker,electron,express,flask,git,github,githubactions,html,idea,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,pr,py,raspberrypi,regex,sass,sqlite,sketchup,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress"/></p> -->
 
 <!--
-<p align="right"><sub>Last update:  <a href=https://github.com/Skywalker2187><strong>@Skywalker2187</strong></a>  voted  at 12/08/2024, 01:33 
+<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/5771915736ec4a445e13206ccc4027d70861c8d1><strong><code>5771915</code></strong></a>  at 31/08/2024, 13:05 
 </sub></p>
 -->

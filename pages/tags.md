@@ -10,7 +10,7 @@
 <!-- table line=0 raw=1 end -->
 </td></tr><tr><td align="center" valign="middle" width="20%" >
 <!-- table line=1 raw=0 start -->
-<a href="https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E5%A5%B3%E5%AD%A9%E7%BA%B8&body=%0AClick%20%22Submit%20new%20issue%22%20to%20complete%20your%20task.%0A%0A%23%23%23%23%20Note%3A%0A*%20Statistics%20can%20be%20viewed%20at%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20Only%20one%20vote%20per%20person%20per%2024%20hours%20will%20be%20counted%20for%20each%20tag.%0A*%20Multiple%20tags%20can%20be%20voted%20for%20at%20the%20same%20time%20by%20changing%20the%20issue%20title%20to%20%22%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%22%0A"><img src="https://shields.io/badge/女孩纸-x26-E16B8C?style=flat"></a>
+<a href="https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E5%A5%B3%E5%AD%A9%E7%BA%B8&body=%0AClick%20%22Submit%20new%20issue%22%20to%20complete%20your%20task.%0A%0A%23%23%23%23%20Note%3A%0A*%20Statistics%20can%20be%20viewed%20at%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20Only%20one%20vote%20per%20person%20per%2024%20hours%20will%20be%20counted%20for%20each%20tag.%0A*%20Multiple%20tags%20can%20be%20voted%20for%20at%20the%20same%20time%20by%20changing%20the%20issue%20title%20to%20%22%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%22%0A"><img src="https://shields.io/badge/女孩纸-x27-E16B8C?style=flat"></a>
 <!-- table line=1 raw=0 end -->
 </td><td width="80%" valign="middle" >
 <!-- table line=1 raw=1 start -->

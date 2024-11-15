@@ -4,7 +4,7 @@
 
 {{ tag }}
 
-* 📚 Zhejiang U undergrad, year 1, majoring in Computer Science
+* 📚 Zhejiang U undergrad, year 2, majoring in Computer Science
 * 🎯 ICPC participant, Hefei 23' Runner-up, Nanjing 23' 3rd place
 * ✒️ Passionate blogger, welcome to my blog [mem.ac](https://mem.ac)
 * 📫 Email me at [i@mem.ac](mailto://i@mem.ac) or [memset0@outlook.com](mailto://memset0@outlook.com)

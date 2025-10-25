@@ -4,7 +4,7 @@
 
 {{ tag }}
 
-* 📚 Zhejiang University Computer Science undergrad, year 3
+* 📚 Undergraduate student at ZJU, major in Computer Science
 * 🎯 ICPC participant, **EC-Final 24' 3rd place**, Hefei 23' Runner-up, Nanjing 23' 3rd place
 * ✒️ Passionate blogger, welcome to my blog [mem.ac](https://mem.ac)
 * 📫 Email me at [i@mem.ac](mailto://i@mem.ac) or [memset0@outlook.com](mailto://memset0@outlook.com)

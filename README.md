@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Tue May 12 2026 22:20:43 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Tue May 12 2026 22:25:52 GMT+0000 (Coordinated Universal Time) -->
 
-<!--  <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=8b4db2&c=1778624441569" height="250" /> </a>  -->
+<!--  <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=8b4db2&c=1778624749779" height="250" /> </a>  -->
 
 ### Hello, this is *memset0*. 👋
 
@@ -14,16 +14,16 @@
 
 * 📚 Undergraduate at **ZJU** (CS'27), currently visiting [Hao AI Lab](https://hao-ai-lab.github.io/) at **UC San Diego**
 * 🔬 Currently interested in: **Efficient ML Systems** / **LLM Agentic Reasoning**
-* 🎯 Competitive programmer with team [*Plenty of Penalty*](https://github.com/plenty-of-penalty/acm-template.typ): **ICPC EC-Final 24' 3rd place** + 11× regional golds
-* ✒️ Passionate blogger, welcome to my writing at [mem.ac](https://mem.ac/posts)
-* 🎮 Avid gamer: **Minecraft** 1.8 PvP veteran on Hypixel MegaWalls / **Slay the Spire 1&2**
-* 📫 Feel free to reach out at [memset0@outlook.com](mailto:memset0@outlook.com)
+* 🎯 Competitive programmer with team [Plenty of Penalty](https://github.com/plenty-of-penalty/acm-template.typ): **ICPC EC-Final 24' 3rd place**, Hefei 23' Runner-up, Nanjing 23' 3rd place
+* ✒️ Passionate blogger; welcome to my writing at [mem.ac](https://mem.ac/posts)
+* 🎮 Avid gamer: **Minecraft** (1.8 PvP veteran on Hypixel MegaWalls) / **Slay the Spire**
+* 📫 Feel free to reach out to me at memset0#outlook.com
 
 <!-- * 🎯 Codeforces Rating 2754  -->
 
 <!-- <p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=16&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,discord,bots,docker,electron,express,flask,git,github,githubactions,html,idea,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,pr,py,raspberrypi,regex,sass,sqlite,sketchup,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress"/></p> -->
 
 <!--
-<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/71e313571772fbf9d99a42ee6f7fc7c6e89278f6><strong><code>71e3135</code></strong></a>  at 12/05/2026, 22:20 
+<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/728307caf2d807a8239fff7b15b2e78e32d3dcc8><strong><code>728307c</code></strong></a>  at 12/05/2026, 22:25 
 </sub></p>
 -->

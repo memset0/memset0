@@ -1,6 +1,6 @@
-<!-- This file was automatically generated at Tue Jun 02 2026 04:02:34 GMT+0000 (Coordinated Universal Time) -->
+<!-- This file was automatically generated at Wed Jun 03 2026 00:19:59 GMT+0000 (Coordinated Universal Time) -->
 
-<!--  <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=c1e6fd&c=1780372949020" height="250" /> </a>  -->
+<!--  <a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"> <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/memset0/memset0/assets/tagcloud.png?h=ae4672&c=1780445994682" height="250" /> </a>  -->
 
 ### Hello, this is *memset0*. 👋
 
@@ -12,7 +12,7 @@
 <a href="https://github.com/memset0/memset0/issues/new?title=%3E%20vote%20%E8%90%8C%E8%90%8C%E5%93%92&body=%0AClick%20%22Submit%20new%20issue%22%20to%20complete%20your%20task.%0A%0A%23%23%23%23%20Note%3A%0A*%20Statistics%20can%20be%20viewed%20at%20%5Bhere%5D(https%3A%2F%2Fgithub.com%2Fmemset0%2Fmemset0%2Fblob%2Fmaster%2Fpages%2Ftags.md).%0A*%20Only%20one%20vote%20per%20person%20per%2024%20hours%20will%20be%20counted%20for%20each%20tag.%0A*%20Multiple%20tags%20can%20be%20voted%20for%20at%20the%20same%20time%20by%20changing%20the%20issue%20title%20to%20%22%3E%20vote%20%3Ctag1%3E%20%3Ctag2%3E%20%3Ctag3%3E%20...%22%0A"><img src="https://shields.io/badge/萌萌哒-x11-FF69B4?style=flat"></a>
  -->
 
-* 📚 Undergraduate at **ZJU** (CS'27), currently visiting [Hao AI Lab](https://hao-ai-lab.github.io/) at **UC San Diego**
+* 📚 Undergraduate at **Zhejiang University** (CS'27), currently visiting [Hao AI Lab](https://hao-ai-lab.github.io/) at **UC San Diego**
 * 🔬 Currently interested in: **Efficient ML Systems** / **LLM Agentic Reasoning**
 * 🎯 Competitive programmer with team [Plenty of Penalty](https://github.com/plenty-of-penalty/acm-template.typ): **ICPC EC-Final 24' 3rd place**, Hefei 23' Runner-up, Nanjing 23' 3rd place
 * ✒️ Passionate blogger; welcome to my writing at [mem.ac](https://mem.ac/posts)
@@ -24,6 +24,6 @@
 <!-- <p align="center"><img src="https://skillicons.dev/icons?theme=dark&perline=16&i=androidstudio,bash,cpp,cloudflare,cmake,codepen,coffeescript,css,discord,bots,docker,electron,express,flask,git,github,githubactions,html,idea,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,pr,py,raspberrypi,regex,sass,sqlite,sketchup,ts,unity,vim,vite,vscode,vue,wasm,webpack,wordpress"/></p> -->
 
 <!--
-<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/728307caf2d807a8239fff7b15b2e78e32d3dcc8><strong><code>728307c</code></strong></a>  at 12/05/2026, 22:25 
+<p align="right"><sub>Last update:  <a href=https://github.com/memset0><strong>@memset0</strong></a>  committed <a href=https://github.com/memset0/memset0/commit/dd2f36be2155d9c87e67acf25dade5a36b932a9e><strong><code>dd2f36b</code></strong></a>  at 03/06/2026, 00:19 
 </sub></p>
 -->
